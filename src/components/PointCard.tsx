@@ -23,10 +23,11 @@ export function PointCard({ tour, index, selected, onSelect }: Props) {
   const inside = insideUrl(tour, index)
   const short = pick(point.short)
   const long = pick(point.long)
+  const toggle = () => onSelect(selected ? undefined : index)
 
   return (
     <li id={`point-${index}`} class={`point-card${selected ? ' selected' : ''}`}>
-      <button type="button" class="point-head" aria-expanded={selected} onClick={() => onSelect(selected ? undefined : index)}>
+      <button type="button" class="point-head" aria-expanded={selected} onClick={toggle}>
         <span class="point-number">{index + 1}</span>
         <span class="point-title">
           <span class="point-name">{name}</span>
@@ -37,7 +38,11 @@ export function PointCard({ tour, index, selected, onSelect }: Props) {
           </span>
         </span>
       </button>
-      {short && <Markdown class="point-short" text={short} />}
+      {short && (
+        <div class="point-short-toggle" onClick={(event) => (event.target as Element).closest('a') || toggle()}>
+          <Markdown class="point-short" text={short} />
+        </div>
+      )}
       {selected && (
         <div class="point-details">
           {previous && point.approach && (

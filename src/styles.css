@@ -441,3 +441,7 @@ h3 {
 .action-row:has(> a + a) > .locate {
   flex-basis: 100%;
 }
+
+.point-short-toggle {
+  cursor: pointer;
+}
