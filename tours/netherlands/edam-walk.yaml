@@ -1,0 +1,235 @@
+country: {en: Netherlands, ru: Нидерланды}
+city: {en: Edam, ru: Эдам}
+name: {en: Old town walk, ru: Прогулка по старому городу}
+place_suffix: Edam
+summary:
+  ru: "≈ 3–4 км, 2,5–3,5 часа с осмотром"
+  en: "≈ 3–4 km, 2.5–3.5 hours with sightseeing"
+intro:
+  ru: |
+    Эдам — маленький город на речке **IJe** у озера Маркермер, в 22 км от Амстердама (около 22 минут на машине). **Поезда сюда нет** — только автобусы **312, 314, 316** от Amsterdam Centraal (остановка с северной стороны вокзала, у IJ), около 30–40 минут до автостанции Edam.
+
+    Маршрут — петля от автостанции через центр к гавани и дамбе у Маркермер и обратно. Весь старый город компактный, всё в пределах 10–15 минут пешком.
+  en: |
+    Edam is a small town on the little river **IJe** by the Markermeer lake, 22 km from Amsterdam (about 22 minutes by car). **There is no train** — only buses **312, 314, 316** from Amsterdam Centraal (stops on the IJ side, behind the station), about 30–40 minutes to Edam bus station.
+
+    The route is a loop from the bus station through the centre to the harbour and the Markermeer dike and back. The old town is compact — everything is within 10–15 minutes on foot.
+outro:
+  ru: |
+    В Эдаме когда-то было пять церквей; из старых сегодня главные — Grote Kerk и Speeltoren (остаток Малой церкви). Если останется время, рядом есть велосипедные маршруты вдоль дамбы на Volendam (около 30 минут пешком) — оттуда тоже ходят автобусы на Амстердам.
+  en: |
+    Edam once had five churches; of the old ones the Grote Kerk and the Speeltoren (the remnant of the Little Church) are the key survivors. With time to spare, follow the dike to Volendam (about 30 minutes on foot) — buses to Amsterdam leave from there too.
+points:
+  - name: {en: Edam bus station, ru: Автостанция Edam}
+    place: "Busstation Edam, Edam"
+    lat: 52.50960
+    lng: 5.04450
+    short:
+      ru: |
+        Старт. Автобусы 312, 314, 316 из Амстердама. Общественного транспорта, кроме автобусов, нет.
+      en: |
+        Start. Buses 312, 314, 316 from Amsterdam. Buses are the only public transport here.
+    long:
+      ru: |
+        Автостанция на краю старого города; до центра — несколько минут пешком вдоль каналов. Расписание обратных автобусов лучше посмотреть заранее: вечером они ходят реже.
+
+        Эдам вырос в Средние века на речке IJe, которая когда-то впадала в Зёйдерзе. В XVI–XVII веках город был заметным портом и центром судостроения, а позже прославился сыром, который отсюда расходился по всему миру.
+      en: |
+        The bus station is on the edge of the old town; the centre is a few minutes' walk along the canals. Check the return timetable in advance — buses run less often in the evening.
+
+        Edam grew up in the Middle Ages on the IJe, which once flowed into the Zuiderzee. In the 16th–17th centuries it was a notable port and shipbuilding town, and later became famous for the cheese shipped from here all over the world.
+
+  - name: {en: Speeltoren, ru: Speeltoren — падающая башня}
+    place: "Speeltoren, Kleine Kerkstraat, Edam"
+    lat: 52.51180
+    lng: 5.04850
+    walk_min: [5, 10]
+    short:
+      ru: |
+        Наклонная колокольня с карильоном — всё, что осталось от Малой церкви, одной из пяти церквей Эдама.
+      en: |
+        A leaning bell tower with a carillon — all that remains of the Little Church, one of Edam's five churches.
+    long:
+      ru: |
+        Башня — единственный уцелевший фрагмент церкви Богоматери (Kleine Kerk), которую разобрали в XIX веке. Сама башня осталась и заметно наклонилась — мягкий грунт в Голландии делает это обычным делом.
+
+        Что послушать: карильон наверху относится к числу старейших в стране; он играет через определённые промежутки времени, так что, задержавшись рядом, можно услышать мелодию.
+      en: |
+        The tower is the only surviving part of the Church of Our Lady (Kleine Kerk), demolished in the 19th century. The tower stayed and visibly leans — soft Dutch soil makes that common.
+
+        Listen out: the carillon at the top is among the oldest in the country and plays at set intervals, so linger a little and you may hear it.
+
+  - name: {en: Damplein, ru: Площадь Damplein}
+    place: "Damplein 1, Edam"
+    lat: 52.51280
+    lng: 5.04840
+    radius_m: 80
+    walk_min: [3, 5]
+    visit_min: [30, 45]
+    short:
+      ru: |
+        Площадь Dam с горбатым мостом (похож на корабль), старой ратушей (Damplein 1) и музеем Эдама (Damplein 8) с «плавающим подвалом».
+      en: |
+        Dam square with its hump bridge (shaped like a ship), the old town hall (Damplein 1) and the Edam Museum (Damplein 8) with its "floating cellar".
+    long:
+      ru: |
+        Площадь — сердце города: здесь когда-то стояла плотина (dam) на IJe, давшая городу имя. Широкий **горбатый мост** через канал по силуэту напоминает корпус корабля.
+
+        **Старая ратуша** (Damplein 1) — изящное здание XVIII века с колокольней; внутри сохранились парадные залы, часть из них открыта как часть музея. Напротив — **Edams Museum** (Damplein 8) в одном из старейших каменных домов города. Его знаменитый **плавающий подвал** — кирпичная «лодка», которая поднимается и опускается вместе с грунтовыми водами, не давая дому затонуть.
+
+        Совет: музей небольшой, на осмотр хватает 30–40 минут; часы работы сезонные — проверьте заранее.
+      en: |
+        The square is the heart of town: the dam on the IJe that gave Edam its name once stood here. The broad **hump bridge** over the canal has the silhouette of a ship's hull.
+
+        The **old town hall** (Damplein 1) is an elegant 18th-century building with a small bell tower; its state rooms survive and some are open as part of the museum. Across the square, the **Edams Museum** (Damplein 8) occupies one of the oldest brick houses in town. Its famous **floating cellar** is a brick "boat" that rises and falls with the groundwater so the house doesn't flood.
+
+        Tip: the museum is small — 30–40 minutes is enough; opening hours are seasonal, check ahead.
+
+  - name: {en: Kaasmarkt & Waag, ru: Сырный рынок и весовая палата}
+    place: "Kaasmarkt, Jan Nieuwenhuizenplein, Edam"
+    lat: 52.51390
+    lng: 5.04670
+    walk_min: [3, 5]
+    short:
+      ru: |
+        Сырный рынок и весовая палата (Waag), где взвешивали сырные головы.
+      en: |
+        The cheese market and the weigh house (Waag), where cheese wheels were weighed.
+    long:
+      ru: |
+        Сыр сделал Эдам знаменитым: круглые головы в красной корке отправляли отсюда по морю в Европу и колонии. Торговали на этой площади, а взвешивали в **Waag** — весовой палате с расписным фасадом; внутри сейчас обычно сырный магазин и выставка.
+
+        Летом, по средам (как правило, в июле–августе), здесь устраивают показательный **сырный рынок**: носильщики в белой форме таскают сыры на носилках, идёт «торг» по старым правилам. Если хотите попасть — уточните даты заранее.
+      en: |
+        Cheese made Edam famous: round wheels with a red rind were shipped from here across Europe and to the colonies. They were traded on this square and weighed in the **Waag** — the weigh house with its painted façade; today it usually holds a cheese shop and a small exhibition.
+
+        In summer, on Wednesdays (typically July–August), a demonstration **cheese market** is held: porters in white carry cheeses on barrows and the bargaining follows the old rituals. Check the dates if you want to catch it.
+
+  - name: {en: Kwakelbrug, ru: Подъёмный мост Kwakelbrug}
+    place: "Kwakelbrug, Edam"
+    lat: 52.51420
+    lng: 5.04550
+    walk_min: [3, 5]
+    short:
+      ru: |
+        Деревянный подъёмный мост через канал — открытка Эдама.
+      en: |
+        A wooden drawbridge over the canal — a postcard view of Edam.
+    long:
+      ru: |
+        Узкие белые подъёмные мосты — характерная черта голландских городов у воды: их поднимали, чтобы пропустить лодки с грузами. Kwakelbrug — один из самых фотогеничных в Эдаме, с видом на канал и старые фасады.
+
+        Совет: лучший кадр — с соседнего берега канала, когда мост в кадре целиком.
+      en: |
+        Narrow white drawbridges are typical of Dutch waterside towns: they were raised to let cargo boats through. The Kwakelbrug is one of the most photogenic in Edam, with views along the canal and old façades.
+
+        Tip: the best shot is from the opposite bank, with the whole bridge in frame.
+
+  - name: {en: Grote Kerk (St Nicholas), ru: Grote Kerk — церковь св. Николая}
+    place: "Grote Kerk, Grote Kerkstraat 59, Edam"
+    lat: 52.51650
+    lng: 5.04470
+    walk_min: [5, 8]
+    visit_min: [20, 30]
+    short:
+      ru: |
+        Обязательное место. Большая церковь св. Николая, Grote Kerkstraat 59.
+      en: |
+        A must-see. The great church of St Nicholas, Grote Kerkstraat 59.
+    long:
+      ru: |
+        Главная церковь Эдама — одна из крупнейших позднеготических церквей в этой части Голландии. В начале XVII века она сильно пострадала от пожара, и при восстановлении её украсили знаменитыми **витражами**, многие из которых дарили города и знатные семьи — с гербами и сценами.
+
+        Что посмотреть: витражи, деревянные своды, орган и надгробные плиты в полу. Церковь стоит немного в стороне от центра, вокруг — тихий зелёный двор.
+
+        Совет: внутрь пускают в основном в тёплый сезон; часы ограничены — если внутрь не попасть, ради вида снаружи всё равно стоит дойти.
+      en: |
+        Edam's main church is one of the largest late-Gothic churches in this part of Holland. It was badly damaged by fire in the early 17th century, and the restoration gave it its famous **stained-glass windows**, many donated by towns and notable families, with coats of arms and scenes.
+
+        Look at the windows, the wooden vaults, the organ and the tombstones in the floor. The church stands a little apart from the centre in a quiet green churchyard.
+
+        Tip: it opens mainly in the warm season with limited hours — even if it is closed, the exterior is worth the walk.
+
+  - name: {en: Achterhaven 105, ru: Дом Achterhaven 105}
+    place: "Achterhaven 105, Edam"
+    lat: 52.51450
+    lng: 5.05000
+    walk_min: [8, 10]
+    short:
+      ru: |
+        Старый дом на набережной Achterhaven — по пути к гавани.
+      en: |
+        An old house on the Achterhaven quay, on the way to the harbour.
+    long:
+      ru: |
+        Achterhaven — одна из старых набережных Эдама вдоль гавани: здесь жили шкиперы, судостроители и купцы, и многие дома сохранили узкие фасады с щипцами XVII–XVIII веков.
+
+        Пройдитесь по набережной не спеша: фасады, лодки у причалов и отражения в воде — один из самых атмосферных уголков города.
+      en: |
+        Achterhaven is one of Edam's old harbour quays: skippers, shipbuilders and merchants lived here, and many houses keep their narrow 17th–18th-century gabled fronts.
+
+        Stroll the quay slowly: façades, boats at their moorings and reflections in the water make this one of the most atmospheric corners of town.
+
+  - name: {en: Harbour & shipyard, ru: Гавань и судоверфь}
+    place: "Oorgat, Edam"
+    lat: 52.51560
+    lng: 5.05400
+    radius_m: 200
+    walk_min: [5, 8]
+    short:
+      ru: |
+        Старая гавань и судоверфь — память о временах, когда Эдам строил корабли.
+      en: |
+        The old harbour and shipyard — a reminder of when Edam built ships.
+    long:
+      ru: |
+        В Золотой век Эдам был важным центром судостроения: на его верфях строили суда для торгового флота, в том числе для Ост-Индской компании. Гавань соединялась с Зёйдерзе, и городу приходилось постоянно бороться за то, чтобы проход не заиливался.
+
+        Сегодня здесь стоят прогулочные и традиционные деревянные суда, а на верфи всё ещё ремонтируют лодки. Хорошее место посмотреть, как устроены шлюзы и как город «отгорожен» от воды.
+      en: |
+        In the Golden Age Edam was an important shipbuilding centre: its yards built vessels for the merchant fleet, including the East India Company. The harbour connected to the Zuiderzee, and the town fought constantly to keep the channel from silting up.
+
+        Today it is home to pleasure boats and traditional wooden vessels, and boats are still repaired at the yard. A good spot to see how the locks work and how the town is "walled off" from the water.
+
+  - name: {en: Dike & Markermeer, ru: Дамба и озеро Маркермер}
+    place: "Zeesluis Edam, Edam"
+    lat: 52.51750
+    lng: 5.06100
+    radius_m: 300
+    walk_min: [8, 12]
+    visit_min: [10, 20]
+    short:
+      ru: |
+        Дамба и шлюз на выходе к озеру Маркермер — простор и вид на воду.
+      en: |
+        The dike and sea lock at the mouth of the harbour onto the Markermeer — open views across the water.
+    long:
+      ru: |
+        Маркермер — пресноводное озеро, которое когда-то было частью морского залива Зёйдерзе. После строительства Afsluitdijk в 1930-х залив отделили от моря, а позже дамбой Houtribdijk отрезали и Маркермер. Дамба у Эдама защищает город от воды уже несколько веков.
+
+        Поднимитесь на дамбу: с одной стороны — открытая вода до горизонта, с другой — крыши и башни Эдама. Вдоль берега идёт дорожка на Volendam.
+
+        Совет: здесь ветрено даже в тихую погоду. В районе Эдама в XIX веке появились и укрепления — отсюда «форт Эдам» из старых путеводителей; если интересно, уточните на месте.
+      en: |
+        The Markermeer is a freshwater lake that was once part of the Zuiderzee inlet. The Afsluitdijk sealed the Zuiderzee off from the sea in the 1930s, and the Houtribdijk later cut off the Markermeer as well. The dike at Edam has protected the town for centuries.
+
+        Climb onto the dike: open water to the horizon on one side, Edam's roofs and towers on the other. A path along the shore leads to Volendam.
+
+        Tip: it is windy here even on calm days. 19th-century fortifications were also built around Edam — the "Fort Edam" of older guides; ask locally if you are curious.
+
+  - name: {en: Back to the bus station, ru: Обратно к автостанции}
+    place: "Busstation Edam, Edam"
+    lat: 52.50960
+    lng: 5.04450
+    walk_min: [20, 25]
+    approach: [{name: Schepenmakersdijk, lat: 52.5145, lng: 5.0530}, {name: Spui, lat: 52.5125, lng: 5.0465}]
+    short:
+      ru: |
+        Обратно через центр к автобусам на Амстердам.
+      en: |
+        Back through the centre to the buses for Amsterdam.
+    long:
+      ru: |
+        На обратном пути можно пройти по другим каналам и заглянуть в магазины с местным сыром. Автобусы 312/314/316 идут до Amsterdam Centraal.
+      en: |
+        On the way back, take different canals and drop into the shops selling local cheese. Buses 312/314/316 go to Amsterdam Centraal.

@@ -1,0 +1,164 @@
+country: {en: Netherlands, ru: Нидерланды}
+city: {en: Zandvoort, ru: Зандворт}
+name: {en: "Beach, dunes and estates — day trip", ru: "Пляж, дюны и поместья — поездка на день"}
+place_suffix: Zandvoort
+summary:
+  ru: "≈ 12–14 км пешком, целый день; часть пути можно проехать на автобусе"
+  en: "≈ 12–14 km on foot, a full day; part of it can be done by bus"
+intro:
+  ru: |
+    Зандворт — морской курорт в 27 км от Амстердама. Поезд от **Amsterdam Centraal** до станции **Zandvoort aan Zee** идёт около 25–30 минут (обычно с пересадкой или через Haarlem). Обратно удобно уехать со станции **Overveen** (поезд на Haarlem и Амстердам) или вернуться в Зандворт.
+
+    Маршрут линейный: море → автодром → водозаборные дюны → поместье Elswout → Overveen. Расстояния между точками большие, поэтому на отрезках вдоль Zandvoortselaan стоит подумать о региональном автобусе Зандворт — Haarlem или о велосипеде (прокат есть у станции).
+  en: |
+    Zandvoort is a seaside resort 27 km from Amsterdam. The train from **Amsterdam Centraal** to **Zandvoort aan Zee** takes about 25–30 minutes (usually via Haarlem). For the way back, **Overveen** station (trains to Haarlem and Amsterdam) is handy, or you can return to Zandvoort.
+
+    The route is linear: sea → race circuit → water-catchment dunes → Elswout estate → Overveen. The distances are long, so along Zandvoortselaan consider the regional Zandvoort–Haarlem bus or a bike (rentals near the station).
+outro:
+  ru: |
+    Если сил не осталось, от Elswout до станции Overveen всего 15–20 минут пешком — оттуда поезд до Амстердама с пересадкой в Haarlem.
+  en: |
+    If you are out of energy, Overveen station is only 15–20 minutes on foot from Elswout — trains to Amsterdam via Haarlem.
+points:
+  - name: {en: Zandvoort aan Zee station, ru: Станция Zandvoort aan Zee}
+    place: "Station Zandvoort aan Zee, Stationsplein, Zandvoort"
+    lat: 52.37550
+    lng: 4.53380
+    short:
+      ru: |
+        Старт. Поезд из Амстердама ~25 мин, 27 км. От станции до моря — пара минут пешком.
+      en: |
+        Start. About 25 minutes by train from Amsterdam, 27 km. The sea is a couple of minutes' walk from the station.
+    long:
+      ru: |
+        Железная дорога пришла в Зандворт в 1881 году, и именно она превратила рыбацкую деревню в морской курорт для жителей Амстердама и Haarlem. Станция — конечная, поезда приходят прямо в центр.
+
+        Совет: в жаркие выходные поезда переполнены, а пляж — тоже. В будний день или вне сезона здесь гораздо спокойнее. Если планируете брать велосипед, сделайте это сразу у станции: дальше маршрут растягивается на десяток километров.
+      en: |
+        The railway reached Zandvoort in 1881, and it turned a fishing village into a seaside resort for the people of Amsterdam and Haarlem. The station is a terminus, right in the town centre.
+
+        Tip: on hot weekends both the trains and the beach are packed; a weekday or the off-season is far calmer. If you want a bike, rent it here: the route stretches over a dozen kilometres.
+
+  - name: {en: Beach & boulevard, ru: Пляж и бульвар}
+    place: "Boulevard Paulus Loot, Zandvoort"
+    lat: 52.37450
+    lng: 4.52650
+    radius_m: 600
+    walk_min: [5, 10]
+    visit_min: [60, 120]
+    inside: [{name: Rotonde, lat: 52.3770, lng: 4.5275}, {name: Boulevard Barnaart, lat: 52.3860, lng: 4.5335}]
+    short:
+      ru: |
+        Дюны и широкие песчаные пляжи. Прогуляйтесь по бульвару на север — в сторону автодрома.
+      en: |
+        Dunes and wide sandy beaches. Walk the boulevard north, towards the race circuit.
+    long:
+      ru: |
+        Пляж Зандворта тянется на километры вдоль Северного моря: широкая полоса песка, за ней — дюны, а на самом берегу — сезонные пляжные павильоны с кафе. Центральная часть у Rotonde самая оживлённая; чем дальше на север или юг, тем тише.
+
+        Что посмотреть: сами дюны — это естественная защита побережья, ходить по ним можно только по тропам. Над бульваром — многоэтажные отели и жилые дома послевоенной застройки: старый курортный Зандворт сильно пострадал во время Второй мировой, когда побережье укрепляли как часть Атлантического вала.
+
+        Совет: на море почти всегда ветрено и прохладнее, чем в Амстердаме, — возьмите ветровку. Вода даже летом свежая.
+      en: |
+        Zandvoort's beach runs for kilometres along the North Sea: a wide band of sand, dunes behind it, and seasonal beach pavilions with cafés on the shore. The central stretch around the Rotonde is the busiest; the further north or south you go, the quieter it gets.
+
+        Look at the dunes themselves — they are the coast's natural defence, so stay on the paths. The boulevard is lined with post-war hotels and apartment blocks: much of old resort Zandvoort was lost in the Second World War, when the coast was fortified as part of the Atlantic Wall.
+
+        Tip: the seaside is almost always windier and cooler than Amsterdam — bring a windbreaker. The water is fresh even in summer.
+
+  - name: {en: Circuit Zandvoort, ru: Автодром Зандворт}
+    place: "Circuit Zandvoort, Burgemeester van Alphenstraat 108, Zandvoort"
+    lat: 52.38880
+    lng: 4.54090
+    radius_m: 800
+    walk_min: [20, 30]
+    short:
+      ru: |
+        Исторический автодром прямо в дюнах — здесь проходит Гран-при Нидерландов «Формулы-1».
+      en: |
+        A historic race track set right in the dunes — home of the Formula 1 Dutch Grand Prix.
+    long:
+      ru: |
+        Трасса открылась вскоре после Второй мировой войны и проложена по дюнам к северу от города — отсюда её характерные перепады высот и виражи с наклоном. Долгое время здесь проводили Гран-при Нидерландов «Формулы-1»; после большого перерыва гонка вернулась в календарь в 2020-х, и трасса была заметно реконструирована.
+
+        Что посмотреть: в дни без соревнований можно увидеть трассу с дюн вокруг, а иногда попасть на экскурсию или трек-дни — расписание стоит проверить на сайте автодрома заранее. В гоночные уикенды район перекрыт, а Зандворт переполнен — планируйте поездку с учётом календаря.
+
+        Совет: от автодрома дальше к дюнам удобнее идти через северо-восточную часть города; это самый длинный перегон дня.
+      en: |
+        The track opened shortly after the Second World War and is laid out through the dunes north of town — hence its elevation changes and banked corners. For many years it hosted the Formula 1 Dutch Grand Prix; after a long break the race returned to the calendar in the 2020s, and the circuit was substantially rebuilt.
+
+        On non-event days you can see the track from the surrounding dunes, and sometimes join a tour or track day — check the circuit's website in advance. On race weekends the area is closed off and Zandvoort is packed, so plan around the calendar.
+
+        Tip: from the circuit to the dunes, cut through the north-eastern part of town; this is the longest leg of the day.
+
+  - name: {en: Amsterdamse Waterleidingduinen, ru: Водозаборные дюны Amsterdamse Waterleidingduinen}
+    place: "Ingang Oase, Amsterdamse Waterleidingduinen, Zandvoort"
+    lat: 52.36850
+    lng: 4.56200
+    radius_m: 800
+    walk_min: [35, 45]
+    visit_min: [60, 120]
+    short:
+      ru: |
+        Водозаборные дюны с пешеходными маршрутами. Перегон длинный — можно подъехать на автобусе вдоль Zandvoortselaan.
+      en: |
+        Water-catchment dunes with walking trails. Long leg — you can take the bus along Zandvoortselaan instead.
+    long:
+      ru: |
+        С середины XIX века эти дюны служат Амстердаму природным фильтром: речную воду закачивают в песок, она медленно просачивается и очищается, а потом её забирают для водопровода. Благодаря этому огромная территория осталась почти нетронутой — сегодня это один из крупнейших природных массивов в Северной Голландии.
+
+        Что посмотреть: каналы-водозаборы, вересковые и лесистые участки дюн и особенно **ланей** — здесь их очень много, и они почти не боятся людей. Размеченные маршруты разной длины начинаются от входов.
+
+        Практически: для входа нужен дневной билет (обычно покупается онлайн или в автомате у входа), собакам вход запрещён, велосипеды — только у некоторых входов. Тропы песчаные, удобная обувь обязательна.
+      en: |
+        Since the mid-19th century these dunes have served as Amsterdam's natural filter: river water is pumped into the sand, slowly seeps through and is purified, then extracted for the water supply. As a result a huge area has stayed almost untouched — today one of the largest nature areas in North Holland.
+
+        Look for the catchment canals, heath and wooded dune patches and above all the **fallow deer** — there are lots of them and they are hardly shy. Marked trails of different lengths start at the entrances.
+
+        Practicalities: you need a day ticket (usually bought online or from a machine at the entrance), no dogs allowed, bikes only at some entrances. The paths are sandy, so wear proper shoes.
+
+  - name: {en: Elswout estate, ru: Поместье Elswout}
+    place: "Landgoed Elswout, Elswoutslaan, Overveen"
+    lat: 52.38600
+    lng: 4.59600
+    radius_m: 500
+    walk_min: [45, 60]
+    visit_min: [45, 75]
+    short:
+      ru: |
+        Загородный парк-поместье в Overveen. От дюн до Elswout далеко — удобнее автобусом или на велосипеде.
+      en: |
+        A country estate and park in Overveen. It's a long way from the dunes — easier by bus or bike.
+    long:
+      ru: |
+        Elswout — одно из старинных загородных поместий, которые богатые семьи Haarlem и Амстердама строили на краю дюн начиная с XVII века. Нынешний облик парк получил позже, когда его переделали в пейзажном английском стиле: холмистые дюнные склоны, извилистые дорожки, пруды и старые деревья.
+
+        Что посмотреть: главный дом (сам он обычно закрыт для посещения, но хорошо виден из парка), каскады и пруды, смотровые точки на холмах и оранжерею. Поместье сейчас принадлежит природоохранной организации, парк открыт для прогулок.
+
+        Совет: здесь хорошо закончить день в тишине — после пляжа и дюн это самый спокойный отрезок маршрута.
+      en: |
+        Elswout is one of the old country estates that wealthy Haarlem and Amsterdam families built on the edge of the dunes from the 17th century onwards. The park took its present form later, when it was reshaped in the English landscape style: rolling dune slopes, winding paths, ponds and old trees.
+
+        Look for the main house (usually not open to visitors, but well seen from the park), the cascades and ponds, viewpoints on the hills and the orangery. The estate is now owned by a nature conservation body and the park is open for walks.
+
+        Tip: a good place to end the day in quiet — after the beach and dunes this is the calmest stretch of the route.
+
+  - name: {en: Overveen station, ru: Станция Overveen}
+    place: "Station Overveen, Overveen"
+    lat: 52.39130
+    lng: 4.61270
+    walk_min: [15, 20]
+    short:
+      ru: |
+        Финиш: поезд до Haarlem и Амстердама.
+      en: |
+        Finish: trains to Haarlem and Amsterdam.
+    long:
+      ru: |
+        Небольшая станция на линии Haarlem — Зандворт. Поезда ходят часто; до Амстердама — с пересадкой в Haarlem, в сумме около получаса.
+
+        Если останется время, Haarlem стоит отдельной прогулки: Grote Markt и собор Святого Бавона в паре остановок отсюда.
+      en: |
+        A small station on the Haarlem–Zandvoort line. Trains are frequent; to Amsterdam change at Haarlem, about half an hour in total.
+
+        If time allows, Haarlem deserves a walk of its own: the Grote Markt and St Bavo's are just a couple of stops away.
