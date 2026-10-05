@@ -1,6 +1,6 @@
-country: {en: Netherlands, ru: Нидерланды}
-city: {en: Zandvoort, ru: Зандворт}
-name: {en: "Beach, dunes and estates — day trip", ru: "Пляж, дюны и поместья — поездка на день"}
+country: { en: Netherlands, ru: Нидерланды }
+city: { en: Zandvoort, ru: Зандворт }
+name: { en: "Beach, dunes and estates — day trip", ru: "Пляж, дюны и поместья — поездка на день" }
 place_suffix: Zandvoort
 summary:
   ru: "≈ 12–14 км пешком, целый день; часть пути можно проехать на автобусе"
@@ -20,10 +20,10 @@ outro:
   en: |
     If you are out of energy, Overveen station is only 15–20 minutes on foot from Elswout — trains to Amsterdam via Haarlem.
 points:
-  - name: {en: Zandvoort aan Zee station, ru: Станция Zandvoort aan Zee}
+  - name: { en: Zandvoort aan Zee station, ru: Станция Zandvoort aan Zee }
     place: "Station Zandvoort aan Zee, Stationsplein, Zandvoort"
-    lat: 52.37550
-    lng: 4.53380
+    lat: 52.37573
+    lng: 4.53146
     short:
       ru: |
         Старт. Поезд из Амстердама ~25 мин, 27 км. От станции до моря — пара минут пешком.
@@ -39,14 +39,14 @@ points:
 
         Tip: on hot weekends both the trains and the beach are packed; a weekday or the off-season is far calmer. If you want a bike, rent it here: the route stretches over a dozen kilometres.
 
-  - name: {en: Beach & boulevard, ru: Пляж и бульвар}
-    place: "Boulevard Paulus Loot, Zandvoort"
-    lat: 52.37450
-    lng: 4.52650
+  - name: { en: Beach & boulevard, ru: Пляж и бульвар }
+    place: "Rotonde, Strandweg, Zandvoort"
+    lat: 52.37319
+    lng: 4.52547
     radius_m: 600
-    walk_min: [5, 10]
-    visit_min: [60, 120]
-    inside: [{name: Rotonde, lat: 52.3770, lng: 4.5275}, {name: Boulevard Barnaart, lat: 52.3860, lng: 4.5335}]
+    walk_min: [ 9, 11 ]
+    visit_min: [ 60, 120 ]
+    inside: [ { name: Rotonde, lat: 52.3770, lng: 4.5275 }, { name: Boulevard Barnaart, lat: 52.3860, lng: 4.5335 } ]
     short:
       ru: |
         Дюны и широкие песчаные пляжи. Прогуляйтесь по бульвару на север — в сторону автодрома.
@@ -66,12 +66,12 @@ points:
 
         Tip: the seaside is almost always windier and cooler than Amsterdam — bring a windbreaker. The water is fresh even in summer.
 
-  - name: {en: Circuit Zandvoort, ru: Автодром Зандворт}
+  - name: { en: Circuit Zandvoort, ru: Автодром Зандворт }
     place: "Circuit Zandvoort, Burgemeester van Alphenstraat 108, Zandvoort"
-    lat: 52.38880
-    lng: 4.54090
+    lat: 52.38947
+    lng: 4.54288
     radius_m: 800
-    walk_min: [20, 30]
+    walk_min: [ 40, 50 ]
     short:
       ru: |
         Исторический автодром прямо в дюнах — здесь проходит Гран-при Нидерландов «Формулы-1».
@@ -91,13 +91,13 @@ points:
 
         Tip: from the circuit to the dunes, cut through the north-eastern part of town; this is the longest leg of the day.
 
-  - name: {en: Amsterdamse Waterleidingduinen, ru: Водозаборные дюны Amsterdamse Waterleidingduinen}
-    place: "Ingang Oase, Amsterdamse Waterleidingduinen, Zandvoort"
-    lat: 52.36850
-    lng: 4.56200
+  - name: { en: Amsterdamse Waterleidingduinen, ru: Водозаборные дюны Amsterdamse Waterleidingduinen }
+    place: "52.3645,4.5565"
+    lat: 52.36450
+    lng: 4.55650
     radius_m: 800
-    walk_min: [35, 45]
-    visit_min: [60, 120]
+    walk_min: [ 55, 65 ]
+    visit_min: [ 60, 120 ]
     short:
       ru: |
         Водозаборные дюны с пешеходными маршрутами. Перегон длинный — можно подъехать на автобусе вдоль Zandvoortselaan.
@@ -117,13 +117,13 @@ points:
 
         Practicalities: you need a day ticket (usually bought online or from a machine at the entrance), no dogs allowed, bikes only at some entrances. The paths are sandy, so wear proper shoes.
 
-  - name: {en: Elswout estate, ru: Поместье Elswout}
+  - name: { en: Elswout estate, ru: Поместье Elswout }
     place: "Landgoed Elswout, Elswoutslaan, Overveen"
-    lat: 52.38600
-    lng: 4.59600
+    lat: 52.37986
+    lng: 4.59446
     radius_m: 500
-    walk_min: [45, 60]
-    visit_min: [45, 75]
+    walk_min: [ 55, 65 ]
+    visit_min: [ 45, 75 ]
     short:
       ru: |
         Загородный парк-поместье в Overveen. От дюн до Elswout далеко — удобнее автобусом или на велосипеде.
@@ -143,11 +143,11 @@ points:
 
         Tip: a good place to end the day in quiet — after the beach and dunes this is the calmest stretch of the route.
 
-  - name: {en: Overveen station, ru: Станция Overveen}
+  - name: { en: Overveen station, ru: Станция Overveen }
     place: "Station Overveen, Overveen"
-    lat: 52.39130
-    lng: 4.61270
-    walk_min: [15, 20]
+    lat: 52.39097
+    lng: 4.60784
+    walk_min: [ 30, 40 ]
     short:
       ru: |
         Финиш: поезд до Haarlem и Амстердама.
