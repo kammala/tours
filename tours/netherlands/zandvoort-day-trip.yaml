@@ -1,24 +1,24 @@
 country: { en: Netherlands, ru: Нидерланды }
 city: { en: Zandvoort, ru: Зандворт }
-name: { en: "Beach, dunes and estates — day trip", ru: "Пляж, дюны и поместья — поездка на день" }
+name: { en: "Beach, dunes, estates and a castle ruin — day trip", ru: "Пляж, дюны, поместья и руины замка — поездка на день" }
 place_suffix: Zandvoort
 summary:
-  ru: "≈ 12–14 км пешком, целый день; часть пути можно проехать на автобусе"
-  en: "≈ 12–14 km on foot, a full day; part of it can be done by bus"
+  ru: "≈ 17–19 км пешком, целый день; часть пути можно проехать на автобусе или поезде"
+  en: "≈ 17–19 km on foot, a full day; parts can be done by bus or train"
 intro:
   ru: |
-    Зандворт — морской курорт в 27 км от Амстердама. Поезд от **Amsterdam Centraal** до станции **Zandvoort aan Zee** идёт около 25–30 минут (обычно с пересадкой или через Haarlem). Обратно удобно уехать со станции **Overveen** (поезд на Haarlem и Амстердам) или вернуться в Зандворт.
+    Зандворт — морской курорт в 27 км от Амстердама. Поезд от **Amsterdam Centraal** до станции **Zandvoort aan Zee** идёт около 25–30 минут (обычно с пересадкой или через Haarlem). Финиш — станция **Santpoort-Zuid** у руин Бредероде (поезд до Амстердама через Haarlem).
 
-    Маршрут линейный: море → автодром → водозаборные дюны → поместье Elswout → Overveen. Расстояния между точками большие, поэтому на отрезках вдоль Zandvoortselaan стоит подумать о региональном автобусе Зандворт — Haarlem или о велосипеде (прокат есть у станции).
+    Маршрут линейный: море → автодром → водозаборные дюны → поместье Elswout → Overveen → руины Бредероде → Santpoort-Zuid. Расстояния между точками большие, поэтому на отрезках вдоль Zandvoortselaan стоит подумать о региональном автобусе Зандворт — Haarlem или о велосипеде (прокат есть у станции).
   en: |
-    Zandvoort is a seaside resort 27 km from Amsterdam. The train from **Amsterdam Centraal** to **Zandvoort aan Zee** takes about 25–30 minutes (usually via Haarlem). For the way back, **Overveen** station (trains to Haarlem and Amsterdam) is handy, or you can return to Zandvoort.
+    Zandvoort is a seaside resort 27 km from Amsterdam. The train from **Amsterdam Centraal** to **Zandvoort aan Zee** takes about 25–30 minutes (usually via Haarlem). The route finishes at **Santpoort-Zuid** station next to the Brederode ruins (trains to Amsterdam via Haarlem).
 
-    The route is linear: sea → race circuit → water-catchment dunes → Elswout estate → Overveen. The distances are long, so along Zandvoortselaan consider the regional Zandvoort–Haarlem bus or a bike (rentals near the station).
+    The route is linear: sea → race circuit → water-catchment dunes → Elswout estate → Overveen → Brederode ruins → Santpoort-Zuid. The distances are long, so along Zandvoortselaan consider the regional Zandvoort–Haarlem bus or a bike (rentals near the station).
 outro:
   ru: |
-    Если сил не осталось, от Elswout до станции Overveen всего 15–20 минут пешком — оттуда поезд до Амстердама с пересадкой в Haarlem.
+    Если сил не осталось, закончите на станции Overveen (15–20 минут от Elswout) — оттуда поезд до Амстердама с пересадкой в Haarlem. До руин Бредероде можно и доехать: поезд Overveen → Haarlem → Santpoort-Zuid, около 20–25 минут.
   en: |
-    If you are out of energy, Overveen station is only 15–20 minutes on foot from Elswout — trains to Amsterdam via Haarlem.
+    If you are out of energy, finish at Overveen station (15–20 minutes from Elswout) — trains to Amsterdam via Haarlem. You can also ride to the Brederode ruins: train Overveen → Haarlem → Santpoort-Zuid, about 20–25 minutes.
 points:
   - name: { en: Zandvoort aan Zee station, ru: Станция Zandvoort aan Zee }
     place: "Station Zandvoort aan Zee, Stationsplein, Zandvoort"
@@ -150,9 +150,9 @@ points:
     walk_min: [ 30, 40 ]
     short:
       ru: |
-        Финиш: поезд до Haarlem и Амстердама.
+        Точка выхода: отсюда можно уехать в Амстердам или проехать к руинам Бредероде через Haarlem.
       en: |
-        Finish: trains to Haarlem and Amsterdam.
+        Way out: take the train back to Amsterdam, or ride to the Brederode ruins via Haarlem.
     long:
       ru: |
         Небольшая станция на линии Haarlem — Зандворт. Поезда ходят часто; до Амстердама — с пересадкой в Haarlem, в сумме около получаса.
@@ -162,3 +162,45 @@ points:
         A small station on the Haarlem–Zandvoort line. Trains are frequent; to Amsterdam change at Haarlem, about half an hour in total.
 
         If time allows, Haarlem deserves a walk of its own: the Grote Markt and St Bavo's are just a couple of stops away.
+
+  - name: { en: Brederode castle ruins, ru: Руины замка Бредероде }
+    place: "Ruïne van Brederode, Velserenderlaan, Santpoort-Zuid"
+    lat: 52.42537
+    lng: 4.62254
+    radius_m: 200
+    walk_min: [ 75, 90 ]
+    visit_min: [ 30, 60 ]
+    short:
+      ru: |
+        Руины средневекового замка рода Бредероде среди леса — можно бродить по стенам и башням. Перегон от Overveen длинный (через Bloemendaal) — либо поезд до Santpoort-Zuid.
+      en: |
+        The ruins of the medieval castle of the Brederode family in the woods — you can wander the walls and towers. Long leg from Overveen (via Bloemendaal), or take the train to Santpoort-Zuid.
+    long:
+      ru: |
+        Замок построили в конце XIII века владетели Бредероде — один из самых влиятельных родов графства Голландия. Он стоял на краю дюн и охранял подходы к Харлему с севера. В войнах XV–XVI веков замок не раз осаждали и разрушали, и с тех пор он остаётся руиной.
+
+        Сохранились стены, остатки башен и ров с водой; на часть стен и башен можно подняться — сверху видно лес и дюны. Небольшая экспозиция рассказывает о жизни замка и находках археологов.
+
+        Практично: вход платный и открыто не каждый день — часы и сезон проверьте заранее. Рядом лесопарки Velserbeek и Duin en Kruidberg, если хочется ещё погулять.
+      en: |
+        The castle was built in the late 13th century by the lords of Brederode, one of the most powerful families in the County of Holland. It stood on the edge of the dunes, guarding the northern approaches to Haarlem. During the wars of the 15th–16th centuries it was besieged and wrecked more than once, and it has remained a ruin ever since.
+
+        The walls, remains of the towers and a water-filled moat survive; you can climb parts of the walls and towers for views over the woods and dunes. A small display covers castle life and archaeological finds.
+
+        Practical: entry is paid and it isn't open every day — check hours and season in advance. The Velserbeek and Duin en Kruidberg parks nearby are good for a longer stroll.
+
+  - name: { en: Santpoort-Zuid station, ru: Станция Santpoort-Zuid }
+    place: "Station Santpoort-Zuid, Santpoort-Zuid"
+    lat: 52.41935
+    lng: 4.63142
+    walk_min: [ 12, 15 ]
+    short:
+      ru: |
+        Финиш: поезд до Амстердама через Haarlem.
+      en: |
+        Finish: trains to Amsterdam via Haarlem.
+    long:
+      ru: |
+        Станция на линии Haarlem — Uitgeest. До Амстердама — с пересадкой в Haarlem, в сумме около 30–40 минут.
+      en: |
+        A station on the Haarlem–Uitgeest line. To Amsterdam change at Haarlem, about 30–40 minutes in total.
