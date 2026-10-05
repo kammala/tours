@@ -1,0 +1,511 @@
+country: {en: Netherlands, ru: Нидерланды}
+city: {en: Amsterdam, ru: Амстердам}
+name: {en: Detailed walk, ru: Детализированная версия}
+place_suffix: Amsterdam
+summary:
+  ru: "≈ 10–11 км, 6–8 часов в спокойном темпе"
+  en: "≈ 10–11 km, 6–8 hours at an easy pace"
+intro:
+  ru: |
+    Маршрут Leidseplein → Amsterdam Centraal. Для парков, районов и набережных заданы конкретные точки входа и выхода, чтобы Google Maps не уводил вас напрямую к абстрактному центру района.
+  en: |
+    A Leidseplein → Amsterdam Centraal walk. Parks, districts and waterfronts have explicit entry and exit points, so Google Maps doesn't send you straight to the abstract centre of an area.
+outro:
+  ru: |
+    Финал — у главного вокзала. Если остались силы, за вокзалом со стороны IJ ходят бесплатные паромы в Amsterdam-Noord: 5 минут по воде и отличный вид на город.
+  en: |
+    The walk ends at the main station. If you still have energy, free ferries to Amsterdam-Noord leave from the IJ side behind the station: five minutes on the water and a great view back at the city.
+points:
+  - name: {en: Leidseplein, ru: Leidseplein}
+    lat: 52.36410
+    lng: 4.88270
+    short:
+      ru: |
+        Стартовая точка. Leidseplein — один из главных центров вечерней жизни Амстердама: театры, бары, рестораны и исторические здания вокруг площади. Отсюда идём к Vondelpark — используем его не как точку назначения, а как полноценный прогулочный участок.
+      en: |
+        Starting point. Leidseplein is one of Amsterdam's main nightlife hubs: theatres, bars, restaurants and historic buildings around the square. From here we head to Vondelpark — not as a destination, but as a proper walking section of the route.
+    long:
+      ru: |
+        Площадь возникла у Leidsepoort — городских ворот, через которые шла дорога на Лейден. В XVII–XIX веках здесь путешественники оставляли повозки и лошадей перед въездом в город, поэтому площадь долго была скорее транспортным пятачком, чем парадным пространством. Ворота снесли в XIX веке, а на их месте выросли театры и кафе.
+
+        Что рассмотреть: **Stadsschouwburg** — городской театр конца XIX века с характерным фасадом; **American Hotel** с кафе Café Americain в стиле модерн — один из лучших интерьеров этой эпохи в городе. Рядом, на Lijnbaansgracht, — легендарные концертные площадки **Melkweg** и **Paradiso** (бывшая церковь).
+
+        Совет: утром площадь тихая и пустая, вечером — шумная и людная. Перед стартом удобно выпить кофе на одной из террас; уличные музыканты и артисты здесь почти всегда.
+      en: |
+        The square grew up by the Leidsepoort, the city gate on the road to Leiden. From the 17th to the 19th century travellers left their carts and horses here before entering the city, so for a long time it was more of a transport yard than a showpiece. The gate was demolished in the 19th century and theatres and cafés took its place.
+
+        Look out for the **Stadsschouwburg**, the late-19th-century city theatre with its distinctive façade, and the **American Hotel** with Café Americain — one of the best Art Nouveau interiors in town. Around the corner on Lijnbaansgracht are the legendary music venues **Melkweg** and **Paradiso** (a former church).
+
+        Tip: in the morning the square is quiet and empty; in the evening it is loud and crowded. A coffee on one of the terraces is a good way to start; street performers are almost always around.
+
+  - name: {en: Vondelpark, ru: Vondelpark}
+    lat: 52.35800
+    lng: 4.86860
+    radius_m: 500
+    approach: [Stadhouderskade]
+    inside: [Vondelkerk, Vondelpark Openluchttheater, Groot Melkhuis, Amstelveenseweg]
+    walk_min: [30, 40]
+    short:
+      ru: |
+        Leidseplein → Stadhouderskade → вход в парк → Vondelkerk → Openluchttheater → Groot Melkhuis → центральный пруд → западная часть → Amstelveenseweg.
+
+        Vondelpark — крупнейший городской парк Амстердама, зелёный коридор между Leidseplein и юго-западной частью центра. Не стоит обходить его целиком: проходим красивую центральную часть с прудами, мостиками и открытым театром и выходим на запад.
+      en: |
+        Leidseplein → Stadhouderskade → park entrance → Vondelkerk → open-air theatre → Groot Melkhuis → central pond → western part → Amstelveenseweg.
+
+        Vondelpark is Amsterdam's largest city park, a green corridor between Leidseplein and the south-western part of the centre. No need to loop the whole thing: walk the pretty middle section with ponds, little bridges and the open-air theatre, then exit to the west.
+    long:
+      ru: |
+        Парк открылся в 1865 году как частная инициатива состоятельных горожан и сначала назывался просто «Новым парком». Вскоре в нём поставили памятник поэту **Йосту ван ден Вонделу** — «голландскому Шекспиру» XVII века, — и парк получил его имя. Ландшафт в английском стиле проектировали Зохеры, отец и сын: извилистые дорожки, пруды неправильной формы, открытые лужайки.
+
+        По пути: **Vondelkerk** у северной кромки парка — неоготическая церковь Питера Кейперса, автора Рейксмузеума и Центрального вокзала; сейчас это не действующая церковь. **Openluchttheater** — летняя открытая сцена с бесплатными концертами и спектаклями (пожертвования приветствуются). **Groot Melkhuis** — павильон-кафе в лесистой части парка с детской площадкой. Ищите также скульптуру Пикассо «Рыба» (Figure découpée), подаренную парку к 100-летию.
+
+        Совет: велосипедисты здесь ездят быстро — держитесь пешеходных краёв дорожек. В солнечные выходные парк заполнен пикниками; лучшее время для тихой прогулки — утро. Кофе и туалет — в Groot Melkhuis или в кафе у входа со стороны Stadhouderskade.
+      en: |
+        The park opened in 1865 as a private initiative of wealthy residents and was first called simply the "New Park". A statue of the poet **Joost van den Vondel** — the 17th-century "Dutch Shakespeare" — was soon added, and the park took his name. The English-style landscape, with winding paths, irregular ponds and open lawns, was designed by the Zocher father and son.
+
+        On the way: **Vondelkerk** on the park's northern edge, a neo-Gothic church by Pierre Cuypers, architect of the Rijksmuseum and Centraal Station; it is no longer used as a church. **Openluchttheater** is a summer open-air stage with free concerts and shows (donations welcome). **Groot Melkhuis** is a café pavilion in the wooded part of the park with a playground. Also look for Picasso's sculpture "The Fish" (Figure découpée), given to the park for its centenary.
+
+        Tip: cyclists move fast here — keep to the pedestrian edges of the paths. On sunny weekends the lawns fill with picnics; mornings are best for a quiet walk. Coffee and toilets at Groot Melkhuis or the cafés near the Stadhouderskade entrance.
+
+  - name: {en: Jordaan, ru: Jordaan}
+    place: "Elandsgracht, Amsterdam"
+    lat: 52.37600
+    lng: 4.88150
+    radius_m: 500
+    approach: [Eerste Constantijn Huygensstraat]
+    inside: [Elandsstraat, Prinsengracht, Bloemgracht, Tweede Egelantiersdwarsstraat, Westerstraat, Noordermarkt]
+    walk_min: 40
+    visit_min: [30, 45]
+    short:
+      ru: |
+        Вход: от западного выхода Vondelpark → Eerste Constantijn Huygensstraat. Маршрут через район: Elandsgracht → Elandsstraat → Prinsengracht → Bloemgracht → Tweede Egelantiersdwarsstraat → Westerstraat → Noordermarkt.
+
+        Jordaan — бывший рабочий район XVII века. Главное здесь не отдельный памятник, а сама структура кварталов: узкие улицы, небольшие мосты, каналы и бывшие рабочие дома. Лучше пройти несколько параллельных каналов, а не идти по одной прямой улице.
+      en: |
+        Entry: from the western exit of Vondelpark via Eerste Constantijn Huygensstraat. Through the district: Elandsgracht → Elandsstraat → Prinsengracht → Bloemgracht → Tweede Egelantiersdwarsstraat → Westerstraat → Noordermarkt.
+
+        Jordaan is a former 17th-century working-class district. The point is not a single monument but the fabric itself: narrow streets, small bridges, canals and former workers' houses. Zig-zag across several parallel canals rather than following one straight street.
+    long:
+      ru: |
+        Район заложили в начале XVII века при большом расширении города, когда за кольцом главных каналов понадобилось жильё для ремесленников, рабочих и беженцев — в том числе гугенотов. Улицы и каналы здесь идут под углом к основной сетке города: они повторяют старые межи и канавы бывших полей. Происхождение названия спорно; популярная версия выводит его от французского jardin, «сад».
+
+        Многие каналы Jordaan позже засыпали — **Elandsgracht** и **Westerstraat** как раз бывшие каналы. **Bloemgracht** иногда называют «Херенграхтом Jordaan»: здесь стоят более богатые дома с изящными фронтонами. Обратите внимание на **hofjes** — скрытые внутренние дворики-богадельни; некоторые открыты для тихого посещения днём, вход обычно через неприметную дверь.
+
+        Финал — **Noordermarkt** у Noorderkerk (церковь 1620-х годов). По понедельникам утром здесь блошиный рынок, по субботам — фермерский; на Westerstraat по понедельникам тканевый рынок. Кафе **Winkel 43** на углу площади славится яблочным пирогом. Рядом, на Prinsengracht, — Дом Анны Франк и Westerkerk; билеты в музей нужно бронировать заранее онлайн.
+      en: |
+        The district was laid out in the early 17th century during the great city expansion, when housing was needed beyond the main canal ring for craftsmen, workers and refugees, including Huguenots. Its streets and canals run at an angle to the rest of the city grid because they follow old field ditches and boundaries. The origin of the name is disputed; a popular theory derives it from the French jardin, "garden".
+
+        Many Jordaan canals were later filled in — **Elandsgracht** and **Westerstraat** are former canals. **Bloemgracht** is sometimes called "the Herengracht of the Jordaan" for its wealthier houses and elegant gables. Look out for **hofjes** — hidden almshouse courtyards; some are open for quiet visits during the day, usually through an inconspicuous door.
+
+        The walk ends at **Noordermarkt** by the Noorderkerk (a church from the 1620s). On Monday mornings there is a flea market, on Saturdays a farmers' market; Westerstraat has a fabric market on Mondays. Café **Winkel 43** on the corner is famous for its apple pie. Nearby on Prinsengracht are the Anne Frank House and the Westerkerk; museum tickets must be booked online in advance.
+
+  - name: {en: Leidsestraat, ru: Leidsestraat}
+    lat: 52.36660
+    lng: 4.88710
+    approach: [Prinsengracht, Spiegelgracht]
+    walk_min: 20
+    short:
+      ru: |
+        От Jordaan возвращаемся на юго-восток к историческому центру: Noordermarkt → Prinsengracht → Spiegelgracht → Leidsestraat.
+
+        Leidsestraat исторически связывает Leidseplein с центром. Участок интересен прежде всего городской архитектурой и каналами вокруг.
+      en: |
+        From the Jordaan we head south-east back toward the historic centre: Noordermarkt → Prinsengracht → Spiegelgracht → Leidsestraat.
+
+        Leidsestraat has long linked Leidseplein with the centre. This stretch is mainly about townscape and the canals around it.
+    long:
+      ru: |
+        Прогулка вдоль **Prinsengracht** — самого длинного из трёх главных каналов «пояса каналов» XVII века (объект ЮНЕСКО). Обратите внимание на разнообразие фронтонов — ступенчатые, колоколообразные, шейные — и на балки с крюками под коньком: через окна по ним поднимали грузы, ведь лестницы в узких домах слишком крутые.
+
+        **Spiegelgracht** и продолжающая её **Nieuwe Spiegelstraat** — улица антикварных лавок и галерей, ведущая прямо к Рейксмузеуму. Даже если вы не собираетесь ничего покупать, витрины с картами, фарфором и старинными гравюрами стоит посмотреть.
+
+        На самой Leidsestraat ходит трамвай, поэтому смотрите по сторонам. На углу с Keizersgracht стоит бывший универмаг **Metz & Co** со стеклянным куполом-павильоном Геррита Ритвельда на крыше. С мостов через Herengracht, Keizersgracht и Prinsengracht открываются классические «открыточные» виды вдоль каналов.
+      en: |
+        The walk follows **Prinsengracht**, the longest of the three main canals of the 17th-century canal ring (a UNESCO site). Notice the variety of gables — step, bell and neck gables — and the hoisting beams under the roofline: goods were lifted in through the windows because the staircases in these narrow houses are too steep.
+
+        **Spiegelgracht** and its continuation **Nieuwe Spiegelstraat** form the antiques and gallery street leading straight to the Rijksmuseum. Even if you are not buying, the windows full of maps, porcelain and old prints are worth a look.
+
+        Trams run along Leidsestraat itself, so watch your step. At the corner with Keizersgracht stands the former **Metz & Co** department store with Gerrit Rietveld's glass rooftop pavilion. The bridges over Herengracht, Keizersgracht and Prinsengracht give the classic postcard views along the canals.
+
+  - name: {en: Bloemenmarkt & Munttoren, ru: Bloemenmarkt и Munttoren}
+    place: "Bloemenmarkt, Amsterdam"
+    lat: 52.36680
+    lng: 4.89150
+    approach: [Koningsplein, Singel]
+    inside: [Munttoren]
+    walk_min: [20, 30]
+    short:
+      ru: |
+        Leidsestraat → Koningsplein → Singel → Bloemenmarkt → Munttoren.
+
+        Bloemenmarkt занимает исторический участок Singel и знаменит цветочными лавками на плавучих платформах. Рядом стоит Munttoren — часть старых городских укреплений.
+      en: |
+        Leidsestraat → Koningsplein → Singel → Bloemenmarkt → Munttoren.
+
+        The Bloemenmarkt occupies a historic stretch of the Singel and is famous for its flower stalls on floating platforms. Next to it stands the Munttoren, part of the old city fortifications.
+    long:
+      ru: |
+        **Singel** — бывший средневековый городской ров, самый внутренний из каналов кольца. Цветочный рынок работает на нём с XIX века; раньше товар привозили по воде прямо на лодках, отсюда и традиция «плавучих» лавок — сейчас это павильоны на понтонах.
+
+        Сегодня рынок во многом ориентирован на туристов: луковицы тюльпанов, сувениры, семена. Если покупаете луковицы домой, проверьте, есть ли у них фитосанитарный сертификат для вывоза — особенно для стран за пределами ЕС. Цветы в горшках и срезка обычно лучше и дешевле в обычных цветочных магазинах и на районных рынках.
+
+        **Munttoren** (Монетная башня) — нижняя часть Regulierspoort, городских ворот XV века; ажурный верх в стиле ренессанса добавил Хендрик де Кейзер в начале XVII века. Своё имя башня получила, когда в XVII веке здесь на короткое время чеканили монету. На башне есть карийон — колокола регулярно играют мелодии. Лучший вид — с моста через Amstel на площади Muntplein.
+      en: |
+        The **Singel** was the medieval city moat and is the innermost canal of the ring. The flower market has been here since the 19th century; goods used to arrive by boat, hence the "floating" stalls — today they are pavilions on pontoons.
+
+        These days the market is largely aimed at tourists: tulip bulbs, souvenirs, seeds. If you buy bulbs to take home, check they carry a phytosanitary certificate for export, especially outside the EU. Potted plants and cut flowers are usually better and cheaper at ordinary florists and neighbourhood markets.
+
+        The **Munttoren** (Mint Tower) is the lower part of the Regulierspoort, a 15th-century city gate; the openwork Renaissance top was added by Hendrick de Keyser in the early 17th century. It got its name when coins were briefly minted here in the 17th century. The tower has a carillon that plays tunes regularly. The best view is from the Amstel bridge on Muntplein.
+
+  - name: {en: Begijnhof, ru: Begijnhof}
+    lat: 52.36940
+    lng: 4.89000
+    approach: [Begijnensteeg]
+    inside: ["Engelse Kerk, Begijnhof, Amsterdam"]
+    walk_min: [5, 10]
+    visit_min: [20, 30]
+    short:
+      ru: |
+        Bloemenmarkt → Begijnhof. Внутри: вход через Begijnensteeg → внутренний двор → Engelse Kerk → центральная лужайка → Houten Huys → выход через Spui.
+
+        Begijnhof — один из самых неожиданных тихих уголков исторического Амстердама. Это бывшее закрытое сообщество бегинок, существовавшее здесь ещё со Средневековья. После шумных улиц центра контраст особенно заметен.
+      en: |
+        Bloemenmarkt → Begijnhof. Inside: enter via Begijnensteeg → courtyard → English Church → central lawn → Houten Huys → exit via Spui.
+
+        The Begijnhof is one of the most surprising quiet corners of historic Amsterdam — a former enclosed community of Beguines that has existed here since the Middle Ages. After the noisy streets of the centre the contrast is striking.
+    long:
+      ru: |
+        **Бегинки** — католические женщины, жившие общиной и посвящавшие себя молитве и благотворительности, но не дававшие монашеских обетов: они могли владеть имуществом и при желании уйти. Двор упоминается с XIV века. После Реформации католическое богослужение было запрещено, но бегинкам позволили остаться — двор сохранился как редкий островок старого порядка внутри протестантского города.
+
+        В центре двора — **Engelse Kerk** (Английская церковь): средневековая церковь бегинок, которую в XVII веке передали англо-шотландской пресвитерианской общине. Напротив, за обычным фасадом, — **Begijnhofkapel**, «потайная» католическая часовня, построенная, когда открытые католические церкви были под запретом. Вокруг — дома XVII–XVIII веков с маленькими садиками.
+
+        Это жилой двор: здесь до сих пор живут одинокие женщины. Вход свободный днём, но просят соблюдать тишину, не заглядывать в окна и не фотографировать жителей; большие группы не допускаются. Со стороны Spui вход через арку, со стороны Kalverstraat — через узкий проход Begijnensteeg (иногда закрыт).
+      en: |
+        **Beguines** were Catholic women who lived in community, devoted to prayer and charity, but without taking monastic vows: they could own property and leave if they wished. The court is recorded from the 14th century. After the Reformation Catholic worship was banned, yet the Beguines were allowed to stay, and the court survived as a rare island of the old order inside a Protestant city.
+
+        In the middle stands the **Engelse Kerk** (English Church), the Beguines' medieval church, handed over in the 17th century to an English and Scottish Presbyterian congregation. Opposite, behind an ordinary façade, is the **Begijnhofkapel**, a "hidden" Catholic chapel built when open Catholic churches were forbidden. Around them are 17th- and 18th-century houses with tiny gardens.
+
+        This is a residential court where single women still live. Entry is free during the day, but keep quiet, don't peer into windows or photograph residents; large groups are not admitted. The Spui side has an archway entrance; from Kalverstraat you come in through the narrow Begijnensteeg passage (sometimes closed).
+
+  - name: {en: Het Houten Huys, ru: Het Houten Huys}
+    place: "Het Houten Huys, Begijnhof 34, Amsterdam"
+    lat: 52.36920
+    lng: 4.88990
+    radius_m: 40
+    walk_min: [5, 10]
+    short:
+      ru: |
+        Begijnhof → Het Houten Huys.
+
+        Het Houten Huys — один из старейших сохранившихся деревянных домов Амстердама. Он особенно хорошо показывает, насколько старой является жилая застройка города.
+      en: |
+        Begijnhof → Het Houten Huys.
+
+        Het Houten Huys is one of the oldest surviving wooden houses in Amsterdam, and shows just how old the city's housing stock is.
+    long:
+      ru: |
+        Дом №34 в Begijnhof датируется концом XV — началом XVI века. В Амстердаме это один из всего двух деревянных фасадов, доживших до наших дней; второй — **'t Aepjen** на Zeedijk, мимо которого мы пройдём позже.
+
+        Деревянные дома в средневековом городе были обычным делом, но после разрушительных пожаров XV века власти в XVI веке запретили строить деревянные фасады, и старые дома постепенно заменили кирпичными. Этот уцелел, вероятно, благодаря тихому, защищённому положению внутри двора.
+
+        Посмотрите на тёмный дощатый фасад с узким остроконечным фронтоном — так выглядела большая часть средневекового Амстердама. Рядом на стене соседнего дома — коллекция старинных резных табличек-гевельстенов (gevelstenen), которые раньше заменяли номера домов.
+      en: |
+        Number 34 in the Begijnhof dates from the late 15th or early 16th century. It is one of only two wooden façades left in Amsterdam; the other is **'t Aepjen** on the Zeedijk, which we pass later.
+
+        Wooden houses were the norm in the medieval town, but after devastating fires in the 15th century the authorities banned wooden façades in the 16th century, and the old houses were gradually replaced in brick. This one probably survived thanks to its quiet, sheltered spot inside the court.
+
+        Look at the dark board façade with its narrow pointed gable — this is what much of medieval Amsterdam looked like. On the wall next door is a collection of old carved gable stones (gevelstenen), which served as house signs before street numbers.
+
+  - name: {en: Rokin, ru: Rokin}
+    place: "Rokin, Amsterdam"
+    lat: 52.37040
+    lng: 4.89240
+    approach: [Spui]
+    walk_min: [10, 15]
+    short:
+      ru: |
+        Begijnhof → Spui → Rokin.
+
+        Rokin идёт по бывшему руслу Амстела. Двигаясь на север, мы постепенно приближаемся к историческому ядру города — площади Dam.
+      en: |
+        Begijnhof → Spui → Rokin.
+
+        Rokin follows the former bed of the Amstel. Heading north, we gradually approach the historic core of the city — Dam Square.
+    long:
+      ru: |
+        **Spui** — небольшая площадь с книжными магазинами и кафе; по пятницам здесь часто бывает книжный рынок, а у кафе Hoppe и Luxembourg — классическая амстердамская «коричневая» атмосфера. Статуя мальчика **Het Lieverdje** в середине площади в 1960-х была местом хеппенингов движения Provo.
+
+        **Rokin** — участок русла Амстела, который засыпали в несколько этапов в XIX–XX веках; южная часть до сих пор открыта воде, и там стоят прогулочные лодки. Широкая улица — след бывшей реки. В 2018 году здесь открылась станция метро линии Север–Юг; при её строительстве археологи нашли сотни тысяч предметов со дна Амстела — часть выставлена на станции Rokin в витринах у эскалаторов.
+
+        По пути обратите внимание на конную статую королевы **Вильгельмины** и на здание **Allard Pierson** — университетского музея археологии.
+      en: |
+        **Spui** is a small square with bookshops and cafés; on Fridays there is often a book market, and cafés Hoppe and Luxembourg have the classic Amsterdam "brown café" feel. The little boy statue **Het Lieverdje** in the middle was the scene of Provo movement happenings in the 1960s.
+
+        **Rokin** is a stretch of the Amstel filled in in stages in the 19th and 20th centuries; the southern part is still open water with tour boats moored. The broad street is the trace of the former river. A North–South metro station opened here in 2018; during construction archaeologists recovered hundreds of thousands of objects from the Amstel bed — some are displayed in cases at Rokin station by the escalators.
+
+        On the way, note the equestrian statue of Queen **Wilhelmina** and the **Allard Pierson**, the university's archaeology museum.
+
+  - name: {en: Dam Square, ru: Площадь Dam}
+    place: "Dam, Amsterdam"
+    lat: 52.37310
+    lng: 4.89260
+    inside: ["National Monument, Dam, Amsterdam", "Royal Palace Amsterdam", "Nieuwe Kerk, Amsterdam"]
+    walk_min: 5
+    visit_min: [20, 30]
+    short:
+      ru: |
+        Rokin → Dam. На площади пройти: National Monument → Royal Palace → Nieuwe Kerk → западная сторона площади.
+
+        Dam возникла там, где в Средние века была построена плотина через Амстел. Именно отсюда исторический Амстердам начал превращаться в крупный торговый город.
+      en: |
+        Rokin → Dam. On the square: National Monument → Royal Palace → Nieuwe Kerk → west side of the square.
+
+        Dam grew up where a dam was built across the Amstel in the Middle Ages. It is from here that historic Amsterdam began turning into a major trading city.
+    long:
+      ru: |
+        Плотина XIII века дала городу имя: Amstel + dam. Здесь перегружали товары с морских судов на речные, а на площади располагались весовая палата и рынок — сердце торгового города.
+
+        **Королевский дворец** построен в 1648–1665 годах по проекту Якоба ван Кампена как **ратуша** — на пике Золотого века; современники называли его «восьмым чудом света». Дворцом он стал при Луи Бонапарте в начале XIX века и сейчас используется королевской семьёй для приёмов; в остальное время открыт для посетителей (платно; проверьте дни работы — при официальных мероприятиях закрыт). Внутри — огромный Гражданский зал с картой мира в мраморном полу.
+
+        **Nieuwe Kerk** («Новая церковь», XV век) — место инаугурации нидерландских монархов; сейчас в ней проходят выставки (вход платный). На противоположной стороне — **Национальный монумент** (1956) — белый обелиск в память жертв Второй мировой войны; 4 мая здесь проходит национальная минута молчания. Ступени монумента — популярное место отдыха, но держите в уме, что это мемориал.
+      en: |
+        The 13th-century dam gave the city its name: Amstel + dam. Goods were transferred here from sea-going ships to river boats, and the square held the weigh house and market — the heart of the trading city.
+
+        The **Royal Palace** was built in 1648–1665 to a design by Jacob van Campen as the **city hall**, at the height of the Golden Age; contemporaries called it the "eighth wonder of the world". It became a palace under Louis Bonaparte in the early 19th century and is still used by the royal family for receptions; otherwise it is open to visitors (paid; check opening days — it closes for official events). Inside is the vast Citizens' Hall with a map of the world inlaid in the marble floor.
+
+        The **Nieuwe Kerk** ("New Church", 15th century) is where Dutch monarchs are inaugurated; today it hosts exhibitions (paid entry). Across the square is the **National Monument** (1956), a white obelisk commemorating the victims of the Second World War; the national two-minute silence is held here on 4 May. Its steps are a popular place to sit, but remember it is a memorial.
+
+  - name: {en: Oude Kerk, ru: Oude Kerk}
+    lat: 52.37430
+    lng: 4.89830
+    approach: [Damstraat, Oudezijds Voorburgwal]
+    walk_min: [5, 10]
+    visit_min: [15, 20]
+    short:
+      ru: |
+        Dam → Damstraat → Oudezijds Voorburgwal → Oude Kerk.
+
+        Oude Kerk — старейшее сохранившееся здание Амстердама. Церковь возникла ещё в Средневековье, когда эта часть города была небольшим портовым поселением.
+      en: |
+        Dam → Damstraat → Oudezijds Voorburgwal → Oude Kerk.
+
+        The Oude Kerk is the oldest surviving building in Amsterdam. The church dates back to the Middle Ages, when this part of town was a small harbour settlement.
+    long:
+      ru: |
+        Церковь освятили в начале XIV века; сначала это была небольшая деревянная часовня, которую веками расширяли до огромного готического храма. Во время Реформации интерьер лишился большей части католического убранства, но сохранился **деревянный свод** — один из крупнейших средневековых деревянных сводов в Европе.
+
+        Пол церкви — это сплошь надгробные плиты: здесь похоронены тысячи горожан, в том числе **Саския**, жена Рембрандта. Посмотрите на резные мизерикордии хоровых скамей с бытовыми и шутливыми сценами и на витражи XVI века. Сегодня церковь работает и как площадка современного искусства (вход платный).
+
+        Снаружи церковь окружена кварталом красных фонарей — контраст, о котором часто вспоминают. На площади у церкви стоит бронзовая статуя **Belle**, посвящённая секс-работникам всего мира, а в брусчатку вмонтирован небольшой бронзовый рельеф — найдите его. Рядом, на Oudezijds Voorburgwal 38–40, — музей **Ons' Lieve Heer op Solder**: тайная католическая церковь на чердаке купеческого дома XVII века, один из самых интересных небольших музеев города.
+      en: |
+        The church was consecrated in the early 14th century; it began as a small wooden chapel and was enlarged over centuries into a huge Gothic church. The Reformation stripped most of the Catholic furnishings, but the **wooden vault** survived — one of the largest medieval wooden vaults in Europe.
+
+        The floor is made entirely of gravestones: thousands of citizens are buried here, including **Saskia**, Rembrandt's wife. Look at the carved misericords on the choir stalls with everyday and comic scenes, and at the 16th-century stained glass. Today the church also serves as a contemporary art venue (paid entry).
+
+        Outside, the church is surrounded by the red-light district — a contrast that is often remarked upon. On the square stands the bronze statue **Belle**, dedicated to sex workers worldwide, and a small bronze relief is set into the cobblestones — look for it. Nearby at Oudezijds Voorburgwal 38–40 is **Ons' Lieve Heer op Solder** (Our Lord in the Attic), a hidden Catholic church in the attic of a 17th-century merchant's house and one of the city's best small museums.
+
+  - name: {en: De Wallen, ru: De Wallen}
+    place: "Oudekerksplein, Amsterdam"
+    lat: 52.37320
+    lng: 4.89950
+    radius_m: 300
+    inside: [Oudezijds Voorburgwal, Stoofsteeg, Oudezijds Achterburgwal, Trompettersteeg, Zeedijk]
+    walk_min: 2
+    visit_min: [30, 45]
+    short:
+      ru: |
+        Oude Kerk → Oudekerksplein → Oudezijds Voorburgwal → Stoofsteeg → Oudezijds Achterburgwal → Trompettersteeg → Zeedijk.
+
+        De Wallen — не просто современный Red Light District. Это один из старейших районов города, сформировавшийся вокруг средневекового порта. Узкие каналы и переулки сохранили историческую структуру кварталов.
+      en: |
+        Oude Kerk → Oudekerksplein → Oudezijds Voorburgwal → Stoofsteeg → Oudezijds Achterburgwal → Trompettersteeg → Zeedijk.
+
+        De Wallen is more than today's Red Light District. It is one of the oldest parts of the city, grown up around the medieval harbour, and its narrow canals and alleys preserve the historic street pattern.
+    long:
+      ru: |
+        «Wallen» — это валы: **Oudezijds Voorburgwal** и **Oudezijds Achterburgwal** были городскими укреплениями на «старой стороне» (oude zijde) средневекового Амстердама. Позже здесь селились купцы — на Voorburgwal до сих пор стоят богатые дома с роскошными фронтонами, — а близость порта сделала район местом моряцких таверн и, со временем, проституции.
+
+        Переулки-steeg соединяют каналы; **Trompettersteeg** считается одним из самых узких переулков города — местами шире вытянутых рук ненамного. **Zeedijk** — бывшая морская дамба, защищавшая город от вод IJ; сегодня это улица с китайским кварталом, буддийским храмом **Fo Guang Shan He Hua** и деревянным домом **'t Aepjen** (Zeedijk 1) — вторым из двух сохранившихся деревянных фасадов.
+
+        Правила: **фотографировать окна и работниц запрещено** — это требование уважается строго. Город постепенно ограничивает туристический поток: курение каннабиса на улицах района запрещено, а в поздние часы действуют ограничения для баров. Днём район гораздо спокойнее и лучше подходит для рассматривания архитектуры.
+      en: |
+        "Wallen" means walls: **Oudezijds Voorburgwal** and **Oudezijds Achterburgwal** were the ramparts on the "old side" (oude zijde) of medieval Amsterdam. Merchants later settled here — Voorburgwal still has grand houses with ornate gables — while the nearby harbour brought sailors' taverns and, eventually, prostitution.
+
+        Alleys (steeg) link the canals; **Trompettersteeg** is said to be one of the narrowest in the city — in places not much wider than your outstretched arms. **Zeedijk** was the sea dyke that protected the town from the IJ; today it runs through Chinatown, past the **Fo Guang Shan He Hua** Buddhist temple and the wooden house **'t Aepjen** (Zeedijk 1), the second of the two surviving wooden façades.
+
+        Rules: **photographing the windows and the workers is forbidden**, and this is strictly enforced. The city is gradually curbing tourist crowds: smoking cannabis on the street is banned in the area and late-night bar restrictions apply. In daytime the district is much calmer and better for looking at the architecture.
+
+  - name: {en: Magere Brug, ru: Magere Brug}
+    lat: 52.36340
+    lng: 4.90210
+    approach: [Waterlooplein, Blauwbrug]
+    walk_min: 25
+    short:
+      ru: |
+        От De Wallen идём на юго-восток, постепенно покидая исторический центр: Zeedijk → Waterlooplein → Amstel → Magere Brug.
+
+        Magere Brug — знаменитый узкий белый мост через Амстел. Нынешняя конструкция уже не та, что стояла здесь первоначально, но мост существует на этом месте много веков.
+      en: |
+        From De Wallen we head south-east, gradually leaving the historic centre: Zeedijk → Waterlooplein → Amstel → Magere Brug.
+
+        The Magere Brug is the famous narrow white bridge over the Amstel. Today's structure is not the original one, but there has been a bridge on this spot for centuries.
+    long:
+      ru: |
+        По пути — **Waterlooplein**: площадь, где ежедневно, кроме воскресенья, работает блошиный рынок, а рядом стоит **Stopera** — комплекс ратуши и оперного театра. В двух шагах — **Дом-музей Рембрандта** на Jodenbreestraat: художник жил здесь почти 20 лет. Этот район был сердцем еврейского Амстердама; по пути встретятся Португальская синагога XVII века и Еврейский музей.
+
+        Через Амстел переходим по **Blauwbrug** — мосту с фонарями, украшенными коронами, — и идём вдоль реки на юг. Отсюда видны театр **Carré** на противоположном берегу и широкая излучина Амстела.
+
+        **Magere Brug** («тощий мост») — разводной мост голландского типа; первый узкий мост здесь появился в XVII веке, нынешний вариант — XX века. Легенда связывает имя с двумя сёстрами Магер, жившими по разные берега, но вероятнее всего, мост просто был очень узким. Лучше всего он выглядит **после заката**, когда зажигается подсветка из сотен лампочек; хорошие ракурсы — с набережной Amstel к северу от моста.
+      en: |
+        On the way is **Waterlooplein**, where a flea market runs every day except Sunday, next to the **Stopera**, the combined city hall and opera house. Close by on Jodenbreestraat is the **Rembrandt House Museum**, where the painter lived for almost 20 years. This area was the heart of Jewish Amsterdam; you will pass the 17th-century Portuguese Synagogue and the Jewish Museum.
+
+        Cross the Amstel on the **Blauwbrug**, with its crown-topped lamps, and walk south along the river. You can see the **Carré** theatre on the opposite bank and the wide bend of the Amstel.
+
+        The **Magere Brug** ("skinny bridge") is a Dutch-style drawbridge; the first narrow bridge here dates from the 17th century, the current version from the 20th. Legend links the name to two sisters called Mager who lived on opposite banks, but most likely the bridge was simply very narrow. It looks best **after dark**, lit by hundreds of bulbs; good angles are from the Amstel quay north of the bridge.
+
+  - name: {en: De Gooyer windmill, ru: Мельница De Gooyer}
+    place: "Molen De Gooyer, Funenkade 5, Amsterdam"
+    lat: 52.36680
+    lng: 4.92650
+    approach: [Nieuwe Keizersgracht, Plantage Middenlaan]
+    walk_min: 25
+    short:
+      ru: |
+        Magere Brug → Nieuwe Keizersgracht → Plantage → De Gooyer.
+
+        De Gooyer — одна из самых известных ветряных мельниц Амстердама. Она стоит на старом бастионе и особенно эффектно выглядит рядом с современной городской застройкой. Рядом находится Brouwerij 't IJ.
+      en: |
+        Magere Brug → Nieuwe Keizersgracht → Plantage → De Gooyer.
+
+        De Gooyer is one of Amsterdam's best-known windmills. It stands on an old bastion and looks especially striking next to the modern city around it. Brouwerij 't IJ is right next door.
+    long:
+      ru: |
+        **Plantage** — район XIX века с широкими бульварами и зеленью. По пути на Plantage Middenlaan — ботанический сад **Hortus Botanicus** (один из старейших в мире), зоопарк **Artis** и **Hollandsche Schouwburg** — бывший театр, откуда во время оккупации депортировали евреев Амстердама; сейчас это мемориал (вход свободный), рядом — Национальный музей Холокоста.
+
+        **De Gooyer** — мельница XVIII века, на нынешнее место, на бастион старых укреплений, её перенесли в начале XIX века. Это одна из самых высоких деревянных мельниц страны. Изначально она молола зерно; сейчас — частная собственность и внутрь не пускают, но снаружи её прекрасно видно.
+
+        У подножия мельницы — пивоварня **Brouwerij 't IJ** в здании бывших городских бань, с террасой: хорошее место для отдыха на середине длинного маршрута. Пиво варят прямо на месте; есть простые закуски.
+      en: |
+        **Plantage** is a 19th-century district of broad boulevards and greenery. Along Plantage Middenlaan you pass the **Hortus Botanicus** (one of the oldest botanical gardens in the world), **Artis** zoo and the **Hollandsche Schouwburg** — a former theatre from which Amsterdam's Jews were deported during the occupation; it is now a memorial (free entry), next to the National Holocaust Museum.
+
+        **De Gooyer** is an 18th-century mill that was moved to its present spot on a bastion of the old fortifications in the early 19th century. It is one of the tallest wooden mills in the country. It originally ground grain; today it is privately owned and not open inside, but you get a great view from outside.
+
+        At its foot is **Brouwerij 't IJ**, a brewery in the former public bathhouse, with a terrace — a good mid-route break. The beer is brewed on site, and there are simple snacks.
+
+  - name: {en: Pythonbrug, ru: Pythonbrug}
+    lat: 52.37680
+    lng: 4.93640
+    approach: [Oostenburgergracht, Entrepotdok]
+    walk_min: [20, 30]
+    short:
+      ru: |
+        De Gooyer → Oostenburgergracht → Entrepotdok → Pythonbrug.
+
+        Здесь исторический Амстердам сменяется современной архитектурой. Pythonbrug — характерный пример современной голландской инженерии: пешеходный мост буквально изгибается над водой, напоминая змею.
+      en: |
+        De Gooyer → Oostenburgergracht → Entrepotdok → Pythonbrug.
+
+        Here historic Amsterdam gives way to contemporary architecture. The Pythonbrug is a signature piece of modern Dutch design: a footbridge that literally writhes over the water like a snake.
+    long:
+      ru: |
+        **Oostenburg** — бывшая верфь и склады Голландской Ост-Индской компании (VOC): здесь строили и снаряжали корабли, уходившие в Азию. **Entrepotdok** — длинный ряд складов XIX века для товаров «в транзите» (entrepot), которые хранили без уплаты пошлин; сейчас склады переделаны в жильё, а вдоль канала стоят плавучие дома.
+
+        Дальше — **Восточные доки** (Oostelijk Havengebied): в 1990-х бывшие портовые острова Борнео и Споренбург застроили экспериментальным жильём. Генеральный план делало бюро West 8, и квартал стал одним из самых известных примеров современной голландской застройки.
+
+        **Pythonbrug** (официально Hoge Brug) — красный пешеходный мост, соединяющий Споренбург и Борнео над Spoorwegbassin. Высокий изгиб позволяет проходить лодкам. Мост крутой — подъём и спуск по ступеням; лучшее фото — с набережной сбоку, чтобы видеть всю «змею». На Борнео стоит пройти по улице с узкими домами-«таунхаусами» у воды — каждый спроектирован отдельно.
+      en: |
+        **Oostenburg** was the shipyard and warehouse area of the Dutch East India Company (VOC), where ships bound for Asia were built and fitted out. **Entrepotdok** is a long row of 19th-century warehouses for goods "in transit" (entrepot), stored without paying duties; they have been converted into homes, and houseboats line the canal.
+
+        Further on are the **Eastern Docklands** (Oostelijk Havengebied): in the 1990s the former port islands of Borneo and Sporenburg were built up with experimental housing. The masterplan was by West 8, and the area became one of the best-known examples of contemporary Dutch urbanism.
+
+        The **Pythonbrug** (officially Hoge Brug) is a red footbridge linking Sporenburg and Borneo over the Spoorwegbassin. Its high arch lets boats through. It is steep — steps up and down; the best photo is from the quay to the side so you see the whole "snake". On Borneo, walk past the narrow waterfront townhouses, each designed individually.
+
+  - name: {en: National Maritime Museum, ru: Морской музей}
+    place: "Het Scheepvaartmuseum, Amsterdam"
+    lat: 52.37170
+    lng: 4.91540
+    approach: [Marineterrein]
+    walk_min: [20, 30]
+    visit_min: [20, 30]
+    short:
+      ru: |
+        Pythonbrug → Marineterrein → National Maritime Museum.
+
+        Marineterrein — бывшая военно-морская территория. Отсюда хорошо виден старый портовый Амстердам. Сам Maritime Museum посвящён главной исторической силе Нидерландов — морской торговле, судоходству и колониальной эпохе.
+      en: |
+        Pythonbrug → Marineterrein → National Maritime Museum.
+
+        The Marineterrein is a former naval base with good views of old harbour Amsterdam. The Maritime Museum itself is devoted to the Netherlands' great historic strength — sea trade, shipping and the colonial era.
+    long:
+      ru: |
+        **Marineterrein** с XVII века принадлежал Адмиралтейству и военно-морскому флоту и веками был закрыт для горожан. Сейчас большая часть территории открыта: здесь кафе, стартапы, лужайки, а летом — купание в бассейне гавани. Это одно из самых спокойных мест у воды в центре.
+
+        **Het Scheepvaartmuseum** размещается в здании **'s Lands Zeemagazijn** (1656) — бывшем арсенале и складе Адмиралтейства. Внутренний двор накрыт современной стеклянной крышей с узором из морских карт. Музей платный; снаружи свободно можно посмотреть на здание и на пришвартованную рядом **реплику ост-индского корабля «Amsterdam»** XVIII века.
+
+        Если решите зайти — выделите минимум 1,5–2 часа: коллекции карт, глобусов, навигационных приборов и корабельных моделей одни из лучших в мире. Музей честно рассказывает и о тёмной стороне эпохи — колониализме и работорговле.
+      en: |
+        From the 17th century the **Marineterrein** belonged to the Admiralty and the navy and was closed to the public for centuries. Today most of it is open: cafés, start-ups, lawns, and harbour swimming in summer. It is one of the calmest waterside spots in the centre.
+
+        **Het Scheepvaartmuseum** occupies **'s Lands Zeemagazijn** (1656), the Admiralty's former arsenal and storehouse. The courtyard is covered by a modern glass roof patterned after nautical charts. The museum charges admission; from outside you can freely see the building and the **replica of the 18th-century East Indiaman "Amsterdam"** moored alongside.
+
+        If you go in, allow at least 1.5–2 hours: its collections of maps, globes, navigation instruments and ship models are among the best in the world. The museum also openly addresses the darker side of the era — colonialism and the slave trade.
+
+  - name: {en: NEMO Science Museum, ru: Музей науки NEMO}
+    place: "NEMO Science Museum, Amsterdam"
+    lat: 52.37410
+    lng: 4.91230
+    approach: [Oosterdok]
+    walk_min: 15
+    short:
+      ru: |
+        Здесь лучше идти вдоль воды, а не напрямую через улицы: Maritime Museum → Oosterdok → Oosterdokskade → NEMO.
+
+        Здание NEMO намеренно напоминает огромный корабль, выходящий из воды. Даже без посещения музея стоит подняться на его крышу, если она открыта: оттуда один из лучших бесплатных видов на центральный Амстердам.
+      en: |
+        Walk along the water rather than through the streets: Maritime Museum → Oosterdok → Oosterdokskade → NEMO.
+
+        The NEMO building deliberately looks like a huge ship rising from the water. Even without visiting the museum, climb to the roof if it's open: it's one of the best free views of central Amsterdam.
+    long:
+      ru: |
+        Здание построено в 1997 году по проекту **Ренцо Пиано** (соавтора парижского Центра Помпиду). Оно стоит прямо над въездом в тоннель под IJ, и его зелёный медный «нос» поднимается из воды, как корпус корабля.
+
+        **Крыша** — широкая лестница-амфитеатр с террасой: подъём по наружным ступеням бесплатный, обычно открыт в тёплый сезон и в хорошую погоду (часы меняются — уточните на месте). Сверху видно Oosterdok, старые корабли, крыши центра и башни церквей. Наверху есть кафе.
+
+        Сам музей — интерактивный научный центр, особенно интересный с детьми; вход платный, лучше бронировать заранее. Вдоль Oosterdok пришвартованы исторические суда, а рядом — плавучая часть Морского музея.
+      en: |
+        The building opened in 1997 to a design by **Renzo Piano** (co-architect of the Centre Pompidou in Paris). It sits right on top of the IJ tunnel entrance, and its green copper "bow" rises from the water like a ship's hull.
+
+        The **roof** is a broad stepped amphitheatre with a terrace: climbing the outside steps is free, usually open in the warmer months and in good weather (hours vary — check on site). From the top you see the Oosterdok, the old ships, the rooftops of the centre and the church towers. There is a café up there.
+
+        The museum itself is a hands-on science centre, especially good with children; admission is paid and booking ahead is recommended. Historic vessels are moored along the Oosterdok nearby.
+
+  - name: {en: Amsterdam Centraal, ru: Amsterdam Centraal}
+    place: "Amsterdam Centraal"
+    lat: 52.37890
+    lng: 4.90000
+    radius_m: 250
+    approach: [Oosterdokskade, Prins Hendrikkade]
+    walk_min: 15
+    short:
+      ru: |
+        NEMO → Oosterdokskade → Prins Hendrikkade → Amsterdam Centraal.
+
+        Финальный участок проходит вдоль воды к главному вокзалу. Amsterdam Centraal построен в XIX веке на искусственно созданных островах и сегодня является главным транспортным узлом Амстердама.
+      en: |
+        NEMO → Oosterdokskade → Prins Hendrikkade → Amsterdam Centraal.
+
+        The final stretch runs along the water to the main station. Amsterdam Centraal was built in the 19th century on artificial islands and is today the city's main transport hub.
+    long:
+      ru: |
+        Вокзал открыт в 1889 году; архитектор — **Питер Кейперс**, тот же, что построил Рейксмузеум, поэтому у зданий похожий неоготический-неоренессансный стиль из красного кирпича. Вокзал стоит на трёх искусственных островах в IJ и опирается на тысячи деревянных свай. Его постройка отрезала город от открытой воды, что в своё время вызвало много споров.
+
+        Посмотрите на фасад: два шпиля, на одном — часы, на другом — флюгер-указатель направления ветра (когда-то важный для порта). На **Oosterdokskade** вы пройдёте мимо центральной городской библиотеки **OBA** — с её верхнего этажа (кафе) тоже открывается отличный бесплатный вид.
+
+        За вокзалом, со стороны IJ, — бесплатные паромы в Amsterdam-Noord (к киноцентру EYE и башне A'DAM Lookout). У вокзала — рядом с Prins Hendrikkade — стоит базилика Святого Николая, а на площади Stationsplein — огромный велопарк, в том числе подводный.
+      en: |
+        The station opened in 1889; its architect was **Pierre Cuypers**, who also built the Rijksmuseum, hence the similar red-brick neo-Gothic/neo-Renaissance style. It stands on three artificial islands in the IJ, supported by thousands of wooden piles. Building it cut the city off from the open water, which was controversial at the time.
+
+        Look at the façade: two towers, one with a clock and the other with a wind-direction dial (once important for the harbour). On **Oosterdokskade** you pass the central public library **OBA** — its top-floor café also has a great free view.
+
+        Behind the station on the IJ side are free ferries to Amsterdam-Noord (to the EYE film museum and A'DAM Lookout tower). Opposite, by Prins Hendrikkade, is the Basilica of St Nicholas, and on Stationsplein there is a huge bicycle garage, partly under water.

@@ -1,0 +1,214 @@
+country: {en: Belgium, ru: Бельгия}
+city: {en: Bruges, ru: Брюгге}
+name: {en: Short walk, ru: Короткий маршрут}
+place_suffix: Brugge
+summary:
+  ru: "≈3,5–4 км / 2–2,5 часа"
+  en: "≈3.5–4 km / 2–2.5 h"
+map_url: https://www.google.com/maps/dir/Ezelpoort,+Brugge/Jan+van+Eyckplein,+Brugge/Markt,+Brugge/Burg,+Brugge/Rozenhoedkaai,+Brugge/Bonifaciusbrug,+Brugge/Onze-Lieve-Vrouwekerk,+Brugge/Begijnhof,+Brugge/Minnewater,+Brugge/Smedenpoort,+Brugge/Stera+Plantenbar,+Lange+Vesting+16,+Brugge
+points:
+  - name: {en: Ezelpoort}
+    lat: 51.21352
+    lng: 3.21544
+    short:
+      ru: Ezelpoort — средневековые городские ворота, начало маршрута.
+      en: Ezelpoort — a medieval city gate and the start of the walk.
+    long:
+      ru: |
+        Ezelpoort («Ослиные ворота») — одни из четырёх сохранившихся городских ворот Брюгге наряду с Kruispoort, Gentpoort и Smedenpoort. Ворота появились в XIV веке, когда город обнёс себя второй линией укреплений, а нынешний облик получили при перестройке в XVII веке.
+
+        Ворота стоят на кольцевом канале, который повторяет линию бывших стен. Здесь часто плавают лебеди — один из символов Брюгге. Оглянитесь на сам канал: зелёные валы вдоль него — остатки городских укреплений, сейчас это парковая дорожка.
+
+        Совет: если вы приезжаете с утра, это хорошее спокойное место для старта — туристические толпы начинаются ближе к Markt.
+      en: |
+        Ezelpoort ("Donkey Gate") is one of the four surviving city gates of Bruges, together with Kruispoort, Gentpoort and Smedenpoort. It dates back to the 14th century, when the city built its second ring of fortifications, and got its current look during a 17th-century rebuild.
+
+        The gate stands on the ring canal that traces the former walls. Swans — one of the symbols of Bruges — are often seen here. The green embankments along the canal are what remains of the ramparts; today they are a park path.
+
+        Tip: in the morning this is a quiet place to start — the crowds only begin closer to the Markt.
+
+  - name: {en: Jan van Eyckplein}
+    lat: 51.21021
+    lng: 3.22501
+    approach: [Ezelstraat]
+    walk_min: 10
+    short:
+      ru: |
+        - **Ezelstraat** — старинная улица.
+        - **Jan van Eyckplein** — бывший торговый порт с памятником Яну ван Эйку.
+      en: |
+        - **Ezelstraat** — an old street.
+        - **Jan van Eyckplein** — the former trading port with a statue of Jan van Eyck.
+    long:
+      ru: |
+        В Средние века Брюгге был одним из главных торговых городов Северной Европы: корабли приходили по каналам от залива Zwin, а сюда, к концу канала Spiegelrei, разгружали товары. Площадь была деловым сердцем города — здесь работали купцы из Генуи, Флоренции, Ганзы.
+
+        Обратите внимание на **Poortersloge** — здание с узкой башней, где собирались богатые горожане (на фасаде — статуя медведя, символа Брюгге), и на **Tolhuis**, бывшую таможню, где взимали пошлины с товаров. Памятник Яну ван Эйку, великому фламандскому живописцу, работавшему в Брюгге в XV веке, поставлен в 1878 году.
+
+        Отсюда открывается красивый вид вдоль канала Spiegelrei — стоит пройти по нему несколько десятков метров ради фото.
+      en: |
+        In the Middle Ages Bruges was one of the leading trading cities of Northern Europe: ships arrived via the canals from the Zwin inlet, and goods were unloaded here, at the end of the Spiegelrei canal. The square was the city's business heart, where merchants from Genoa, Florence and the Hanseatic League did their deals.
+
+        Look for the **Poortersloge**, the slender-towered building where wealthy burghers met (with a bear, the symbol of Bruges, on its facade), and the **Tolhuis**, the old toll house where duties on goods were collected. The statue of Jan van Eyck, the great Flemish painter who worked in Bruges in the 15th century, was erected in 1878.
+
+        The view down the Spiegelrei canal is lovely — walk a few dozen metres along it for photos.
+
+  - name: {en: Markt}
+    lat: 51.20890
+    lng: 3.22422
+    radius_m: 120
+    approach: [Sint-Jakobsstraat]
+    walk_min: 10
+    short:
+      ru: Sint-Jakobsstraat по пути; Markt — главная площадь, Belfort и исторические здания гильдий.
+      en: Sint-Jakobsstraat on the way; the Markt is the main square, with the Belfort and historic guild houses.
+    long:
+      ru: |
+        Markt — главная площадь Брюгге с X века, место рынков, праздников и казней. Над ней возвышается **Belfort** — колокольня высотой 83 метра (XIII–XV века), где хранились городские привилегии и казна. Наверх ведут 366 ступеней; оттуда виден весь город. Число посетителей наверху ограничено, поэтому днём бывает очередь — лучше прийти к открытию.
+
+        В центре площади — памятник **Яну Брейделю и Питеру де Конинку**, лидерам восстания 1302 года против французов, которое завершилось Битвой золотых шпор. Восточную сторону занимает неоготический **Provinciaal Hof**, а по другим сторонам стоят цветные дома с лестничными фронтонами, где когда-то размещались гильдии.
+
+        Совет: здесь же продают знаменитую бельгийскую картошку фри — киоски стоят у подножия Belfort.
+      en: |
+        The Markt has been the main square of Bruges since the 10th century — the place for markets, festivals and executions. Above it rises the **Belfort**, an 83-metre belfry (13th–15th centuries) that once held the city's charters and treasury. 366 steps lead to the top, with a view over the whole city. Visitor numbers at the top are limited, so there is often a queue in the afternoon — come at opening time.
+
+        In the middle of the square stands the statue of **Jan Breydel and Pieter de Coninck**, leaders of the 1302 uprising against the French that culminated in the Battle of the Golden Spurs. The east side is taken by the neo-Gothic **Provinciaal Hof**; the other sides are lined with colourful stepped-gable houses, once home to the guilds.
+
+        Tip: the famous Belgian fries are sold right here, from stands at the foot of the Belfort.
+
+  - name: {en: Burg}
+    lat: 51.20836
+    lng: 3.22715
+    walk_min: 5
+    short:
+      ru: Burg — исторический центр города; здесь находятся готическая ратуша и Basilica of the Holy Blood.
+      en: The Burg is the historic heart of the city, home to the Gothic town hall and the Basilica of the Holy Blood.
+    long:
+      ru: |
+        Именно здесь, на месте крепости графов Фландрии IX века, возник Брюгге — отсюда и название площади. Если Markt была торговым центром, то Burg — центром власти, светской и церковной.
+
+        **Ратуша (Stadhuis)**, построенная в 1376–1420 годах, — одна из старейших готических ратуш Нидерландов и Бельгии. Внутри — Готический зал с расписным деревянным сводом. В углу площади — **Базилика Святой Крови**: нижняя романская капелла Святого Василия XII века и верхняя, богато украшенная, где хранится реликвия — по преданию, капли крови Христа, привезённые из Крестовых походов. Каждый год в День Вознесения по городу проходит Процессия Святой Крови.
+
+        Совет: из угла площади через арку под переходом идёт улица Blinde-Ezelstraat («Улица слепого осла») — короткий путь к рыбному рынку Vismarkt.
+      en: |
+        Bruges was born here, on the site of a 9th-century fortress of the Counts of Flanders — hence the name. If the Markt was the commercial centre, the Burg was the centre of power, both secular and religious.
+
+        The **Stadhuis** (town hall), built in 1376–1420, is one of the oldest Gothic town halls in the Low Countries; inside is the Gothic Hall with its painted wooden vault. In the corner of the square is the **Basilica of the Holy Blood**: a 12th-century Romanesque lower chapel of St Basil and an ornate upper chapel holding a relic said to contain drops of Christ's blood brought back from the Crusades. Every year on Ascension Day the Procession of the Holy Blood winds through the city.
+
+        Tip: an archway in the corner of the square leads into Blinde-Ezelstraat ("Blind Donkey Street"), a shortcut to the Vismarkt fish market.
+
+  - name: {en: Rozenhoedkaai}
+    lat: 51.20722
+    lng: 3.22715
+    radius_m: 100
+    walk_min: 5
+    short:
+      ru: Один из самых известных видов Брюгге — канал, старые дома и Belfort. Отличное место для фото.
+      en: One of the most famous views of Bruges — the canal, old houses and the Belfort. A great photo spot.
+    long:
+      ru: |
+        «Набережная чёток» — пожалуй, самая растиражированная открытка Брюгге: изгиб канала Dijver, старые кирпичные дома прямо над водой и башня Belfort на заднем плане. Название связано с торговцами чётками, которые, по одной версии, работали здесь в Средние века.
+
+        Рядом находятся **Huidenvettersplein** — небольшая площадь кожевников с ресторанами — и колоннада **Vismarkt**, рыбного рынка начала XIX века, где по утрам до сих пор иногда торгуют рыбой.
+
+        Совет: неподалёку причаливают прогулочные лодки — 30-минутная экскурсия по каналам даёт совсем другой взгляд на город. Лучший свет для фото — утром и ближе к закату.
+      en: |
+        The "Quay of the Rosary" is probably the most reproduced postcard of Bruges: a bend of the Dijver canal, old brick houses rising straight from the water and the Belfort in the background. The name is linked to rosary makers who, according to one story, worked here in the Middle Ages.
+
+        Nearby are **Huidenvettersplein**, the small tanners' square full of restaurants, and the colonnade of the **Vismarkt**, an early-19th-century fish market where fish is still occasionally sold in the mornings.
+
+        Tip: canal boats moor close by — a 30-minute ride gives a whole new view of the city. The best light for photos is in the morning and towards sunset.
+
+  - name: {en: Onze-Lieve-Vrouwekerk, ru: Церковь Богоматери}
+    place: Onze-Lieve-Vrouwekerk, Brugge
+    lat: 51.20491
+    lng: 3.22489
+    approach: [Bonifaciusbrug]
+    walk_min: 10
+    short:
+      ru: |
+        - **Bonifaciusbrug** — красивый маленький мост.
+        - Рядом **Gruuthuse** и **церковь Богоматери** с «Мадонной с младенцем» Микеланджело.
+      en: |
+        - **Bonifaciusbrug** — a pretty little bridge.
+        - Next to it, **Gruuthuse** and the **Church of Our Lady** with Michelangelo's *Madonna and Child*.
+    long:
+      ru: |
+        **Bonifaciusbrug** выглядит средневековым, но на самом деле построен в 1910 году — что не мешает ему быть одним из самых романтичных мест города. Рядом стоит дворец **Gruuthuse** — резиденция сеньоров Грутхузе, разбогатевших на монополии на «грют», травяную смесь для пивоварения. Сейчас там музей.
+
+        Кирпичная башня **церкви Богоматери** высотой около 115 метров — одна из самых высоких кирпичных башен в мире. Внутри — главная художественная ценность Брюгге: мраморная «Мадонна с младенцем» Микеланджело (около 1504 года), единственная его скульптура, покинувшая Италию при жизни мастера. Её купил и подарил церкви брюггский купец. Здесь же — гробницы Карла Смелого и его дочери Марии Бургундской.
+
+        Совет: вход в саму церковь свободный, но к Мадонне и гробницам ведёт платная музейная часть.
+      en: |
+        **Bonifaciusbrug** looks medieval but was actually built in 1910 — which does not stop it from being one of the most romantic spots in town. Next to it stands the **Gruuthuse** palace, home of the lords of Gruuthuse, who grew rich on the monopoly of "gruit", the herb mixture used in brewing. It is now a museum.
+
+        The brick tower of the **Church of Our Lady**, about 115 metres high, is one of the tallest brick towers in the world. Inside is the greatest artistic treasure of Bruges: Michelangelo's marble *Madonna and Child* (c. 1504), the only sculpture of his to leave Italy during his lifetime — a Bruges merchant bought it and donated it to the church. The church also holds the tombs of Charles the Bold and his daughter Mary of Burgundy.
+
+        Tip: entry to the church itself is free, but the Madonna and the tombs are in the paid museum section.
+
+  - name: {en: Begijnhof, ru: Бегинаж}
+    place: Begijnhof, Brugge
+    lat: 51.20073
+    lng: 3.22398
+    walk_min: 10
+    short:
+      ru: Тихий исторический бегинаж с белыми домиками и внутренним двором.
+      en: A quiet historic béguinage with white houses and an inner courtyard.
+    long:
+      ru: |
+        Бегинаж «Ten Wijngaarde» основан в 1245 году. Бегинки — благочестивые одинокие женщины и вдовы, которые жили общиной, но не принимали монашеских обетов и могли вернуться в мир. Фламандские бегинажи включены в список Всемирного наследия ЮНЕСКО.
+
+        Последние бегинки жили здесь до 1920-х годов; с 1927 года в бегинаже живут сёстры-бенедиктинки, а часть домиков занимают жительницы города. Белые дома вокруг лужайки с высокими деревьями, небольшая церковь и маленький музей-дом бегинки дают представление о жизни общины. Весной лужайка покрыта нарциссами.
+
+        Пожалуйста, соблюдайте тишину — здесь живут люди. Ворота закрываются вечером (обычно около 18:30).
+      en: |
+        The "Ten Wijngaarde" béguinage was founded in 1245. Beguines were devout single women and widows who lived in a community without taking monastic vows and were free to return to the world. The Flemish béguinages are a UNESCO World Heritage Site.
+
+        The last beguines lived here until the 1920s; since 1927 the béguinage has been home to Benedictine sisters, while some of the houses are rented to women from the city. The white houses around a lawn with tall trees, the small church and a tiny museum house give an idea of community life. In spring the lawn is covered with daffodils.
+
+        Please keep quiet — people live here. The gates close in the evening (usually around 18:30).
+
+  - name: {en: Minnewater}
+    lat: 51.19867
+    lng: 3.22542
+    radius_m: 200
+    walk_min: 5
+    short:
+      ru: Minnewaterpark, озеро и знаменитый Lovers' Bridge. Хорошее место для короткой паузы.
+      en: Minnewaterpark, the lake and the famous Lovers' Bridge. A good place for a short break.
+    long:
+      ru: |
+        Minnewater часто называют «Озером любви», и по мосту через него влюблённым положено пройти вместе. На самом деле это бывший портовый бассейн: сюда приходили баржи из Гента и других городов, и здесь начиналась внутренняя сеть каналов Брюгге.
+
+        На берегу стоит **Poertoren** — пороховая башня 1398 года, часть старых укреплений. Вокруг — тенистый парк с лебедями и скамейками; это одно из самых спокойных мест в центре.
+
+        Совет: если нужна пауза, здесь удобно посидеть у воды перед последним, самым длинным участком маршрута.
+      en: |
+        Minnewater is often called the "Lake of Love", and lovers are supposed to cross its bridge together. In fact it is a former harbour basin: barges from Ghent and other towns arrived here, and Bruges' inner canal network began here.
+
+        On the shore stands the **Poertoren**, a gunpowder tower from 1398 and part of the old fortifications. Around it is a shady park with swans and benches — one of the calmest places in the centre.
+
+        Tip: if you need a break, sit by the water here before the last and longest leg of the walk.
+
+  - name: {en: Stera Plantenbar}
+    place: Stera Plantenbar, Lange Vesting 16, Brugge
+    lat: 51.20510
+    lng: 3.21295
+    approach: [Smedenpoort]
+    walk_min: 20
+    short:
+      ru: Прогулка вдоль старых укреплений; **Smedenpoort** — ещё одни средневековые ворота. Финал — Stera Plantenbar.
+      en: A walk along the old fortifications; **Smedenpoort** is another medieval gate. The finish is Stera Plantenbar.
+    long:
+      ru: |
+        Последний участок идёт по зелёному кольцу бывших валов вдоль канала — здесь почти нет туристов, зато много местных жителей с собаками и велосипедами.
+
+        **Smedenpoort** («Кузнечные ворота») — ворота XIV века, перестроенные позднее. На стене висит бронзовый череп: по преданию, это напоминание о предателе, который в 1688 году пытался открыть ворота французским войскам.
+
+        Финал маршрута — **Stera Plantenbar** на Lange Vesting: можно отдохнуть после прогулки.
+      en: |
+        The last leg follows the green ring of former ramparts along the canal — few tourists here, but plenty of locals walking dogs and cycling.
+
+        **Smedenpoort** ("Smiths' Gate") is a 14th-century gate, rebuilt later. A bronze skull hangs on its wall: according to tradition, it recalls a traitor who tried to open the gate to French troops in 1688.
+
+        The walk ends at **Stera Plantenbar** on Lange Vesting — a place to rest after the walk.

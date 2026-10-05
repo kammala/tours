@@ -1,0 +1,271 @@
+country: {en: Belgium, ru: Бельгия}
+city: {en: Ghent, ru: Гент}
+name: {en: Extended walk, ru: Расширенный маршрут}
+place_suffix: Gent
+summary:
+  ru: "≈5–5,5 км / 2,5–3 часа без посещения музеев"
+  en: "≈5–5.5 km / 2.5–3 h without museum visits"
+map_url: https://maps.app.goo.gl/TzrBVpfZumMuBYyb9
+outro:
+  ru: |
+    Для вашего дня я бы выбрал именно этот вариант: он уже достаточно полный, но не требует специально заходить внутрь каждого музея/церкви. Если останется время, можно спонтанно добавить внутренний осмотр собора или Gravensteen.
+  en: |
+    For your day I would pick exactly this option: it is already quite complete, but doesn't require going inside every museum or church. If you have time left, you can spontaneously add a visit inside the cathedral or the Gravensteen.
+points:
+  - name: {en: VIERNULVIER}
+    place: Viernulvier, Sint-Pietersnieuwstraat 23, Gent
+    lat: 51.04800
+    lng: 3.72764
+    short:
+      ru: Старт маршрута — культурный центр VIERNULVIER.
+      en: The start — the VIERNULVIER arts centre.
+    long:
+      ru: |
+        VIERNULVIER — один из главных культурных центров Гента: концерты, театр, клубные вечера. Здание построено в 1913–1914 годах как «праздничный дворец» социалистического кооператива Vooruit («Вперёд») — рабочие могли здесь отдыхать, ходить на концерты и в кафе. Долгое время центр так и назывался — Vooruit; новое имя он получил в 2022 году.
+
+        Обратите внимание на эклектичный фасад с башенками и большой бальный зал внутри. Кафе на первом этаже открыто для всех — хорошее место выпить кофе перед прогулкой.
+
+        Район вокруг — студенческий: рядом корпуса Гентского университета, поэтому здесь много недорогих кафе.
+      en: |
+        VIERNULVIER is one of Ghent's main arts centres: concerts, theatre, club nights. The building was built in 1913–1914 as the "festival palace" of the socialist cooperative Vooruit ("Forward"), where workers could relax, attend concerts and sit in the café. For a long time the venue carried the Vooruit name; it was renamed in 2022.
+
+        Note the eclectic facade with its turrets and the large ballroom inside. The ground-floor café is open to everyone — a good spot for a coffee before the walk.
+
+        The area around is a student district, close to Ghent University buildings, so there are plenty of inexpensive cafés.
+
+  - name: {en: Korenmarkt}
+    place: Korenmarkt, Gent
+    lat: 51.05475
+    lng: 3.72160
+    approach: [Kouter, Veldstraat]
+    walk_min: 15
+    short:
+      ru: |
+        - **Kouter** — большая историческая площадь.
+        - **Veldstraat** — главная торговая улица.
+        - **Korenmarkt** — одна из главных площадей старого Гента.
+      en: |
+        - **Kouter** — a large historic square.
+        - **Veldstraat** — the main shopping street.
+        - **Korenmarkt** — one of the main squares of old Ghent.
+    long:
+      ru: |
+        **Kouter** — просторная площадь, где с XVIII века по воскресным утрам работает цветочный рынок. Рядом находится здание Гентской оперы, а в центре площади — музыкальный павильон.
+
+        **Veldstraat** — главная пешеходная торговая улица. На ней стоит особняк **d'Hane-Steenhuyse**: в 1815 году, во время «Ста дней» Наполеона, здесь жил бежавший из Парижа король Франции Людовик XVIII.
+
+        **Korenmarkt** («Хлебный рынок») — бывшая торговая площадь, куда по реке Leie привозили зерно. Над ней возвышается **церковь Святого Николая** в стиле «шельдской готики» из серо-голубого турнейского камня. Монументальное здание бывшего почтамта (конец XIX — начало XX века) сейчас занято отелем и магазинами.
+      en: |
+        **Kouter** is a spacious square where a flower market has been held on Sunday mornings since the 18th century. The Ghent Opera house is nearby, and a music pavilion stands in the middle of the square.
+
+        **Veldstraat** is the main pedestrian shopping street. Along it stands the **d'Hane-Steenhuyse** mansion: in 1815, during Napoleon's Hundred Days, King Louis XVIII of France stayed here after fleeing Paris.
+
+        **Korenmarkt** ("Grain Market") is the old trading square where grain arrived by the river Leie. Above it rises **St Nicholas' Church**, built in the Scheldt Gothic style from blue-grey Tournai stone. The monumental former post office building (late 19th – early 20th century) is now a hotel and shops.
+
+  - name: {en: Graslei & Korenlei}
+    place: Korenlei, Gent
+    lat: 51.05530
+    lng: 3.72060
+    radius_m: 150
+    approach: [Sint-Michielsbrug, Graslei]
+    walk_min: 10
+    short:
+      ru: |
+        - **Sint-Michielsbrug** — отличная панорамная точка: отсюда одновременно видны три башни Гента.
+        - Затем спуститься к **Graslei/Korenlei**: средневековые купеческие дома вдоль Leie — один из лучших видов города.
+      en: |
+        - **Sint-Michielsbrug** — a great panoramic spot: all three towers of Ghent are visible at once.
+        - Then go down to **Graslei/Korenlei**: medieval merchant houses along the Leie — one of the best views in the city.
+    long:
+      ru: |
+        С моста **Sint-Michielsbrug** (начало XX века) открывается знаменитая панорама: в одну линию выстраиваются башни церкви Святого Николая, Belfort и собора Святого Бавона. На другом конце моста — церковь Святого Михаила.
+
+        **Graslei** и **Korenlei** — две набережные напротив друг друга, средневековый порт Гента. На Graslei стоят гильдейские дома: обратите внимание на **Koornstapelhuis** (около 1200 года) — романский зерновой склад, одно из старейших зданий города, и на богато украшенный дом гильдии вольных лодочников. Многие фасады на Korenlei восстановлены к Всемирной выставке 1913 года.
+
+        Совет: вечером местные сидят прямо на краю набережной с напитками — это одно из самых атмосферных мест Гента. Отсюда же отправляются лодочные экскурсии.
+      en: |
+        From **Sint-Michielsbrug** (early 20th century) you get the famous panorama: the towers of St Nicholas' Church, the Belfry and St Bavo's Cathedral line up in a row. At the other end of the bridge stands St Michael's Church.
+
+        **Graslei** and **Korenlei** are two quays facing each other — the medieval port of Ghent. On the Graslei stand the guild houses: look for the **Koornstapelhuis** (around 1200), a Romanesque grain warehouse and one of the oldest buildings in the city, and the richly decorated house of the Free Boatmen's guild. Many facades on the Korenlei were restored for the 1913 World's Fair.
+
+        Tip: in the evening locals sit right on the edge of the quay with drinks — one of the most atmospheric places in Ghent. Boat tours leave from here too.
+
+  - name: {en: Gravensteen}
+    place: Gravensteen, Gent
+    lat: 51.05731
+    lng: 3.72072
+    walk_min: 5
+    short:
+      ru: Gravensteen — массивный средневековый замок в самом центре. Внутрь заходить необязательно; снаружи достаточно хорошо виден.
+      en: The Gravensteen is a massive medieval castle right in the centre. No need to go inside — it is well visible from outside.
+    long:
+      ru: |
+        «Замок графов» построил в 1180 году граф Фландрии Филипп Эльзасский на месте более ранней крепости — отчасти чтобы произвести впечатление на непокорных горожан. Позже замок служил судом, тюрьмой, монетным двором и даже хлопкопрядильной фабрикой, пока в конце XIX века город не выкупил и не отреставрировал его.
+
+        Снаружи хорошо видны ров, зубчатые стены и мощный донжон. Если решите зайти — внутри есть оружейная коллекция, экспозиция орудий пыток и выход на крышу с одним из лучших видов на Гент. Аудиогид на нескольких языках сделан с юмором.
+
+        Совет: площадь Sint-Veerleplein прямо напротив замка — бывшее место казней; сейчас там приятно постоять и рассмотреть замок целиком.
+      en: |
+        The "Castle of the Counts" was built in 1180 by Philip of Alsace, Count of Flanders, on the site of an earlier fortress — partly to impress the rebellious townspeople. It later served as a court, a prison, a mint and even a cotton mill, until the city bought and restored it in the late 19th century.
+
+        From the outside you can clearly see the moat, the crenellated walls and the mighty keep. If you go in, there is a weapons collection, an exhibit of torture instruments and access to the roof with one of the best views of Ghent. The multilingual audio guide is told with humour.
+
+        Tip: Sint-Veerleplein, right across from the castle, was once the place of executions; today it is the best spot to take in the whole castle.
+
+  - name: {en: Vrijdagmarkt}
+    place: Vrijdagmarkt, Gent
+    lat: 51.05660
+    lng: 3.72570
+    radius_m: 120
+    approach: [Patershol]
+    walk_min: 15
+    short:
+      ru: |
+        - **Patershol** — старый средневековый квартал с узкими улочками. Можно немного побродить, а не просто идти напрямую.
+        - **Vrijdagmarkt** — большая историческая площадь с домами гильдий.
+      en: |
+        - **Patershol** — an old medieval quarter with narrow lanes. Wander around a bit rather than walking straight through.
+        - **Vrijdagmarkt** — a large historic square with guild houses.
+    long:
+      ru: |
+        **Patershol** — квартал за замком, где в Средние века жили кожевники и мастеровые, а позже обосновался монастырь кармелитов («патеров»), откуда и название. В XX веке район пришёл в упадок, но с 1980-х его отреставрировали, и теперь это тихие мощёные переулки с небольшими ресторанами.
+
+        **Vrijdagmarkt** («Пятничный рынок») — одна из старейших площадей Гента, место собраний горожан и восстаний. В центре — памятник **Якобу ван Артевельде** (1863), гентскому лидеру XIV века, который в Столетнюю войну заключил союз с Англией ради поставок шерсти для городских ткачей. Обратите внимание на башенку **Toreken** — бывший дом гильдии кожевников.
+
+        Рядом, на Grootkanonplein, стоит огромная кованая пушка XV века **Dulle Griet** («Безумная Грета»). А в баре с тем же названием на площади можно заказать пиво Kwak в знаменитом бокале — в залог попросят оставить ботинок.
+      en: |
+        **Patershol** is the quarter behind the castle where tanners and craftsmen lived in the Middle Ages; later a Carmelite monastery (the "paters", fathers) settled here, giving the area its name. It declined in the 20th century but was restored from the 1980s on, and is now a web of quiet cobbled lanes with small restaurants.
+
+        **Vrijdagmarkt** ("Friday Market") is one of Ghent's oldest squares, a place of civic gatherings and uprisings. In the middle stands the statue of **Jacob van Artevelde** (1863), the 14th-century Ghent leader who allied with England during the Hundred Years' War to secure wool for the city's weavers. Look for the **Toreken**, a small tower that was once the tanners' guild house.
+
+        Nearby, on Grootkanonplein, sits **Dulle Griet** ("Mad Meg"), a huge 15th-century wrought-iron cannon. And at the bar of the same name on the square you can order Kwak beer in its famous glass — you'll be asked to leave a shoe as a deposit.
+
+  - name: {en: Graffiti Street (Werregarenstraat), ru: Улица граффити (Werregarenstraat)}
+    place: Werregarenstraat, Gent
+    lat: 51.05500
+    lng: 3.72430
+    radius_m: 80
+    approach: [Huis van Alijn]
+    walk_min: 10
+    short:
+      ru: |
+        - **Huis van Alijn** — исторический музей повседневной жизни; даже без посещения здания интересны.
+        - Затем **Graffiti Street / Werregarenstraat** — короткий переулок, полностью покрытый граффити.
+      en: |
+        - **Huis van Alijn** — a history museum of everyday life; the buildings are worth seeing even without going in.
+        - Then **Graffiti Street / Werregarenstraat** — a short alley entirely covered in graffiti.
+    long:
+      ru: |
+        **Huis van Alijn** размещается в бывшей богадельне XIV века на набережной Kraanlei. По легенде, её основали в 1363 году в знак примирения после кровной вражды двух гентских семей — Алейнов и Рейм. Сейчас это музей повседневной жизни XX века: игрушки, бытовые вещи, домашнее кино. Внутренний двор с белыми домиками и часовней виден и без билета. Напротив, на Kraanlei, стоят дома с резными фасадами — на одном из них изображены «Семь дел милосердия».
+
+        **Werregarenstraat** — узкий переулок, где граффити официально разрешены с 1990-х годов. Рисунки постоянно перекрываются новыми, так что улица каждый раз выглядит по-другому.
+
+        Совет: в переулке часто работают художники — можно посмотреть, как создаются работы. Запах краски тут обычное дело.
+      en: |
+        **Huis van Alijn** occupies a 14th-century almshouse on the Kraanlei quay. According to tradition, it was founded in 1363 as a gesture of reconciliation after a blood feud between two Ghent families, the Alijns and the Rijms. Today it is a museum of 20th-century everyday life: toys, household objects, home movies. The courtyard with its white cottages and chapel can be seen without a ticket. Across the water on the Kraanlei there are houses with carved facades — one shows the "Seven Works of Mercy".
+
+        **Werregarenstraat** is a narrow alley where graffiti has been officially allowed since the 1990s. Works are constantly painted over by new ones, so the street looks different every time.
+
+        Tip: artists are often at work in the alley — you can watch pieces being made. The smell of spray paint comes with it.
+
+  - name: {en: Sint-Baafsplein}
+    place: Sint-Baafsplein, Gent
+    lat: 51.05330
+    lng: 3.72560
+    radius_m: 150
+    walk_min: 10
+    short:
+      ru: |
+        Здесь стоит задержаться:
+        - **Sint-Baafskathedraal** — главный собор Гента.
+        - **Het Lam Gods / Ghent Altarpiece** — знаменитый алтарь братьев Ван Эйк.
+        - **Belfort** — средневековая колокольня.
+        - **Sint-Niklaaskerk** — церковь Святого Николая.
+
+        Даже просто площадь с тремя башнями — одна из главных достопримечательностей города.
+      en: |
+        Worth lingering here:
+        - **Sint-Baafskathedraal** — Ghent's main cathedral.
+        - **Het Lam Gods / Ghent Altarpiece** — the famous altarpiece by the Van Eyck brothers.
+        - **Belfort** — the medieval belfry.
+        - **Sint-Niklaaskerk** — St Nicholas' Church.
+
+        Even just the square with its three towers is one of the city's main sights.
+    long:
+      ru: |
+        **Собор Святого Бавона** строился с XIII по XVI век, и в нём видно смешение романского и готического стилей. Главное сокровище — **Гентский алтарь** «Поклонение Агнцу» Губерта и Яна ван Эйков, завершённый в 1432 году: одна из величайших картин в истории европейской живописи и, вероятно, самое часто похищаемое произведение искусства. Одна из его створок, «Праведные судьи», украдена в 1934 году и до сих пор не найдена — на её месте копия. Для осмотра алтаря нужен отдельный билет; есть визит-центр с дополненной реальностью.
+
+        **Belfort** (91 м) — колокольня XIV века, символ городской независимости; на шпиле — позолоченный дракон. Рядом пристроен **Lakenhalle** — суконный рынок XV века. Наверх Belfort можно подняться (есть лифт) — вид на старый город отличный.
+
+        Совет: на площади стоит здание городского театра NTGent, а между Belfort и церковью Святого Николая — современный городской павильон Stadshal — под его навесом удобно укрыться от дождя.
+      en: |
+        **St Bavo's Cathedral** was built from the 13th to the 16th century and mixes Romanesque and Gothic styles. Its greatest treasure is the **Ghent Altarpiece**, *Adoration of the Mystic Lamb* by Hubert and Jan van Eyck, completed in 1432 — one of the greatest paintings in European art and probably the most frequently stolen artwork ever. One of its panels, *The Just Judges*, was stolen in 1934 and has never been found; a copy hangs in its place. Viewing the altarpiece needs a separate ticket; there is a visitor centre with augmented reality.
+
+        The **Belfort** (91 m) is a 14th-century belfry, symbol of the city's independence, crowned by a gilded dragon. Attached to it is the **Lakenhalle**, the 15th-century cloth hall. You can go up the Belfort (there's a lift) for a great view of the old town.
+
+        Tip: the NTGent city theatre stands on the square, and between the Belfort and St Nicholas' Church is the modern Stadshal pavilion — its canopy is handy shelter from rain.
+
+  - name: {en: Portus Ganda}
+    place: Portus Ganda, Gent
+    lat: 51.05400
+    lng: 3.73250
+    radius_m: 150
+    approach: [Geeraard de Duivelsteen]
+    walk_min: 15
+    short:
+      ru: |
+        - **Geeraard de Duivelsteen** — необычная средневековая крепость/замок прямо в городе.
+        - Затем к **Portus Ganda** — месту слияния рек Leie и Шельды.
+
+        Более спокойная часть Гента, вдали от туристической толпы.
+      en: |
+        - **Geeraard de Duivelsteen** — an unusual medieval stronghold right in the city.
+        - Then on to **Portus Ganda** — the confluence of the Leie and the Scheldt.
+
+        A calmer part of Ghent, away from the tourist crowds.
+    long:
+      ru: |
+        **Geeraard de Duivelsteen** — каменный дом-крепость XIII века, построенный для рыцаря Геерарда Вилена. Прозвище «Дьявол» (Duivel), по одной версии, связано с его смуглой внешностью. Позднее здание служило арсеналом, тюрьмой, сумасшедшим домом и архивом; внутрь обычно не пускают, но массивные стены с бойницами хорошо видны с улицы.
+
+        **Portus Ganda** — место слияния рек Leie и Шельды, где, собственно, и возник Гент: само название города, по распространённой версии, происходит от кельтского слова «слияние». Сейчас здесь небольшая яхтенная гавань и набережные для прогулок.
+
+        Совет: в нескольких минутах ходьбы — руины **аббатства Святого Бавона**, основанного в VII веке, одного из старейших мест города (открыты не каждый день).
+      en: |
+        **Geeraard de Duivelsteen** is a 13th-century stone fortified house built for the knight Geeraard Vilain. One story says his nickname "the Devil" (Duivel) came from his dark complexion. The building later served as an arsenal, prison, asylum and archive; it is usually closed to visitors, but the massive walls with arrow slits are clearly visible from the street.
+
+        **Portus Ganda** is the confluence of the Leie and the Scheldt, where Ghent was born: the city's name is commonly thought to come from a Celtic word for "confluence". Today it is a small marina with quays for strolling.
+
+        Tip: a few minutes' walk away are the ruins of **St Bavo's Abbey**, founded in the 7th century and one of the oldest places in the city (not open every day).
+
+  - name: {en: Korenmarkt}
+    place: Korenmarkt, Gent
+    lat: 51.05475
+    lng: 3.72160
+    approach: [Vrijdagmarkt]
+    walk_min: 20
+    short:
+      ru: Можно возвращаться через старый центр, по пути ещё раз пройти через красивые центральные улицы.
+      en: Head back through the old centre, passing the beautiful central streets once more.
+    long:
+      ru: |
+        Обратный путь через Vrijdagmarkt и центр — хороший момент, чтобы зайти туда, куда не успели по дороге: в бары на Vrijdagmarkt, в кондитерские или за местной сладостью **cuberdon** — конусовидными малиновыми конфетами с жидкой начинкой, которые продают на рынках и в кондитерских.
+
+        Ближе к вечеру центр меняется: подсветка Graslei, Belfort и собора включается после заката. Гент, кстати, известен своим «планом освещения» — город целенаправленно подсвечивает исторические здания так, чтобы они не слепили и не засвечивали небо.
+      en: |
+        The way back through Vrijdagmarkt and the centre is a good moment to stop where you didn't have time earlier: the bars on Vrijdagmarkt, a pastry shop, or a local **cuberdon** — cone-shaped raspberry sweets with a liquid centre, sold at markets and confectioners.
+
+        Towards evening the centre changes: the lighting of the Graslei, the Belfort and the cathedral comes on after sunset. Ghent is known for its lighting plan, which illuminates historic buildings deliberately so that they don't glare or light up the night sky.
+
+  - name: {en: VIERNULVIER}
+    place: Viernulvier, Sint-Pietersnieuwstraat 23, Gent
+    lat: 51.04800
+    lng: 3.72764
+    walk_min: 15
+    short:
+      ru: Финиш — возвращаемся к VIERNULVIER.
+      en: Finish — back at VIERNULVIER.
+    long:
+      ru: |
+        Обратная дорога ведёт снова по Veldstraat или параллельным улицам в студенческий район. Если вечером в VIERNULVIER есть концерт или спектакль — хороший способ завершить день; программу стоит проверить заранее на сайте центра.
+      en: |
+        The way back leads along Veldstraat or the parallel streets to the student district. If VIERNULVIER has a concert or performance in the evening, it's a fine way to end the day — check the programme on the venue's website in advance.
