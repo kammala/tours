@@ -12,7 +12,7 @@ const localized = z
 
 const coords = { lat: z.number().min(-90).max(90), lng: z.number().min(-180).max(180) }
 
-const via = z.union([text, z.object(coords).strict()])
+const via = z.union([text, z.object({ ...coords, name: text.optional() }).strict()])
 
 const minutes = z.union([z.number().positive(), z.tuple([z.number().positive(), z.number().positive()])])
 

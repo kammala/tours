@@ -9,7 +9,8 @@ export function viaQuery(via: Via, suffix?: string): string {
 }
 
 export function viaLabel(via: Via): string {
-  return typeof via === 'string' ? via.split(',')[0] : `${via.lat.toFixed(4)}, ${via.lng.toFixed(4)}`
+  if (typeof via === 'string') return via.split(',')[0]
+  return via.name ?? `${via.lat.toFixed(4)}, ${via.lng.toFixed(4)}`
 }
 
 export function pointQuery(point: Point, suffix?: string): string {

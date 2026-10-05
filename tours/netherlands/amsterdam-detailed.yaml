@@ -43,7 +43,7 @@ points:
     lng: 4.86860
     radius_m: 500
     approach: [Stadhouderskade]
-    inside: [Vondelkerk, Vondelpark Openluchttheater, Groot Melkhuis, Amstelveenseweg]
+    inside: [Vondelkerk, Vondelpark Openluchttheater, Groot Melkhuis, {name: Amstelveenseweg, lat: 52.3560, lng: 4.8566}]
     walk_min: [30, 40]
     short:
       ru: |

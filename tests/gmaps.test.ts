@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { fullRouteParts, insideUrl, legUrl, MAX_WAYPOINTS, navigateUrl, viaQuery } from '../src/gmaps'
+import { fullRouteParts, insideUrl, legUrl, MAX_WAYPOINTS, navigateUrl, viaLabel, viaQuery } from '../src/gmaps'
 import { KORENMARKT, LOOP, point, START, tour } from './fixtures'
 
 function params(url: string) {
@@ -11,6 +11,13 @@ describe('viaQuery', () => {
     expect(viaQuery('Kouter', 'Gent')).toBe('Kouter, Gent')
     expect(viaQuery('Stera, Lange Vesting 16, Brugge', 'Brugge')).toBe('Stera, Lange Vesting 16, Brugge')
     expect(viaQuery({ lat: 51.1, lng: 3.2 }, 'Gent')).toBe('51.1,3.2')
+  })
+})
+
+describe('viaLabel', () => {
+  it('shows the name of a pinned via instead of its coordinates', () => {
+    expect(viaLabel({ name: 'Amstelveenseweg', lat: 52.356, lng: 4.8566 })).toBe('Amstelveenseweg')
+    expect(viaLabel({ lat: 52.356, lng: 4.8566 })).toBe('52.3560, 4.8566')
   })
 })
 
@@ -31,9 +38,9 @@ describe('legUrl', () => {
   })
 
   it('starts at the previous point exit when it has an inside walk', () => {
-    const park = point('Vondelpark', 52.358, 4.8686, { inside: ['Vondelkerk', 'Amstelveenseweg'] })
+    const park = point('Vondelpark', 52.358, 4.8686, { inside: ['Vondelkerk', { name: 'Amstelveenseweg', lat: 52.356, lng: 4.8566 }] })
     const data = tour([park, point('Jordaan', 52.375, 4.88)], { place_suffix: 'Amsterdam' })
-    expect(params(legUrl(data, 1)!)).toMatchObject({ origin: 'Amstelveenseweg, Amsterdam', destination: 'Jordaan, Amsterdam' })
+    expect(params(legUrl(data, 1)!)).toMatchObject({ origin: '52.356,4.8566', destination: 'Jordaan, Amsterdam' })
   })
 })
 
