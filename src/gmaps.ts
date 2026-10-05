@@ -1,7 +1,9 @@
 import type { Point, TourData, Via } from './data/schema'
+import { distanceM } from './geo'
 
 const DIR_BASE = 'https://www.google.com/maps/dir/?api=1&travelmode=walking'
 export const MAX_WAYPOINTS = 9
+export const TRIVIAL_LEG_M = 300
 
 export function viaQuery(via: Via, suffix?: string): string {
   if (typeof via !== 'string') return `${via.lat},${via.lng}`
@@ -37,8 +39,10 @@ export function legUrl(tour: TourData, index: number): string | undefined {
   if (index === 0) return undefined
   const suffix = tour.place_suffix
   const point = tour.points[index]
+  const previous = tour.points[index - 1]
+  if (!point.approach?.length && !previous.inside && distanceM(previous, point) < TRIVIAL_LEG_M) return undefined
   return directionsUrl([
-    exitQuery(tour.points[index - 1], suffix),
+    exitQuery(previous, suffix),
     ...(point.approach ?? []).map((via) => viaQuery(via, suffix)),
     pointQuery(point, suffix),
   ])
@@ -46,7 +50,7 @@ export function legUrl(tour: TourData, index: number): string | undefined {
 
 export function insideUrl(tour: TourData, index: number): string | undefined {
   const point = tour.points[index]
-  if (!point.inside) return undefined
+  if (!point.inside || point.inside.length < 2) return undefined
   const suffix = tour.place_suffix
   return directionsUrl([pointQuery(point, suffix), ...point.inside.map((via) => viaQuery(via, suffix))])
 }

@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import { fullRouteParts, insideUrl, legUrl, MAX_WAYPOINTS, navigateUrl, viaLabel, viaQuery } from '../src/gmaps'
-import { KORENMARKT, LOOP, point, START, tour } from './fixtures'
+import { GRAVENSTEEN, KORENMARKT, LOOP, point, START, tour } from './fixtures'
 
 function params(url: string) {
   return Object.fromEntries(new URL(url).searchParams)
@@ -37,6 +37,18 @@ describe('legUrl', () => {
     })
   })
 
+  it('is absent for a short leg without vias', () => {
+    expect(legUrl(tour([KORENMARKT, point('Sint-Michielsbrug', 51.0538, 3.7203)]), 1)).toBeUndefined()
+  })
+
+  it('is kept for a short leg with vias', () => {
+    expect(legUrl(tour([KORENMARKT, { ...GRAVENSTEEN, approach: ['Sint-Michielsbrug'] }]), 1)).toBeDefined()
+  })
+
+  it('is kept for a long leg without vias', () => {
+    expect(params(legUrl(tour([KORENMARKT, START]), 1)!)).toMatchObject({ origin: 'Korenmarkt, Gent' })
+  })
+
   it('starts at the previous point exit when it has an inside walk', () => {
     const park = point('Vondelpark', 52.358, 4.8686, { inside: ['Vondelkerk', { name: 'Amstelveenseweg', lat: 52.356, lng: 4.8566 }] })
     const data = tour([park, point('Jordaan', 52.375, 4.88)], { place_suffix: 'Amsterdam' })
@@ -56,6 +68,10 @@ describe('insideUrl', () => {
 
   it('is absent without inside vias', () => {
     expect(insideUrl(tour(LOOP), 1)).toBeUndefined()
+  })
+
+  it('is absent with a single inside via', () => {
+    expect(insideUrl(tour([{ ...KORENMARKT, inside: ['Munttoren'] }, START]), 0)).toBeUndefined()
   })
 })
 
