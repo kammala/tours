@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { fullRouteParts, legUrl, MAX_WAYPOINTS, viaLabel, viaQuery } from '../src/gmaps'
+import { fullRouteParts, legUrl, MAX_WAYPOINTS, navigateUrl, viaLabel, viaQuery } from '../src/gmaps'
 import { GRAVENSTEEN, KORENMARKT, LOOP, point, START, tour } from './fixtures'
 
 function params(url: string) {
@@ -53,6 +53,12 @@ describe('legUrl', () => {
     const park = point('Vondelpark', 52.358, 4.8686, { inside: ['Vondelkerk', { name: 'Amstelveenseweg', lat: 52.356, lng: 4.8566 }] })
     const data = tour([park, point('Jordaan', 52.375, 4.88)], { place_suffix: 'Amsterdam' })
     expect(params(legUrl(data, 1)!)).toMatchObject({ origin: '52.356,4.8566', destination: 'Jordaan, Amsterdam' })
+  })
+})
+
+describe('navigateUrl', () => {
+  it('sets only the destination so Maps starts at the current location', () => {
+    expect(params(navigateUrl(tour(LOOP), 2))).toEqual({ api: '1', travelmode: 'walking', destination: 'Gravensteen, Gent' })
   })
 })
 

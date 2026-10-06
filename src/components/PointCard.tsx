@@ -1,6 +1,6 @@
 import type { Tour, Via } from '../data/schema'
 import { formatMinutes } from '../geo'
-import { legUrl, viaLabel } from '../gmaps'
+import { legUrl, navigateUrl, viaLabel } from '../gmaps'
 import { pick, t } from '../i18n'
 import { Markdown } from './Markdown'
 
@@ -49,13 +49,16 @@ export function PointCard({ tour, index, selected, onSelect }: Props) {
           )}
           {point.inside && <p class="point-path">↻ {pathText([name, ...point.inside])}</p>}
           {long && <Markdown class="point-long" text={long} />}
-          {leg && (
-            <div class="point-actions">
+          <div class="point-actions">
+            {leg && (
               <a class="button primary" href={leg} target="_blank" rel="noopener">
                 {t('routeHere')}
               </a>
-            </div>
-          )}
+            )}
+            <a class="button" href={navigateUrl(tour, index)} target="_blank" rel="noopener">
+              {t('navigateFromMe')}
+            </a>
+          </div>
         </div>
       )}
     </li>

@@ -30,6 +30,11 @@ export function directionsUrl(stops: string[]): string {
   return `${DIR_BASE}&${params}`
 }
 
+export function navigateUrl(tour: TourData, index: number): string {
+  const params = new URLSearchParams({ destination: pointQuery(tour.points[index], tour.place_suffix) })
+  return `${DIR_BASE}&${params}`
+}
+
 export function legUrl(tour: TourData, index: number): string | undefined {
   if (index === 0) return undefined
   const suffix = tour.place_suffix
