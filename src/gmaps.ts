@@ -30,11 +30,6 @@ export function directionsUrl(stops: string[]): string {
   return `${DIR_BASE}&${params}`
 }
 
-export function navigateUrl(tour: TourData, index: number): string {
-  const params = new URLSearchParams({ destination: pointQuery(tour.points[index], tour.place_suffix) })
-  return `${DIR_BASE}&${params}`
-}
-
 export function legUrl(tour: TourData, index: number): string | undefined {
   if (index === 0) return undefined
   const suffix = tour.place_suffix
@@ -46,13 +41,6 @@ export function legUrl(tour: TourData, index: number): string | undefined {
     ...(point.approach ?? []).map((via) => viaQuery(via, suffix)),
     pointQuery(point, suffix),
   ])
-}
-
-export function insideUrl(tour: TourData, index: number): string | undefined {
-  const point = tour.points[index]
-  if (!point.inside || point.inside.length < 2) return undefined
-  const suffix = tour.place_suffix
-  return directionsUrl([pointQuery(point, suffix), ...point.inside.map((via) => viaQuery(via, suffix))])
 }
 
 export type RoutePart = { url: string; from: number; to: number }
