@@ -1,9 +1,7 @@
 import type { Point, TourData, Via } from './data/schema'
-import { distanceM } from './geo'
 
 const DIR_BASE = 'https://www.google.com/maps/dir/?api=1&travelmode=walking'
 export const MAX_WAYPOINTS = 9
-export const TRIVIAL_LEG_M = 300
 
 export function viaQuery(via: Via, suffix?: string): string {
   if (typeof via !== 'string') return `${via.lat},${via.lng}`
@@ -19,11 +17,6 @@ export function pointQuery(point: Point, suffix?: string): string {
   return point.place ?? viaQuery(point.name.en ?? point.name.ru ?? '', suffix)
 }
 
-function exitQuery(point: Point, suffix?: string): string {
-  const exit = point.inside?.at(-1)
-  return exit === undefined ? pointQuery(point, suffix) : viaQuery(exit, suffix)
-}
-
 export function directionsUrl(stops: string[]): string {
   const params = new URLSearchParams({ origin: stops[0], destination: stops[stops.length - 1] })
   if (stops.length > 2) params.set('waypoints', stops.slice(1, -1).join('|'))
@@ -33,19 +26,6 @@ export function directionsUrl(stops: string[]): string {
 export function navigateUrl(tour: TourData, index: number): string {
   const params = new URLSearchParams({ destination: pointQuery(tour.points[index], tour.place_suffix) })
   return `${DIR_BASE}&${params}`
-}
-
-export function legUrl(tour: TourData, index: number): string | undefined {
-  if (index === 0) return undefined
-  const suffix = tour.place_suffix
-  const point = tour.points[index]
-  const previous = tour.points[index - 1]
-  if (!point.approach?.length && !previous.inside && distanceM(previous, point) < TRIVIAL_LEG_M) return undefined
-  return directionsUrl([
-    exitQuery(previous, suffix),
-    ...(point.approach ?? []).map((via) => viaQuery(via, suffix)),
-    pointQuery(point, suffix),
-  ])
 }
 
 export type RoutePart = { url: string; from: number; to: number }
