@@ -1,0 +1,176 @@
+country: { en: Malta, ru: Мальта }
+city: { en: Rabat, ru: Рабат }
+name: { en: "Rabat, Dingli Cliffs and Marsaxlokk — day trip", ru: "Рабат, скалы Дингли и Марсашлокк — поездка на день" }
+summary:
+  ru: "Целый день, пешком совсем немного; между городками — автобус и два такси"
+  en: "A full day with very little walking; buses and two taxi rides between the towns"
+intro:
+  ru: |
+    Из Валлетты до Рабата идут автобусы **50, 51, 52, 53 и 56** — около 45–55 минут. Конечная в Рабате прямо у исторической части.
+
+    Маршрут линейный: Рабат → скалы Дингли → рыбацкая деревня Марсашлокк → обратно в Валлетту. Между Рабатом и Дингли (5 км, ~10 минут) и особенно между Дингли и Марсашлокком (~30–35 минут) удобнее такси: автобусом из Дингли в Марсашлокк пришлось бы ехать с пересадкой через Валлетту. Такси можно вызвать через приложения Bolt, Uber или eCabs.
+
+    Мдина — в 300 метрах от автобусной остановки, но она заслуживает отдельной поездки, поэтому сегодня — только Рабат.
+  en: |
+    Buses **50, 51, 52, 53 and 56** run from Valletta to Rabat, about 45–55 minutes. The Rabat terminus is right next to the historic area.
+
+    The route is linear: Rabat → Dingli Cliffs → the fishing village of Marsaxlokk → back to Valletta. Take a taxi from Rabat to Dingli (5 km, ~10 minutes) and especially from Dingli to Marsaxlokk (~30–35 minutes): by bus that leg means changing in Valletta. Bolt, Uber and eCabs all work in Malta.
+
+    Mdina is 300 metres from the bus stop, but it deserves a trip of its own, so today stays in Rabat.
+outro:
+  ru: |
+    Вечер свободен.
+  en: |
+    The evening is free.
+points:
+  - name: { en: Valletta bus terminus, ru: Автовокзал Валлетты }
+    place: "Valletta Bus Terminus, Triton Fountain, Floriana"
+    lat: 35.89560
+    lng: 14.50800
+    radius_m: 200
+    short:
+      ru: |
+        Старт. Автобусы 50, 51, 52, 53 или 56 до Рабата, около 45–55 минут.
+      en: |
+        Start. Bus 50, 51, 52, 53 or 56 to Rabat, about 45–55 minutes.
+    long:
+      ru: |
+        Автовокзал вокруг фонтана Тритонов у главных ворот Валлетты — отсюда расходятся почти все автобусы острова. Платформы пронумерованы, номер маршрута и направление написаны на табло.
+
+        Совет: оплатить проезд можно бесконтактной картой прямо у водителя. Садитесь по правой стороне — по пути видны бастионы и долина.
+      en: |
+        The bus terminus around the Triton Fountain by Valletta's City Gate is where almost every bus on the island starts. Bays are numbered, with route and destination on the boards.
+
+        Tip: pay with a contactless card at the driver. Sit on the right for views of the bastions and the valley on the way out.
+
+  - name: { en: Rabat bus terminus, ru: Остановка в Рабате }
+    place: "Is-Saqqajja, Rabat, Malta"
+    lat: 35.88390
+    lng: 14.40130
+    radius_m: 200
+    short:
+      ru: |
+        Выход из автобуса. До ворот Мдины ~300 м, до церкви Святого Павла ~5 минут.
+      en: |
+        Get off here. Mdina gate is ~300 m away, St Paul's Church ~5 minutes.
+    long:
+      ru: |
+        Площадь Is-Saqqajja — граница между Рабатом и Мдиной. Рабат вырос за стенами древнего города, когда в арабскую эпоху Мдину сжали до нынешних размеров; само название «рабат» значит «пригород».
+
+        Совет: здесь рядом туалеты и кафе — удобно передохнуть после автобуса.
+      en: |
+        Is-Saqqajja square marks the line between Rabat and Mdina. Rabat grew outside the walls of the ancient city after Mdina was cut down to its present size in the Arab period — "rabat" simply means suburb.
+
+        Tip: there are toilets and cafés nearby, handy after the bus ride.
+
+  - name: { en: "St Paul's Church & Grotto", ru: Церковь и грот Святого Павла }
+    place: "St Paul's Grotto, Parish Square, Rabat, Malta"
+    lat: 35.88184
+    lng: 14.39920
+    walk_min: 5
+    visit_min: [ 60, 90 ]
+    short:
+      ru: |
+        Грот, где по преданию жил апостол Павел. Потом — прогулка по старым улочкам Рабата и кофе.
+      en: |
+        The grotto where St Paul is said to have lived. Then stroll the old streets of Rabat and stop for coffee.
+    long:
+      ru: |
+        По преданию, апостол Павел, потерпевший кораблекрушение у Мальты в 60 году, три месяца жил в этой пещере и проповедовал островитянам. Над гротом стоит церковь Святого Павла XVII века, а рядом — музей Wignacourt с катакомбами и бомбоубежищами Второй мировой. Грот посещали папы Иоанн Павел II и Бенедикт XVI.
+
+        Что посмотреть: сам грот со статуей Святого Павла, церковь на Parish Square и узкие улочки Рабата вокруг — с балконами-«гаварубами» и старыми дверями.
+
+        Совет: в грот ведёт лестница, но короткая. Площадь — хорошее место для кофе и пастиццы.
+      en: |
+        Tradition says St Paul, shipwrecked on Malta in AD 60, spent three months in this cave preaching to the islanders. The 17th-century St Paul's Church stands above it, and next door the Wignacourt Museum has catacombs and Second World War shelters. Popes John Paul II and Benedict XVI both visited the grotto.
+
+        Look for the grotto with its statue of St Paul, the church on Parish Square and the narrow Rabat streets around it, with their closed wooden balconies and old doors.
+
+        Tip: the grotto is down a short flight of stairs. The square is a good spot for coffee and a pastizz.
+
+  - name: { en: "St Paul's Catacombs", ru: Катакомбы Святого Павла }
+    place: "St Paul's Catacombs, St Agatha Street, Rabat, Malta"
+    lat: 35.88069
+    lng: 14.39761
+    walk_min: 3
+    visit_min: [ 60, 120 ]
+    short:
+      ru: |
+        По желанию. Много лестниц, доступны лишь частично — если ходить тяжело, лучше пропустить.
+      en: |
+        Optional. Lots of stairs and only partly accessible — skip it if walking is hard.
+    long:
+      ru: |
+        Огромная сеть подземных галерей и гробниц III–VIII веков — одно из главных раннехристианских мест Мальты. Здесь хоронили христиан, язычников и иудеев; в залах сохранились «агапические столы», высеченные в камне для поминальных трапез. Сейчас катакомбами управляет Heritage Malta.
+
+        Совет: внизу прохладно, ступени неровные, потолки местами низкие. Обычный визит — 1–2 часа, поэтому на этот день разумнее ограничиться гротом и прогулкой.
+      en: |
+        A vast network of underground galleries and tombs from the 3rd to 8th centuries — one of Malta's key early Christian sites. Christians, pagans and Jews were buried here; the halls still have "agape tables" carved from the rock for funeral meals. Heritage Malta runs the site today.
+
+        Tip: it's cool underground, the steps are uneven and ceilings low in places. A normal visit takes 1–2 hours, so on this day the grotto and a stroll are the better choice.
+
+  - name: { en: Dingli Cliffs, ru: Скалы Дингли }
+    place: "St Mary Magdalene Chapel, Dingli Cliffs, Malta"
+    lat: 35.85169
+    lng: 14.38561
+    radius_m: 500
+    visit_min: [ 45, 60 ]
+    short:
+      ru: |
+        Такси из Рабата ~10 минут (или автобус 201 раз в час). Смотровая площадка, короткая прогулка вдоль обрыва, фото — без походов.
+      en: |
+        Taxi from Rabat ~10 minutes (or bus 201, about hourly). Viewpoint, a short walk along the edge, photos — no hiking.
+    long:
+      ru: |
+        Самая высокая точка Мальты: обрыв поднимается над морем примерно на 250 метров. Внизу — террасы полей, а в море виден необитаемый островок Филфла. На самом краю стоит маленькая часовня Святой Марии Магдалины XVII века.
+
+        Что посмотреть: вид с площадки у часовни, тропинку вдоль обрыва в обе стороны и закат, если окажетесь здесь вечером.
+
+        Совет: ограждений почти нет, к краю не подходите. Ветер здесь сильнее, чем в городе. Ближайшие автобусные остановки — в 5–6 минутах ходьбы.
+      en: |
+        The highest point in Malta: the cliffs rise about 250 metres above the sea. Below are terraced fields, and out at sea you can see the uninhabited islet of Filfla. On the very edge stands the small 17th-century chapel of St Mary Magdalene.
+
+        Take in the view from the chapel, walk a little along the clifftop path either way, and catch the sunset if you're here in the evening.
+
+        Tip: there are hardly any railings, so keep back from the edge. It's windier than in town. The nearest bus stops are 5–6 minutes' walk away.
+
+  - name: { en: Marsaxlokk, ru: Марсашлокк }
+    place: "Marsaxlokk Waterfront, Marsaxlokk, Malta"
+    lat: 35.84167
+    lng: 14.54456
+    radius_m: 400
+    visit_min: [ 90, 120 ]
+    short:
+      ru: |
+        Такси из Дингли ~30–35 минут. Обед, набережная, разноцветные лодки — ходить почти не нужно.
+      en: |
+        Taxi from Dingli ~30–35 minutes. Lunch, the waterfront, colourful boats — barely any walking.
+    long:
+      ru: |
+        Главная рыбацкая деревня Мальты. В бухте качаются **луццу** — традиционные лодки, раскрашенные в синий, жёлтый и красный, с «глазом Осириса» на носу, который по старому поверью оберегает рыбаков. Над набережной — приходская церковь Богоматери Помпейской.
+
+        Что посмотреть: лодки, рыбаков, чинящих сети, и рынок на набережной — по воскресеньям он большой, с рыбой утреннего улова, в другие дни скромнее.
+
+        Совет: обедайте здесь — рыбные рестораны вдоль воды и есть смысл всего маршрута. Спросите рыбу дня, её часто готовят на гриле целиком.
+      en: |
+        Malta's main fishing village. The bay is full of **luzzu** boats painted blue, yellow and red, each with the "eye of Osiris" on the bow, an old charm to protect the fishermen. The parish church of Our Lady of Pompei watches over the waterfront.
+
+        Look at the boats, the fishermen mending nets and the waterfront market — big on Sundays with the morning catch, smaller on other days.
+
+        Tip: have lunch here — the fish restaurants along the water are half the point of the day. Ask for the fish of the day, often grilled whole.
+
+  - name: { en: Back to Valletta, ru: Обратно в Валлетту }
+    place: "Valletta Bus Terminus, Triton Fountain, Floriana"
+    lat: 35.89560
+    lng: 14.50800
+    radius_m: 200
+    short:
+      ru: |
+        Автобус 81 (~40–50 минут) или такси (~12–15 минут) — после целого дня такси того стоит.
+      en: |
+        Bus 81 (~40–50 minutes) or a taxi (~12–15 minutes) — worth it after a full day.
+    long:
+      ru: |
+        Автобус 81 ходит из Марсашлокка до Валлетты регулярно весь день. Такси выйдет примерно на 15–20 € дороже, зато втрое быстрее и без ожидания.
+      en: |
+        Bus 81 runs from Marsaxlokk to Valletta regularly throughout the day. A taxi costs roughly €15–20 more, but it's three times faster with no waiting.
