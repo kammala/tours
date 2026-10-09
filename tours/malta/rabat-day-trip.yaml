@@ -159,18 +159,22 @@ points:
 
         Tip: have lunch here — the fish restaurants along the water are half the point of the day. Ask for the fish of the day, often grilled whole.
 
-  - name: { en: Back to Valletta, ru: Обратно в Валлетту }
-    place: "Valletta Bus Terminus, Triton Fountain, Floriana"
-    lat: 35.89560
-    lng: 14.50800
-    radius_m: 200
+  - name: { en: Valletta Waterfront, ru: Набережная Valletta Waterfront }
+    place: "Valletta Waterfront, Pinto Wharf, Floriana"
+    lat: 35.89000
+    lng: 14.50806
+    radius_m: 300
     short:
       ru: |
-        Автобус 81 (~40–50 минут) или такси (~12–15 минут) — после целого дня такси того стоит.
+        Финиш. Такси из Марсашлокка ~12–15 минут — после целого дня оно того стоит. Автобус 81 (~40–50 минут) идёт только до автовокзала наверху, оттуда к воде ~15 минут вниз.
       en: |
-        Bus 81 (~40–50 minutes) or a taxi (~12–15 minutes) — worth it after a full day.
+        Finish. Taxi from Marsaxlokk ~12–15 minutes — worth it after a full day. Bus 81 (~40–50 minutes) only goes to the terminus up top, then it's ~15 minutes downhill to the water.
     long:
       ru: |
-        Автобус 81 ходит из Марсашлокка до Валлетты регулярно весь день. Такси выйдет примерно на 15–20 € дороже, зато втрое быстрее и без ожидания.
+        Ряд барочных складов на берегу Гранд-Харбора построили в 1752 году при великом магистре Мануэле Пинто да Фонсека. Во Вторую мировую их сильно разбомбили из-за соседства с доками, а сейчас здесь рестораны, бары и круизный терминал. Яркие деревянные двери складов — визитная карточка набережной.
+
+        Совет: такси выйдет примерно на 15–20 € дороже автобуса, зато втрое быстрее и без ожидания. Здесь можно поужинать с видом на гавань и круизные лайнеры, а вечер дальше свободен.
       en: |
-        Bus 81 runs from Marsaxlokk to Valletta regularly throughout the day. A taxi costs roughly €15–20 more, but it's three times faster with no waiting.
+        This row of baroque warehouses on the Grand Harbour was built in 1752 under Grand Master Manuel Pinto da Fonseca. It was heavily bombed in the Second World War for being next to the dockyard; today it holds restaurants, bars and the cruise terminal. The brightly painted wooden doors of the old stores are its signature.
+
+        Tip: a taxi costs roughly €15–20 more than the bus, but it's three times faster with no waiting. Have dinner here looking out over the harbour and the cruise ships — the rest of the evening is free.
