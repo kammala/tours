@@ -9,11 +9,11 @@ intro:
   ru: |
     Амерсфорт — средневековый город в провинции Утрехт, около 35 минут поездом от Амстердама и 15 минут от Утрехта. От вокзала **Amersfoort Centraal** до Koppelpoort — около 12–15 минут пешком.
 
-    Первая половина маршрута — компактный старый город внутри двойного кольца стен: ворота, дома, встроенные в стену, богадельни, башня и две церкви, всё в 5 минутах друг от друга. Потом — длинный переход (около 40 минут, слегка в гору) на лесистый холм Амерсфортсе-Берг к памятнику бельгийским беженцам и бывшему монастырю.
+    Первая половина маршрута — компактный старый город внутри двойного кольца стен: ворота, две церкви, дома, встроенные в стену, богадельни и башня, всё в 5 минутах друг от друга. Потом — длинный переход (около 40 минут, слегка в гору) на лесистый холм Амерсфортсе-Берг к памятнику бельгийским беженцам и бывшему монастырю.
   en: |
     Amersfoort is a medieval town in the province of Utrecht, about 35 minutes by train from Amsterdam and 15 from Utrecht. From **Amersfoort Centraal** it's a 12–15 minute walk to the Koppelpoort.
 
-    The first half is the compact old town inside its double ring of walls: a gate, houses built into the wall, almshouses, a tower and two churches, each within 5 minutes of the next. Then comes a long stretch (about 40 minutes, gently uphill) to the wooded Amersfoortse Berg, for the Belgian refugees' memorial and a former monastery.
+    The first half is the compact old town inside its double ring of walls: a gate, two churches, houses built into the wall, almshouses and a tower, each within 5 minutes of the next. Then comes a long stretch (about 40 minutes, gently uphill) to the wooded Amersfoortse Berg, for the Belgian refugees' memorial and a former monastery.
 outro:
   ru: |
     От Het Klooster до вокзала Amersfoort Centraal — около 20 минут пешком под горку. Если останутся силы, в старом городе есть Дом Мондриана (Mondriaanhuis), где родился художник.
@@ -43,11 +43,36 @@ points:
 
         Tip: the best shot is from the west bank, on the bridge towards the Kleine Koppel.
 
+  - name: { en: Sint-Franciscus Xaveriuskerk, ru: Церковь Святого Франциска Ксаверия }
+    place: "Sint-Franciscus Xaveriuskerk, 't Zand 29, Amersfoort"
+    lat: 52.15859
+    lng: 5.38764
+    walk_min: [ 2, 4 ]
+    visit_min: [ 15, 30 ]
+    short:
+      ru: |
+        Классические детали и светлый интерьер — контраст с готикой дальше по маршруту. Часы посещения проверьте заранее.
+      en: |
+        Classical details and a bright interior, a contrast to the Gothic further on. Check visiting hours before going inside.
+    long:
+      ru: |
+        Католическая церковь на улице 't Zand, недалеко от Koppelpoort. После Реформации католикам долго не разрешалось строить заметные храмы, и эта церковь — наследница той эпохи, когда приход только получил право на собственное здание. Отсюда сдержанный классический фасад и просторный, светлый интерьер, совсем не похожий на средневековые церкви, которые ждут дальше по маршруту.
+
+        Что посмотреть: фасад с классическими колоннами и пилястрами, алтарь и светлый неф.
+
+        Совет: это действующая приходская церковь — внутрь пускают не всегда, а во время службы лучше не ходить по залу.
+      en: |
+        A Catholic church on 't Zand, a short way from the Koppelpoort. For a long time after the Reformation Catholics weren't allowed to build prominent churches, and this one inherits the era when the parish finally won the right to a building of its own. Hence the restrained classical front and the spacious, bright interior — nothing like the medieval churches further along the route.
+
+        Look at the front with its classical columns and pilasters, the altar and the light-filled nave.
+
+        Tip: it's a working parish church, so it isn't always open, and during services it's best not to wander around.
+
   - name: { en: Muurhuizen, ru: Улица Muurhuizen }
     lat: 52.15784
     lng: 5.38890
     radius_m: 200
-    walk_min: [ 4, 6 ]
+    walk_min: [ 2, 4 ]
     visit_min: [ 15, 25 ]
     short:
       ru: |
@@ -93,36 +118,11 @@ points:
 
         Tip: the courtyard is open by day, but it's someone's home — don't peer into windows or make noise.
 
-  - name: { en: Onze Lieve Vrouwetoren, ru: Башня Богоматери }
-    place: "Onze Lieve Vrouwetoren, Lieve Vrouwekerkhof, Amersfoort"
-    lat: 52.15517
-    lng: 5.38721
-    walk_min: [ 10, 12 ]
-    visit_min: [ 20, 30 ]
-    short:
-      ru: |
-        Монументальная башня XV века высотой почти 100 метров — главная черта силуэта Амерсфорта.
-      en: |
-        A monumental 15th-century tower nearly 100 metres tall — the defining feature of Amersfoort's skyline.
-    long:
-      ru: |
-        Башню строили с 1444 по 1470 год при церкви Богоматери, куда паломники шли к чудотворной статуе Девы Марии. В 1787 году в церкви взорвался склад пороха, и от неё почти ничего не осталось — а башня устояла. Контур церкви сейчас выложен на мостовой площади Lieve Vrouwekerkhof.
-
-        Любопытный факт: башня — нулевая точка голландской национальной системы координат, от неё отсчитываются все расстояния на топографических картах страны. Наверху — карильон, который регулярно играет.
-
-        Совет: на башню водят экскурсии с подъёмом (несколько сотен ступеней) — расписание и билеты в туристическом офисе. Площадь вокруг — хорошее место для кофе.
-      en: |
-        The tower was built between 1444 and 1470 for the Church of Our Lady, where pilgrims came to a miraculous statue of the Virgin. In 1787 a gunpowder store inside the church exploded and destroyed it almost completely — but the tower survived. The outline of the church is now marked in the paving of the Lieve Vrouwekerkhof square.
-
-        Fun fact: the tower is the zero point of the Dutch national coordinate grid, the origin for every distance on the country's topographic maps. At the top is a carillon that plays regularly.
-
-        Tip: guided climbs go up the tower (a few hundred steps) — check times and tickets at the tourist office. The square around it is a good spot for coffee.
-
   - name: { en: Sint-Joriskerk, ru: Церковь Святого Георгия }
     place: "Sint-Joriskerk, Hof 1, Amersfoort"
     lat: 52.15667
     lng: 5.39042
-    walk_min: [ 4, 6 ]
+    walk_min: [ 6, 8 ]
     visit_min: [ 30, 45 ]
     short:
       ru: |
@@ -143,30 +143,30 @@ points:
 
         Tip: the church's opening hours vary by season — check ahead. On market days the square is a good place for a snack.
 
-  - name: { en: Sint-Franciscus Xaveriuskerk, ru: Церковь Святого Франциска Ксаверия }
-    place: "Sint-Franciscus Xaveriuskerk, 't Zand 29, Amersfoort"
-    lat: 52.15859
-    lng: 5.38764
-    walk_min: [ 5, 7 ]
-    visit_min: [ 15, 30 ]
+  - name: { en: Onze Lieve Vrouwetoren, ru: Башня Богоматери }
+    place: "Onze Lieve Vrouwetoren, Lieve Vrouwekerkhof, Amersfoort"
+    lat: 52.15517
+    lng: 5.38721
+    walk_min: [ 4, 6 ]
+    visit_min: [ 20, 30 ]
     short:
       ru: |
-        Контраст после готики: классические детали и светлый интерьер. Часы посещения проверьте заранее.
+        Монументальная башня XV века высотой почти 100 метров — главная черта силуэта Амерсфорта.
       en: |
-        A contrast to the Gothic: classical details and a bright interior. Check visiting hours before going inside.
+        A monumental 15th-century tower nearly 100 metres tall — the defining feature of Amersfoort's skyline.
     long:
       ru: |
-        Католическая церковь на улице 't Zand, недалеко от Koppelpoort. После Реформации католикам долго не разрешалось строить заметные храмы, и эта церковь — наследница той эпохи, когда приход только получил право на собственное здание. Отсюда сдержанный классический фасад и просторный, светлый интерьер, совсем не похожий на средневековые церкви, которые вы видели до этого.
+        Башню строили с 1444 по 1470 год при церкви Богоматери, куда паломники шли к чудотворной статуе Девы Марии. В 1787 году в церкви взорвался склад пороха, и от неё почти ничего не осталось — а башня устояла. Контур церкви сейчас выложен на мостовой площади Lieve Vrouwekerkhof.
 
-        Что посмотреть: фасад с классическими колоннами и пилястрами, алтарь и светлый неф.
+        Любопытный факт: башня — нулевая точка голландской национальной системы координат, от неё отсчитываются все расстояния на топографических картах страны. Наверху — карильон, который регулярно играет.
 
-        Совет: это действующая приходская церковь — внутрь пускают не всегда, а во время службы лучше не ходить по залу.
+        Совет: на башню водят экскурсии с подъёмом (несколько сотен ступеней) — расписание и билеты в туристическом офисе. Площадь вокруг — хорошее место для кофе.
       en: |
-        A Catholic church on 't Zand, a short way from the Koppelpoort. For a long time after the Reformation Catholics weren't allowed to build prominent churches, and this one inherits the era when the parish finally won the right to a building of its own. Hence the restrained classical front and the spacious, bright interior — nothing like the medieval churches you've seen so far.
+        The tower was built between 1444 and 1470 for the Church of Our Lady, where pilgrims came to a miraculous statue of the Virgin. In 1787 a gunpowder store inside the church exploded and destroyed it almost completely — but the tower survived. The outline of the church is now marked in the paving of the Lieve Vrouwekerkhof square.
 
-        Look at the front with its classical columns and pilasters, the altar and the light-filled nave.
+        Fun fact: the tower is the zero point of the Dutch national coordinate grid, the origin for every distance on the country's topographic maps. At the top is a carillon that plays regularly.
 
-        Tip: it's a working parish church, so it isn't always open, and during services it's best not to wander around.
+        Tip: guided climbs go up the tower (a few hundred steps) — check times and tickets at the tourist office. The square around it is a good spot for coffee.
 
   - name: { en: Belgenmonument, ru: Памятник бельгийцам }
     place: "Belgenmonument, Amersfoort"
