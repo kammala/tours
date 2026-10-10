@@ -1,0 +1,225 @@
+country: { en: Netherlands, ru: Нидерланды }
+city: { en: Amersfoort, ru: Амерсфорт }
+name: { en: Old town walk, ru: Прогулка по старому городу }
+place_suffix: Amersfoort
+summary:
+  ru: "≈ 7–9 км, 4–5 часов с остановками"
+  en: "≈ 7–9 km, 4–5 hours with stops"
+intro:
+  ru: |
+    Амерсфорт — средневековый город в провинции Утрехт, около 35 минут поездом от Амстердама и 15 минут от Утрехта. От вокзала **Amersfoort Centraal** до Koppelpoort — около 12–15 минут пешком.
+
+    Первая половина маршрута — компактный старый город внутри двойного кольца стен: ворота, дома, встроенные в стену, богадельни, башня и две церкви, всё в 5 минутах друг от друга. Потом — длинный переход (около 40 минут, слегка в гору) на лесистый холм Амерсфортсе-Берг к памятнику бельгийским беженцам и бывшему монастырю.
+  en: |
+    Amersfoort is a medieval town in the province of Utrecht, about 35 minutes by train from Amsterdam and 15 from Utrecht. From **Amersfoort Centraal** it's a 12–15 minute walk to the Koppelpoort.
+
+    The first half is the compact old town inside its double ring of walls: a gate, houses built into the wall, almshouses, a tower and two churches, each within 5 minutes of the next. Then comes a long stretch (about 40 minutes, gently uphill) to the wooded Amersfoortse Berg, for the Belgian refugees' memorial and a former monastery.
+outro:
+  ru: |
+    От Het Klooster до вокзала Amersfoort Centraal — около 20 минут пешком под горку. Если останутся силы, в старом городе есть Дом Мондриана (Mondriaanhuis), где родился художник.
+  en: |
+    From Het Klooster it's about 20 minutes downhill on foot to Amersfoort Centraal. With energy to spare, the Mondriaanhuis in the old town, where the painter was born, is worth a look.
+points:
+  - name: { en: Koppelpoort, ru: Ворота Koppelpoort }
+    lat: 52.15899
+    lng: 5.38531
+    visit_min: [ 15, 20 ]
+    short:
+      ru: |
+        Старт. Сухопутные и водные ворота XV века над рекой Эм — главный символ города.
+      en: |
+        Start. A 15th-century land and water gate over the river Eem — the city's best-known landmark.
+    long:
+      ru: |
+        Koppelpoort построили около 1425 года, когда город обнёс себя второй, более широкой стеной. Это редкий тип ворот: посередине — проход для повозок, по бокам — две башни, а под ними — водные ворота для судов, шедших по Эм в город. Проход по воде перекрывала тяжёлая деревянная решётка. В конце XIX века ворота отреставрировали, и с тех пор они почти не изменились.
+
+        Что посмотреть: вид с моста через Эм — так ворота видны целиком вместе с отражением, а также старую набережную рядом.
+
+        Совет: лучший кадр — с западного берега, с моста на Kleine Koppel.
+      en: |
+        The Koppelpoort was built around 1425, when the town put up a second, wider ring of walls. It is a rare type: a road passage through the middle, flanked by two towers, and below them a water gate for boats coming into town along the Eem. A heavy wooden portcullis closed the water passage. The gate was restored in the late 19th century and has barely changed since.
+
+        Look at it from the bridge over the Eem, where you see the whole gate with its reflection, and the old quayside next to it.
+
+        Tip: the best shot is from the west bank, on the bridge towards the Kleine Koppel.
+
+  - name: { en: Muurhuizen, ru: Улица Muurhuizen }
+    lat: 52.15784
+    lng: 5.38890
+    radius_m: 200
+    walk_min: [ 4, 6 ]
+    visit_min: [ 15, 25 ]
+    short:
+      ru: |
+        Живописная улица старых домов, построенных прямо на месте первой городской стены.
+      en: |
+        A picturesque street of old houses built on the line of the first city wall.
+    long:
+      ru: |
+        Первую каменную стену Амерсфорт построил в XIII веке. Когда в XV веке город вырос и обзавёлся второй стеной, старая стала не нужна, и горожане начали строить дома прямо на ней, используя её как заднюю или фасадную стену. Так появилась улица Muurhuizen — «дома-стены», — которая повторяет изгиб старого кольца.
+
+        Что посмотреть: неровную линию фасадов, следующую изгибу стены, и ворота **Kamperbinnenpoort** XIII века на северо-восточном конце — одни из немногих сохранившихся ворот первой стены.
+
+        Совет: улица длинная (около 1,5 км по кругу), не обязательно проходить всю — северного участка до Kamperbinnenpoort достаточно, оттуда рукой подать до следующей точки.
+      en: |
+        Amersfoort built its first stone wall in the 13th century. When the town grew and got a second wall in the 15th century, the old one became redundant, and people began building houses right on it, using it as a back or front wall. That's how Muurhuizen — "wall houses" — came about, following the curve of the old ring.
+
+        Look at the uneven line of façades that tracks the curve of the wall, and the 13th-century **Kamperbinnenpoort** at the north-east end — one of the few surviving gates of the first wall.
+
+        Tip: the street is long (about 1.5 km round), so you needn't walk it all — the northern stretch to the Kamperbinnenpoort is enough, and the next stop is just beyond.
+
+  - name: { en: Armen de Poth, ru: Богадельня Armen de Poth }
+    place: "Hofje Armen de Poth, Herenstraat, Amersfoort"
+    lat: 52.15906
+    lng: 5.39376
+    walk_min: [ 6, 8 ]
+    visit_min: [ 15, 20 ]
+    short:
+      ru: |
+        Тихий двор старинной богадельни, где веками давали жильё бедным. Здесь живут люди — ведите себя тихо.
+      en: |
+        A peaceful courtyard of historic almshouses that housed the poor for centuries. People live here, so keep your voice down.
+    long:
+      ru: |
+        Благотворительное заведение Armen de Poth существует с XIV века — это один из крупнейших «хофье» (дворов-богаделен) в Нидерландах. Домики стоят вокруг часовни Святого Роха; во время эпидемий часть из них отводили под больных чумой. Почти все нынешние 48 домиков построены в 1894–1901 годах, когда двор принял сегодняшний вид.
+
+        И сегодня здесь за небольшую плату живут пожилые амерсфортцы со скромным доходом. Комплекс — национальный памятник.
+
+        Совет: двор открыт днём, но это жилое место — не заглядывайте в окна и не шумите.
+      en: |
+        Armen de Poth has been a charity since the 14th century and is one of the largest hofjes — almshouse courtyards — in the Netherlands. The little houses stand around the St Roch chapel; during epidemics some of them were set aside for plague victims. Almost all of today's 48 houses were built in 1894–1901, when the courtyard took its present shape.
+
+        Elderly residents of Amersfoort on modest incomes still live here for a small rent. The complex is a national monument.
+
+        Tip: the courtyard is open by day, but it's someone's home — don't peer into windows or make noise.
+
+  - name: { en: Onze Lieve Vrouwetoren, ru: Башня Богоматери }
+    place: "Onze Lieve Vrouwetoren, Lieve Vrouwekerkhof, Amersfoort"
+    lat: 52.15517
+    lng: 5.38721
+    walk_min: [ 10, 12 ]
+    visit_min: [ 20, 30 ]
+    short:
+      ru: |
+        Монументальная башня XV века высотой почти 100 метров — главная черта силуэта Амерсфорта.
+      en: |
+        A monumental 15th-century tower nearly 100 metres tall — the defining feature of Amersfoort's skyline.
+    long:
+      ru: |
+        Башню строили с 1444 по 1470 год при церкви Богоматери, куда паломники шли к чудотворной статуе Девы Марии. В 1787 году в церкви взорвался склад пороха, и от неё почти ничего не осталось — а башня устояла. Контур церкви сейчас выложен на мостовой площади Lieve Vrouwekerkhof.
+
+        Любопытный факт: башня — нулевая точка голландской национальной системы координат, от неё отсчитываются все расстояния на топографических картах страны. Наверху — карильон, который регулярно играет.
+
+        Совет: на башню водят экскурсии с подъёмом (несколько сотен ступеней) — расписание и билеты в туристическом офисе. Площадь вокруг — хорошее место для кофе.
+      en: |
+        The tower was built between 1444 and 1470 for the Church of Our Lady, where pilgrims came to a miraculous statue of the Virgin. In 1787 a gunpowder store inside the church exploded and destroyed it almost completely — but the tower survived. The outline of the church is now marked in the paving of the Lieve Vrouwekerkhof square.
+
+        Fun fact: the tower is the zero point of the Dutch national coordinate grid, the origin for every distance on the country's topographic maps. At the top is a carillon that plays regularly.
+
+        Tip: guided climbs go up the tower (a few hundred steps) — check times and tickets at the tourist office. The square around it is a good spot for coffee.
+
+  - name: { en: Sint-Joriskerk, ru: Церковь Святого Георгия }
+    place: "Sint-Joriskerk, Hof 1, Amersfoort"
+    lat: 52.15667
+    lng: 5.39042
+    walk_min: [ 4, 6 ]
+    visit_min: [ 30, 45 ]
+    short:
+      ru: |
+        Готическая церковь на площади De Hof, известная каменной алтарной преградой XV века.
+      en: |
+        A Gothic church on De Hof square, known for its medieval stone rood screen.
+    long:
+      ru: |
+        Главная приходская церковь средневекового Амерсфорта выросла из романской церкви XIII века и в XV веке была перестроена в готическую зальную церковь. Самое ценное внутри — **каменная алтарная преграда** (доксал) с тонкой резьбой: в Нидерландах такие сохранились лишь в нескольких церквях, остальные снесли после Реформации.
+
+        Что посмотреть: преграду, резные скамьи и надгробия в полу. Снаружи — площадь De Hof, где проходит городской рынок.
+
+        Совет: часы работы церкви зависят от сезона — проверьте заранее. В рыночный день на площади можно перекусить.
+      en: |
+        The main parish church of medieval Amersfoort grew out of a 13th-century Romanesque church and was rebuilt in the 15th century as a Gothic hall church. Its treasure is the finely carved **stone rood screen**: only a handful survive in the Netherlands, since most were torn down after the Reformation.
+
+        Look at the screen, the carved pews and the tombstones in the floor. Outside is De Hof square, where the town market is held.
+
+        Tip: the church's opening hours vary by season — check ahead. On market days the square is a good place for a snack.
+
+  - name: { en: Sint-Franciscus Xaveriuskerk, ru: Церковь Святого Франциска Ксаверия }
+    place: "Sint-Franciscus Xaveriuskerk, 't Zand 29, Amersfoort"
+    lat: 52.15859
+    lng: 5.38764
+    walk_min: [ 5, 7 ]
+    visit_min: [ 15, 30 ]
+    short:
+      ru: |
+        Контраст после готики: классические детали и светлый интерьер. Часы посещения проверьте заранее.
+      en: |
+        A contrast to the Gothic: classical details and a bright interior. Check visiting hours before going inside.
+    long:
+      ru: |
+        Католическая церковь на улице 't Zand, недалеко от Koppelpoort. После Реформации католикам долго не разрешалось строить заметные храмы, и эта церковь — наследница той эпохи, когда приход только получил право на собственное здание. Отсюда сдержанный классический фасад и просторный, светлый интерьер, совсем не похожий на средневековые церкви, которые вы видели до этого.
+
+        Что посмотреть: фасад с классическими колоннами и пилястрами, алтарь и светлый неф.
+
+        Совет: это действующая приходская церковь — внутрь пускают не всегда, а во время службы лучше не ходить по залу.
+      en: |
+        A Catholic church on 't Zand, a short way from the Koppelpoort. For a long time after the Reformation Catholics weren't allowed to build prominent churches, and this one inherits the era when the parish finally won the right to a building of its own. Hence the restrained classical front and the spacious, bright interior — nothing like the medieval churches you've seen so far.
+
+        Look at the front with its classical columns and pilasters, the altar and the light-filled nave.
+
+        Tip: it's a working parish church, so it isn't always open, and during services it's best not to wander around.
+
+  - name: { en: Belgenmonument, ru: Памятник бельгийцам }
+    place: "Belgenmonument, Amersfoort"
+    lat: 52.14288
+    lng: 5.35786
+    radius_m: 300
+    walk_min: [ 35, 45 ]
+    visit_min: [ 20, 30 ]
+    short:
+      ru: |
+        Самый длинный переход дня: около 40 минут мимо вокзала и в гору через лес. Крупнейший военный мемориал Нидерландов, в зелёном парке.
+      en: |
+        The longest leg of the day: about 40 minutes past the station and uphill through the woods. The largest war memorial in the Netherlands, set in landscaped green.
+    long:
+      ru: |
+        Во время Первой мировой войны в нейтральные Нидерланды бежали около миллиона бельгийцев; рядом отсюда стоял лагерь беженцев Elisabethdorp. В знак благодарности Бельгия подарила городу этот памятник. Его спроектировал бельгийский архитектор **Хёйб Хосте** вместе с садовым архитектором Луи ван дер Сваленом, а строили в 1917–1919 годах интернированные бельгийские солдаты.
+
+        После войны отношения между странами испортились, и торжественно открыли памятник только в 1938 году — в присутствии короля Леопольда III и королевы Вильгельмины.
+
+        Что посмотреть: главное здание с колоннадой, длинную мемориальную стену и сад между ними — всё задумано как единая композиция.
+
+        Совет: дорога идёт в гору по лесу, удобная обувь пригодится. Скамейки в парке — хорошее место для передышки.
+      en: |
+        During the First World War about a million Belgians fled to the neutral Netherlands; the Elisabethdorp refugee camp stood near here. Belgium gave the town this monument in thanks. It was designed by the Belgian architect **Huib Hoste** with the garden architect Louis van der Swaelmen, and built in 1917–1919 by interned Belgian soldiers.
+
+        Relations between the two countries soured after the war, and the official ceremony only came in 1938, with King Leopold III and Queen Wilhelmina.
+
+        Look at the colonnaded main building, the long memorial wall and the garden between them — all designed as one composition.
+
+        Tip: the way up is through the woods and uphill, so comfortable shoes help. The park benches are a good spot to rest.
+
+  - name: { en: Leerhotel Het Klooster, ru: Отель-школа Het Klooster }
+    place: "Leerhotel Het Klooster, Daam Fockemalaan 10, Amersfoort"
+    lat: 52.14131
+    lng: 5.35346
+    radius_m: 250
+    walk_min: [ 5, 8 ]
+    visit_min: [ 45, 60 ]
+    short:
+      ru: |
+        Финиш. Бывший монастырь с послевоенной кирпичной архитектурой, внутренним двором и садом. Можно пообедать или выпить кофе.
+      en: |
+        Finish. A former monastery with post-war brick architecture, a courtyard and green grounds. Stop for lunch or coffee.
+    long:
+      ru: |
+        Монастырь основали **крестоносцы** (кройсхерен) — католический орден, который открыл здесь школу-интернат для мальчиков. Школа быстро разрослась с 400 до почти 900 учеников, и к старым корпусам добавились новые, в том числе послевоенные кирпичные. С 1960-х новые братья в орден почти не приходили, и в 1999 году последние монахи покинули Het Klooster.
+
+        Сегодня здесь «учебный отель» колледжа MBO Amersfoort: номера, ресторан и кафе обслуживают студенты гостиничной школы.
+
+        Совет: здесь хорошо закончить день — пообедать или выпить кофе во дворе. До вокзала Amersfoort Centraal около 20 минут пешком под горку.
+      en: |
+        The monastery was founded by the **Crosier Fathers** (Kruisheren), a Catholic order that ran a boarding school for boys here. The school quickly grew from 400 to nearly 900 pupils, and new wings — including post-war brick ones — were added to the old buildings. From the 1960s hardly anyone joined the order, and in 1999 the last brothers left Het Klooster.
+
+        Today it's a "learning hotel" for MBO Amersfoort: the rooms, restaurant and café are run by students of the hotel school.
+
+        Tip: a good place to end the day with lunch or coffee in the courtyard. Amersfoort Centraal is about 20 minutes' walk downhill.
