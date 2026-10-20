@@ -15,6 +15,7 @@ pnpm build
 Create `tours/<country>/<city>-<tour>.yaml`; the build validates it against `src/data/schema.ts`
 and fails with the offending field. Any text field takes `{en, ru}`; a missing language falls back to the other.
 See `tours/netherlands/amsterdam-detailed.yaml` for every field in use.
+Tours list in file-name order, so prefix a multi-day trip's files with the day (`tours/italy/01-bologna-stopover.yaml`).
 
 - `lat`/`lng`: right-click the place in Google Maps and copy the coordinates.
 - `approach`: stops between the previous point and this one; `inside`: walk within the point, last entry is the exit.

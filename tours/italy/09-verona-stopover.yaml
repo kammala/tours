@@ -1,6 +1,6 @@
 country: { en: Italy, ru: Италия }
 city: { en: Verona, ru: Верона }
-name: { en: "Verona stopover on the way to Lake Garda", ru: "Верона по дороге на Гарду" }
+name: { en: "Sun 1 Nov · Verona stopover on the way to Lake Garda", ru: "Вс, 1 ноя · Верона по дороге на Гарду" }
 place_suffix: Verona
 summary:
   ru: "≈ 4,5–5 км, 3–4 часа с остановками; от гаража и обратно к нему"

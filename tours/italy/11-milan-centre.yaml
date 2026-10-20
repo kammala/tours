@@ -1,6 +1,6 @@
 country: { en: Italy, ru: Италия }
 city: { en: Milan, ru: Милан }
-name: { en: "Milan centre before the flight", ru: "Центр Милана перед вылетом" }
+name: { en: "Mon 2 Nov · Milan centre before the flight", ru: "Пн, 2 ноя · Центр Милана перед вылетом" }
 place_suffix: Milano
 summary:
   ru: "≈ 4 км пешком, 5–6 часов с Дуомо и обедом; в центр и обратно — метро M4 от аэропорта Линате"

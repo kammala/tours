@@ -1,6 +1,6 @@
 country: { en: Italy, ru: Италия }
 city: { en: Bologna, ru: Болонья }
-name: { en: "Bologna stopover on the way to Rome", ru: "Болонья по дороге в Рим" }
+name: { en: "Sat 24 Oct · Bologna stopover on the way to Rome", ru: "Сб, 24 окт · Болонья по дороге в Рим" }
 place_suffix: Bologna
 summary:
   ru: "≈ 3,5 км, 1,5–2 часа — короткая остановка без музеев"
