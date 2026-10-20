@@ -1,0 +1,370 @@
+country: { en: Netherlands, ru: Нидерланды }
+city: { en: Amsterdam, ru: Амстердам }
+name: { en: Oost walking loop, ru: Петля по Амстердаму-Ост }
+place_suffix: Amsterdam
+summary:
+  ru: "≈ 12–14 км, 6–7 часов с остановками"
+  en: "≈ 12–14 km, 6–7 hours with stops"
+intro:
+  ru: |
+    Кольцевой маршрут по восточным районам Амстердама с началом и концом на Boylestraat. Сначала — Ватерграфсмер: большое старое кладбище, цветочный сад и последнее загородное поместье города. Потом — мурали, Oosterpark с двумя важными памятниками и Javastraat в Индийском квартале. Вторая половина — Флевопарк: еврейское кладбище XVIII века, старинные ворота, скульптуры, паровая насосная станция с винокурней и берег Nieuwe Diep.
+
+    Главная остановка, привязанная ко времени, — еврейское кладбище Зебург: обычно оно открыто только по воскресеньям с 12:00 до 16:00 и закрыто с декабря по февраль. Удобнее всего идти в воскресенье и стартовать около 9:00.
+  en: |
+    A loop through Amsterdam's eastern neighbourhoods, starting and finishing on Boylestraat. First comes Watergraafsmeer: a large historic cemetery, a flower garden and the city's last country estate. Then murals, the Oosterpark with two important memorials, and Javastraat in the Indische Buurt. The second half is Flevopark: an 18th-century Jewish cemetery, a historic gate, sculptures, a steam pumping station turned distillery and the Nieuwe Diep waterside.
+
+    The one time-sensitive stop is the Zeeburg Jewish cemetery: it's usually open only on Sundays from 12:00 to 16:00 and closed December–February. A Sunday with a start around 9:00 works best.
+outro:
+  ru: |
+    Обратно до Boylestraat — около 20–25 минут пешком на юг по Valentijnkade и через железную дорогу по Middenweg или Kruislaan.
+  en: |
+    Back to Boylestraat is about 20–25 minutes on foot, south along the Valentijnkade and across the railway via the Middenweg or the Kruislaan.
+points:
+  - name: { en: Boylestraat, ru: Boylestraat }
+    lat: 52.35167
+    lng: 4.94048
+    short:
+      ru: |
+        Старт и финиш. Тихая жилая улица в «квартале учёных» Ватерграфсмера.
+      en: |
+        Start and finish. A quiet residential street in Watergraafsmeer's "scientists' quarter".
+    long:
+      ru: |
+        Улицы вокруг названы в честь учёных — Бойля, Фраунгофера, Паскаля, Дарвина, Камерлинг-Оннеса. Рядом находится Science Park с факультетами Амстердамского университета, а сам Ватерграфсмер когда-то был озером, которое осушили в XVII веке и превратили в польдер с загородными усадьбами.
+      en: |
+        The streets around here are named after scientists — Boyle, Fraunhofer, Pascal, Darwin, Kamerlingh Onnes. The University of Amsterdam's Science Park is nearby, and Watergraafsmeer itself was once a lake, drained in the 17th century and turned into a polder of country estates.
+
+  - name: { en: Whale mural, ru: Мурал с китом }
+    place: "Fraunhoferstraat, Amsterdam"
+    lat: 52.35085
+    lng: 4.93700
+    radius_m: 200
+    walk_min: [ 4, 6 ]
+    visit_min: [ 5, 10 ]
+    short:
+      ru: |
+        Стрит-арт на Fraunhoferstraat — быстрая фотоостановка в двух шагах от старта.
+      en: |
+        Street art on Fraunhoferstraat — a quick photo stop just round the corner from the start.
+    long:
+      ru: |
+        Большой кит на торцевой стене жилого дома — неожиданный акцент в спокойном квартале послевоенной застройки. Точное место на улице уточняйте на месте: пройдите Fraunhoferstraat и смотрите на глухие торцы домов.
+      en: |
+        A large whale on the blank end wall of a residential block — an unexpected splash of colour in a quiet post-war neighbourhood. The exact spot on the street is unconfirmed: walk along Fraunhoferstraat and keep an eye on the blank gable walls.
+
+  - name: { en: De Nieuwe Ooster, ru: Кладбище De Nieuwe Ooster }
+    place: "De Nieuwe Ooster, Kruislaan 126, Amsterdam"
+    lat: 52.34568
+    lng: 4.93873
+    radius_m: 400
+    walk_min: [ 10, 12 ]
+    visit_min: [ 45, 60 ]
+    short:
+      ru: |
+        Одно из крупнейших кладбищ Нидерландов — парк и дендрарий; военные мемориалы и музей похоронной культуры.
+      en: |
+        One of the largest cemeteries in the Netherlands — a park and arboretum with war memorials and a funeral-culture museum.
+    long:
+      ru: |
+        Кладбище открылось 1 мая 1894 года, ландшафт для него спроектировал Леонард Спрингер — главный садовый архитектор Амстердама того времени. Ворота и траурный зал работы Адриана Виллема Вейсмана — памятники архитектуры. На 33 гектарах растут вязы, дубы, каштаны, магнолии и рододендроны, а с 2005 года кладбище официально считается дендрарием.
+
+        Что посмотреть: входные ворота и зал у Kruislaan; военные мемориалы — памятник Сопротивлению, памятник жертвам Бухенвальда и участок с могилами более 300 солдат Содружества; современные колумбарии. У входа находится **Museum Tot Zover** — музей о том, как люди прощаются с умершими.
+
+        Совет: у входа обычно есть карта с известными могилами. Это действующее кладбище — ведите себя тихо, особенно если идут похороны.
+      en: |
+        The cemetery opened on 1 May 1894, landscaped by Leonard Springer, Amsterdam's leading garden architect of the day. The gate and ceremonial hall by Adriaan Willem Weissman are listed monuments. Its 33 hectares are planted with elms, oaks, chestnuts, magnolias and rhododendrons, and since 2005 it has officially been an arboretum.
+
+        Look at the gate and hall on the Kruislaan; the war memorials — a resistance memorial, the Buchenwald monument and a plot of more than 300 Commonwealth war graves; and the modern columbaria. By the entrance is **Museum Tot Zover**, a museum about how people say goodbye to the dead.
+
+        Tip: there's usually a map of notable graves at the entrance. It's a working cemetery, so keep quiet, especially if a funeral is under way.
+
+  - name: { en: Darwinplantsoen flower garden, ru: Цветочный сад на Darwinplantsoen }
+    place: "Darwinplantsoen, Amsterdam"
+    lat: 52.34521
+    lng: 4.93185
+    walk_min: [ 8, 10 ]
+    visit_min: 10
+    short:
+      ru: |
+        Маленький соседский цветочный сад. Лучше всего — с апреля по сентябрь.
+      en: |
+        A small community flower garden, best from April to September.
+    long:
+      ru: |
+        Сад «Bloementuin van Darwin» разбили и ухаживают за ним местные жители: на месте обычного газона — клумбы с многолетниками и летниками, скамейки и насекомые. Это не достопримечательность, а пример того, как амстердамцы сами превращают кусочки общественной зелени в сады.
+
+        Совет: зимой здесь почти нечего смотреть — в холодный сезон эту точку можно пропустить.
+      en: |
+        Darwin's flower garden ("Bloementuin van Darwin") was planted and is looked after by local residents: beds of perennials and annuals in place of ordinary lawn, benches and plenty of insects. It's no grand sight, but a good example of Amsterdammers turning scraps of public green into gardens of their own.
+
+        Tip: there's little to see in winter — skip this stop in the cold season.
+
+  - name: { en: Park Frankendael, ru: Парк Франкендал }
+    place: "Huize Frankendael, Middenweg 72, Amsterdam"
+    lat: 52.35120
+    lng: 4.93355
+    radius_m: 300
+    walk_min: [ 10, 12 ]
+    visit_min: [ 30, 40 ]
+    short:
+      ru: |
+        Единственная сохранившаяся загородная усадьба Амстердама: дом XVIII века, регулярный сад, фонтан и дикая часть парка с прудами.
+      en: |
+        Amsterdam's last surviving country estate: an 18th-century house, a formal garden, a fountain and a wilder park with ponds.
+    long:
+      ru: |
+        Когда в 1629 году осушили озеро Ватерграфсмер, богатые амстердамцы построили здесь больше сорока загородных усадеб. Почти все исчезли — Frankendael единственная в черте города, где сохранились и дом, и сад. Нынешний дом построен около 1733 года, фасад — в голландском стиле Людовика XIV, у входа стоят статуи Вакха и Цереры. Город владеет усадьбой с 1882 года.
+
+        Что посмотреть: мраморный фонтан 1714 года с Нептуном, Амфитритой и Арионом работы Игнатиуса ван Логтерена; ворота 1783 года по проекту Якоба Оттена Хюсли; восстановленный регулярный сад в духе 1740-х. За домом начинается природная часть парка с прудами и извилистыми дорожками.
+
+        Совет: в бывшей каретной — ресторан Merkelbach, хорошее место для кофе или обеда.
+      en: |
+        When the Watergraafsmeer lake was drained in 1629, wealthy Amsterdammers built more than forty country estates here. Almost all have gone — Frankendael is the only one within the city where both house and garden survive. The present house dates from around 1733, with a front in Dutch Louis XIV style and statues of Bacchus and Ceres by the door. The city has owned it since 1882.
+
+        Look at the 1714 marble fountain with Neptune, Amphitrite and Arion by Ignatius van Logteren, the 1783 gate designed by Jacob Otten Husly, and the formal garden restored in the spirit of the 1740s. Behind the house the park turns natural, with ponds and winding paths.
+
+        Tip: restaurant Merkelbach in the former coach house is a good stop for coffee or lunch.
+
+  - name: { en: Platanenweg murals, ru: Мурали на Platanenweg }
+    place: "Platanenweg 30, Amsterdam"
+    lat: 52.35407
+    lng: 4.91420
+    radius_m: 250
+    approach: [ Ringdijk ]
+    walk_min: [ 20, 25 ]
+    visit_min: [ 15, 20 ]
+    short:
+      ru: |
+        Десять огромных муралов на торцах жилых домов — фестиваль «If Walls Could Speak» 2019 года.
+      en: |
+        Ten huge murals on the end walls of apartment blocks, from the 2019 "If Walls Could Speak" festival.
+    long:
+      ru: |
+        В 2019 году Amsterdam Street Art позвала десять голландских и зарубежных художников расписать ряд жилых домов на Platanenweg на тему «Амстердам для всех». Среди авторов — Studio Giftig, Case Maclaim, Smug One, Dan Kitchener, Leon Keer и HERA из дуэта Herakut.
+
+        Что посмотреть: работу IVES One и Sjem Bakkus «Яблоко от яблони недалеко падает» — лицо художника Карела Аппела, разрезанное по длине стены; фотореализм Smug One и Case Maclaim рядом с графичным стилем Studio Giftig.
+
+        Совет: пройдите улицу из конца в конец по одной стороне — так все торцы видны целиком.
+      en: |
+        In 2019 Amsterdam Street Art invited ten Dutch and international artists to paint a row of apartment blocks on Platanenweg on the theme "Amsterdam for Everybody". Among them were Studio Giftig, Case Maclaim, Smug One, Dan Kitchener, Leon Keer and HERA of Herakut.
+
+        Look for IVES One and Sjem Bakkus's "The apple doesn't fall far from the tree" — the face of the painter Karel Appel split along the length of a wall — and the photorealism of Smug One and Case Maclaim next to Studio Giftig's graphic style.
+
+        Tip: walk the street end to end on one side so each gable is in full view.
+
+  - name: { en: Oosterpark, ru: Oosterpark }
+    place: "Nationaal Monument Slavernijverleden, Oosterpark, Amsterdam"
+    lat: 52.35866
+    lng: 4.91790
+    radius_m: 400
+    inside: [ { name: De Schreeuw, lat: 52.35959, lng: 4.92236 }, Linnaeusstraat ]
+    walk_min: [ 8, 10 ]
+    visit_min: [ 25, 35 ]
+    short:
+      ru: |
+        Парк XIX века с двумя важными памятниками: Национальным монументом рабству и «Криком» в память о Тео ван Гоге.
+      en: |
+        A 19th-century park with two important memorials: the National Slavery Monument and De Schreeuw, in memory of Theo van Gogh.
+    long:
+      ru: |
+        Oosterpark разбили в 1890-х годах в английском стиле — с прудами, лужайками и старыми деревьями. Сегодня это главный парк многонационального Ост.
+
+        **Национальный монумент рабству** суринамского скульптора Эрвина де Фриса открыт в 2002 году. Фигуры показывают путь от оков к свободе. Каждое 1 июля здесь проходит Keti Koti — день памяти об отмене рабства в Суринаме и на Антильских островах в 1863 году.
+
+        **De Schreeuw** («Крик») Йеруна Хеннемана, 2007 год, — памятник кинорежиссёру Тео ван Гогу, убитому в 2004 году неподалёку, на Linnaeusstraat, и свободе слова. Стальной силуэт кричащего профиля лучше всего читается издалека.
+
+        Совет: выходите из парка на восточную сторону, к Linnaeusstraat, — оттуда прямая дорога к Javastraat.
+      en: |
+        The Oosterpark was laid out in the 1890s in the English landscape style, with ponds, lawns and old trees. Today it's the main park of multicultural Oost.
+
+        The **National Slavery Monument** by the Surinamese sculptor Erwin de Vries was unveiled in 2002. Its figures trace the path from chains to freedom. Every 1 July it hosts Keti Koti, marking the abolition of slavery in Suriname and the Antilles in 1863.
+
+        **De Schreeuw** ("The Scream") by Jeroen Henneman, 2007, commemorates the filmmaker Theo van Gogh, murdered nearby on Linnaeusstraat in 2004, and free speech. The steel outline of a shouting profile reads best from a distance.
+
+        Tip: leave the park on the east side towards Linnaeusstraat — the way on to Javastraat is straight from there.
+
+  - name: { en: Javastraat, ru: Javastraat }
+    place: "Javastraat, Amsterdam"
+    lat: 52.36374
+    lng: 4.93487
+    radius_m: 300
+    inside: [ { name: Javaplein, lat: 52.36378, lng: 4.93993 } ]
+    walk_min: [ 15, 18 ]
+    visit_min: [ 20, 30 ]
+    short:
+      ru: |
+        Главная улица Индийского квартала: архитектура начала XX века, лавки и кофе.
+      en: |
+        The main street of the Indische Buurt: early-20th-century architecture, shops and coffee.
+    long:
+      ru: |
+        Индийский квартал застроили в начале XX века как рабочий район, а улицы назвали в честь островов и мест бывшей Нидерландской Ост-Индии — Ява, Суматра, Бали. Сегодня Javastraat — одна из самых многонациональных улиц города: турецкие и марокканские пекарни, суринамские закусочные и новые кафе по соседству.
+
+        Что посмотреть: фасады в стиле Амстердамской школы на боковых улицах и площадь Javaplein в конце — здание бывшей общественной бани там теперь занимает кафе.
+
+        Совет: хорошее место для кофе и перекуса перед Флевопарком.
+      en: |
+        The Indische Buurt was built in the early 20th century as a working-class district, with streets named after islands and places of the former Dutch East Indies — Java, Sumatra, Bali. Today Javastraat is one of the city's most multicultural streets, with Turkish and Moroccan bakeries and Surinamese snack bars alongside newer cafés.
+
+        Look at the Amsterdam School façades on the side streets and Javaplein at the end, where the former public bathhouse is now a café.
+
+        Tip: a good spot for coffee and a snack before Flevopark.
+
+  - name: { en: Hekkepoort, ru: Ворота Hekkepoort }
+    place: "Flevopark, Amsterdam"
+    lat: 52.36263
+    lng: 4.94779
+    approach: [ Insulindeweg ]
+    walk_min: [ 8, 10 ]
+    visit_min: 5
+    short:
+      ru: |
+        Вход во Флевопарк через городские ворота 1770 года, перенесённые сюда от Muiderpoort.
+      en: |
+        Enter Flevopark through a 1770 city gate, moved here from the Muiderpoort.
+    long:
+      ru: |
+        Ворота-ограда Hekkepoort построили в 1770 году на городской границе у Muiderpoort. Когда движение там выросло, их разобрали и хранили в Тропическом музее, а после создания Флевопарка собрали из оригинальных камней у входа в парк.
+
+        Сам парк придумал натуралист Jac. P. Thijsse в 1908 году; строить начали в 1928-м, открыли в 1931-м, а имя — по древнему озеру Флево, предшественнику Зёйдерзе, — парк получил в 1943 году.
+      en: |
+        The Hekkepoort gate was built in 1770 on the city boundary by the Muiderpoort. When traffic there grew it was taken down and stored at the Tropenmuseum, then rebuilt from its original stones at the park entrance once Flevopark was laid out.
+
+        The naturalist Jac. P. Thijsse dreamed up the park in 1908; building began in 1928 and it opened in 1931. It took its name in 1943 from Lake Flevo, the ancient forerunner of the Zuiderzee.
+
+  - name: { en: Jewish Cemetery Zeeburg, ru: Еврейское кладбище Зебург }
+    place: "Joodse begraafplaats Zeeburg, Amsterdam"
+    lat: 52.36463
+    lng: 4.94980
+    radius_m: 200
+    walk_min: [ 4, 5 ]
+    visit_min: [ 15, 25 ]
+    short:
+      ru: |
+        Кладбище ашкеназской общины, основанное в 1714 году. Обычно открыто по воскресеньям 12:00–16:00, в декабре–феврале закрыто.
+      en: |
+        The Ashkenazi community's cemetery, founded in 1714. Usually open Sundays 12:00–16:00, closed December–February.
+    long:
+      ru: |
+        Двести лет здесь хоронили членов ашкеназской («немецкой») еврейской общины Амстердама — более 100 000 погребений, это крупнейшее еврейское кладбище Нидерландов. В 1956 году при прокладке Flevoweg часть могил перенесли в Димен, остальное по еврейской традиции оставили нетронутым, и территория стала частью парка.
+
+        В 2014 году, к 300-летию кладбища, его расчищали вместе еврейские, христианские и марокканские молодые волонтёры — проект стал символом добрососедства в Ост.
+
+        Совет: ходите только по отмеченным дорожкам и не наступайте на могилы. Мужчинам могут предложить покрыть голову. Если кладбище закрыто, его видно через ограду.
+      en: |
+        For two hundred years Amsterdam's Ashkenazi ("High German") Jewish community buried its dead here — more than 100,000 burials, making it the largest Jewish cemetery in the Netherlands. In 1956 part of it was moved to Diemen for the Flevoweg; the rest, following Jewish tradition, was left undisturbed and became part of the park.
+
+        In 2014, for its 300th anniversary, Jewish, Christian and Moroccan young volunteers cleared it together — a project that became a symbol of neighbourliness in Oost.
+
+        Tip: keep to the marked paths and don't step on graves. Men may be asked to cover their heads. When it's closed you can still see in through the fence.
+
+  - name: { en: Flevogemaal / 't Nieuwe Diep, ru: Насосная станция и винокурня 't Nieuwe Diep }
+    place: "Distilleerderij 't Nieuwe Diep, Flevopark 13, Amsterdam"
+    lat: 52.36204
+    lng: 4.95017
+    walk_min: [ 4, 6 ]
+    visit_min: [ 10, 15 ]
+    short:
+      ru: |
+        Паровая насосная станция 1880 года, в которой теперь работает винокурня с дегустационным залом.
+      en: |
+        An 1880 steam pumping station that now houses a distillery and tasting room.
+    long:
+      ru: |
+        Станция откачивала воду из польдера с 1880 по 1984 год, заменив старую ветряную мельницу. В 2009 году здание отреставрировал фонд Stadsherstel, а в 2010-м здесь открылась винокурня **'t Nieuwe Diep**. Бывший археолог Кес Филиус и его партнёр делают около сотни женеверов, биттеров и ликёров по старинным рецептам, найденным в книгах и архивах. Всё перегоняется прямо здесь.
+
+        Совет: дегустационный зал «het Gemaal» открыт не каждый день — часы проверьте заранее. В тёплую погоду есть терраса у воды.
+      en: |
+        The station pumped water out of the polder from 1880 to 1984, replacing an older windmill. Stadsherstel restored the building in 2009 and in 2010 the **'t Nieuwe Diep** distillery opened. Former archaeologist Kees Filius and his partner make around a hundred jenevers, bitters and liqueurs from forgotten recipes unearthed in old books and archives, all distilled on site.
+
+        Tip: the "het Gemaal" tasting room isn't open every day — check the hours first. In good weather there's a terrace by the water.
+
+  - name: { en: Nieuwe Diep waterfront, ru: Берег Nieuwe Diep }
+    place: "Nieuwe Diep, Amsterdam"
+    lat: 52.36250
+    lng: 4.95600
+    radius_m: 300
+    walk_min: [ 6, 8 ]
+    visit_min: [ 10, 15 ]
+    short:
+      ru: |
+        Тихие тропинки вдоль воды и вид на Nieuwe Diep.
+      en: |
+        Quiet waterside paths and views across the Nieuwe Diep.
+    long:
+      ru: |
+        Nieuwe Diep — широкий водоём на восточной границе парка, когда-то часть пути от Амстердама к Зёйдерзе. Берег здесь заросший и тихий: камыши, ивы, утки, цапли и бакланы. На противоположной стороне — шлюз Nieuwe Diep.
+
+        Совет: идите на север вдоль воды — тропинка выведет к мосту Amsterdamsebrug.
+      en: |
+        The Nieuwe Diep is a broad stretch of water on the park's eastern edge, once part of the route from Amsterdam to the Zuiderzee. The bank is overgrown and peaceful, with reeds, willows, ducks, herons and cormorants. Across the water is the Nieuwe Diep lock.
+
+        Tip: follow the water north — the path leads to the Amsterdamsebrug.
+
+  - name: { en: Graffiti Bridge, ru: Граффити под мостом }
+    place: "Amsterdamsebrug, Amsterdam"
+    lat: 52.36590
+    lng: 4.95610
+    radius_m: 200
+    walk_min: [ 6, 8 ]
+    visit_min: [ 10, 15 ]
+    short:
+      ru: |
+        Легальная площадка для граффити под мостом Amsterdamsebrug — работы меняются почти каждый день.
+      en: |
+        A legal graffiti wall under the Amsterdamsebrug — the work changes almost daily.
+    long:
+      ru: |
+        Под мостом 1957 года, по которому Zuiderzeeweg ведёт на восток, — одна из немногих легальных граффити-площадок Амстердама («Hall of Fame»). Райтеры приходят сюда почти ежедневно, поэтому стены каждый раз выглядят по-новому.
+
+        Рядом стоит здание старого трактира Zeeburg — памятник архитектуры, его история начинается в 1675 году.
+
+        Совет: если кто-то работает — спросите, прежде чем фотографировать. Отсюда возвращаемся на юг через парк.
+      en: |
+        Under the 1957 bridge that carries the Zuiderzeeweg east is one of Amsterdam's few legal graffiti spots, a "Hall of Fame". Writers come almost every day, so the walls look different on every visit.
+
+        Next to it stands the old Zeeburg inn, a listed building whose story goes back to 1675.
+
+        Tip: if someone's painting, ask before taking photos. From here head back south through the park.
+
+  - name: { en: Angstig Konijn, ru: Скульптура «Испуганный кролик» }
+    place: "Angstig konijn, Flevopark, Amsterdam"
+    lat: 52.35937
+    lng: 4.95158
+    walk_min: [ 12, 15 ]
+    visit_min: 5
+    short:
+      ru: |
+        Трёхметровый чёрный кролик Пита Парры — метафора тревоги в растущем городе.
+      en: |
+        Piet Parra's three-metre black rabbit — a metaphor for anxiety in a growing city.
+    long:
+      ru: |
+        Скульптуру высотой около трёх метров и весом около 400 кг художник Piet Parra сделал для фестиваля Appelsap; в 2018 году организаторы подарили её району Ост. Кролика поставили на три месяца, но жителям он понравился, и разрешение сделали постоянным.
+
+        Узнаваемая деталь — фирменный острый нос, как у всех персонажей Парры. По словам автора, испуганный кролик — образ жителя постоянно расширяющегося города, от которого ждут, что он приспособится к любым неудобствам и «прогрессу».
+      en: |
+        Piet Parra made the roughly three-metre, 400 kg sculpture for the Appelsap festival, and in 2018 the organisers gave it to the Oost district. It was meant to stay for three months, but locals took to it and the permit was made permanent.
+
+        The pointed snout is Parra's trademark. He describes the frightened rabbit as a resident of an ever-expanding city, expected to put up with every inconvenience in the name of "progress".
+
+  - name: { en: Froger memorial, ru: Памятник Фрогеру }
+    place: "Willem Anthonie Froger, Flevopark, Amsterdam"
+    lat: 52.35850
+    lng: 4.95237
+    walk_min: [ 2, 3 ]
+    visit_min: 5
+    short:
+      ru: |
+        Финальная точка в парке: скромная стела в память об инженере XIX века.
+      en: |
+        The last stop in the park: a modest stele to a 19th-century engineer.
+    long:
+      ru: |
+        Виллем Антони Фрогер (1812–1883) начинал во флоте, потом стал архитектором и инженером в Амстердаме, в 1852–1856 годах руководил городскими общественными работами и участвовал в разработке планов Северного морского канала, который соединил Амстердам с морем. Памятник почти забыт — мимо него проходят, не замечая.
+
+        Отсюда выход на Valentijnkade и дорога обратно к Boylestraat.
+      en: |
+        Willem Anthonie Froger (1812–1883) started out in the navy, then became an architect and engineer in Amsterdam, headed the city's public works in 1852–1856 and helped plan the North Sea Canal that linked Amsterdam to the sea. His memorial is all but forgotten — most people walk past without noticing.
+
+        From here, leave by the Valentijnkade and head back to Boylestraat.
