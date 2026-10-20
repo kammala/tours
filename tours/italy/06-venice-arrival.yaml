@@ -3,8 +3,8 @@ city: {en: Venice, ru: Венеция}
 name: {en: "Thu 29 Oct · Arrival evening: Rialto, the Grand Canal and St Mark's", ru: "Чт, 29 окт · Вечер приезда: Риальто, Гранд-канал и Сан-Марко"}
 place_suffix: Venezia
 summary:
-  ru: "≈ 5 км пешком, 6–7 часов с дорогой; автобус до Пьяццале Рома и 20 минут на вапоретто по Гранд-каналу"
-  en: "≈ 5 km on foot, 6–7 hours including the bus; one 20-minute vaporetto ride down the Grand Canal"
+  ru: "≈ 3,5 км пешком, 5–6 часов с дорогой; Гранд-канал на вапоретто на закате и обратно по воде"
+  en: "≈ 3.5 km on foot, 5–6 hours including the bus; the Grand Canal by vaporetto at sunset and back by boat"
 intro:
   ru: |
     Четверг, 29 октября. Утром — дорога из Флоренции в Маргеру: около 260 км и **3 часа** по A1 через Апеннины, затем A13 через Болонью и Падую. В навигатор — **hu Venezia camping in town, Via Giuseppe De Marchi 7, Marghera**; кемпинг стоит прямо у развязки Тангенциале ди Местре. Парковка на территории кемпинга бесплатная — машина остаётся там до воскресенья.
@@ -138,38 +138,110 @@ points:
 
         Tip: the campo is a favourite with local families; in the evening children play here, and the bars around the edge serve a glass of wine or a spritz at local rather than tourist prices.
 
+  - name: {en: "The Frari and San Rocco", ru: "Фрари и Сан-Рокко"}
+    place: "Basilica dei Frari, Venezia"
+    lat: 45.43687
+    lng: 12.32623
+    inside: [{name: Scuola Grande di San Rocco, lat: 45.43654, lng: 12.32527}]
+    walk_min: [7, 10]
+    visit_min: [15, 30]
+    short:
+      ru: |
+        Две главные сокровищницы района. Обе закрываются в 17:30–18:00: если вы опережаете график, зайдите во Фрари на 15–20 минут к «Вознесению» Тициана, иначе — только снаружи.
+      en: |
+        The district's two great treasure houses. Both close at 17:30–18:00: if you're ahead of time, spend 15–20 minutes in the Frari with Titian's "Assumption"; otherwise see them from outside.
+    long:
+      ru: |
+        **Санта-Мария-Глориоза-деи-Фрари** — огромная францисканская церковь из красного кирпича XIV–XV веков. Внутри — «Вознесение Девы Марии» Тициана над главным алтарём, самая большая алтарная картина Венеции, и гробница самого Тициана, умершего от чумы в 1576 году. Колокольня Фрари — вторая по высоте в городе после Сан-Марко.
+
+        За церковью — **Скуола-Гранде-ди-Сан-Рокко**, здание благотворительного братства, которое больше двадцати лет расписывал Тинторетто: более пятидесяти полотен, и его называют «Сикстинской капеллой Венеции».
+
+        Совет: вход во Фрари платный, несколько евро, билет — в кассе у бокового входа. Дальше — 5 минут до кампо Сан-Поло.
+      en: |
+        **Santa Maria Gloriosa dei Frari** is a vast 14th–15th-century Franciscan church in red brick. Inside are Titian's "Assumption of the Virgin" over the high altar, the largest altarpiece in Venice, and the tomb of Titian himself, who died of plague in 1576. The Frari bell tower is the second tallest in the city after St Mark's.
+
+        Behind the church is the **Scuola Grande di San Rocco**, the hall of a charitable confraternity that Tintoretto spent more than twenty years decorating: over fifty canvases, earning it the name "the Sistine Chapel of Venice".
+
+        Tip: the Frari charges a few euros, sold at the desk by the side door. Campo San Polo is 5 minutes on.
+
+  - name: {en: Campo San Polo, ru: Кампо Сан-Поло}
+    place: "Campo San Polo, Venezia"
+    lat: 45.43740
+    lng: 12.33000
+    walk_min: 5
+    visit_min: 10
+    short:
+      ru: |
+        Вторая по величине площадь Венеции после Сан-Марко, тихая и жилая. Короткая остановка по дороге к Риальто.
+      en: |
+        The second-largest square in Venice after St Mark's, quiet and residential. A short stop on the way to the Rialto.
+    long:
+      ru: |
+        Огромное кампо в форме амфитеатра: изогнутый ряд палаццо повторяет русло засыпанного канала. Здесь устраивали бои быков, балы и ярмарки, проповедовали, а летом сейчас показывают кино под открытым небом. В 1548 году здесь же был убит Лоренцино Медичи, бежавший из Флоренции после убийства своего кузена, герцога Алессандро.
+
+        Что посмотреть: церковь Сан-Поло с отдельно стоящей колокольней — у её основания два романских льва, один держит змею, другой — человеческую голову. Внутри церкви — цикл «Крестный путь» Джандоменико Тьеполо.
+
+        Совет: дальше к Риальто — через кампо Сант-Апональ и торговую Руга-Веккья-Сан-Джованни, указатели «Per Rialto».
+      en: |
+        A huge amphitheatre-shaped campo: the curved row of palaces follows the line of a filled-in canal. It has hosted bullfights, balls, fairs and sermons, and in summer there's open-air cinema now. In 1548 Lorenzino de' Medici, who had fled Florence after murdering his cousin Duke Alessandro, was killed here.
+
+        Look at the church of San Polo with its free-standing bell tower: at its base are two Romanesque lions, one holding a snake, the other a human head. Inside are Giandomenico Tiepolo's Stations of the Cross.
+
+        Tip: on to the Rialto via Campo Sant'Aponal and the shopping street Ruga Vecchia San Giovanni; follow the "Per Rialto" signs.
+
   - name: {en: Rialto Market, ru: Рынок Риальто}
     place: "Mercato di Rialto, Venezia"
     lat: 45.43964
     lng: 12.33452
-    approach: ["Campo Santa Maria Mater Domini", "Campo San Cassiano"]
-    walk_min: [10, 12]
+    approach: ["Campo Sant'Aponal"]
+    walk_min: [7, 10]
     visit_min: 10
     short:
       ru: |
-        Рыбный и овощной рынок у Гранд-канала. Торговля идёт по утрам со вторника по субботу, днём остаются пустые лоджии — но на них стоит посмотреть.
+        Рыбный и овощной рынок у Гранд-канала. Торговля идёт по утрам со вторника по субботу; сейчас, днём, прилавки уже убраны, но на лоджии стоит посмотреть.
       en: |
-        The fish and produce market on the Grand Canal. Trading happens in the mornings, Tuesday to Saturday; by afternoon only the empty loggias remain, but they're worth a look.
+        The fish and produce market on the Grand Canal. Trading happens in the mornings, Tuesday to Saturday; by this time of day the stalls are packed away, but the loggias are worth a look.
     long:
       ru: |
         Риальто — самое старое место города: здесь, на «высоком берегу» (*rivo alto*), в IX веке поселились первые венецианцы, и отсюда же управляли торговлей всей республики. Рынок работает на этом месте почти тысячу лет. **Пескерия** — рыбный павильон в неоготическом стиле — построена в 1907 году; на капителях её колонн вырезаны рыбы, крабы и лодки.
 
         Что посмотреть: павильон Пескерии с видом на Гранд-канал, овощные ряды Эрберии и старые таблички с минимальными размерами рыб, разрешёнными к продаже, — их вешала ещё республика.
 
-        Совет: в субботу утром рынок самый живой — если будет возможность, загляните сюда в другой день до полудня. А пока обратите внимание на окрестные бакари: вечером мы вернёмся сюда за чиккетти.
+        Совет: в субботу утром рынок самый живой — если будет возможность, загляните сюда в другой день до полудня. Бакари с чиккетти — прямо в соседних переулках, это следующая точка.
       en: |
         The Rialto is the oldest part of the city: on this "high bank" (*rivo alto*) the first Venetians settled in the 9th century, and from here the trade of the whole Republic was run. A market has stood on this spot for almost a thousand years. The **Pescheria**, the neo-Gothic fish hall, was built in 1907; its capitals are carved with fish, crabs and boats.
 
         Look at the Pescheria hall with its Grand Canal view, the produce stalls of the Erberia, and the old plaques listing the minimum size of fish allowed for sale, put up by the Republic itself.
 
-        Tip: Saturday morning is the liveliest time; if you can, come back on another day before noon. For now, note the bacari around here: we come back for cicchetti in the evening.
+        Tip: Saturday morning is the liveliest time; if you can, come back on another day before noon. The cicchetti bars are in the next alleys — that's the next stop.
+
+  - name: {en: Cicchetti by the Rialto, ru: Чиккетти у Риальто}
+    place: "Ruga dei Oresi, Venezia"
+    lat: 45.43861
+    lng: 12.33510
+    walk_min: 2
+    visit_min: [30, 45]
+    short:
+      ru: |
+        Ранний ужин по-венециански, около 16:00: пара бакари с чиккетти и бокалом вина (*ombra*) у стойки. К 16:50 будьте у причала — катер на закате.
+      en: |
+        An early Venetian-style dinner around 16:00: a couple of bacari with cicchetti and a glass of wine (*ombra*) at the counter. Be at the pier by 16:50 for the sunset boat.
+    long:
+      ru: |
+        **Бакаро** — венецианский винный бар, где едят стоя: небольшие закуски-**чиккетти** на кусочках хлеба или поленты — треска-баккала мантекато, сарде ин саор (сардины в маринаде с луком), фрикадельки-польпетте — и маленький бокал вина, по-местному «омбра» («тень»: торговцы вином когда-то прятались с бочками в тени колокольни). Вокруг рынка Риальто, на Руга-деи-Орези и в соседних переулках, они стоят один за другим; среди самых известных — **Cantina Do Mori**, которая ведёт историю с XV века.
+
+        Совет: чиккетти стоят по €2–4, заказывают их у стойки, указывая пальцем. Бакари у рынка работают весь день, так что ранний час — не помеха. Если к ночи снова проголодаетесь, поужинайте у Сан-Марко или уже в Маргере.
+      en: |
+        A **bacaro** is a Venetian wine bar where you eat standing up: small **cicchetti** on bread or polenta — baccalà mantecato (whipped salt cod), sarde in saor (sardines marinated with onions), polpette meatballs — and a small glass of wine, locally an "ombra" ("shade": wine sellers once kept their barrels in the shade of the bell tower). Around the Rialto market, on Ruga dei Oresi and the alleys nearby, they stand one after another; among the best known is **Cantina Do Mori**, which traces its history to the 15th century.
+
+        Tip: cicchetti cost €2–4 each; order at the counter by pointing. The bacari by the market are open all afternoon, so the early hour is no problem. If you're hungry again later, eat near St Mark's or back in Marghera.
 
   - name: {en: Rialto Bridge, ru: Мост Риальто}
     place: "Ponte di Rialto, Venezia"
     lat: 45.43800
     lng: 12.33590
     approach: [{name: Ruga dei Oresi, lat: 45.43861, lng: 12.33510}]
-    walk_min: 3
+    walk_min: 2
     visit_min: [10, 15]
     short:
       ru: |
@@ -235,115 +307,34 @@ points:
       ru: |
         Наполеону приписывают слова о «самой элегантной гостиной Европы». Площадь окружают **Прокурации** — длинные аркады, где жили и работали прокураторы Сан-Марко, высшие после дожа сановники республики. На востоке — **собор Святого Марка** с золотыми мозаиками на фасаде, рядом — **Дворец дожей**. Колокольня высотой 98,6 метра выглядит древней, но это копия: оригинал внезапно рухнул 14 июля 1902 года, и к 1912-му её восстановили «где была и какой была».
 
-        Что посмотреть: на **Пьяцетте** — две колонны со львом Святого Марка и Святым Теодором: между ними когда-то казнили преступников, поэтому суеверные венецианцы до сих пор там не ходят. С **моста Палья** — классический вид на **Мост вздохов**, по которому вели заключённых из дворца в тюрьму. **Часовая башня** конца XV века с двумя бронзовыми «маврами», отбивающими часы, ведёт в Мерчерие — дальше пойдём под её аркой.
+        Что посмотреть: на **Пьяцетте** — две колонны со львом Святого Марка и Святым Теодором: между ними когда-то казнили преступников, поэтому суеверные венецианцы до сих пор там не ходят. С **моста Палья** — классический вид на **Мост вздохов**, по которому вели заключённых из дворца в тюрьму. **Часовая башня** конца XV века с двумя бронзовыми «маврами», отбивающими часы, ведёт в Мерчерие — торговые улицы до Риальто.
 
         Совет: при желании поднимитесь на колокольню — до 31 октября она открыта примерно до 20:45 (билет около €15, лучше купить онлайн на сайте собора); огни города с высоты стоят того. Кафе **Florian** (1720) и **Quadri** — самые старые в городе; кофе за столиком на площади, особенно под музыку оркестра, стоит очень дорого, у стойки внутри — гораздо дешевле. В сезон большой воды (октябрь–январь) площадь — самое низкое место города; барьеры MOSE защищают от сильных приливов, но лужи всё равно бывают.
       en: |
         Napoleon is credited with calling it "the most elegant drawing room in Europe". The square is lined by the **Procuratie**, long arcades where the Procurators of St Mark, the Republic's highest officials after the Doge, lived and worked. To the east stand **St Mark's Basilica** with its golden façade mosaics and the **Doge's Palace**. The 98.6-metre bell tower looks ancient, but it's a copy: the original suddenly collapsed on 14 July 1902 and was rebuilt by 1912 "where it was and as it was".
 
-        On the **Piazzetta** stand two columns with the Lion of St Mark and St Theodore; criminals were once executed between them, so superstitious Venetians still won't walk there. From the **Ponte della Paglia** you get the classic view of the **Bridge of Sighs**, which led prisoners from the palace to the jail. The late-15th-century **Clock Tower**, with two bronze "Moors" striking the hours, leads into the Mercerie; we leave through its archway.
+        On the **Piazzetta** stand two columns with the Lion of St Mark and St Theodore; criminals were once executed between them, so superstitious Venetians still won't walk there. From the **Ponte della Paglia** you get the classic view of the **Bridge of Sighs**, which led prisoners from the palace to the jail. The late-15th-century **Clock Tower**, with two bronze "Moors" striking the hours, leads into the Mercerie, the shopping streets to the Rialto.
 
         Tip: if you like, go up the bell tower — until 31 October it's open until about 20:45 (a ticket is around €15, best bought online on the basilica's website); the city lights from the top are worth it. **Florian** (1720) and **Quadri** are the oldest cafés in town; coffee at a table on the square, especially with the orchestra playing, is very expensive, while at the bar inside it costs far less. In the high-water season (October–January) the square is the lowest point in the city; the MOSE barriers hold back the big tides, but puddles still happen.
-
-  - name: {en: Cicchetti by the Rialto, ru: Чиккетти у Риальто}
-    place: "Ruga dei Oresi, Venezia"
-    lat: 45.43861
-    lng: 12.33510
-    approach:
-      - {name: Marzaria San Salvador, lat: 45.43680, lng: 12.33686}
-      - {name: Campo San Bartolomeo, lat: 45.43767, lng: 12.33681}
-      - {name: Ponte di Rialto, lat: 45.43800, lng: 12.33590}
-    walk_min: 15
-    visit_min: [45, 75]
-    short:
-      ru: |
-        Через Мерчерие обратно к Риальто и через мост в Сан-Поло. Ужин по-венециански: обход нескольких бакари с чиккетти и бокалом вина (*ombra*) у стойки.
-      en: |
-        Through the Mercerie back to the Rialto and over the bridge into San Polo. Dinner Venetian-style: a crawl round a few bacari with cicchetti and a glass of wine (*ombra*) at the counter.
-    long:
-      ru: |
-        **Мерчерие** — цепочка торговых улиц от Часовой башни до Риальто, главный торговый путь средневекового города. По пути — кампо Сан-Сальвадор и кампо Сан-Бартоломео с памятником драматургу Карло Гольдони.
-
-        **Бакаро** — венецианский винный бар, где едят стоя: небольшие закуски-**чиккетти** на кусочках хлеба или поленты — треска-баккала мантекато, сарде ин саор (сардины в маринаде с луком), фрикадельки-польпетте — и маленький бокал вина, по-местному «омбра» («тень»: торговцы вином когда-то прятались с бочками в тени колокольни). Вокруг рынка Риальто, на Руга-деи-Орези и в соседних переулках, они стоят один за другим; среди самых известных — **Cantina Do Mori**, которая ведёт историю с XV века.
-
-        Совет: чиккетти стоят по €2–4, заказывают их у стойки, указывая пальцем. Многие бакари закрываются рано — к 20:00–21:00, — поэтому лучше начать около 18:30. Если хочется сесть, ищите вывеску «osteria» или «trattoria».
-      en: |
-        The **Mercerie** are the chain of shopping streets from the Clock Tower to the Rialto, the main commercial artery of the medieval city. On the way you pass Campo San Salvador and Campo San Bartolomeo with its statue of the playwright Carlo Goldoni.
-
-        A **bacaro** is a Venetian wine bar where you eat standing up: small **cicchetti** on bread or polenta — baccalà mantecato (whipped salt cod), sarde in saor (sardines marinated with onions), polpette meatballs — and a small glass of wine, locally an "ombra" ("shade": wine sellers once kept their barrels in the shade of the bell tower). Around the Rialto market, on Ruga dei Oresi and the alleys nearby, they stand one after another; among the best known is **Cantina Do Mori**, which traces its history to the 15th century.
-
-        Tip: cicchetti cost €2–4 each; order at the counter by pointing. Many bacari close early, around 20:00–21:00, so start around 18:30. If you'd rather sit down, look for a sign saying "osteria" or "trattoria".
-
-  - name: {en: Campo San Polo, ru: Кампо Сан-Поло}
-    place: "Campo San Polo, Venezia"
-    lat: 45.43740
-    lng: 12.33000
-    approach: ["Campo Sant'Aponal"]
-    walk_min: [7, 10]
-    visit_min: 10
-    short:
-      ru: |
-        Вторая по величине площадь Венеции после Сан-Марко — и вечером почти пустая. Отсюда начинается тихий Сан-Поло.
-      en: |
-        The second-largest square in Venice after St Mark's, and almost empty in the evening. Quiet San Polo starts here.
-    long:
-      ru: |
-        Огромное кампо в форме амфитеатра: изогнутый ряд палаццо повторяет русло засыпанного канала. Здесь устраивали бои быков, балы и ярмарки, проповедовали, а летом сейчас показывают кино под открытым небом. В 1548 году здесь же был убит Лоренцино Медичи, бежавший из Флоренции после убийства своего кузена, герцога Алессандро.
-
-        Что посмотреть: церковь Сан-Поло с отдельно стоящей колокольней — у её основания два романских льва, один держит змею, другой — человеческую голову. Внутри церкви — цикл «Крестный путь» Джандоменико Тьеполо, но вечером она, скорее всего, уже закрыта.
-
-        Совет: если после бакари хочется посидеть с десертом или вином — по краям кампо есть несколько баров, и здесь гораздо спокойнее, чем у Риальто.
-      en: |
-        A huge amphitheatre-shaped campo: the curved row of palaces follows the line of a filled-in canal. It has hosted bullfights, balls, fairs and sermons, and in summer there's open-air cinema now. In 1548 Lorenzino de' Medici, who had fled Florence after murdering his cousin Duke Alessandro, was killed here.
-
-        Look at the church of San Polo with its free-standing bell tower: at its base are two Romanesque lions, one holding a snake, the other a human head. Inside are Giandomenico Tiepolo's Stations of the Cross, though in the evening the church is most likely shut.
-
-        Tip: if you want to sit down with dessert or a glass of wine after the bacari, there are a few bars around the campo, much calmer than at the Rialto.
-
-  - name: {en: "The Frari and San Rocco", ru: "Фрари и Сан-Рокко"}
-    place: "Basilica dei Frari, Venezia"
-    lat: 45.43687
-    lng: 12.32623
-    inside: [{name: Scuola Grande di San Rocco, lat: 45.43654, lng: 12.32527}]
-    walk_min: [7, 10]
-    visit_min: [10, 15]
-    short:
-      ru: |
-        Вечерняя прогулка мимо двух главных сокровищниц района — снаружи. Обе закрываются в 17:30–18:00; внутрь стоит вернуться в другой день, если останется время.
-      en: |
-        An evening stroll past the district's two great treasure houses, from outside. Both close at 17:30–18:00; come back another day if you have time.
-    long:
-      ru: |
-        **Санта-Мария-Глориоза-деи-Фрари** — огромная францисканская церковь из красного кирпича XIV–XV веков. Внутри — «Вознесение Девы Марии» Тициана над главным алтарём, самая большая алтарная картина Венеции, и гробница самого Тициана, умершего от чумы в 1576 году. Колокольня Фрари — вторая по высоте в городе после Сан-Марко.
-
-        За церковью — **Скуола-Гранде-ди-Сан-Рокко**, здание благотворительного братства, которое больше двадцати лет расписывал Тинторетто: более пятидесяти полотен, и его называют «Сикстинской капеллой Венеции».
-
-        Совет: вечером переулки Сан-Поло пустеют, и это лучший момент почувствовать город без толп. От Сан-Рокко до Пьяццале Рома — около 12 минут, указатели «Piazzale Roma» на стенах домов.
-      en: |
-        **Santa Maria Gloriosa dei Frari** is a vast 14th–15th-century Franciscan church in red brick. Inside are Titian's "Assumption of the Virgin" over the high altar, the largest altarpiece in Venice, and the tomb of Titian himself, who died of plague in 1576. The Frari bell tower is the second tallest in the city after St Mark's.
-
-        Behind the church is the **Scuola Grande di San Rocco**, the hall of a charitable confraternity that Tintoretto spent more than twenty years decorating: over fifty canvases, earning it the name "the Sistine Chapel of Venice".
-
-        Tip: in the evening the San Polo alleys empty out, and it's the best moment to feel the city without crowds. From San Rocco to Piazzale Roma is about 12 minutes; follow the "Piazzale Roma" signs on the walls.
 
   - name: {en: Piazzale Roma, ru: Пьяццале Рома}
     place: "Piazzale Roma, Venezia"
     lat: 45.43801
     lng: 12.31885
     radius_m: 250
-    approach: [{name: Campo dei Tolentini, lat: 45.43765, lng: 12.32143}]
-    walk_min: 12
+    walk_min: 3
+    visit_min: [30, 45]
     short:
       ru: |
-        Финиш. Автобус № 6 в сторону Marghera/Spinea, выход на Via Paleocapa. Отправления в :10, :30 и :50, последние — 23:10, 23:25, 23:50.
+        Финиш. Обратно по воде: вапоретто № 2 (быстрее, ~30 минут) или № 1 (~45 минут, ночной Гранд-канал) от San Marco до Piazzale Roma. Затем автобус № 6 в сторону Marghera/Spinea, выход на Via Paleocapa; последние рейсы — 23:10, 23:25, 23:50.
       en: |
-        Finish. Bus no. 6 towards Marghera/Spinea, get off at Via Paleocapa. Departures at :10, :30 and :50; the last ones at 23:10, 23:25 and 23:50.
+        Finish. Back by water: vaporetto no. 2 (faster, ~30 minutes) or no. 1 (~45 minutes, the Grand Canal by night) from San Marco to Piazzale Roma. Then bus no. 6 towards Marghera/Spinea, getting off at Via Paleocapa; the last ones leave at 23:10, 23:25 and 23:50.
     long:
       ru: |
-        По пути — кампо деи Толентини с церковью Сан-Никола-да-Толентино и её классическим портиком; рядом — здание архитектурного университета IUAV с воротами работы Карло Скарпы.
+        Линия 2 идёт вокруг через канал Джудекка, линия 1 — обратно по всему Гранд-каналу, где вечером подсвечены окна палаццо. Причалы у Сан-Марко — San Marco Vallaresso и San Marco Giardinetti; номер линии и направление «Piazzale Roma» — на табло у входа.
 
         Совет: автобус № 6 отходит с пронумерованных платформ автовокзала — номер платформы виден на табло. Не забудьте приложить проездной к валидатору и на обратном пути.
       en: |
-        On the way is Campo dei Tolentini with the church of San Nicola da Tolentino and its classical portico; next to it is the IUAV architecture university, with an entrance gate by Carlo Scarpa.
+        Line 2 goes round by the Giudecca Canal; line 1 runs back up the whole Grand Canal, with the palace windows lit in the evening. The St Mark's piers are San Marco Vallaresso and San Marco Giardinetti; the line number and "Piazzale Roma" are on the board at the entrance.
 
         Tip: bus no. 6 leaves from one of the numbered bays of the bus station; the bay number is on the departure boards. Remember to tap your pass on the validator on the way back too.

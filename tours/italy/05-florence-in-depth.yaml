@@ -9,7 +9,7 @@ intro:
   ru: |
     Среда, 28 октября. День выстроен вокруг времени: Уффици к открытию в **8:15** (билеты с точным временем куплены заранее на www.uffizi.it), обед на рынке, сады Боболи сразу после обеда — в конце октября они закрываются уже в **17:30**, последний вход в **16:30**, — и только потом ремесленные улицы Ольтрарно, где мастерские работают примерно до 19:00.
 
-    Маршрут: Casa Angi → Уффици → мимо Дуомо → рынок Меркато Чентрале → Понте Веккьо → палаццо Питти и сады Боболи → Via Maggio → площадь Санто-Спирито → Борго Сан-Фредиано → автобус домой.
+    Маршрут: Casa Angi → Уффици → мимо Дуомо → рынок Меркато Чентрале → Понте Веккьо → палаццо Питти и сады Боболи → Via Maggio → площадь Санто-Спирито → Борго Сан-Фредиано (по желанию — пропустите, если задержались в Боболи) → автобус домой.
 
     **Если идёт дождь**, Боболи пропускайте: дорожки там гравийные и крутые, а при штормовом предупреждении сад вообще закрывают. Освободившиеся полтора часа отдайте Ольтрарно — мастерским, лавкам и кафе, где можно переждать ливень.
 
@@ -17,7 +17,7 @@ intro:
   en: |
     Wednesday 28 October. The day is built around the clock: the Uffizi at opening, **8:15** (timed tickets booked in advance at www.uffizi.it), lunch at the market, the Boboli Gardens straight after lunch — in late October they close at **17:30** with last entry at **16:30** — and only then the artisan streets of the Oltrarno, where the workshops stay open until about 19:00.
 
-    Route: Casa Angi → Uffizi → past the Duomo → Mercato Centrale → Ponte Vecchio → Palazzo Pitti and the Boboli Gardens → Via Maggio → Piazza Santo Spirito → Borgo San Frediano → bus home.
+    Route: Casa Angi → Uffizi → past the Duomo → Mercato Centrale → Ponte Vecchio → Palazzo Pitti and the Boboli Gardens → Via Maggio → Piazza Santo Spirito → Borgo San Frediano (optional — skip it if Boboli ran late) → bus home.
 
     **If it rains**, skip Boboli: the paths are gravel and steep, and the garden closes altogether under a weather warning. Give the hour and a half to the Oltrarno instead — workshops, shops and cafés to sit out a downpour in.
 
@@ -221,7 +221,7 @@ points:
 
         Tip: in a workshop, say hello and ask whether you can look before walking in — many craftsmen are happy to show their work. Photos only with permission. Many close for lunch from about 13:00 to 15:30, but by 16:00 everything is open again.
 
-  - name: {en: Borgo San Frediano, ru: Борго Сан-Фредиано}
+  - name: {en: "Borgo San Frediano — optional", ru: "Борго Сан-Фредиано — по желанию"}
     place: "Porta San Frediano, Firenze"
     lat: 43.77030
     lng: 11.24124
