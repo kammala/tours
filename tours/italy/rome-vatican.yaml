@@ -1,0 +1,280 @@
+country: { en: Italy, ru: Италия }
+city: { en: Rome, ru: Рим }
+name: { en: "The Vatican, the Tiber and baroque Rome", ru: "Ватикан, Тибр и барочный Рим" }
+place_suffix: Roma
+summary:
+  ru: "≈ 7–8 км пешком плюс 2,5–3 часа по залам музеев, около 10 часов; туда и обратно на метро"
+  en: "≈ 7–8 km on foot plus 2.5–3 hours on museum floors, about 10 hours; metro there and back"
+intro:
+  ru: |
+    Понедельник, 26 октября. Это самый длинный день поездки: утром — собор Святого Петра, пока очередь на досмотр короткая; днём — Ватиканские музеи, 7 километров залов; вечером — пешая прогулка через исторический центр. Закат около **17:10**.
+
+    Билеты в **Ватиканские музеи и Сикстинскую капеллу** куплены через посредника на **12:30**. Сначала их нужно получить в офисе на **Via Germanico, 40** — приходите туда к **12:05**: опоздавших не пускают и деньги не возвращают. Не идите сразу ко входу в музеи. Имена в билетах должны совпадать с паспортами — возьмите их с собой. Подтверждение придёт по почте или в WhatsApp накануне, около 8:00. Вход в собор Святого Петра бесплатный и в билет не входит.
+
+    Дресс-код и в музеях, и в соборе: **закрытые плечи и колени**, без шорт и маек — охрана разворачивает прямо на входе. Большие рюкзаки, штативы и зонты-трости не пускают.
+
+    Дорога: от Пиньето линия C до **San Giovanni** (2 остановки), пересадка на линию A в сторону Battistini и 9 остановок до **Ottaviano**. Всего около 40 минут плюс 10–15 минут пешком до площади Святого Петра — выходите из дома около **8:00**. Оплата — Tap & Go, каждый своей картой; пересадка на San Giovanni входит в тот же билет.
+  en: |
+    Monday 26 October. This is the longest day of the trip: St Peter's in the morning while the security queue is short, the Vatican Museums' 7 kilometres of galleries at midday, and a walk across the historic centre in the evening. Sunset is around **17:10**.
+
+    The **Vatican Museums and Sistine Chapel** tickets are booked through a reseller for **12:30**. Collect them first at the office at **Via Germanico 40** — be there by **12:05**: late arrivals aren't admitted or refunded. Don't go straight to the museum entrance. The names on the tickets must match your passports, so bring them. The confirmation arrives by email or WhatsApp the day before, around 8:00. St Peter's is free and not part of the ticket.
+
+    Dress code in both the museums and the basilica: **shoulders and knees covered**, no shorts or vest tops — the guards turn people away at the door. Large backpacks, tripods and long umbrellas aren't allowed.
+
+    Getting there: from Pigneto take line C to **San Giovanni** (2 stops), change to line A towards Battistini and ride 9 stops to **Ottaviano**. About 40 minutes in all, plus 10–15 minutes' walk to St Peter's Square — leave home around **8:00**. Pay with Tap & Go, each with your own card; the change at San Giovanni is part of the same fare.
+outro:
+  ru: |
+    Домой: от станции **Colosseo – Fori Imperiali** линия C прямо до **Pigneto**, 4 остановки, около 10 минут, и 5 минут пешком до Via Adriano Balbi. Без пересадок — после такого дня это важно.
+
+    Если кто-то устал раньше, есть вариант полегче: после Пьяцца Навона не ходите к Пантеону, а перейдите Тибр по мосту **Понте-Систо** (15–20 минут пешком) в **Трастевере** — тихие улочки, плющ, траттории, и вечер можно закончить ужином там. Обратно — трамвай 8 до Пьяцца Венеция и 10 минут пешком до станции Colosseo – Fori Imperiali, или такси прямо до гостевого дома (около 20–25 минут).
+
+    Завтра выезд в **10:00** и дорога во Флоренцию — машина ждёт на парковке гостевого дома. Соберите вещи с вечера.
+  en: |
+    Home: from **Colosseo – Fori Imperiali** line C runs straight to **Pigneto**, 4 stops, about 10 minutes, then 5 minutes' walk to Via Adriano Balbi. No changes — which matters after a day like this.
+
+    If anyone tires early, there's a lighter option: after Piazza Navona skip the Pantheon and cross the Tiber by **Ponte Sisto** (15–20 minutes' walk) into **Trastevere** — quiet lanes, ivy and trattorias, and the evening can end with dinner there. Home from there by tram 8 to Piazza Venezia and a 10-minute walk to Colosseo – Fori Imperiali station, or by taxi straight to the guesthouse (about 20–25 minutes).
+
+    Check-out tomorrow is at **10:00**, then the drive to Florence — the car is waiting in the guesthouse car park. Pack tonight.
+points:
+  - name: { en: Atelier Randagi al Pigneto, ru: Atelier Randagi al Pigneto }
+    place: "Via Adriano Balbi 20, 00176 Roma"
+    lat: 41.88690
+    lng: 12.53165
+    short:
+      ru: |
+        Старт около 8:00. Проверьте одежду (плечи и колени закрыты) и паспорта — без них билеты в музеи не выдадут.
+      en: |
+        Start around 8:00. Check clothing (shoulders and knees covered) and passports — the museum tickets won't be handed over without them.
+    long:
+      ru: |
+        Позавтракайте плотно: до раннего обеда будет собор и полтора-два часа на ногах. Возьмите лёгкую кофту или шарф — им можно прикрыть плечи, если в соборе к одежде придерутся.
+
+        Совет: возьмите маленькую сумку вместо рюкзака — на досмотре в музеях и в соборе с ней проще.
+      en: |
+        Have a proper breakfast: there's the basilica and an hour and a half on your feet before an early lunch. Bring a light top or scarf to cover shoulders if the basilica guards object to anything.
+
+        Tip: take a small bag rather than a backpack — it makes both security checks easier.
+
+  - name: { en: Pigneto metro station, ru: Станция метро Pigneto }
+    place: "Pigneto metro station, Roma"
+    lat: 41.88854
+    lng: 12.52821
+    walk_min: 5
+    short:
+      ru: |
+        Линия C до San Giovanni (2 остановки), там пересадка на линию A в сторону **Battistini**.
+      en: |
+        Line C to San Giovanni (2 stops), then change to line A towards **Battistini**.
+    long:
+      ru: |
+        На **San Giovanni** пересадка недлинная, по указателям «Linea A». Если будет время на обратном пути в другой день — над станцией стоит **базилика Сан-Джованни-ин-Латерано**, кафедральный собор Рима: формально главный храм католического мира, а не собор Святого Петра.
+
+        Совет: в утренний час пик поезда линии A переполнены — пропустите один, следующий придёт через 3–5 минут.
+      en: |
+        The change at **San Giovanni** is short; follow the "Linea A" signs. If you have time another day, the station sits below the **Basilica of St John Lateran**, Rome's cathedral — formally the senior church of the Catholic world, not St Peter's.
+
+        Tip: line A trains are packed at morning rush hour — let one go; the next comes in 3–5 minutes.
+
+  - name: { en: Ottaviano metro station, ru: Станция метро Ottaviano }
+    place: "Ottaviano metro station, Via Ottaviano, Roma"
+    lat: 41.90946
+    lng: 12.45846
+    short:
+      ru: |
+        Выход из метро. До площади Святого Петра ~10–15 минут: через Пьяцца Рисорджименто и по Via di Porta Angelica.
+      en: |
+        Leave the metro here. St Peter's Square is ~10–15 minutes away: through Piazza del Risorgimento and down Via di Porta Angelica.
+    long:
+      ru: |
+        Район Прати построили в конце XIX века для чиновников новой столицы Италии, с прямыми широкими улицами — и улицы нарочно не направили к куполу Святого Петра: в те годы между королевством и папой был открытый конфликт. Отсюда же назван и сам выход: «Ottaviano – San Pietro – Musei Vaticani».
+
+        Совет: у метро и вдоль стены к вам будут подходить продавцы «билетов без очереди» и экскурсий — билеты у вас уже есть, просто проходите мимо.
+      en: |
+        The Prati district was built in the late 19th century for the civil servants of Italy's new capital, with straight broad streets — deliberately not aimed at the dome of St Peter's, since the kingdom and the pope were openly at odds back then. The station is signed "Ottaviano – San Pietro – Musei Vaticani".
+
+        Tip: by the metro and along the wall people will offer "skip-the-line" tickets and tours — you already have yours, so just walk past.
+
+  - name: { en: "St Peter's Basilica", ru: Собор Святого Петра }
+    place: "Basilica di San Pietro, Piazza San Pietro, Città del Vaticano"
+    lat: 41.90220
+    lng: 12.45540
+    radius_m: 250
+    approach: [ Piazza del Risorgimento, Via di Porta Angelica ]
+    walk_min: [ 10, 15 ]
+    visit_min: [ 60, 90 ]
+    short:
+      ru: |
+        Около 8:45: досмотр под правой колоннадой (утром очередь короткая) и собор. Вход бесплатный. Уходите не позже 11:00.
+      en: |
+        Around 8:45: the security check under the right-hand colonnade (short in the morning) and the basilica. Free entry. Leave by 11:00 at the latest.
+    long:
+      ru: |
+        Собор стоит над могилой апостола Петра, распятого, по преданию, в цирке Нерона рядом. Первую базилику построил император Константин в IV веке; нынешнюю возводили 120 лет, с 1506 по 1626 год, и над ней работали Браманте, Рафаэль, Микеланджело и Мадерно. Купол Микеланджело высотой 136 метров до сих пор определяет силуэт Рима. Площадь с колоннадами Бернини — «объятия Церкви», распахнутые к миру.
+
+        Что посмотреть: **«Пьету» Микеланджело** справа от входа — он вырезал её в 24 года, и это единственная работа, которую он подписал; бронзовый **балдахин Бернини** над главным алтарём; бронзовую статую **святого Петра** со стёртой поцелуями паломников ступнёй. На площади встаньте на диск между обелиском и фонтаном — четыре ряда колонн сольются в один.
+
+        Совет: подъём на купол (551 ступень или лифт плюс 320) займёт ещё час — успеете, только если пройдёте досмотр до 9:00; иначе пропустите его, впереди три часа музеев.
+      en: |
+        The basilica stands over the tomb of St Peter, said to have been crucified in Nero's circus next door. Emperor Constantine built the first basilica in the 4th century; the present one took 120 years, 1506 to 1626, with Bramante, Raphael, Michelangelo and Maderno all working on it. Michelangelo's 136-metre dome still defines Rome's skyline. Bernini's colonnaded square is the "arms of the Church" opened out to the world.
+
+        Look at **Michelangelo's Pietà** to the right of the entrance — carved when he was 24, and the only work he ever signed; **Bernini's bronze baldachin** over the high altar; and the bronze **St Peter** with a foot worn smooth by pilgrims' kisses. In the square, stand on the disc between the obelisk and a fountain and the four rows of columns line up into one.
+
+        Tip: climbing the dome (551 steps, or a lift plus 320) takes another hour — only worth it if you're through security by 9:00; otherwise skip it, there are three hours of museums ahead.
+
+  - name: { en: "Lunch and ticket pick-up, Via Germanico 40", ru: "Обед и билеты, Via Germanico, 40" }
+    place: "Via Germanico 40, 00192 Roma"
+    lat: 41.90820
+    lng: 12.45950
+    radius_m: 100
+    approach: [ Via di Borgo Pio, Via di Porta Angelica ]
+    walk_min: [ 10, 15 ]
+    visit_min: [ 60, 75 ]
+    short:
+      ru: |
+        Ранний обед в Борго-Пио или Прати, затем к **12:05** — в офис посредника на Via Germanico, 40: паспорта, получить билеты. Оттуда ~5 минут пешком ко входу в музеи.
+      en: |
+        Early lunch in Borgo Pio or Prati, then be at the reseller's office at Via Germanico 40 by **12:05**: passports out, collect the tickets. The museum entrance is ~5 minutes' walk from there.
+    long:
+      ru: |
+        **Борго** — средневековый квартал между собором и замком Святого Ангела, где веками жили паломники и папская прислуга; **Via di Borgo Pio** — его пешеходная улица с тратториями. **Прати** за стеной — спокойный район конца XIX века, где обедают служащие, а не туристы.
+
+        Что посмотреть по пути: стену с **Passetto di Borgo** — крытым коридором, по которому папы бежали в замок, — она идёт вдоль Борго-Пио.
+
+        Совет: в музеях кафе есть, но в очереди к ним не стоит терять время — плотно поешьте здесь, около 11:00, пока в тратториях свободно. Офис выдаёт билеты и объясняет дорогу, но дальше вы идёте одни, без сопровождающего.
+      en: |
+        The **Borgo** is the medieval quarter between the basilica and Castel Sant'Angelo, home for centuries to pilgrims and papal servants; **Via di Borgo Pio** is its pedestrian street of trattorias. **Prati**, beyond the wall, is a calm late-19th-century district where office workers, not tourists, have lunch.
+
+        On the way, look at the wall carrying the **Passetto di Borgo**, the covered walkway the popes fled along to the castle — it runs beside Borgo Pio.
+
+        Tip: the museums have cafés, but don't lose time queuing for them — eat properly here around 11:00, while the trattorias are quiet. The office hands over the tickets and explains the way, but from there you walk on your own, with no escort.
+
+  - name: { en: Vatican Museums & Sistine Chapel, ru: Ватиканские музеи и Сикстинская капелла }
+    place: "Musei Vaticani entrance, Viale Vaticano, Roma"
+    lat: 41.90660
+    lng: 12.45370
+    approach: [ Viale Giulio Cesare, Via Leone IV ]
+    walk_min: 5
+    visit_min: [ 150, 180 ]
+    short:
+      ru: |
+        Вход в 12:30, время может сдвинуться на полчаса; досмотр обязателен даже с приоритетным билетом. Минимум 2,5–3 часа; Сикстинская капелла — в конце, там тишина и без фото.
+      en: |
+        Entry at 12:30; the time can slip by half an hour, and the security check applies even to priority tickets. Allow at least 2.5–3 hours; the Sistine Chapel comes at the end, with silence and no photos.
+    long:
+      ru: |
+        Одно из крупнейших собраний искусства в мире выросло из коллекции античных статуй папы Юлия II, выставленной в 1506 году в Бельведерском дворе. За пять веков папы собрали египетские мумии, этрусские бронзы, греческие скульптуры, гобелены, карты и живопись — всего около 20 тысяч предметов в экспозиции.
+
+        Что посмотреть по пути к капелле: **Восьмиугольный двор** с **Лаокооном** и **Аполлоном Бельведерским**; **Круглый зал** с огромной порфировой чашей; **Галерею карт** — 120-метровый коридор с фресками карт Италии XVI века; **станцы Рафаэля**, особенно «Афинскую школу». И наконец — **Сикстинскую капеллу**: потолок Микеланджело 1508–1512 годов с «Сотворением Адама» и «Страшный суд» на алтарной стене 1536–1541 годов. Именно в этой капелле собирается конклав и выбирает папу.
+
+        Совет: идите по указателям «Cappella Sistina», не задерживаясь у всего подряд, — иначе к капелле дойдёте без сил. Лучше посмотреть 5–6 главных вещей, чем пробежать всё. В собор вы уже сходили утром, так что из музеев выходите обычным путём на Viale Vaticano — оттуда к замку Святого Ангела около 20 минут.
+      en: |
+        One of the world's great art collections grew from Pope Julius II's ancient statues, put on show in the Belvedere Courtyard in 1506. Over five centuries the popes added Egyptian mummies, Etruscan bronzes, Greek sculpture, tapestries, maps and paintings — some 20,000 objects on display.
+
+        On the way to the chapel, look at the **Octagonal Court** with the **Laocoön** and the **Apollo Belvedere**; the **Round Room** with its huge porphyry basin; the **Gallery of Maps**, a 120-metre corridor of 16th-century fresco maps of Italy; and the **Raphael Rooms**, above all "The School of Athens". Finally the **Sistine Chapel**: Michelangelo's ceiling of 1508–1512 with "The Creation of Adam", and "The Last Judgement" on the altar wall, 1536–1541. This is where the conclave meets to elect a pope.
+
+        Tip: follow the "Cappella Sistina" signs without stopping at everything, or you'll reach the chapel exhausted. Better to see five or six highlights than to rush through it all. You did the basilica this morning, so leave by the normal exit onto Viale Vaticano — Castel Sant'Angelo is about 20 minutes from there.
+
+  - name: { en: "Castel Sant'Angelo", ru: Замок Святого Ангела }
+    place: "Castel Sant'Angelo, Lungotevere Castello 50, Roma"
+    lat: 41.90308
+    lng: 12.46633
+    radius_m: 200
+    approach: [ Via Leone IV, Via Crescenzio ]
+    walk_min: [ 20, 25 ]
+    visit_min: [ 10, 15 ]
+    short:
+      ru: |
+        От выхода из музеев по Via Crescenzio к Тибру. По понедельникам замок закрыт — только снаружи.
+      en: |
+        From the museum exit along Via Crescenzio to the Tiber. The castle is closed on Mondays — outside only.
+    long:
+      ru: |
+        Круглую крепость построили как **мавзолей императора Адриана** в 123–139 годах. Потом она стала частью городских стен, папской крепостью, тюрьмой и убежищем: во время разграбления Рима в 1527 году папа Климент VII бежал сюда по **Passetto di Borgo** — крытому коридору на стене, который до сих пор тянется от Ватикана к замку. Имя дало видение 590 года: папе Григорию Великому явился ангел, вкладывающий меч в ножны в знак конца чумы, — его бронзовая статуя венчает замок.
+
+        Что посмотреть: стену с Passetto — она подходит к замку справа; ангела на вершине; сам Тибр — с этого места начинается самый красивый вид на реку. С верхней террасы замка прыгает героиня в финале оперы Пуччини «Тоска».
+
+        Совет: от замка загляните на минуту на Via della Conciliazione — проспект проложили только в 1930-х, снеся средневековый квартал, и отсюда видно, как купол собора «уходит» за фасад.
+      en: |
+        The round fortress was built as **Emperor Hadrian's mausoleum** in 123–139. It then became part of the city walls, a papal fortress, a prison and a refuge: during the Sack of Rome in 1527 Pope Clement VII fled here along the **Passetto di Borgo**, a covered walkway on top of a wall that still runs from the Vatican to the castle. The name comes from a vision in 590: Pope Gregory the Great saw an angel sheathing its sword to mark the end of the plague — its bronze statue crowns the castle.
+
+        Look at the wall carrying the Passetto, meeting the castle on its right-hand side; at the angel on top; and at the Tiber itself — the best river views start here. The heroine of Puccini's "Tosca" leaps from the castle's top terrace in the final act.
+
+        Tip: step onto Via della Conciliazione beside the castle for a minute — the avenue was only cut through in the 1930s, flattening a medieval quarter, and from here you can watch the dome "sink" behind the façade.
+
+  - name: { en: Piazza Navona, ru: Пьяцца Навона }
+    place: "Fontana dei Quattro Fiumi, Piazza Navona, Roma"
+    lat: 41.89893
+    lng: 12.47310
+    radius_m: 200
+    approach: [ Ponte Sant'Angelo, { name: Via dei Coronari, lat: 41.90060, lng: 12.47040 } ]
+    walk_min: [ 12, 15 ]
+    visit_min: [ 20, 30 ]
+    short:
+      ru: |
+        Через мост Святого Ангела с ангелами Бернини и по антикварной Via dei Coronari — на самую барочную площадь Рима.
+      en: |
+        Over Ponte Sant'Angelo with Bernini's angels and along Via dei Coronari, the antiques street, to Rome's most baroque square.
+    long:
+      ru: |
+        **Мост Святого Ангела** построил ещё Адриан, чтобы вести к своему мавзолею; десять ангелов с орудиями Страстей вырезали в 1668–1671 годах по эскизам Бернини. **Via dei Coronari** — улица продавцов чёток для паломников, шедших к Святому Петру; сейчас это антикварные лавки.
+
+        Площадь сохраняет вытянутую форму **стадиона Домициана** I века: дома стоят прямо на его трибунах. В центре — **фонтан Четырёх рек** Бернини (1651) с Нилом, Гангом, Дунаем и Ла-Платой; напротив — церковь **Сант-Аньезе-ин-Агоне** его соперника Борромини. По популярной легенде, фигура Нила закрывает лицо, чтобы не видеть «уродливую» церковь, а Ла-Плата поднимает руку, будто она вот-вот рухнет, — но фонтан закончили раньше фасада, так что это просто красивая байка.
+
+        Совет: кафе на самой площади очень дорогие — кофе выпейте в переулках вокруг. Если нужен перерыв, это лучшее место присесть на скамейку.
+      en: |
+        **Ponte Sant'Angelo** was built by Hadrian himself to lead to his mausoleum; the ten angels carrying the instruments of the Passion were carved in 1668–1671 to Bernini's designs. **Via dei Coronari** was the street of rosary sellers for pilgrims heading to St Peter's; today it's lined with antique shops.
+
+        The square keeps the long shape of Domitian's 1st-century **stadium**: the houses stand on its stands. In the middle is Bernini's **Fountain of the Four Rivers** (1651) — the Nile, Ganges, Danube and Río de la Plata; opposite is **Sant'Agnese in Agone** by his rival Borromini. The popular story says the Nile covers its face so as not to see the "ugly" church and the Plata raises a hand as if it were about to collapse — but the fountain was finished before the façade, so it's just a good yarn.
+
+        Tip: cafés on the square itself are very expensive — have coffee in the side streets. If you need a break, this is the best place to sit on a bench.
+
+  - name: { en: Pantheon, ru: Пантеон }
+    place: "Pantheon, Piazza della Rotonda, Roma"
+    lat: 41.89862
+    lng: 12.47683
+    radius_m: 120
+    walk_min: [ 5, 7 ]
+    visit_min: [ 20, 30 ]
+    short:
+      ru: |
+        Билет — несколько евро, на месте или на museiitaliani.it; открыто до 19:00, последний вход в 18:30. Внутри хватит 15–20 минут.
+      en: |
+        A ticket costs a few euros, on the spot or at museiitaliani.it; open until 19:00, last entry 18:30. 15–20 minutes inside is enough.
+    long:
+      ru: |
+        Храм всех богов в нынешнем виде построили при Адриане около 125 года, и это самое хорошо сохранившееся здание Древнего Рима — потому что с 609 года он стал церковью и им никогда не переставали пользоваться. Его бетонный купол диаметром 43 метра почти 1900 лет остаётся крупнейшим в мире неармированным куполом; высота здания равна диаметру, так что внутрь точно вписывается шар.
+
+        Что посмотреть: **окулус** — 9-метровое отверстие в вершине купола, единственный источник света; дождь падает прямо в зал и уходит через дырочки в полу; **гробницу Рафаэля** с надписью «здесь лежит тот, кем природа боялась быть побеждённой»; гробницы первых королей Италии. На фронтоне — надпись «M·AGRIPPA», оставшаяся от более раннего храма.
+
+        Совет: к этому моменту начнёт темнеть — площадь Ротонды с фонтаном и подсвеченным портиком особенно хороша вечером. Тут же неподалёку — знаменитое кафе Tazza d'Oro и мороженое Giolitti, если нужно подкрепиться перед дорогой.
+      en: |
+        The temple of all the gods in its present form was built under Hadrian around 125, and it's the best-preserved building of ancient Rome — because it became a church in 609 and has been in use ever since. Its 43-metre concrete dome has been the world's largest unreinforced dome for nearly 1,900 years; the height equals the diameter, so a perfect sphere fits inside.
+
+        Look at the **oculus**, the 9-metre opening at the top of the dome and the only source of light — rain falls straight into the hall and drains through small holes in the floor; **Raphael's tomb**, inscribed "here lies he by whom Nature feared to be outdone"; and the tombs of Italy's first kings. The pediment still reads "M·AGRIPPA", left over from an earlier temple.
+
+        Tip: by now dusk will be falling — Piazza della Rotonda with its fountain and floodlit portico is at its best in the evening. Tazza d'Oro coffee and Giolitti ice cream are close by if you need fuel for the walk.
+
+  - name: { en: "Colosseo – Fori Imperiali metro", ru: "Метро Colosseo – Fori Imperiali" }
+    place: "Colosseo – Fori Imperiali metro station, Via dei Fori Imperiali, Roma"
+    lat: 41.89171
+    lng: 12.49029
+    approach: [ Piazza Venezia, Via dei Fori Imperiali ]
+    walk_min: [ 20, 25 ]
+    short:
+      ru: |
+        Финиш. Вечерняя прогулка мимо Витториано и подсвеченных императорских форумов, затем линия C прямо до Pigneto.
+      en: |
+        Finish. An evening walk past the Vittoriano and the floodlit Imperial Fora, then line C straight to Pigneto.
+    long:
+      ru: |
+        **Via dei Fori Imperiali** проложили при Муссолини в 1932 году как парадный проспект от Пьяцца Венеция к Колизею — прямо поверх форумов Цезаря, Августа, Нервы и Траяна, часть которых так и осталась под асфальтом. Вечером руины по обе стороны подсвечены, а Колизей впереди светится золотом.
+
+        Что посмотреть: **колонну Траяна** со спиральным рельефом о дакийских войнах — сразу за Пьяцца Венеция; **Рынки Траяна** — античный «торговый центр» полукругом на склоне; бронзовые статуи императоров вдоль проспекта.
+
+        Совет: если ноги совсем не идут, от Пантеона до гостевого дома на такси — около 20–25 минут; вызвать можно через приложения FreeNow или itTaxi.
+      en: |
+        **Via dei Fori Imperiali** was laid out under Mussolini in 1932 as a parade avenue from Piazza Venezia to the Colosseum — straight across the forums of Caesar, Augustus, Nerva and Trajan, parts of which are still under the tarmac. In the evening the ruins on both sides are floodlit and the Colosseum glows gold ahead.
+
+        Look at **Trajan's Column**, with its spiral relief of the Dacian wars, just past Piazza Venezia; **Trajan's Markets**, an ancient "shopping centre" in a semicircle on the hillside; and the bronze statues of emperors along the avenue.
+
+        Tip: if legs give out, a taxi from the Pantheon to the guesthouse takes about 20–25 minutes; book through the FreeNow or itTaxi apps.

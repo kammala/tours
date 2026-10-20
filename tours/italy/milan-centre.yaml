@@ -1,0 +1,282 @@
+country: { en: Italy, ru: Италия }
+city: { en: Milan, ru: Милан }
+name: { en: "Milan centre before the flight", ru: "Центр Милана перед вылетом" }
+place_suffix: Milano
+summary:
+  ru: "≈ 4 км пешком, 5–6 часов с Дуомо и обедом; в центр и обратно — метро M4 от аэропорта Линате"
+  en: "≈ 4 km on foot, 5–6 hours including the Duomo and lunch; metro M4 from Linate airport into the centre and back"
+intro:
+  ru: |
+    **Понедельник, 2 ноября.** Из Сирмионе до Милана — около 130 км по A4, 1,5–2 часа. Едем не в центр, а сразу в **аэропорт Линате** (A4 → Tangenziale Est → съезд Linate): машину вечером всё равно сдавать там, а от аэропорта до центра идёт метро.
+
+    Почему не в центр на машине: внутри кольца каналов (Cerchia dei Navigli) действует **Area C** — платный въезд по будням 7:30–19:30. Въезд стоит 7,50 € в день, камеры считывают номер, и если не оплатить вовремя, штраф придёт через прокатную компанию вместе с её комиссией. Плюс гаражи в центре дорогие, а вечерние пробки до Линате — 30–45 минут.
+
+    План: ставим машину на официальную стоянку аэропорта (**P2** у терминала — почасовая; **P3 Smart** дешевле, но только с онлайн-бронированием; цены — на сайте milanolinate-airport.com). От терминала — метро **M4** до **San Babila**, около 12 минут, поезда каждые несколько минут. С 2026 года бумажных билетов в метро Милана нет: прикладываете бесконтактную карту или телефон на входе **и на выходе** — 2,20 € за поездку.
+
+    Маршрут: Дуомо и крыши → Галерея Виктора Эммануила → площадь Ла Скала → Via Dante → замок Сфорца → парк Семпионе и Арка Мира → метро обратно. В понедельник **музеи замка закрыты**, но дворы открыты; Дуомо и терраса работают ежедневно. 2 ноября — День поминовения усопших: в соборе возможны особые службы и изменения в доступе.
+  en: |
+    **Monday 2 November.** Sirmione to Milan is about 130 km on the A4, 1.5–2 hours. Don't drive into the centre — go straight to **Linate airport** (A4 → Tangenziale Est → Linate exit): the car has to be returned there tonight anyway, and the metro runs from the airport to the centre.
+
+    Why not drive in: inside the ring of old canals (Cerchia dei Navigli) is **Area C**, a congestion charge active on weekdays 7:30–19:30. Entry costs €7.50 a day, cameras read the plate, and if you don't pay in time the fine comes through the rental company plus its admin fee. City-centre garages are expensive too, and evening traffic out to Linate takes 30–45 minutes.
+
+    The plan: park in an official airport car park (**P2** by the terminal, pay by the hour; **P3 Smart** is cheaper but online booking only; prices on milanolinate-airport.com). From the terminal take metro **M4** to **San Babila**, about 12 minutes, trains every few minutes. Since 2026 Milan's metro has no paper tickets: tap a contactless card or phone at the gate on the way in **and on the way out** — €2.20 per trip.
+
+    Route: the Duomo and its rooftop → Galleria Vittorio Emanuele II → Piazza della Scala → Via Dante → Sforza Castle → Parco Sempione and the Arco della Pace → metro back. On Mondays the **castle museums are closed**, but the courtyards are open; the Duomo and its terraces are open every day. 2 November is All Souls' Day: the cathedral may hold special services and change visitor access.
+outro:
+  ru: |
+    **Вылет в Амстердам около 21:20 — машину сдать к 18:30–19:00.** Из центра: M1 от Cadorna до San Babila, пересадка на M4 до **Linate Aeroporto** — около 25–30 минут в сумме. Выйти из парка лучше не позже 16:30–17:00.
+
+    Перед сдачей заправьте машину, если этого требуют условия проката, — заправки есть на Viale Forlanini по пути к аэропорту. Большинство прокатных компаний (Hertz, Sixt, Europcar, Avis, Maggiore и др.) принимают машины на многоуровневой стоянке **P2**, следуйте указателям «Autonoleggi / Car rental return»; точный уровень — в вашем ваучере. Заложите 20–30 минут на осмотр машины и фото, затем — в терминал на регистрацию и досмотр; рейсы в пределах Шенгена, паспортного контроля нет.
+
+    Навильи (каналы с барами на юго-западе центра) сегодня не успеть — это повод вернуться в Милан.
+  en: |
+    **The flight to Amsterdam is around 21:20 — return the car by 18:30–19:00.** From the centre: M1 from Cadorna to San Babila, change to M4 for **Linate Aeroporto** — about 25–30 minutes in all. Leave the park by 16:30–17:00 at the latest.
+
+    Refuel before returning if your rental terms require it — there are petrol stations on Viale Forlanini on the way to the airport. Most rental companies (Hertz, Sixt, Europcar, Avis, Maggiore and others) take cars back in the **P2** multi-storey; follow "Autonoleggi / Car rental return" signs, and check your voucher for the exact level. Allow 20–30 minutes for the inspection and photos, then head into the terminal for bag drop and security; it's a Schengen flight, so there's no passport control.
+
+    The Navigli (the canal district with its bars, south-west of the centre) won't fit today — a reason to come back to Milan.
+points:
+  - name: { en: Linate airport car park, ru: Стоянка аэропорта Линате }
+    place: "Parcheggio P2, Aeroporto di Milano Linate, Segrate"
+    lat: 45.46304
+    lng: 9.27891
+    radius_m: 250
+    short:
+      ru: |
+        Старт. Оставляем машину на P2 (или P3 по брони), идём в терминал к станции **Linate Aeroporto** линии M4 — ~5 минут.
+      en: |
+        Start. Leave the car in P2 (or a pre-booked P3) and walk into the terminal to the M4 **Linate Aeroporto** station — ~5 minutes.
+    long:
+      ru: |
+        Линате — «городской» аэропорт Милана, всего в 7 км от Дуомо. Линию метро M4 до него открыли в 2022 году, а до центра она дошла в 2023-м; это автоматическая линия без машиниста.
+
+        Совет: сфотографируйте номер уровня и места, а заодно — показания топлива и пробега: вечером при сдаче машины это пригодится. Ценные вещи и чемоданы не оставляйте на виду в салоне — уберите в багажник.
+      en: |
+        Linate is Milan's "city" airport, just 7 km from the Duomo. The M4 metro reached it in 2022 and the centre in 2023; it's a driverless automatic line.
+
+        Tip: photograph your level and bay — and the fuel gauge and mileage, which you'll want when returning the car tonight. Don't leave valuables or suitcases visible in the cabin; put everything in the boot.
+
+  - name: { en: San Babila, ru: Площадь Сан-Бабила }
+    place: "Piazza San Babila, Milano"
+    lat: 45.46640
+    lng: 9.19790
+    radius_m: 150
+    walk_min: 5
+    short:
+      ru: |
+        M4 от Линате ~12 минут. Выходим на площадь Сан-Бабила и идём к Дуомо по пешеходному Corso Vittorio Emanuele II.
+      en: |
+        M4 from Linate, ~12 minutes. Come out on Piazza San Babila and walk to the Duomo along the pedestrian Corso Vittorio Emanuele II.
+    long:
+      ru: |
+        Сан-Бабила — пересадочная станция линий M1 и M4 и начало главной торговой зоны. Романская церковь Сан-Бабила на площади — одна из старейших в городе, хотя её фасад переделан в XIX веке. Отсюда на север начинается **Квадрилатеро делла Мода** — улицы Монтенаполеоне и Спига с бутиками.
+
+        Совет: на выходе из метро снова приложите ту же карту — иначе система спишет максимальный тариф. Вечером вы вернётесь в аэропорт с этой же станции.
+      en: |
+        San Babila is the interchange between lines M1 and M4 and the start of the main shopping district. The Romanesque church of San Babila on the square is one of the oldest in the city, although its façade was remade in the 19th century. To the north starts the **Quadrilatero della Moda** — Via Montenapoleone and Via della Spiga with their boutiques.
+
+        Tip: tap the same card again on the way out of the metro, or you'll be charged the maximum fare. You'll come back through this station tonight.
+
+  - name: { en: Duomo di Milano, ru: Миланский собор (Дуомо) }
+    place: "Duomo di Milano, Piazza del Duomo, Milano"
+    lat: 45.46420
+    lng: 9.19190
+    radius_m: 200
+    approach: [{ name: Corso Vittorio Emanuele II, lat: 45.46550, lng: 9.19500 }]
+    walk_min: 7
+    visit_min: [ 90, 120 ]
+    short:
+      ru: |
+        Собор и крыши-террасы. Ежедневно примерно 9:00–19:00, последний вход около 18:00. Билет с указанием времени бронируйте заранее на https://www.duomomilano.it; на террасы — лестница или лифт (дороже). Если пасмурно и низкие облака — достаточно собора без крыш.
+      en: |
+        The cathedral and its rooftop terraces. Daily roughly 9:00–19:00, last entry around 18:00. Book a timed ticket in advance at https://www.duomomilano.it; the terraces are by stairs or by lift (pricier). If it's grey with low cloud, the interior alone is enough.
+    long:
+      ru: |
+        Собор заложили в 1386 году при Джан Галеаццо Висконти, а строили почти шесть веков: фасад закончили только в начале XIX века по приказу Наполеона, последние двери поставили в 1965-м. Он целиком облицован розовато-белым мрамором из каменоломни Кандолья на озере Маджоре — она до сих пор принадлежит собору и работает на его ремонт.
+
+        Что посмотреть: внутри — пять нефов и витражи XV–XIX веков, жуткую статую **святого Варфоломея**, держащего собственную содранную кожу, и меридиан на полу у входа. Над главным алтарём, высоко под сводом, — красная лампочка: там хранится гвоздь, по преданию, от Креста. На **террасах** вы идёте по крыше между сотнями шпилей и статуй, а на самом высоком шпиле, на 108 метрах, стоит золотая **Мадоннина** — символ города. В ясный день видны Альпы.
+
+        Совет: на входе — досмотр как в аэропорту, крупные рюкзаки не пропускают. Плечи и колени должны быть закрыты. Лестница на крышу — около 250 ступеней; лифт сэкономит силы. Из-за Дня поминовения 2 ноября проверьте накануне раздел новостей на сайте собора.
+      en: |
+        The cathedral was begun in 1386 under Gian Galeazzo Visconti and took almost six centuries: the façade was only finished in the early 19th century on Napoleon's orders, and the last doors went up in 1965. It is clad entirely in pinkish-white marble from the Candoglia quarry on Lake Maggiore, which still belongs to the cathedral and supplies its repairs.
+
+        Inside, look at the five naves and the 15th–19th-century stained glass, the unsettling statue of **St Bartholomew** carrying his own flayed skin, and the meridian line in the floor near the entrance. High above the main altar a small red light marks where a nail said to be from the Cross is kept. On the **terraces** you walk across the roof among hundreds of spires and statues, and on the tallest spire, 108 metres up, stands the golden **Madonnina**, the city's symbol. On a clear day you can see the Alps.
+
+        Tip: there's airport-style security at the entrance and large backpacks aren't allowed. Cover shoulders and knees. The stairs to the roof are about 250 steps; the lift saves your legs. Because of All Souls' Day on 2 November, check the news section of the cathedral website the day before.
+
+  - name: { en: Galleria Vittorio Emanuele II, ru: Галерея Виктора Эммануила II }
+    lat: 45.46565
+    lng: 9.19001
+    radius_m: 120
+    walk_min: 3
+    visit_min: [ 15, 20 ]
+    short:
+      ru: |
+        Крытый пассаж XIX века со стеклянным куполом между Дуомо и Ла Скала. Пройдите насквозь до центрального восьмиугольника и дальше к Ла Скала.
+      en: |
+        The 19th-century covered arcade with its glass dome between the Duomo and La Scala. Walk through to the central octagon and on to La Scala.
+    long:
+      ru: |
+        Галерею построили в 1865–1877 годах по проекту Джузеппе Менгони — одна из первых в мире торговых галерей под стеклом и железом и прообраз всех будущих пассажей. Сам Менгони не увидел открытия: он упал с лесов накануне торжественной церемонии. Миланцы зовут галерею просто «салоном города».
+
+        Что посмотреть: стеклянный купол над восьмиугольником, мозаики на полу с гербами Милана, Турина, Флоренции и Рима и старейшие заведения — кафе **Camparino** (1867) у входа со стороны собора и **Biffi**.
+
+        Совет: в мозаике на полу — туринский бык. По поверью, нужно встать пяткой на самое неприличное место быка и трижды повернуться на ней — к удаче и чтобы вернуться в Милан. Ищите ямку, к которой стоит очередь.
+      en: |
+        The Galleria was built in 1865–1877 to a design by Giuseppe Mengoni — one of the world's first shopping arcades in glass and iron and the prototype for all those that followed. Mengoni never saw it open: he fell from the scaffolding the day before the inauguration. The Milanese simply call it the city's "drawing room".
+
+        Look at the glass dome over the octagon, the floor mosaics with the arms of Milan, Turin, Florence and Rome, and the old establishments — **Camparino** (1867) at the cathedral end, and **Biffi**.
+
+        Tip: the floor mosaic includes the bull of Turin. Tradition says you grind your heel into a certain part of the bull and spin round three times, for luck and to return to Milan. Look for the worn hollow with a queue.
+
+  - name: { en: Piazza della Scala, ru: Площадь Ла Скала }
+    lat: 45.46700
+    lng: 9.18980
+    radius_m: 120
+    walk_min: 3
+    visit_min: [ 15, 20 ]
+    short:
+      ru: |
+        Строгий фасад самого знаменитого оперного театра мира и памятник Леонардо. Музей театра — по желанию, часы проверьте.
+      en: |
+        The plain façade of the world's most famous opera house and the Leonardo monument. The theatre museum is optional — check its hours.
+    long:
+      ru: |
+        **Театр Ла Скала** открылся в 1778 году; его построил Джузеппе Пьермарини на месте снесённой церкви Санта-Мария-алла-Скала, отсюда и название. Здесь впервые прозвучали «Набукко» и «Отелло» Верди, «Мадам Баттерфляй» и «Турандот» Пуччини. Скромный неоклассический фасад обманчив: внутри — шесть ярусов лож в красном и золоте. В 1943 году зал сильно разбомбили, и восстановленный театр открылся в 1946-м концертом под управлением Тосканини.
+
+        Что посмотреть: в центре площади — **памятник Леонардо да Винчи** (1872) с четырьмя учениками; напротив театра — **Палаццо Марино** XVI века, сейчас мэрия Милана.
+
+        Совет: в **музее театра** (вход слева от главного фасада) обычно можно заглянуть в зал из ложи, если нет репетиции. Часы работы и доступ в зал меняются — проверьте на сайте театра.
+      en: |
+        **La Scala** opened in 1778; Giuseppe Piermarini built it on the site of the demolished church of Santa Maria alla Scala, which gave it its name. Verdi's Nabucco and Otello and Puccini's Madama Butterfly and Turandot premiered here. The modest neoclassical façade is deceptive: inside are six tiers of boxes in red and gold. Bombed heavily in 1943, the rebuilt theatre reopened in 1946 with a concert conducted by Toscanini.
+
+        In the middle of the square is the **Leonardo da Vinci monument** (1872) with four of his pupils; opposite the theatre stands the 16th-century **Palazzo Marino**, now Milan's city hall.
+
+        Tip: the **theatre museum** (entrance to the left of the main façade) usually lets you look into the auditorium from a box when there's no rehearsal. Hours and auditorium access vary — check the theatre's website.
+
+  - name: { en: Via Dante, ru: Улица Виа Данте }
+    place: "Via Dante, Milano"
+    lat: 45.46619
+    lng: 9.18496
+    radius_m: 200
+    approach: [{ name: Piazza Cordusio, lat: 45.46541, lng: 9.18645 }]
+    walk_min: [ 6, 8 ]
+    visit_min: 10
+    short:
+      ru: |
+        Через площадь Кордузио — на пешеходную Via Dante, прямую улицу с видом на башню замка Сфорца.
+      en: |
+        Through Piazza Cordusio onto the pedestrian Via Dante, a straight street lined up on the Sforza Castle tower.
+    long:
+      ru: |
+        **Площадь Кордузио** — бывший финансовый центр Милана: вокруг стоят дворцы банков и страховых компаний конца XIX — начала XX века, в одном из них теперь большая кофейня Starbucks Reserve.
+
+        **Via Dante** проложили в 1880-х годах как парадную улицу от центра к замку; её специально направили прямо на башню Филарете, чтобы она замыкала перспективу. Дома вдоль улицы — в едином стиле миланского эклектизма. Сейчас улица пешеходная, с кафе и уличными музыкантами.
+
+        Совет: лучшее фото замка — с середины Via Dante, когда башня оказывается точно в конце улицы. Хорошее место для обеда, если не успели раньше: по сторонам Via Dante много траттори и пиццерий.
+      en: |
+        **Piazza Cordusio** was Milan's financial centre: it is ringed by late-19th and early-20th-century bank and insurance palaces, one of which now houses a large Starbucks Reserve.
+
+        **Via Dante** was laid out in the 1880s as a grand avenue from the centre to the castle, deliberately aimed at the Filarete tower so that it closes the view. The buildings along it share the same Milanese eclectic style. Today it's pedestrian, with cafés and street musicians.
+
+        Tip: the best photo of the castle is from halfway along Via Dante, where the tower sits exactly at the end of the street. A good lunch stop if you haven't eaten yet: the side streets have plenty of trattorias and pizzerias.
+
+  - name: { en: Sforza Castle, ru: Замок Сфорца }
+    place: "Castello Sforzesco, Piazza Castello, Milano"
+    lat: 45.47029
+    lng: 9.17956
+    radius_m: 200
+    approach: [{ name: Largo Cairoli, lat: 45.46830, lng: 9.18240 }]
+    inside:
+      - { name: Piazza d'Armi, lat: 45.47016, lng: 9.17976 }
+      - { name: Cortile della Rocchetta, lat: 45.47033, lng: 9.17861 }
+      - { name: Corte Ducale, lat: 45.47087, lng: 9.17939 }
+    walk_min: [ 5, 7 ]
+    visit_min: [ 30, 45 ]
+    short:
+      ru: |
+        Через ворота под башней Филарете — во дворы замка. Дворы открыты ежедневно примерно с 7:00 до 19:30, вход свободный; **музеи по понедельникам закрыты**. Выходим с противоположной стороны в парк.
+      en: |
+        Through the gate under the Filarete tower into the castle courtyards. The courtyards are open daily, roughly 7:00–19:30, free; **the museums are closed on Mondays**. Exit on the far side into the park.
+    long:
+      ru: |
+        Первый замок здесь в 1360-х годах построили Висконти. После их падения горожане его разрушили, но в 1450 году новый правитель **Франческо Сфорца** отстроил крепость заново — и превратил её в один из самых пышных дворов Ренессанса. При Лодовико Моро здесь работали Леонардо да Винчи и Браманте. Потом замок был казармой испанцев, австрийцев и Наполеона, а к концу XIX века его едва не снесли; спас архитектор Лука Бельтрами, восстановивший и центральную **башню Филарете** — она взорвалась в 1521 году, когда в ней хранили порох.
+
+        Что посмотреть: огромный первый двор **Пьяцца д'Арми**; за ним слева — **Рокетта**, последнее укрытие герцогов, справа — **Корте Дукале**, жилые покои с портиком. В музеях (в другой день) — последняя скульптура Микеланджело «Пьета Ронданини» и зал Сала делле Ассе с росписью Леонардо.
+
+        Совет: по рвам вокруг замка бродят кошки — их здесь подкармливают уже много лет. Туалеты и питьевые фонтанчики есть во дворах.
+      en: |
+        The first castle here was built by the Visconti in the 1360s. After their fall the citizens tore it down, but in 1450 the new ruler **Francesco Sforza** rebuilt it — and turned it into one of the most splendid Renaissance courts. Under Ludovico il Moro both Leonardo da Vinci and Bramante worked here. It later served as barracks for the Spanish, the Austrians and Napoleon, and by the late 19th century it nearly got demolished; the architect Luca Beltrami saved it and rebuilt the central **Filarete tower**, which had blown up in 1521 while used as a powder store.
+
+        See the huge first courtyard, the **Piazza d'Armi**; beyond it on the left is the **Rocchetta**, the dukes' last refuge, and on the right the **Corte Ducale**, the residential wing with its portico. The museums (on another day) hold Michelangelo's last sculpture, the Rondanini Pietà, and the Sala delle Asse painted by Leonardo.
+
+        Tip: cats roam the dry moats — people have fed them here for years. There are toilets and drinking fountains in the courtyards.
+
+  - name: { en: Parco Sempione & Arco della Pace, ru: Парк Семпионе и Арка Мира }
+    place: "Arco della Pace, Piazza Sempione, Milano"
+    lat: 45.47581
+    lng: 9.17235
+    radius_m: 400
+    approach: [{ name: Parco Sempione, lat: 45.47365, lng: 9.17545 }]
+    walk_min: [ 10, 15 ]
+    visit_min: [ 20, 30 ]
+    short:
+      ru: |
+        Прямо через парк по главной оси — к триумфальной арке Наполеона. Осенняя листва, пруд, вид назад на замок.
+      en: |
+        Straight across the park along the main axis to Napoleon's triumphal arch. Autumn leaves, a pond and a view back to the castle.
+    long:
+      ru: |
+        **Парк Семпионе** разбили в 1890-х годах на месте бывшего плаца и охотничьих угодий замка, в английском стиле — с извилистыми дорожками, прудом и холмами. С западной стороны парка — **Торре Бранка**, стальная смотровая башня Джо Понти 1933 года.
+
+        **Арку Мира** заложили в 1807 году в честь побед Наполеона, на дороге Семпионе, ведущей через Альпы в Париж. Пока её строили, Наполеон пал, и в 1838 году австрийцы посвятили арку миру, заключённому в Вене в 1815 году. Наверху — бронзовая колесница с шестёркой лошадей; когда-то она смотрела на Францию, а потом её развернули к городу.
+
+        Совет: обернитесь на середине парка — замок и шпили Дуомо видны одной линией. Здесь же, у арки, удобно передохнуть перед обратной дорогой: вокруг Piazza Sempione много баров для аперитива.
+      en: |
+        **Parco Sempione** was laid out in the 1890s on the castle's former parade ground and hunting grounds, in the English style with winding paths, a pond and low hills. On the west side of the park stands the **Torre Branca**, Gio Ponti's 1933 steel observation tower.
+
+        The **Arco della Pace** was begun in 1807 to celebrate Napoleon's victories, on the Simplon road leading over the Alps to Paris. Napoleon fell before it was finished, and in 1838 the Austrians dedicated it instead to the peace sealed in Vienna in 1815. On top is a bronze chariot drawn by six horses; it once faced France and was later turned to face the city.
+
+        Tip: turn round in the middle of the park — the castle and the Duomo's spires line up. The arch is a good place to rest before heading back: Piazza Sempione is ringed with aperitivo bars.
+
+  - name: { en: Cadorna metro, ru: Метро Cadorna }
+    place: "Cadorna FN M1 M2, Piazzale Cadorna, Milano"
+    lat: 45.46795
+    lng: 9.17648
+    radius_m: 150
+    walk_min: [ 12, 15 ]
+    short:
+      ru: |
+        По краю парка к станции Cadorna. Линия M1 (красная) до San Babila, там пересадка на M4 до Linate Aeroporto.
+      en: |
+        Along the edge of the park to Cadorna station. Line M1 (red) to San Babila, then change to M4 for Linate Aeroporto.
+    long:
+      ru: |
+        Площадь Кадорна — ещё и вокзал пригородных поездов Ferrovie Nord, в том числе экспресса Malpensa Express. Перед вокзалом — гигантская скульптура «Игла, нитка и узел» Класа Олденбурга и Кузье ван Брюгген (2000): разноцветная игла с ниткой «прошивает» площадь — оммаж миланской моде.
+
+        Совет: поезда M1 в сторону Sesto FS идут через Cairoli, Cordusio и Duomo — до San Babila 4 остановки. На San Babila следуйте указателям M4 (синий цвет), направление Linate Aeroporto.
+      en: |
+        Piazzale Cadorna is also the terminus of the Ferrovie Nord suburban trains, including the Malpensa Express. In front of the station is the giant sculpture "Needle, Thread and Knot" by Claes Oldenburg and Coosje van Bruggen (2000): a coloured needle and thread "stitching" the square, a nod to Milan's fashion trade.
+
+        Tip: M1 trains towards Sesto FS run via Cairoli, Cordusio and Duomo — four stops to San Babila. At San Babila follow the blue M4 signs, direction Linate Aeroporto.
+
+  - name: { en: Back to Linate airport, ru: Назад в аэропорт Линате }
+    place: "Parcheggio P2, Aeroporto di Milano Linate, Segrate"
+    lat: 45.46304
+    lng: 9.27891
+    radius_m: 250
+    walk_min: 5
+    short:
+      ru: |
+        Финиш. M1 + M4 ~25–30 минут до Linate Aeroporto. Забираем машину, заправляемся и сдаём её на P2 к 18:30–19:00.
+      en: |
+        Finish. M1 + M4, ~25–30 minutes to Linate Aeroporto. Collect the car, refuel and return it at P2 by 18:30–19:00.
+    long:
+      ru: |
+        Порядок: оплатите стоянку в автомате в терминале → заберите машину → заправка на Viale Forlanini (5–10 минут) → обратно в аэропорт по указателям «Autonoleggi / Car rental return» → сдача машины на P2 → терминал.
+
+        Совет: при сдаче сфотографируйте машину со всех сторон, приборную панель с уровнем топлива и пробегом, и дождитесь подписанного акта осмотра. На посадку на рейс в Амстердам будьте у выхода минимум за 30–40 минут до вылета.
+      en: |
+        The order: pay for parking at the machine in the terminal → collect the car → refuel on Viale Forlanini (5–10 minutes) → back to the airport following "Autonoleggi / Car rental return" signs → return the car at P2 → terminal.
+
+        Tip: when you return it, photograph the car from all sides and the dashboard showing fuel and mileage, and wait for the signed inspection report. Be at the gate for the Amsterdam flight at least 30–40 minutes before departure.

@@ -1,0 +1,207 @@
+country: { en: Italy, ru: Италия }
+city: { en: Bologna, ru: Болонья }
+name: { en: "Bologna stopover on the way to Rome", ru: "Болонья по дороге в Рим" }
+place_suffix: Bologna
+summary:
+  ru: "≈ 3,5 км, 1,5–2 часа — короткая остановка без музеев"
+  en: "≈ 3.5 km, 1.5–2 hours — a short stop with no museums"
+intro:
+  ru: |
+    Суббота, 24 октября. Самолёт садится в Милане-Линате в 10:55; с учётом выхода и очереди в прокате машину удобно ждать к 11:45–12:15. До Болоньи около 215 км по платной A1 — **2–2,5 часа**, то есть приезжаете примерно в 14:00–14:30.
+
+    Весь исторический центр Болоньи внутри кольца бульваров — **ZTL**, зона ограниченного движения с камерами: въезд без разрешения — штраф, который придёт через прокатную контору спустя несколько недель. Поэтому первая точка — подземный паркинг **Riva Reno** (Via Riva di Reno 75) на северо-западном краю центра: круглосуточный, около 540 мест, примерно 3 € в час. Подъезжайте с бульвара через Via Marconi и не позволяйте навигатору срезать по узким улицам центра. На въезде уточните у паркинга, нужно ли передать номер машины в муниципалитет, — это обычная процедура для тех, кому дорога к паркингу проходит по краю ZTL.
+
+    Маршрут — петля: паркинг → фонтан Нептуна → Пьяцца Маджоре и базилика Сан-Петронио → рынок Квадрилатеро (быстрый обед на ходу) → Две башни → площадь Санто-Стефано → обратно к машине. В субботу с 8:00 улицы Rizzoli, Ugo Bassi и Indipendenza пешеходные (так называемые T-days), так что гулять по центру особенно приятно.
+  en: |
+    Saturday 24 October. The plane lands at Milan Linate at 10:55; allowing for getting out and the rental-desk queue, expect to drive off around 11:45–12:15. Bologna is about 215 km down the A1 toll motorway — **2–2.5 hours**, so you arrive around 14:00–14:30.
+
+    Everything inside Bologna's ring boulevards is a **ZTL**, a camera-enforced limited-traffic zone: drive in without a permit and the fine reaches you through the rental company weeks later. So the first point is the **Riva Reno** underground car park (Via Riva di Reno 75) on the north-western edge of the centre: open 24 hours, about 540 spaces, roughly €3 an hour. Approach it from the ring road along Via Marconi and don't let the satnav cut through the narrow central streets. At the entrance ask whether they need to register your plate with the city — standard practice for car parks whose access runs along the edge of the ZTL.
+
+    The route is a loop: car park → Neptune Fountain → Piazza Maggiore and the Basilica of San Petronio → the Quadrilatero market streets (a quick lunch on the go) → the Two Towers → Piazza Santo Stefano → back to the car. From 8:00 on Saturdays Via Rizzoli, Via Ugo Bassi and Via dell'Indipendenza are pedestrian-only (the "T-days"), which makes the centre especially pleasant on foot.
+outro:
+  ru: |
+    Выезжайте не позже **15:00–15:30**. До Рима около 380 км по A1 через Флоренцию — **4–4,5 часа** с одной остановкой на заправке или в автогриле, то есть на месте около 19:30–20:00. Заселение в **Atelier Randagi al Pigneto** (Via Adriano Balbi 20) — до 22:00, так что запас есть, но небольшой: на музеи и долгий обед в Болонье времени нет.
+
+    У гостевого дома есть бесплатная частная парковка, но её нужно бронировать заранее — запрос отправлен через Booking.com; перед выездом проверьте, что хозяева его подтвердили, и спросите, как к ней подъехать. Пиньето находится вне центральной ZTL Рима. Машина простоит там до 27 октября: римские дни — только на метро.
+
+    Совет: на A1 между Болоньей и Флоренцией есть две трассы — новая Variante di Valico с длинными тоннелями (быстрее) и старая Panoramica по перевалу; навигатор обычно выбирает первую, и это правильно.
+  en: |
+    Leave by **15:00–15:30** at the latest. Rome is about 380 km down the A1 via Florence — **4–4.5 hours** with one fuel or Autogrill stop, so you arrive around 19:30–20:00. Check-in at **Atelier Randagi al Pigneto** (Via Adriano Balbi 20) is until 22:00, so there is a margin, but a slim one: no time in Bologna for museums or a long lunch.
+
+    The guesthouse has free private parking, but it must be reserved — the request went in through Booking.com; before setting off, check the hosts have confirmed it and ask how to reach it. Pigneto is outside Rome's central ZTL. The car stays there until 27 October: the Rome days are metro-only.
+
+    Tip: between Bologna and Florence the A1 splits into the newer Variante di Valico with long tunnels (faster) and the old Panoramica over the pass; the satnav usually picks the first, and that's the right call.
+points:
+  - name: { en: Riva Reno car park, ru: Паркинг Riva Reno }
+    place: "Parcheggio Riva Reno, Via Riva di Reno 75, Bologna"
+    lat: 44.50105
+    lng: 11.33644
+    short:
+      ru: |
+        Старт и финиш. Паркуйтесь, сфотографируйте уровень и номер места, возьмите талон с собой. Пешком до Пьяцца Маджоре ~15 минут.
+      en: |
+        Start and finish. Park, photograph the level and bay number, and take the ticket with you. Piazza Maggiore is ~15 minutes on foot.
+    long:
+      ru: |
+        Улица Riva di Reno («берег Рено») названа по каналу Рено, который с XII века тёк здесь под открытым небом и крутил колёса шёлковых мельниц: в Средние века Болонья была одним из главных шёлковых городов Европы и почти «Венецией» по количеству каналов. В 1950-х канал убрали под асфальт. Рядом — квартал Manifattura delle Arti с киноархивом Cineteca и музеем современного искусства MAMbo.
+
+        Совет: оплата — в автомате у выхода, картой или наличными; суточный максимум около 20–23 €, так что на пару часов выйдет 6–9 €. Если захочется увидеть уцелевший болонский канал, загляните в «окошко» на Via Piella — это 5–10 минут в сторону от маршрута.
+      en: |
+        Via Riva di Reno ("Reno bank") is named after the Reno canal, which ran open here from the 12th century and drove the wheels of the silk mills: in the Middle Ages Bologna was one of Europe's great silk towns and almost a little Venice for canals. The canal was paved over in the 1950s. Next door is the Manifattura delle Arti quarter with the Cineteca film archive and the MAMbo modern art museum.
+
+        Tip: pay at the machine by the exit, card or cash; the daily maximum is around €20–23, so a couple of hours costs €6–9. If you fancy a look at one of Bologna's surviving canals, the little "window" on Via Piella is a 5–10-minute detour.
+
+  - name: { en: Neptune Fountain, ru: Фонтан Нептуна }
+    place: "Fontana del Nettuno, Piazza del Nettuno, Bologna"
+    lat: 44.49427
+    lng: 11.34266
+    walk_min: [ 15, 18 ]
+    visit_min: 10
+    short:
+      ru: |
+        Бронзовый Нептун работы Джамболоньи — визитная карточка города. Короткая фотоостановка перед главной площадью.
+      en: |
+        Giambologna's bronze Neptune, the city's emblem. A quick photo stop before the main square.
+    long:
+      ru: |
+        Фонтан поставили в 1563–1566 годах по заказу папского легата: Нептун, укрощающий воды, должен был символизировать власть папы над миром так же, как бог моря властвует над стихией. Скульптор — фламандец Жан де Булонь, в Италии Джамболонья. Внизу — четыре сирены и путти с дельфинами; последнюю большую реставрацию закончили в 2017 году.
+
+        Что посмотреть: за фонтаном — **Палаццо Re Enzo**, где 23 года в почётном плену держали сына императора Фридриха II, и **Палаццо д'Аккурсио** — ратуша. На стене ратуши — мемориал партизанам Второй мировой с сотнями фотографий.
+
+        Совет: обойдите фонтан и посмотрите на Нептуна сзади, с угла у Палаццо Re Enzo, — у этой точки зрения есть знаменитая шутка, болонцы покажут охотно.
+      en: |
+        The fountain went up in 1563–1566 for the papal legate: Neptune taming the waters stood for the pope's rule over the world, just as the sea god rules the elements. The sculptor was the Fleming Jean de Boulogne, known in Italy as Giambologna. Below are four sirens and putti with dolphins; the last big restoration finished in 2017.
+
+        Look behind the fountain at **Palazzo Re Enzo**, where Emperor Frederick II's son was held in gilded captivity for 23 years, and **Palazzo d'Accursio**, the town hall. Its wall carries a memorial to the Second World War partisans with hundreds of photographs.
+
+        Tip: walk round and look at Neptune from behind, from the corner by Palazzo Re Enzo — that angle comes with a famous local joke, and the Bolognese are happy to point it out.
+
+  - name: { en: Piazza Maggiore & San Petronio, ru: Пьяцца Маджоре и базилика Сан-Петронио }
+    place: "Basilica di San Petronio, Piazza Maggiore, Bologna"
+    lat: 44.49274
+    lng: 11.34303
+    radius_m: 200
+    walk_min: 2
+    visit_min: [ 20, 30 ]
+    short:
+      ru: |
+        Главная площадь и одна из крупнейших церквей Италии. Вход бесплатный (10:00–18:00), на входе досмотр сумок; внутри — 15–20 минут.
+      en: |
+        The main square and one of Italy's biggest churches. Free entry (10:00–18:00) with a bag check at the door; 15–20 minutes inside is enough.
+    long:
+      ru: |
+        Базилику начали строить в 1390 году как гордость свободного города. По легенде, по первому проекту она должна была превзойти собор Святого Петра в Риме, и папа этого не допустил — на деньги, предназначенные для церкви, построили университет Архиджинназио, и Сан-Петронио так и осталась короче задуманного и с недостроенным фасадом: внизу мрамор, выше — голый кирпич.
+
+        Что посмотреть: **меридиан** Джованни Кассини 1655 года — 67-метровая латунная линия на полу, по которой солнечный зайчик из отверстия в своде показывает полдень и время года; главный портал работы Якопо делла Кверча; капелла Болоньини с фресками Джованни да Модена. На площади — **Палаццо дель Подеста** с аркой Voltone: встаньте в противоположные углы лицом к стене и шепните — вас услышат на другой стороне.
+
+        Совет: в базилику не пускают с большими рюкзаками, плечи и колени лучше прикрыть. Платные капеллы можно пропустить — сегодня время дороже.
+      en: |
+        The basilica was begun in 1390 as the pride of a free city. Legend has it the original plan would have outdone St Peter's in Rome, and the pope stepped in — money meant for the church went to build the Archiginnasio university instead, so San Petronio stayed shorter than planned, with an unfinished front: marble below, bare brick above.
+
+        Look for Giovanni Cassini's 1655 **meridian**, a 67-metre brass line in the floor where a spot of sunlight from a hole in the vault marks noon and the season; Jacopo della Quercia's main portal; and the Bolognini chapel frescoed by Giovanni da Modena. On the square, the **Palazzo del Podestà** has the Voltone arch: stand in opposite corners facing the wall and whisper — you'll be heard across the way.
+
+        Tip: large backpacks aren't allowed in, and covered shoulders and knees are wise. Skip the paid chapels — time is the scarce thing today.
+
+  - name: { en: Quadrilatero market streets, ru: Рынок Квадрилатеро }
+    place: "Via Pescherie Vecchie, Bologna"
+    lat: 44.49360
+    lng: 11.34460
+    radius_m: 200
+    inside: [ Via Drapperie, Via Clavature ]
+    walk_min: 3
+    visit_min: [ 30, 40 ]
+    short:
+      ru: |
+        Обед на ходу: панини с мортаделлой, тарелка салуми или тортеллини в стаканчике — у прилавка, без долгой посадки.
+      en: |
+        Lunch on the go: a mortadella panino, a plate of salumi or tortellini in a cup — at the counter, no long sit-down.
+    long:
+      ru: |
+        Квадрилатеро — средневековый рынок между Пьяцца Маджоре и Двумя башнями. Названия улиц до сих пор говорят, кто здесь работал: Pescherie — рыботорговцы, Drapperie — суконщики, Clavature — слесари, Orefici — ювелиры. Сегодня это сплошные лавки с сырами, ветчинами, свежей пастой и фруктами, а в промежутках — винные бары.
+
+        Что попробовать: **мортаделлу** — главную колбасу Болоньи; **тортеллини** и **тальятелле**; пармезан и кулатело. **Mercato di Mezzo** на Via Clavature — крытый рынок с прилавками-закусочными; **Salumeria Simoni** на Via Drapperie режет панини и тарелки салуми навынос; в **Osteria del Sole** (Vicolo Ranocchi, с 1465 года) продают только вино, а еду приносят свою — купите её на соседних прилавках.
+
+        Совет: к 14:30 многие кухни уже закрываются, а прилавки и бары работают весь день — поэтому формат «на ходу» здесь не компромисс, а самый местный вариант. Спагетти болоньезе здесь не ищите: в Болонье рагу подают с тальятелле.
+      en: |
+        The Quadrilatero is the medieval market between Piazza Maggiore and the Two Towers. The street names still say who worked here: Pescherie the fishmongers, Drapperie the drapers, Clavature the locksmiths, Orefici the goldsmiths. Today it's wall-to-wall shops of cheese, hams, fresh pasta and fruit, with wine bars in between.
+
+        What to try: **mortadella**, Bologna's signature sausage; **tortellini** and **tagliatelle**; Parmigiano and culatello. **Mercato di Mezzo** on Via Clavature is a covered market of food counters; **Salumeria Simoni** on Via Drapperie makes panini and salumi plates to take away; **Osteria del Sole** (Vicolo Ranocchi, since 1465) sells only wine and lets you bring your own food — buy it at the stalls next door.
+
+        Tip: by 14:30 many kitchens are closing, but the counters and bars run all day — so eating on the go isn't a compromise here, it's the local way. Don't look for spaghetti bolognese: in Bologna the ragù comes with tagliatelle.
+
+  - name: { en: The Two Towers, ru: Две башни }
+    place: "Torre degli Asinelli, Piazza di Porta Ravegnana, Bologna"
+    lat: 44.49420
+    lng: 11.34677
+    walk_min: 5
+    visit_min: 10
+    short:
+      ru: |
+        Символ Болоньи: высокая Азинелли и наклонная Гаризенда. Только снаружи — фото с Via Rizzoli или Strada Maggiore.
+      en: |
+        Bologna's symbol: the tall Asinelli and the leaning Garisenda. Outside only — photos from Via Rizzoli or Strada Maggiore.
+    long:
+      ru: |
+        В XII–XIII веках знатные семьи Болоньи строили башни-крепости наперегонки, и город стоял «лесом» из почти сотни башен. Сохранилось около двадцати, и эти две — самые известные. **Азинелли** — 97 метров, самая высокая башня города; **Гаризенда** — 48 метров и заметно наклонена ещё со Средних веков. Данте упоминает её в «Аде».
+
+        Сейчас у Гаризенды идут многолетние работы по укреплению: её обнесли ограждением и стальными опорами, а подъём на Азинелли закрыт с 2023 года. Проверьте на месте — если его открыли, на 498 ступеней без бронирования сегодня всё равно не хватит времени.
+
+        Совет: лучший ракурс, где видно наклон, — с начала Strada Maggiore. Отсюда до Санто-Стефано 5–7 минут по Via Santo Stefano.
+      en: |
+        In the 12th and 13th centuries Bologna's noble families raced each other to build fortified towers, and the city bristled with nearly a hundred. About twenty survive, and these two are the most famous. The **Asinelli** is 97 metres, the tallest in the city; the **Garisenda** is 48 metres and has leaned visibly since the Middle Ages. Dante mentions it in the Inferno.
+
+        The Garisenda is under long-term consolidation work, fenced off and braced with steel, and the climb up the Asinelli has been closed since 2023. Check on the day — even if it has reopened, today there's no time for 498 steps without a booking.
+
+        Tip: the best angle for seeing the lean is from the start of Strada Maggiore. Santo Stefano is 5–7 minutes away down Via Santo Stefano.
+
+  - name: { en: Piazza Santo Stefano (Seven Churches), ru: Площадь Санто-Стефано («Семь церквей») }
+    place: "Basilica di Santo Stefano, Piazza Santo Stefano, Bologna"
+    lat: 44.49215
+    lng: 11.34829
+    radius_m: 150
+    approach: [ Via Santo Stefano ]
+    walk_min: [ 5, 7 ]
+    visit_min: [ 20, 30 ]
+    short:
+      ru: |
+        Треугольная площадь в портиках и комплекс из нескольких сросшихся церквей. Вход свободный; в субботу открыто 9:30–12:30 и 14:30–19:30 — приходите после 14:30.
+      en: |
+        A triangular square lined with porticoes and a complex of several churches grown together. Free entry; on Saturdays it's open 9:30–12:30 and 14:30–19:30, so come after 14:30.
+    long:
+      ru: |
+        По преданию, епископ Петроний в V веке задумал здесь копию Иерусалима, и за следующие столетия вокруг выросло семь церквей — отсюда прозвище «Sette Chiese». Сегодня их четыре, соединённых переходами. Комплекс — самое древнее и атмосферное место Болоньи: романский кирпич, полумрак и тишина в двух шагах от шумного центра.
+
+        Что посмотреть: восьмиугольную церковь **Санто-Сеполькро** — копию Гроба Господня; древнейшую **Санти-Витале-э-Агрикола**; **двор Пилата** с каменной чашей VIII века; двухъярусный бенедиктинский **клуатр**. Сама площадь — одна из самых красивых в городе: вокруг неё дворцы эпохи Возрождения и непрерывные портики.
+
+        Совет: если вы выбились из графика — достаточно постоять на площади и заглянуть в первую церковь, на это хватит 10 минут. В комплексе идут службы: говорите тихо.
+      en: |
+        Legend says Bishop Petronius set out in the 5th century to build a copy of Jerusalem here, and over the following centuries seven churches grew up around it — hence the nickname "Sette Chiese". Today there are four, linked by passages. It's the oldest and most atmospheric place in Bologna: Romanesque brick, half-light and quiet just off the busy centre.
+
+        Look at the octagonal **Santo Sepolcro**, a copy of the Holy Sepulchre; the oldest church, **Santi Vitale e Agricola**; **Pilate's Courtyard** with its 8th-century stone basin; and the two-storey Benedictine **cloister**. The square itself is one of the city's finest, ringed by Renaissance palazzi and unbroken porticoes.
+
+        Tip: if you're behind schedule, just stand in the square and look into the first church — 10 minutes is enough. Services are held in the complex, so keep your voices down.
+
+  - name: { en: Back to Riva Reno car park, ru: Обратно к паркингу Riva Reno }
+    place: "Parcheggio Riva Reno, Via Riva di Reno 75, Bologna"
+    lat: 44.50105
+    lng: 11.33644
+    approach: [ Via Farini, Piazza Galvani ]
+    walk_min: [ 22, 25 ]
+    short:
+      ru: |
+        Финиш. Обратно идём по портикам через Via Farini и Пьяцца Гальвани — другим путём, чем утром. Если ноги устали, такси от Санто-Стефано — 5–10 минут.
+      en: |
+        Finish. Walk back under the porticoes via Via Farini and Piazza Galvani — a different way from the way in. If legs are tired, a taxi from Santo Stefano takes 5–10 minutes.
+    long:
+      ru: |
+        Болонья — город портиков: 62 километра крытых галерей, с 2021 года в списке Всемирного наследия ЮНЕСКО. Портики появились в Средние века, когда разрешили надстраивать верхние этажи над улицей, — так горожане получили лишнюю площадь, а прохожие крышу от дождя и солнца.
+
+        Что посмотреть по пути: на **Via Farini** — нарядные портики XIX века с росписями и банковские палаццо; на **Пьяцца Гальвани** — памятник Луиджи Гальвани, открывшему «животное электричество», и фасад **Архиджинназио**, первого постоянного здания Болонского университета — старейшего в Европе.
+
+        Совет: перед выездом купите воды и перекус в дорогу — до Рима 4–4,5 часа. Оплатите парковку в автомате до того, как идти к машине.
+      en: |
+        Bologna is the city of porticoes: 62 kilometres of covered walkways, on the UNESCO World Heritage list since 2021. They began in the Middle Ages, when building upper floors out over the street was allowed — the owners gained space, and passers-by got a roof against rain and sun.
+
+        Look along **Via Farini** at the ornate 19th-century painted porticoes and banking palazzi, and on **Piazza Galvani** at the statue of Luigi Galvani, discoverer of "animal electricity", and the front of the **Archiginnasio**, the first permanent home of the University of Bologna — the oldest in Europe.
+
+        Tip: buy water and snacks for the road before you leave — Rome is 4–4.5 hours away. Pay at the machine before you walk to the car.

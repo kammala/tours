@@ -1,0 +1,271 @@
+country: {en: Italy, ru: Италия}
+city: {en: Florence, ru: Флоренция}
+name: {en: "In depth: Uffizi, Boboli and the Oltrarno", ru: "Подробно: Уффици, сады Боболи и Ольтрарно"}
+place_suffix: Firenze
+summary:
+  ru: "≈ 8–10 км пешком, целый день с 7:45 до 19:00"
+  en: "≈ 8–10 km on foot, a full day from 7:45 to 19:00"
+intro:
+  ru: |
+    Среда, 28 октября. День выстроен вокруг времени: Уффици к открытию в **8:15** (билеты с точным временем куплены заранее на www.uffizi.it), обед на рынке, сады Боболи сразу после обеда — в конце октября они закрываются уже в **17:30**, последний вход в **16:30**, — и только потом ремесленные улицы Ольтрарно, где мастерские работают примерно до 19:00.
+
+    Маршрут: Casa Angi → Уффици → мимо Дуомо → рынок Меркато Чентрале → Понте Веккьо → палаццо Питти и сады Боболи → Via Maggio → площадь Санто-Спирито → Борго Сан-Фредиано → автобус домой.
+
+    **Если идёт дождь**, Боболи пропускайте: дорожки там гравийные и крутые, а при штормовом предупреждении сад вообще закрывают. Освободившиеся полтора часа отдайте Ольтрарно — мастерским, лавкам и кафе, где можно переждать ливень.
+
+    Машина сегодня стоит. Возьмите удобную обувь: в Боболи заметный подъём, а по центру — брусчатка.
+  en: |
+    Wednesday 28 October. The day is built around the clock: the Uffizi at opening, **8:15** (timed tickets booked in advance at www.uffizi.it), lunch at the market, the Boboli Gardens straight after lunch — in late October they close at **17:30** with last entry at **16:30** — and only then the artisan streets of the Oltrarno, where the workshops stay open until about 19:00.
+
+    Route: Casa Angi → Uffizi → past the Duomo → Mercato Centrale → Ponte Vecchio → Palazzo Pitti and the Boboli Gardens → Via Maggio → Piazza Santo Spirito → Borgo San Frediano → bus home.
+
+    **If it rains**, skip Boboli: the paths are gravel and steep, and the garden closes altogether under a weather warning. Give the hour and a half to the Oltrarno instead — workshops, shops and cafés to sit out a downpour in.
+
+    The car stays put today. Wear comfortable shoes: Boboli has a proper climb and the centre is all cobbles.
+outro:
+  ru: |
+    Ужин — в Сан-Фредиано или на площади Санто-Спирито, где вечером собирается весь город; либо ближе к дому, у площади Ферруччи.
+
+    Завтра утром — выезд в Венецию. Машина стоит за пределами ZTL, так что сразу выезжайте на автостраду A1 через **Firenze Sud** и дальше на север через Болонью к Местре и Маргере — около 260 км, около 3 часов без учёта остановок. Центр Флоренции по дороге не пересекайте.
+  en: |
+    Dinner in San Frediano or on Piazza Santo Spirito, where half the city gathers in the evening; or closer to home around Piazza Ferrucci.
+
+    Tomorrow morning you drive to Venice. The car is outside the ZTL, so head straight for the A1 at **Firenze Sud** and north via Bologna towards Mestre and Marghera — about 260 km, around 3 hours before stops. Don't cut through central Florence on the way.
+points:
+  - name: {en: Casa Angi, ru: Casa Angi}
+    place: "Via de' Baldovini 19, 50126 Firenze"
+    lat: 43.76255
+    lng: 11.27528
+    radius_m: 100
+    short:
+      ru: |
+        Старт в 7:40–7:45. Пешком до Уффици около 30 минут вдоль реки, или автобус **23** от остановки **Baldovini** до **Serristori Grazie** (около 10 минут), дальше 5 минут через мост Понте-алле-Грацие.
+      en: |
+        Leave at 7:40–7:45. It's about 30 minutes' walk to the Uffizi along the river, or bus **23** from the **Baldovini** stop to **Serristori Grazie** (about 10 minutes), then 5 minutes over Ponte alle Grazie.
+    long:
+      ru: |
+        Утренняя прогулка вдоль Арно — один из лучших способов начать день: набережная Lungarno Serristori пуста, над рекой туман, и солнце встаёт у вас за спиной, освещая мосты впереди. Маршрут простой: площадь Ферруччи → Lungarno Serristori → мост Понте-алле-Грацие → налево по набережной до Уффици.
+
+        В автобусе каждый прикладывает к валидатору свою бесконтактную карту или телефон — это билет на 90 минут, около 2 €.
+
+        Совет: позавтракайте до выхода или возьмите кофе с корнетто в баре у площади Ферруччи — в Уффици есть кафе, но только на верхнем этаже, ближе к концу маршрута.
+      en: |
+        A morning walk along the Arno is one of the best ways to start the day: Lungarno Serristori is empty, there's mist on the river and the sun rises behind you, lighting up the bridges ahead. The way is simple: Piazza Ferrucci → Lungarno Serristori → Ponte alle Grazie → left along the embankment to the Uffizi.
+
+        On the bus, each of you taps your own contactless card or phone on the reader — that's a 90-minute ticket, about €2.
+
+        Tip: have breakfast before you leave or grab a coffee and cornetto at a bar on Piazza Ferrucci — the Uffizi has a café, but only on the top floor, towards the end of the visit.
+
+  - name: {en: Uffizi Gallery, ru: Галерея Уффици}
+    place: "Galleria degli Uffizi, Piazzale degli Uffizi 6, Firenze"
+    lat: 43.76812
+    lng: 11.25560
+    radius_m: 120
+    approach: [{name: Lungarno Serristori, lat: 43.76508, lng: 11.26253}, "Ponte alle Grazie, Firenze"]
+    walk_min: [25, 30]
+    visit_min: [150, 180]
+    short:
+      ru: |
+        Будьте у входа к 8:00. С забронированным билетом — не в общую очередь (её видно с площади Синьории), а к двери для забронировавших; точный номер двери — в письме с билетом. На осмотр — 2,5–3 часа.
+      en: |
+        Be at the entrance by 8:00. With a booked ticket, skip the general queue (the one you can see from Piazza della Signoria) and go to the door for pre-booked visitors — the door number is in your booking email. Allow 2.5–3 hours.
+    long:
+      ru: |
+        Здание построил Джорджо Вазари в 1560-х годах для Козимо I Медичи как правительственные конторы — «уффици» и значит «офисы». Верхний этаж Медичи скоро превратили в галерею для своей коллекции, а в 1737 году последняя из рода, Анна Мария Луиза, завещала всё собрание Флоренции с условием, что оно никогда не покинет город. Поэтому всё это до сих пор здесь.
+
+        Что посмотреть: залы **Боттичелли** — «Рождение Венеры» и «Весна»; **«Благовещение» Леонардо** и его неоконченное «Поклонение волхвов»; восьмиугольная **Трибуна** Медичи с куполом, выложенным перламутром; **«Тондо Дони» Микеланджело** — единственная его законченная станковая картина во Флоренции; «Венера Урбинская» Тициана, Рафаэль и, на нижнем этаже, **Караваджо** — «Медуза» и «Вакх». Из окон коридора над Арно — вид на Понте Веккьо сверху.
+
+        Совет: в первые полчаса после открытия у Боттичелли почти пусто — идите к нему сразу, остальное потом. Последний час потратьте на Караваджо и испанских мастеров внизу, где народу меньше. Кафе на террасе над Лоджией деи Ланци — хорошая передышка с видом на купол собора и башню Палаццо Веккьо. Сумки больше маленького рюкзака сдают в гардероб.
+      en: |
+        Giorgio Vasari built it in the 1560s for Cosimo I de' Medici as government offices — "uffizi" simply means offices. The Medici soon turned the top floor into a gallery for their collection, and in 1737 the last of the line, Anna Maria Luisa, left the whole lot to Florence on condition it never leave the city. That's why it is all still here.
+
+        Look for the **Botticelli** rooms — the Birth of Venus and Primavera; **Leonardo's Annunciation** and his unfinished Adoration of the Magi; the octagonal Medici **Tribuna** with its mother-of-pearl dome; **Michelangelo's Doni Tondo**, his only finished panel painting in Florence; Titian's Venus of Urbino, Raphael and, on the lower floor, **Caravaggio**'s Medusa and Bacchus. The windows of the corridor over the Arno look straight down on Ponte Vecchio.
+
+        Tip: for the first half hour after opening the Botticelli rooms are almost empty — go there first and see the rest afterwards. Spend the last hour on Caravaggio and the later painters downstairs, where it's quieter. The café terrace on top of the Loggia dei Lanzi is a good break with a view of the dome and Palazzo Vecchio's tower. Bags bigger than a small backpack go to the cloakroom.
+
+  - name: {en: Mercato Centrale, ru: Рынок Меркато Чентрале}
+    place: "Mercato Centrale, Via dell'Ariento, Firenze"
+    lat: 43.77660
+    lng: 11.25320
+    radius_m: 150
+    approach: [{name: Via dei Calzaiuoli, lat: 43.77154, lng: 11.25533}, {name: Piazza del Duomo, lat: 43.77290, lng: 11.25600}, {name: Piazza San Lorenzo, lat: 43.77507, lng: 11.25406}]
+    walk_min: [20, 25]
+    visit_min: [60, 75]
+    short:
+      ru: |
+        По Via dei Calzaiuoli мимо Дуомо и капеллы Медичи у Сан-Лоренцо. Обед на втором этаже — фуд-холл открыт ежедневно с 9:00 до позднего вечера; на первом — исторический рынок, работает примерно до 14:00–15:00.
+      en: |
+        Up Via dei Calzaiuoli past the Duomo and San Lorenzo with the Medici Chapels. Lunch upstairs — the food hall is open daily from 9:00 until late; the historic market on the ground floor runs until about 14:00–15:00.
+    long:
+      ru: |
+        Чугунно-стеклянный павильон построил в 1874 году Джузеппе Менгони — тот самый, что спроектировал галерею Виктора Эммануила в Милане. Рынок появился, когда Флоренция, недолго побывшая столицей Италии, перестраивала центр и сносила старый рынок на месте нынешней площади Республики. Внизу до сих пор торгуют мясом, сыром, рыбой, трюфелями и овощами для местных.
+
+        Что посмотреть: на первом этаже — прилавки с пармской ветчиной, пекорино и белыми грибами, и знаменитая закусочная **Da Nerbone**, которая работает здесь с 1872 года, — классика флорентийского стрит-фуда, **лампредотто** (сычуг в бульоне в булке с зелёным соусом). На втором этаже, открытом в 2014 году, — большой зал с общими столами и прилавками: паста, пицца, бистекка, моцарелла, вино. Каждый берёт что хочет, и садитесь вместе.
+
+        Совет: займите стол сразу, а потом идите за едой по очереди. Вокруг рынка — уличные палатки кожевенного рынка Сан-Лоренцо; торгуйтесь, а качество проверяйте внимательно. Проходя Дуомо, взгляните на купол ещё раз при дневном свете — вчера вы видели его уже к вечеру.
+      en: |
+        Giuseppe Mengoni — the architect of the Galleria Vittorio Emanuele in Milan — built this cast-iron and glass hall in 1874. It went up while Florence, briefly capital of Italy, was rebuilding its centre and demolishing the old market where Piazza della Repubblica is now. Downstairs it still sells meat, cheese, fish, truffles and vegetables to locals.
+
+        On the ground floor look for counters of Parma ham, pecorino and porcini, and **Da Nerbone**, trading here since 1872 — the classic Florentine street food is **lampredotto**, tripe simmered in broth, served in a roll with green sauce. Upstairs, opened in 2014, is a big hall of shared tables and counters: pasta, pizza, bistecca, mozzarella, wine. Everyone gets what they fancy and you sit together.
+
+        Tip: grab a table first, then take turns fetching food. Around the market are the street stalls of the San Lorenzo leather market — haggle, and check quality carefully. Passing the Duomo, take another look at the dome in daylight — yesterday you saw it late in the afternoon.
+
+  - name: {en: Ponte Vecchio, ru: Понте Веккьо}
+    lat: 43.76803
+    lng: 11.25316
+    radius_m: 120
+    approach: [{name: Piazza della Repubblica, lat: 43.77151, lng: 11.25401}, {name: Loggia del Mercato Nuovo, lat: 43.76987, lng: 11.25422}]
+    walk_min: [15, 20]
+    visit_min: [5, 10]
+    short:
+      ru: |
+        Через площадь Республики и лоджию Нового рынка с бронзовым кабаном — и снова через Понте Веккьо, на этот раз на другой берег и прямо по Via de' Guicciardini.
+      en: |
+        Through Piazza della Repubblica and the Mercato Nuovo loggia with its bronze boar — then over Ponte Vecchio again, this time across to the far bank and straight up Via de' Guicciardini.
+    long:
+      ru: |
+        **Площадь Республики** стоит на месте римского форума; в XIX веке, когда Флоренция была столицей, на этом месте снесли средневековый рынок и еврейское гетто и построили помпезную площадь с аркой. Кафе Gilli и Paszkowski здесь — старейшие в городе.
+
+        **Лоджия Нового рынка** XVI века — крытый рынок, где когда-то торговали шёлком и золотом. Сбоку стоит бронзовый кабан — **Porcellino**: потрите ему нос и бросьте монету ему в пасть так, чтобы она упала сквозь решётку, — по поверью, тогда вернётесь во Флоренцию.
+
+        Совет: днём мост переполнен — не задерживайтесь, вчера вы всё рассмотрели. Сразу за мостом Via de' Guicciardini выводит прямо к палаццо Питти.
+      en: |
+        **Piazza della Repubblica** stands on the site of the Roman forum; in the 19th century, while Florence was capital, the medieval market and the Jewish ghetto were cleared to build this grand arcaded square. Its cafés Gilli and Paszkowski are among the oldest in the city.
+
+        The 16th-century **Mercato Nuovo loggia** was a covered market for silk and gold. To one side sits the bronze boar, the **Porcellino**: rub his nose and drop a coin from his mouth so it falls through the grate, and legend says you'll come back to Florence.
+
+        Tip: the bridge is packed at midday — don't linger, you saw it all yesterday. Across the river, Via de' Guicciardini leads straight to Palazzo Pitti.
+
+  - name: {en: Palazzo Pitti and the Boboli Gardens, ru: Палаццо Питти и сады Боболи}
+    place: "Palazzo Pitti, Piazza de' Pitti 1, Firenze"
+    lat: 43.76560
+    lng: 11.25030
+    radius_m: 300
+    approach: [{name: Via de' Guicciardini, lat: 43.76694, lng: 11.25176}]
+    inside:
+      - {name: Anfiteatro di Boboli, lat: 43.76416, lng: 11.25087}
+      - {name: Fontana del Nettuno, lat: 43.76299, lng: 11.25187}
+      - {name: Statua dell'Abbondanza, lat: 43.76222, lng: 11.25254}
+      - {name: Giardino del Cavaliere, lat: 43.76172, lng: 11.25201}
+      - {name: Palazzo Pitti, lat: 43.76560, lng: 11.25030}
+    walk_min: 5
+    visit_min: [80, 100]
+    short:
+      ru: |
+        Вход в сады — через двор палаццо, касса справа от главного входа. **Последний вход 16:30, закрытие 17:30.** Около полутора часов: амфитеатр → фонтан Нептуна → статуя Изобилия → Сад рыцаря с видом на холмы → обратно к выходу. Если дождь — пропускайте и идите сразу на Via Maggio.
+      en: |
+        The gardens are entered through the palace courtyard; the ticket desk is to the right of the main door. **Last entry 16:30, closing 17:30.** About an hour and a half: amphitheatre → Neptune Fountain → statue of Abundance → Knight's Garden with its view of the hills → back down to the exit. If it rains, skip it and go straight on to Via Maggio.
+    long:
+      ru: |
+        Палаццо начал в 1458 году банкир Лука Питти, соперник Медичи, — и разорился, не достроив. В 1550 году дворец купила Элеонора Толедская, жена Козимо I, и он стал главной резиденцией Медичи, потом Лотарингской династии и Савойского дома. Холм за дворцом превратили в сад, ставший образцом «итальянского сада» для всей Европы: его закладывали Триболо, затем Амманнати и Буонталенти.
+
+        Что посмотреть: **амфитеатр** прямо за дворцом, с египетским обелиском из Рима и гранитной античной чашей — здесь Медичи устраивали представления. Выше — **фонтан Нептуна** с бронзовым богом, которого прозвали «Нептун с вилкой», и на самом верху — **статуя Изобилия**, начатая Джамболоньей. Отсюда налево — **Сад рыцаря**, маленький регулярный сад на бастионе с видом на оливковые холмы и Музей фарфора. Спускаясь к выходу, загляните в **грот Буонталенти** у северного края и найдите фонтан **«Вакхино»**: на черепахе сидит придворный карлик Козимо I по прозвищу Морганте.
+
+        Совет: билет только в Боболи — 10 € в кассе или 13 € онлайн; комбинированный с палаццо Питти не нужен, на музеи дворца сегодня нет времени. Подъём к статуе Изобилия крутой и гравийный, скамейки — по пути. Если день дождливый, сад могут закрыть по погодному предупреждению — проверьте раздел новостей на www.uffizi.it.
+      en: |
+        The banker Luca Pitti, a Medici rival, began the palace in 1458 — and went broke before finishing it. In 1550 Eleonora of Toledo, wife of Cosimo I, bought it and it became the main Medici residence, later home to the Lorraine dynasty and the House of Savoy. The hill behind became the garden that set the pattern for "Italian gardens" all over Europe, laid out by Tribolo and then Ammannati and Buontalenti.
+
+        Look for the **amphitheatre** right behind the palace, with an Egyptian obelisk brought from Rome and an ancient granite basin — the Medici staged shows here. Higher up is the **Neptune Fountain**, its bronze god nicknamed "Neptune with the fork", and at the very top the **statue of Abundance**, begun by Giambologna. From there turn left to the **Knight's Garden**, a small formal garden on a bastion with a view over the olive-covered hills, and the Porcelain Museum. On the way down, look into the **Buontalenti Grotto** at the northern edge and find the **Bacchino** fountain: Cosimo I's court dwarf, known as Morgante, astride a turtle.
+
+        Tip: a Boboli-only ticket is €10 at the desk or €13 online; skip the combined Pitti ticket, there's no time for the palace museums today. The climb to Abundance is steep gravel, with benches along the way. On a wet day the garden may close under a weather warning — check the notices at www.uffizi.it.
+
+  - name: {en: Via Maggio, ru: Виа Маджо}
+    place: "Via Maggio 26, Firenze"
+    lat: 43.76673
+    lng: 11.24895
+    radius_m: 150
+    walk_min: [3, 5]
+    visit_min: [15, 20]
+    short:
+      ru: |
+        Улица антикваров и дворцов — от площади Питти через Сдруччоло-деи-Питти. Пройдите её не спеша в сторону реки и сверните налево на Via dei Michelozzi — она выводит прямо на площадь Санто-Спирито.
+      en: |
+        The street of antique dealers and palaces — from Piazza Pitti via the Sdrucciolo de' Pitti. Stroll it towards the river and turn left into Via dei Michelozzi, which comes out right on Piazza Santo Spirito.
+    long:
+      ru: |
+        Название — сокращение от «Via Maggiore», «главная улица»: когда Медичи поселились в палаццо Питти, сюда потянулась знать, и улица застроилась дворцами XVI века. Сейчас первые этажи занимают антиквары, реставраторы мебели и галереи — витрины здесь как маленькие музеи.
+
+        Что посмотреть: **палаццо Бьянки Каппелло** (№ 26) с фасадом, покрытым сграффито, — его построил для своей возлюбленной, венецианки Бьянки Каппелло, великий герцог Франческо I, сын Козимо. Совсем рядом, на площади Сан-Феличе, — **Каза Гуиди**, дом, где жили английские поэты Элизабет и Роберт Браунинг. По дороге от Питти не пропустите **Giulio Giannini e Figlio** на площади Питти — переплётная и бумажная мастерская, работающая с 1856 года.
+
+        Совет: в антикварных лавках можно просто смотреть — хозяева привыкли. Тротуары здесь узкие, а машины ездят, держитесь у стены.
+      en: |
+        The name is short for "Via Maggiore", the main street: once the Medici moved into Palazzo Pitti, the nobility followed and lined the street with 16th-century palaces. Today the ground floors hold antique dealers, furniture restorers and galleries — shop windows like little museums.
+
+        Look for **Palazzo di Bianca Cappello** (No. 26) with its sgraffito façade, built for his Venetian mistress Bianca Cappello by Grand Duke Francesco I, Cosimo's son. Just round the corner on Piazza San Felice is **Casa Guidi**, home of the English poets Elizabeth and Robert Browning. On the way from Pitti, don't miss **Giulio Giannini e Figlio** on Piazza Pitti, a bookbinding and paper workshop going since 1856.
+
+        Tip: you can just browse in the antique shops — the owners are used to it. The pavements are narrow and cars do come through, so keep to the wall.
+
+  - name: {en: Piazza Santo Spirito, ru: Площадь Санто-Спирито}
+    lat: 43.76673
+    lng: 11.24772
+    radius_m: 150
+    approach: [{name: Via dei Michelozzi, lat: 43.76695, lng: 11.24840}]
+    walk_min: [3, 5]
+    visit_min: [30, 45]
+    short:
+      ru: |
+        Сердце Ольтрарно. Церковь Брунеллески внутри **по средам закрыта** — смотрите фасад и площадь, а время отдайте мастерским на окрестных улицах: позолотчики, переплётчики, багетчики, реставраторы.
+      en: |
+        The heart of the Oltrarno. Brunelleschi's church is **closed to visitors on Wednesdays** — enjoy the façade and the square and give the time to the workshops in the surrounding streets: gilders, bookbinders, frame-makers, restorers.
+    long:
+      ru: |
+        Базилику Санто-Спирито спроектировал Брунеллески в 1444 году — это его последняя и, как считают многие архитекторы, самая совершенная работа: ряды серых каменных колонн внутри задают ритм всему пространству. Он умер, когда стройка только началась, а фасад так и не закончили — эта простая белёная стена стала символом площади. В сакристии хранится деревянное распятие юного Микеланджело — увидеть его можно в другие дни.
+
+        Что посмотреть: сама площадь с фонтаном и деревьями — утром здесь небольшой рынок, а вечером площадь превращается в общую гостиную: бары, ступени церкви, вино в пластиковых стаканчиках. В пяти минутах вокруг, на **Via di Santo Spirito, Via Maffia, Via dello Sprone и Via Toscanella**, — мастерские, которые работают за открытыми дверями: золочение рам сусальным золотом, реставрация мебели, ручной переплёт, изделия из кожи.
+
+        Совет: в мастерских принято сначала поздороваться и спросить, можно ли посмотреть, — многие мастера охотно показывают работу. Фотографировать — только с разрешения. Многие закрываются на обед примерно с 13:00 до 15:30, но к 16:00 всё снова открыто.
+      en: |
+        Brunelleschi designed the basilica of Santo Spirito in 1444 — his last and, many architects say, his most perfect work: inside, rows of grey stone columns set the rhythm of the whole space. He died just as building started, and the façade was never finished — that plain whitewashed wall has become the symbol of the square. The sacristy holds a wooden crucifix by the young Michelangelo — for another day.
+
+        Look at the square itself, with its fountain and trees — a small market in the morning, and in the evening the city's shared living room: bars, the church steps, wine in plastic cups. Within five minutes, in **Via di Santo Spirito, Via Maffia, Via dello Sprone and Via Toscanella**, workshops carry on behind open doors: gilding frames with gold leaf, restoring furniture, hand bookbinding, leatherwork.
+
+        Tip: in a workshop, say hello and ask whether you can look before walking in — many craftsmen are happy to show their work. Photos only with permission. Many close for lunch from about 13:00 to 15:30, but by 16:00 everything is open again.
+
+  - name: {en: Borgo San Frediano, ru: Борго Сан-Фредиано}
+    place: "Porta San Frediano, Firenze"
+    lat: 43.77030
+    lng: 11.24124
+    radius_m: 300
+    approach: [{name: Piazza del Carmine, lat: 43.76875, lng: 11.24423}]
+    inside: ["Chiesa di San Frediano in Cestello, Firenze", {name: Porta San Frediano, lat: 43.77051, lng: 11.24018}]
+    walk_min: [10, 15]
+    visit_min: [45, 75]
+    short:
+      ru: |
+        Через площадь Кармине в старый рабочий квартал. Пройдите Борго от церкви Сан-Фредиано-ин-Честелло до городских ворот — по пути мастерские, винные бары и траттории; мастерские работают примерно до 19:00.
+      en: |
+        Through Piazza del Carmine into the old working-class quarter. Walk the Borgo from the church of San Frediano in Cestello to the city gate — workshops, wine bars and trattorias along the way; the workshops stay open until about 19:00.
+    long:
+      ru: |
+        Сан-Фредиано веками был кварталом ткачей, кожевников и прачек — бедным, шумным и гордым. Его прославил Васко Пратолини в романе «Девушки из Сан-Фредиано»; в 2020-х Lonely Planet включил квартал в список самых интересных районов мира. Туристов здесь по-прежнему немного: ремесленные мастерские соседствуют с модными винными барами и обычными булочными.
+
+        Что посмотреть: на площади Кармине — церковь **Санта-Мария-дель-Кармине** с капеллой Бранкаччи, где фрески Мазаччо открыли живопись Возрождения (вход по записи). Дальше — купол **Сан-Фредиано-ин-Честелло** над рекой и в конце улицы — **Порта Сан-Фредиано** 1324 года, ворота с огромными деревянными створками, сохранившимися со Средних веков. На Via Lorenzo Bartolini, в двух шагах, — **Antico Setificio Fiorentino**, шёлкоткацкая мастерская XVIII века, которая до сих пор работает на старинных станках (посещение по записи).
+
+        Совет: к 17:45 уже темно — это лучшее время для аперитива в одном из баров на Борго. Домой — автобус **C4** от остановки **San Frediano Cestello** на набережной в сторону **Palagi**, до **Cellini Ferrucci** около 20–25 минут, оттуда 5 минут пешком. Маленький электробус ходит не очень часто — проверьте время в приложении; если не хотите ждать, вызывайте такси (055 4390, 055 4242, appTaxi), около 15 минут до дома.
+      en: |
+        For centuries San Frediano was the quarter of weavers, tanners and washerwomen — poor, noisy and proud. Vasco Pratolini made it famous in his novel The Girls of San Frediano, and in the 2020s Lonely Planet put it on its list of the world's coolest neighbourhoods. There are still few tourists: craft workshops sit next to fashionable wine bars and ordinary bakeries.
+
+        On Piazza del Carmine stands **Santa Maria del Carmine** with the Brancacci Chapel, where Masaccio's frescoes launched Renaissance painting (booking required). Further on is the dome of **San Frediano in Cestello** over the river, and at the end of the street **Porta San Frediano** from 1324, whose huge wooden doors survive from the Middle Ages. A few steps away on Via Lorenzo Bartolini is the **Antico Setificio Fiorentino**, an 18th-century silk-weaving workshop still working its old looms (visits by appointment).
+
+        Tip: it's dark by 17:45 — the perfect time for an aperitivo at one of the bars on the Borgo. To get home, take bus **C4** from the **San Frediano Cestello** stop on the embankment towards **Palagi**, to **Cellini Ferrucci**, about 20–25 minutes, then 5 minutes on foot. The little electric bus isn't very frequent — check the time in the app; if you don't want to wait, call a taxi (055 4390, 055 4242, appTaxi), about 15 minutes home.
+
+  - name: {en: Back to Casa Angi, ru: Обратно в Casa Angi}
+    place: "Via de' Baldovini 19, 50126 Firenze"
+    lat: 43.76255
+    lng: 11.27528
+    radius_m: 100
+    walk_min: 5
+    short:
+      ru: |
+        Финиш. Автобус C4 до Cellini Ferrucci и 5 минут пешком, или такси. Пешком вдоль реки — около 40 минут, после такого дня не советуем.
+      en: |
+        Finish. Bus C4 to Cellini Ferrucci and 5 minutes on foot, or a taxi. Walking along the river is about 40 minutes — not recommended after a day like this.
+    long:
+      ru: |
+        C4 идёт обратно через весь Ольтрарно — мимо Санто-Спирито, Питти и по набережной Lungarno Serristori — так что из окна ещё раз увидите сегодняшний маршрут в вечерних огнях.
+
+        Совет: перед сном соберите вещи и проверьте дорогу на Венецию — выезд утром, через Firenze Sud, в объезд центра.
+      en: |
+        The C4 runs back through the whole Oltrarno — past Santo Spirito, Pitti and along Lungarno Serristori — so you'll see today's route once more from the window, lit up for the evening.
+
+        Tip: pack before bed and check the route to Venice — you leave in the morning via Firenze Sud, round the centre.

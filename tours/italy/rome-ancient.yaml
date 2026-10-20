@@ -1,0 +1,318 @@
+country: { en: Italy, ru: Италия }
+city: { en: Rome, ru: Рим }
+name: { en: "Ancient Rome and the classic centre", ru: "Древний Рим и классический центр" }
+place_suffix: Roma
+summary:
+  ru: "≈ 8–9 км пешком (из них 3–4 км по руинам), 8–9 часов; туда и обратно на метро"
+  en: "≈ 8–9 km on foot (3–4 km of it among the ruins), 8–9 hours; metro there and back"
+intro:
+  ru: |
+    Воскресенье, 25 октября. Ночью переводят часы: в 3:00 стрелки уходят на час назад, телефоны переключатся сами, а у вас будет лишний час сна. Закат теперь около **17:20**, а археологический парк Колизея с этого дня закрывается в **16:30** (последний вход в 15:30) — поэтому руины идут утром, а город — после обеда.
+
+    Билеты: на [официальном сайте Колизея](https://ticketing.colosseo.it/en/) — обычный билет за 18 € на 24 часа: Колизей во время, указанное в билете, плюс один вход на Римский форум и Палатин. Продажа открывается за 30 дней, берите слот на **9:00–9:30**. Не покупайте у перекупщиков у входа.
+
+    Машина весь день стоит на парковке гостевого дома — едем на метро. Новая станция **Colosseo – Fori Imperiali** линии C открылась в декабре 2025 года, так что от Пиньето до Колизея теперь прямой поезд: 4 остановки, около 10 минут. На турникетах работает **Tap & Go**: прикладываете банковскую карту или телефон, и списывается билет BIT (1,50 €, 100 минут; в метро — одна поездка, пересадки внутри без выхода не считаются). Важно: у каждого — своя карта или свой телефон, одной картой двоих провести нельзя.
+
+    Маршрут: гостевой дом → метро Пиньето → Колизей → Римский форум → Палатин → обед в Монти → Капитолий → Пьяцца Венеция → фонтан Треви → площадь Испании → метро Spagna.
+  en: |
+    Sunday 25 October. The clocks go back overnight: at 3:00 they return to 2:00, phones switch automatically, and you get an extra hour's sleep. Sunset is now around **17:20**, and from today the Colosseum archaeological park closes at **16:30** (last entry 15:30) — so the ruins come in the morning and the city after lunch.
+
+    Tickets: on the [official Colosseum site](https://ticketing.colosseo.it/en/) the ordinary ticket is €18 for 24 hours: the Colosseum at the time on the ticket, plus one entry to the Roman Forum and Palatine. Sales open 30 days ahead; pick a **9:00–9:30** slot. Don't buy from touts at the entrance.
+
+    The car stays in the guesthouse car park all day — we go by metro. The new **Colosseo – Fori Imperiali** station on line C opened in December 2025, so there's now a direct train from Pigneto to the Colosseum: 4 stops, about 10 minutes. The gates take **Tap & Go**: touch a bank card or phone and a BIT fare is charged (€1.50, 100 minutes; one metro journey, with changes inside the system included). Important: each of you needs your own card or phone — one card can't let two people through.
+
+    Route: guesthouse → Pigneto metro → Colosseum → Roman Forum → Palatine → lunch in Monti → Capitoline Hill → Piazza Venezia → Trevi Fountain → Spanish Steps → Spagna metro.
+outro:
+  ru: |
+    Домой — с **Spagna** по линии A в сторону Anagnina до **San Giovanni** (6 остановок), там переход на линию C в сторону Monte Compatri-Pantano и 2 остановки до **Pigneto**. Всего около 30 минут плюс 5 минут пешком до Via Adriano Balbi. Достаточно снова приложить ту же карту: пересадка на San Giovanni без выхода входит в тот же билет.
+
+    Вечером ужинайте в самом Пиньето: Via del Pigneto с её пешеходным участком — одна из самых живых улиц восточного Рима, с тратториями, барами и стрит-артом, и туристов здесь почти нет.
+
+    Совет: завтра Ватикан и ещё один длинный день — не засиживайтесь допоздна.
+  en: |
+    Home: from **Spagna** take line A towards Anagnina to **San Giovanni** (6 stops), change to line C towards Monte Compatri-Pantano and ride 2 stops to **Pigneto**. About 30 minutes in all, plus 5 minutes' walk to Via Adriano Balbi. Just tap the same card again: the change at San Giovanni, without leaving the system, is part of the same fare.
+
+    For dinner stay in Pigneto: Via del Pigneto and its pedestrian stretch is one of the liveliest streets in eastern Rome, with trattorias, bars and street art and hardly any tourists.
+
+    Tip: tomorrow is the Vatican and another long day — don't make it too late a night.
+points:
+  - name: { en: Atelier Randagi al Pigneto, ru: Atelier Randagi al Pigneto }
+    place: "Via Adriano Balbi 20, 00176 Roma"
+    lat: 41.88690
+    lng: 12.53165
+    short:
+      ru: |
+        Старт. Выходите в 8:15–8:30, чтобы быть у Колизея за 20–30 минут до слота: на входе досмотр как в аэропорту.
+      en: |
+        Start. Leave at 8:15–8:30 to reach the Colosseum 20–30 minutes before your slot: there's airport-style security at the entrance.
+    long:
+      ru: |
+        Пиньето — бывший рабочий квартал за старыми акведуками, застроенный в конце XIX – начале XX века для железнодорожников и рабочих. Здесь снимал свои первые фильмы Пьер Паоло Пазолини — «Аккатоне» (1961) почти целиком сняли на этих улицах. Сейчас это богемный район с барами, книжными и муралами, один из самых модных в Риме.
+
+        Совет: позавтракайте по-римски у стойки бара — капучино и корнетто стоят у прилавка заметно дешевле, чем за столиком. Возьмите воду: на руинах тени мало, но в Риме много бесплатных питьевых фонтанчиков «насоне».
+      en: |
+        Pigneto is a former working-class district beyond the old aqueducts, built up in the late 19th and early 20th centuries for railwaymen and labourers. Pier Paolo Pasolini shot his first films here — "Accattone" (1961) was filmed almost entirely in these streets. Today it's a bohemian neighbourhood of bars, bookshops and murals, one of Rome's trendiest.
+
+        Tip: have a Roman breakfast standing at a bar counter — cappuccino and cornetto cost noticeably less at the counter than at a table. Bring a water bottle: there's little shade among the ruins, but Rome is full of free "nasone" drinking fountains.
+
+  - name: { en: Pigneto metro station, ru: Станция метро Pigneto }
+    place: "Pigneto metro station, Roma"
+    lat: 41.88854
+    lng: 12.52821
+    walk_min: 5
+    short:
+      ru: |
+        Линия C в сторону центра (направление «Colosseo»), 4 остановки до **Colosseo – Fori Imperiali**, около 10 минут. Оплата — Tap & Go, каждый своей картой.
+      en: |
+        Line C towards the centre (direction "Colosseo"), 4 stops to **Colosseo – Fori Imperiali**, about 10 minutes. Pay with Tap & Go, each with your own card.
+    long:
+      ru: |
+        Линия C — самая новая в Риме и единственная полностью автоматическая, без машиниста. Её строят с 2007 года, и каждая станция в центре превращалась в археологические раскопки: при прокладке тоннелей нашли казармы II века, жилые дома и тысячи предметов.
+
+        Совет: в Риме много карманников, особенно в метро и в поездах линии A. Рюкзак — спереди, телефон — не в заднем кармане.
+      en: |
+        Line C is Rome's newest and only fully automatic, driverless line. It has been under construction since 2007, and every station in the centre turned into an archaeological dig: the tunnelling uncovered 2nd-century barracks, houses and thousands of objects.
+
+        Tip: Rome has plenty of pickpockets, especially on the metro and line A trains. Wear backpacks on the front and keep phones out of back pockets.
+
+  - name: { en: Colosseum, ru: Колизей }
+    place: "Colosseo, Piazza del Colosseo, Roma"
+    lat: 41.89026
+    lng: 12.49237
+    radius_m: 200
+    approach: [ { name: "Colosseo – Fori Imperiali metro", lat: 41.89171, lng: 12.49029 } ]
+    walk_min: 5
+    visit_min: [ 60, 90 ]
+    short:
+      ru: |
+        Вход по билету с указанным временем, приходите за 20–30 минут. Внутри — 1–1,5 часа: нижний ярус, затем лестница на второй.
+      en: |
+        Timed entry — arrive 20–30 minutes early. Allow 1–1.5 hours inside: the lower tier, then the stairs to the second.
+    long:
+      ru: |
+        Сама станция метро — уже музей: под стеклом выставлены находки из раскопок, сделанных при строительстве, — от фрагментов домов до посуды. Выход на Via dei Fori Imperiali, и Колизей сразу перед вами.
+
+        Амфитеатр Флавиев открыли в 80 году н. э. при императоре Тите; строили его всего около десяти лет на месте осушенного озера при дворце Нерона. Вмещал 50–60 тысяч зрителей, у каждого был номер входа — всего 80 арок, — поэтому даже такая толпа заполняла трибуны за считанные минуты. Над ареной натягивали гигантский тент-веларий, а под ней находился лабиринт гипогея с клетками и подъёмниками для зверей.
+
+        Что посмотреть: вид на подземелья гипогея сверху; номера над арками входов (на северной стороне видны «LII», «LIII»); вид со второго яруса на **арку Константина** и Палатин. Отверстия в стенах — не следы обстрела: средневековые жители выдалбливали из кладки железные скобы.
+
+        Совет: на входе досмотр как в аэропорту, бутылки со стеклом не пускают. Сохраните билет — он же откроет вход на Форум и Палатин, но лишь один раз: между ними не выходите за ограду.
+      en: |
+        The metro station is a museum in its own right: finds from the dig made during construction, from bits of houses to tableware, are on show behind glass. The exit is on Via dei Fori Imperiali, with the Colosseum right in front of you.
+
+        The Flavian Amphitheatre opened in AD 80 under Emperor Titus, built in only about ten years on the site of the drained lake of Nero's palace. It held 50–60,000 spectators, each with a numbered entrance — 80 arches in all — so even that crowd filled the stands in minutes. A huge awning, the velarium, was stretched over the seats, and below the arena lay the hypogeum, a maze of cages and lifts for the animals.
+
+        Look down into the hypogeum from above; at the numbers over the entrance arches (on the north side you can read "LII", "LIII"); and from the second tier out to the **Arch of Constantine** and the Palatine. The holes in the walls aren't battle damage: medieval Romans chiselled out the iron clamps from the stonework.
+
+        Tip: airport-style security at the entrance, and no glass bottles. Keep the ticket — it also gets you into the Forum and Palatine, but only once, so don't leave the enclosure between the two.
+
+  - name: { en: Roman Forum, ru: Римский форум }
+    place: "Foro Romano, Via della Salara Vecchia, Roma"
+    lat: 41.89250
+    lng: 12.48530
+    radius_m: 300
+    approach: [ Arco di Costantino, { name: "Forum entrance, Via Sacra", lat: 41.89005, lng: 12.48980 }, Arco di Tito ]
+    inside: [ Tempio di Antonino e Faustina, Curia Iulia, Arco di Settimio Severo ]
+    walk_min: [ 8, 10 ]
+    visit_min: [ 60, 75 ]
+    short:
+      ru: |
+        Вход со стороны Колизея, у арки Константина, по Via Sacra. Идём вниз через арку Тита к курии и арке Септимия Севера.
+      en: |
+        Enter on the Colosseum side, by the Arch of Constantine, along the Via Sacra. Walk down through the Arch of Titus to the Curia and the Arch of Septimius Severus.
+    long:
+      ru: |
+        Тысячу лет здесь был центр римского мира: суды, храмы, сенат, рынки и триумфальные шествия по **Священной дороге** — Via Sacra. В Средние века руины засыпало землёй на несколько метров, тут пасли коров, а место называли «Коровьим полем»; раскапывать Форум всерьёз начали только в XIX веке.
+
+        Что посмотреть: **арку Тита** с рельефом, где римляне несут менору из разрушенного Иерусалимского храма; **храм Антонина и Фаустины** — колонны древнего храма с встроенной в них барочной церковью; **курию** — здание сената, сохранившееся потому, что стало церковью; **храм Весты**, где весталки поддерживали вечный огонь; место кремации Юлия Цезаря — к нему до сих пор приносят цветы.
+
+        Совет: без пояснений Форум легко превращается в «груду камней» — скачайте офлайн-аудиогид или читайте таблички у объектов. Дорожки — древняя брусчатка, нужна удобная обувь.
+      en: |
+        For a thousand years this was the centre of the Roman world: law courts, temples, the senate, markets and triumphal processions along the **Sacred Way**, the Via Sacra. In the Middle Ages the ruins were buried under metres of soil and cows grazed here — the place was called the "Cow Field"; serious excavation only began in the 19th century.
+
+        Look at the **Arch of Titus**, with its relief of Romans carrying the menorah from the destroyed Temple in Jerusalem; the **Temple of Antoninus and Faustina**, ancient columns with a baroque church built into them; the **Curia**, the senate house, which survived because it became a church; the **Temple of Vesta**, where the Vestal Virgins kept the eternal flame; and the spot where Julius Caesar was cremated — people still leave flowers there.
+
+        Tip: without explanations the Forum soon becomes "a pile of stones" — download an offline audio guide or read the signs at each site. The paths are ancient paving, so wear comfortable shoes.
+
+  - name: { en: Palatine Hill, ru: Палатин }
+    place: "Palatino, Roma"
+    lat: 41.88823
+    lng: 12.48698
+    radius_m: 300
+    approach: [ { name: "Farnese Gardens", lat: 41.88990, lng: 12.48640 } ]
+    inside: [ { name: "Domus Augustana", lat: 41.88765, lng: 12.48620 }, { name: "Forum exit, Largo della Salara Vecchia", lat: 41.89340, lng: 12.48690 } ]
+    walk_min: [ 10, 15 ]
+    visit_min: [ 45, 60 ]
+    short:
+      ru: |
+        Подъём с Форума к Садам Фарнезе, затем дворцы императоров и вид на Большой цирк. Выход — обратно через Форум на Largo della Salara Vecchia, к Монти.
+      en: |
+        Climb from the Forum to the Farnese Gardens, then the emperors' palaces and the view over the Circus Maximus. Exit back through the Forum at Largo della Salara Vecchia, towards Monti.
+    long:
+      ru: |
+        По легенде, именно здесь волчица выкормила Ромула и Рема, а в 753 году до н. э. Ромул основал Рим. Позже на холме селилась знать, затем — императоры: Август жил здесь в скромном доме, а Домициан построил огромный дворец, и с тех пор само слово «палатин» дало европейским языкам «палаццо» и «палаты».
+
+        Что посмотреть: **Сады Фарнезе** XVI века — с их террасы лучший вид сверху на весь Форум; **Домус Августана** и **стадион Домициана** — длинный «сад» в форме ипподрома; с южного края — вид на **Большой цирк**, где гонки колесниц собирали до 250 тысяч зрителей.
+
+        Совет: если устали, Палатин можно сократить до Садов Фарнезе и смотровой — это самое впечатляющее. Ищите туалеты и фонтанчики с водой у входов: внутри их мало. Выходите к 12:30–13:00 — пора обедать.
+      en: |
+        Legend says this is where the she-wolf suckled Romulus and Remus, and where Romulus founded Rome in 753 BC. Later the nobility settled on the hill, then the emperors: Augustus lived in a modest house here, Domitian built an enormous palace, and the hill's name gave European languages the word "palace".
+
+        Look at the 16th-century **Farnese Gardens**, whose terrace has the best view down over the whole Forum; the **Domus Augustana** and the **Stadium of Domitian**, a long sunken garden shaped like a racetrack; and from the southern edge the view over the **Circus Maximus**, where chariot races drew up to 250,000 spectators.
+
+        Tip: if you're tired, cut the Palatine down to the Farnese Gardens and the viewpoint — that's the most impressive part. Toilets and water fountains are near the entrances, few inside. Aim to be out by 12:30–13:00 — it's lunchtime.
+
+  - name: { en: Lunch in Monti, ru: Обед в Монти }
+    place: "Piazza della Madonna dei Monti, Roma"
+    lat: 41.89491
+    lng: 12.49089
+    radius_m: 250
+    approach: [ Via Cavour ]
+    walk_min: [ 10, 12 ]
+    visit_min: [ 60, 75 ]
+    short:
+      ru: |
+        Обед в старом квартале у фонтана на площади Мадонна-деи-Монти. В воскресенье траттории полны — бронируйте или выбирайте пиццу аль-тальо.
+      en: |
+        Lunch in the old quarter by the fountain on Piazza della Madonna dei Monti. Trattorias are full on Sundays — book ahead or go for pizza al taglio.
+    long:
+      ru: |
+        Монти — самый старый жилой район Рима. В античности здесь была Субура — шумный, тесный и не самый благопристойный квартал за стеной Форума Августа, где вырос Юлий Цезарь. Сейчас это деревня в центре города: узкие улицы с плющом, винтажные магазины, бары и траттории.
+
+        Что попробовать: четыре классические римские пасты — **карбонару**, **качо-э-пепе**, **аматричану** и **гричу**; **артишоки по-римски** или по-еврейски, если сезон. На улицах **Via del Boschetto**, **Via dei Serpenti** и **Via Panisperna** — больше всего мест; на площади у фонтана местные сидят с пивом на ступеньках.
+
+        Совет: избегайте ресторанов с фотографиями блюд в меню и зазывалами у двери. Обед до 14:30 — потом многие кухни закрываются до вечера.
+      en: |
+        Monti is Rome's oldest residential district. In antiquity this was the Subura — a noisy, crowded and not very respectable quarter behind the wall of the Forum of Augustus, where Julius Caesar grew up. Today it's a village in the middle of the city: narrow ivy-covered streets, vintage shops, bars and trattorias.
+
+        What to try: the four Roman pasta classics — **carbonara**, **cacio e pepe**, **amatriciana** and **gricia** — and **Roman- or Jewish-style artichokes** if they're in season. **Via del Boschetto**, **Via dei Serpenti** and **Via Panisperna** have the most places; on the square by the fountain locals sit on the steps with a beer.
+
+        Tip: steer clear of restaurants with photos on the menu and touts at the door. Lunch before 14:30 — after that many kitchens close until the evening.
+
+  - name: { en: Capitoline Hill, ru: Капитолий }
+    place: "Piazza del Campidoglio, Roma"
+    lat: 41.89332
+    lng: 12.48294
+    radius_m: 150
+    approach: [ Via dei Fori Imperiali ]
+    inside: [ { name: "Forum viewpoint behind Palazzo Senatorio", lat: 41.89270, lng: 12.48420 } ]
+    walk_min: [ 15, 20 ]
+    visit_min: [ 20, 30 ]
+    short:
+      ru: |
+        Площадь Микеланджело на вершине Капитолия и смотровая за ратушей с видом на Форум. Музеи сегодня пропускаем.
+      en: |
+        Michelangelo's square on top of the Capitoline and the viewpoint behind the town hall, looking over the Forum. Skip the museums today.
+    long:
+      ru: |
+        Капитолий — самый маленький и самый священный из семи холмов: здесь стоял храм Юпитера, а триумфальные шествия заканчивались жертвоприношением на его ступенях. В 1536 году папа Павел III поручил Микеланджело превратить запущенный холм в парадную площадь к визиту императора Карла V — получилась одна из первых в Европе спроектированных как единое целое площадей.
+
+        Что посмотреть: узор на мостовой в форме звезды; конную статую **Марка Аврелия** (копия — оригинал II века в музее рядом); **Палаццо Сенаторио** — римскую мэрию. Пройдите справа или слева от него вниз по Via del Campidoglio — оттуда открывается, пожалуй, лучший вид на весь Форум с Колизеем вдали.
+
+        Совет: к площади ведёт пологая лестница-кордоната, тоже по проекту Микеланджело, — спускайтесь по ней к Пьяцца Венеция. Слева от неё — крутая лестница к церкви Санта-Мария-ин-Арачели, туда подниматься необязательно.
+      en: |
+        The Capitoline is the smallest and holiest of the seven hills: the Temple of Jupiter stood here, and triumphal processions ended with a sacrifice on its steps. In 1536 Pope Paul III asked Michelangelo to turn the neglected hilltop into a ceremonial square for the visit of Emperor Charles V — one of the first squares in Europe designed as a single whole.
+
+        Look at the star pattern in the paving; the equestrian statue of **Marcus Aurelius** (a copy — the 2nd-century original is in the museum next door); and **Palazzo Senatorio**, Rome's city hall. Walk round either side of it and down Via del Campidoglio for what may be the best view of the whole Forum, with the Colosseum beyond.
+
+        Tip: the gentle ramped staircase, the cordonata, is also Michelangelo's — take it down towards Piazza Venezia. The steep stairs to its left lead up to Santa Maria in Aracoeli; no need to climb them.
+
+  - name: { en: Piazza Venezia, ru: Пьяцца Венеция }
+    place: "Altare della Patria, Piazza Venezia, Roma"
+    lat: 41.89624
+    lng: 12.48237
+    radius_m: 200
+    walk_min: 5
+    visit_min: [ 10, 20 ]
+    short:
+      ru: |
+        Огромный белый Витториано — смотрите снаружи, подняться можно на ступени бесплатно. Террасу на крыше (лифт, платно) сегодня лучше пропустить.
+      en: |
+        The huge white Vittoriano — look from outside; you can climb the steps for free. Skip the paid lift to the rooftop terrace today.
+    long:
+      ru: |
+        **Витториано** построили в 1885–1935 годах в честь Виктора Эммануила II, первого короля объединённой Италии. Римляне зовут его «пишущей машинкой» или «свадебным тортом» и ругают за то, что ради него снесли кусок средневекового квартала, а белоснежный мрамор из Брешии не сочетается с охристым городом. Под статуей Ромы — **Алтарь Отечества** и могила Неизвестного солдата с почётным караулом.
+
+        Что посмотреть: конную статую короля — внутри её корпуса после отливки устроили обед на двадцать человек; почётный караул у вечного огня; на другой стороне площади — **Палаццо Венеция** с балконом, с которого выступал Муссолини.
+
+        Совет: на ступенях нельзя сидеть, есть и пить — охрана сразу делает замечание. Площадь — огромная круговая развязка: переходите только на светофоре.
+      en: |
+        The **Vittoriano** was built in 1885–1935 for Victor Emmanuel II, the first king of united Italy. Romans call it "the typewriter" or "the wedding cake" and grumble that a chunk of medieval neighbourhood was knocked down for it and that its dazzling Brescia marble clashes with the ochre city. Below the statue of Roma is the **Altar of the Fatherland** and the Tomb of the Unknown Soldier with its guard of honour.
+
+        Look at the king's equestrian statue — after casting, a dinner for twenty was held inside its belly; at the guard by the eternal flame; and across the square at **Palazzo Venezia**, with the balcony Mussolini spoke from.
+
+        Tip: no sitting, eating or drinking on the steps — the guards step in straight away. The square is a huge roundabout: cross only at the lights.
+
+  - name: { en: Trevi Fountain, ru: Фонтан Треви }
+    place: "Fontana di Trevi, Piazza di Trevi, Roma"
+    lat: 41.90096
+    lng: 12.48328
+    approach: [ Via del Corso, Via delle Muratte ]
+    walk_min: [ 10, 12 ]
+    visit_min: [ 20, 30 ]
+    short:
+      ru: |
+        Смотреть с площади бесплатно. Спуститься к самой воде — 2 € за вход в огороженную зону (с 9:00 по воскресеньям, только картой или онлайн).
+      en: |
+        Free to see from the square. Getting down to the water costs €2 for the fenced-off area (from 9:00 on Sundays, card only or online).
+    long:
+      ru: |
+        Фонтан завершает античный акведук **Аква Вирго** 19 года до н. э., который до сих пор снабжает его водой. Нынешний барочный фасад по проекту Никола Сальви строили тридцать лет — с 1732 по 1762 год. В центре — Океан на колеснице из раковины, по бокам — аллегории Изобилия и Здоровья, на рельефе вверху — девушка, которая, по легенде, показала римским солдатам источник.
+
+        Что посмотреть: коней — один спокойный, другой вздыбленный, это «спокойное» и «бурное» море; скалы, плавно переходящие в фасад дворца Поли за фонтаном. Знаменитая сцена из «Сладкой жизни» Феллини с Анитой Экберг снималась здесь в 1960 году.
+
+        Совет: бросьте монетку правой рукой через левое плечо — чтобы вернуться в Рим. Каждый день из фонтана вынимают тысячи евро, деньги идут на благотворительность. Билет на 2 € с февраля 2026 года — для тех, кто хочет к самому бортику; с площади вид не хуже.
+      en: |
+        The fountain is the end point of the ancient **Aqua Virgo** aqueduct of 19 BC, which still supplies its water. The present baroque front, designed by Nicola Salvi, took thirty years to build, from 1732 to 1762. In the middle is Oceanus on a shell chariot, flanked by Abundance and Health; the relief above shows the girl who, legend says, showed Roman soldiers the spring.
+
+        Look at the horses — one calm, one rearing, the calm and stormy sea — and at the rocks that merge into the front of Palazzo Poli behind. Fellini filmed the famous "La Dolce Vita" scene with Anita Ekberg here in 1960.
+
+        Tip: throw a coin with your right hand over your left shoulder to make sure you come back to Rome. Thousands of euros are scooped out every day and go to charity. The €2 ticket, introduced in February 2026, is for getting right up to the rim; the view from the square is just as good.
+
+  - name: { en: Spanish Steps, ru: Испанская лестница }
+    place: "Scalinata di Trinità dei Monti, Piazza di Spagna, Roma"
+    lat: 41.90579
+    lng: 12.48217
+    radius_m: 200
+    approach: [ Via della Stamperia, Via Due Macelli ]
+    inside: [ { name: "Trinità dei Monti", lat: 41.90629, lng: 12.48350 } ]
+    walk_min: [ 10, 12 ]
+    visit_min: [ 30, 45 ]
+    short:
+      ru: |
+        Фонтан «Баркачча», лестница и закат около 17:20 с площадки у церкви Тринита-деи-Монти наверху.
+      en: |
+        The Barcaccia fountain, the steps, and sunset around 17:20 from the terrace by Trinità dei Monti church at the top.
+    long:
+      ru: |
+        Лестницу в 135 ступеней построили в 1723–1725 годах на деньги французов, чтобы соединить их церковь **Тринита-деи-Монти** наверху с площадью внизу; «испанской» она стала по испанскому посольству при Святом престоле, которое и сейчас стоит на площади. Внизу — фонтан **«Баркачча»** в виде полузатонувшей лодки работы Пьетро Бернини, отца Джан Лоренцо: по преданию, его вдохновила лодка, которую выбросило сюда наводнение Тибра.
+
+        Что посмотреть: справа от лестницы — **дом Китса и Шелли**, где в 1821 году умер Джон Китс; уходящую от площади **Via dei Condotti** с модными домами; с верхней площадки — вид поверх крыш на купол Святого Петра.
+
+        Совет: сидеть на ступенях запрещено, за это штрафуют. Поднимайтесь наверх к закату — это лучшая точка дня. Потом спуститесь обратно к входу в метро рядом с лестницей.
+      en: |
+        The 135 steps were built in 1723–1725 with French money to link their church, **Trinità dei Monti**, at the top with the square below; they became "Spanish" after the Spanish embassy to the Holy See, which still stands on the square. At the bottom is the **Barcaccia** fountain, a half-sunken boat by Pietro Bernini, father of Gian Lorenzo — said to have been inspired by a boat washed up here by a Tiber flood.
+
+        Look to the right of the steps at the **Keats–Shelley House**, where John Keats died in 1821; down **Via dei Condotti** with its fashion houses; and from the top terrace over the rooftops to the dome of St Peter's.
+
+        Tip: sitting on the steps is banned and fined. Climb to the top for sunset — the best moment of the day. Then head back down to the metro entrance beside the steps.
+
+  - name: { en: Spagna metro station, ru: Станция метро Spagna }
+    place: "Spagna metro station, Vicolo del Bottino, Roma"
+    lat: 41.90520
+    lng: 12.48285
+    walk_min: 3
+    short:
+      ru: |
+        Финиш. Вход в Vicolo del Bottino, слева от лестницы, если стоять к ней лицом. Линия A в сторону Anagnina, пересадка на San Giovanni.
+      en: |
+        Finish. The entrance is in Vicolo del Bottino, to the left of the steps as you face them. Line A towards Anagnina, change at San Giovanni.
+    long:
+      ru: |
+        Станция Spagna открылась в 1980 году вместе с первой очередью линии A. От неё под холмом Пинчо тянутся длинные пешеходные тоннели с траволаторами к Villa Borghese — так римляне попадают в парк, не карабкаясь в гору.
+
+        Совет: вечером поезда линии A забиты — держите сумки перед собой. Приложите к турникету ту же карту, что утром, чтобы сработал дневной лимит.
+      en: |
+        Spagna station opened in 1980 with the first section of line A. Long pedestrian tunnels with moving walkways run from it under the Pincio hill to Villa Borghese — that's how Romans reach the park without the climb.
+
+        Tip: line A trains are packed in the evening — keep bags in front of you. Tap the same card you used in the morning so the daily cap applies.

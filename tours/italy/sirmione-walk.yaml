@@ -1,0 +1,229 @@
+country: { en: Italy, ru: Италия }
+city: { en: Sirmione, ru: Сирмионе }
+name: { en: "Sirmione — old town and the tip of the peninsula", ru: "Сирмионе — старый город и мыс полуострова" }
+place_suffix: Sirmione
+summary:
+  ru: "≈ 4 км пешком от парковки, 2–2,5 часа; до неё 5–10 минут на машине или 25 минут пешком от отеля"
+  en: "≈ 4 km on foot from the car park, 2–2.5 hours; 5–10 minutes' drive or a 25-minute walk from the hotel"
+intro:
+  ru: |
+    Вечерняя прогулка в день приезда, **воскресенье 1 ноября** (или ранним утром 2 ноября перед выездом). Сирмионе — городок на узком полуострове, на 4 км вдающемся в южную часть озера Гарда; старый город — на самом его конце, за замком.
+
+    Старый город — **ZTL**, въезд только для жителей и гостей отелей внутри стен. Машину оставляем на большой платной стоянке **Parcheggio Monte Baldo** (Piazzale Monte Baldo, у Viale Marconi) — около 450 мест, круглосуточно, оплата в автомате; до замка оттуда 8–10 минут пешком по набережной. Из отеля можно и пешком: по Viale Marconi вдоль озера около 25 минут до парковки, 35 — до замка.
+
+    **Внутрь памятников в эти дни не попасть.** Замок Скалигеров и Гроты Катулла — государственные музеи: в воскресенье они закрываются рано (замок около 13:30, гроты около 14:00), а по понедельникам закрыты весь день. Поэтому это прогулка «снаружи»: стены замка и ров, улочки, церковь, оливковые рощи на мысу и закат над озером. Закат 1 ноября — около 17:00; выйдите из отеля не позже 15:30, чтобы к этому времени быть у пляжа Ямайка.
+  en: |
+    An evening walk on arrival day, **Sunday 1 November** (or early on the morning of the 2nd before leaving). Sirmione sits on a narrow peninsula reaching 4 km into the southern end of Lake Garda; the old town is at the very tip, behind the castle.
+
+    The old town is a **ZTL**, open only to residents and guests of hotels inside the walls. Leave the car at the large paid **Parcheggio Monte Baldo** (Piazzale Monte Baldo, off Viale Marconi) — about 450 spaces, open 24 hours, pay at the machine; from there it's 8–10 minutes along the lakeside to the castle. You can also walk from the hotel: about 25 minutes along Viale Marconi by the lake to the car park, 35 to the castle.
+
+    **You won't get inside the monuments on these days.** The Scaliger Castle and the Grottoes of Catullus are state museums: on Sundays they close early (the castle around 13:30, the grottoes around 14:00) and on Mondays they are closed all day. So this is an outdoor walk: the castle walls and moat, the lanes, the church, the olive groves on the headland and the sunset over the lake. Sunset on 1 November is around 17:00; leave the hotel by 15:30 at the latest to be at Jamaica Beach by then.
+outro:
+  ru: |
+    **Понедельник, 2 ноября:** выезд из отеля с 08:00 до 10:00. До Милана — около 130 км по A4, 1,5–2 часа в зависимости от пробок на подъезде к городу; утром в будни у Милана бывает плотно, поэтому лучше выехать ближе к 08:30–09:00. Дальше — маршрут «Центр Милана».
+
+    Если прогулку переносите на утро понедельника: замок и гроты в этот день закрыты, но улочки и набережные пустые и тихие — красиво и без толпы.
+  en: |
+    **Monday 2 November:** hotel check-out is 08:00–10:00. Milan is about 130 km on the A4, 1.5–2 hours depending on traffic on the approach to the city; weekday mornings near Milan can be heavy, so aim to leave around 08:30–09:00. Then follow the "Milan centre" tour.
+
+    If you move the walk to Monday morning: the castle and the grottoes are closed that day, but the lanes and lakefront are empty and quiet — lovely without the crowds.
+points:
+  - name: { en: Hotel Marolda, ru: Отель Marolda }
+    place: "Hotel Marolda, Via Colombare 6, Colombare di Sirmione"
+    lat: 45.47252
+    lng: 10.60966
+    short:
+      ru: |
+        Старт. На машине 5–10 минут до Parcheggio Monte Baldo или 25 минут пешком по Viale Marconi вдоль озера.
+      en: |
+        Start. 5–10 minutes by car to Parcheggio Monte Baldo, or 25 minutes on foot along Viale Marconi by the lake.
+    long:
+      ru: |
+        Коломбаре — «новая» часть Сирмионе у основания полуострова, где живёт большинство местных и стоят отели попроще и подешевле, чем внутри стен. Отсюда полуостров тянется на север узкой полосой между двумя заливами.
+
+        Совет: если идёте пешком, обратно можно взять такси — вызов через отель. Вечером в ноябре после 18:00 темно и прохладно, возьмите тёплую куртку: у воды ветрено.
+      en: |
+        Colombare is the "new" part of Sirmione at the base of the peninsula, where most locals live and the hotels are simpler and cheaper than inside the walls. From here the peninsula runs north as a narrow strip between two bays.
+
+        Tip: if you walk in, you can take a taxi back — ask the hotel to call one. On a November evening it's dark and chilly after 18:00, so bring a warm jacket: it's windy by the water.
+
+  - name: { en: Parcheggio Monte Baldo, ru: Парковка Monte Baldo }
+    place: "Parcheggio Monte Baldo, Piazzale Monte Baldo, Sirmione"
+    lat: 45.48698
+    lng: 10.60990
+    radius_m: 200
+    walk_min: 25
+    short:
+      ru: |
+        Оставляем машину. Платно, оплата в автомате; запомните номер ряда. Дальше — пешком по набережной к замку.
+      en: |
+        Leave the car here. Paid, at the machine; note your row. From here, walk along the lakefront to the castle.
+    long:
+      ru: |
+        Крупнейшая стоянка у въезда в старый город: дальше на север машины пускают только по пропускам. Летом она заполняется к полудню, но в ноябре места есть почти всегда.
+
+        Совет: если прошли на машине мимо стоянки, не въезжайте под знак ZTL у замка — камеры фиксируют номер, и штраф придёт через прокатную компанию. Разворачивайтесь на Piazzale Monte Baldo.
+      en: |
+        The biggest car park at the entrance to the old town: further north, cars need a permit. In summer it fills up by midday, but in November there's almost always space.
+
+        Tip: if you overshoot the car park, don't drive past the ZTL sign by the castle — cameras read your plate and the fine comes through the rental company. Turn round at Piazzale Monte Baldo.
+
+  - name: { en: Scaliger Castle, ru: Замок Скалигеров }
+    place: "Rocca Scaligera, Piazza Castello, Sirmione"
+    lat: 45.49230
+    lng: 10.60850
+    radius_m: 120
+    approach: [{ name: Lungolago Diaz, lat: 45.49072, lng: 10.60765 }]
+    walk_min: [ 8, 10 ]
+    visit_min: [ 15, 20 ]
+    short:
+      ru: |
+        Замок на воде с подъёмным мостом — единственный вход в старый город. Смотрим снаружи: обходим ров и выходим к гавани-дарсене. Внутрь — только вт–сб или вс до ~13:30; по понедельникам закрыт.
+      en: |
+        A moated castle with a drawbridge — the only way into the old town. View it from outside: walk round the moat to the fortified harbour. Inside only Tue–Sat, or Sun until ~13:30; closed on Mondays.
+    long:
+      ru: |
+        **Рокка Скалигера** построили во второй половине XIII века веронские правители делла Скала, чтобы держать под контролем юг озера. Замок со всех сторон окружён водой, а в XIV веке к нему пристроили **дарсену** — укреплённую гавань для военного флота. Таких замков с собственной гаванью в Италии сохранилось совсем немного.
+
+        Что посмотреть: подъёмный мост и ворота с гербом-лестницей Скалигеров; зубцы-«ласточкины хвосты» на стенах; главную башню высотой 47 метров. Обойдите замок слева — с набережной видна дарсена с аркой в воду.
+
+        Совет: в рабочие дни подъём на стены и башню стоит своих денег — сверху видно весь полуостров. Но в эту поездку попасть внутрь не получится: в воскресенье после обеда и в понедельник замок закрыт.
+      en: |
+        The **Rocca Scaligera** was built in the second half of the 13th century by Verona's della Scala rulers to control the south of the lake. Water surrounds it on every side, and in the 14th century a **darsena** — a fortified harbour for the war fleet — was added. Very few Italian castles with their own harbour survive.
+
+        Look at the drawbridge and the gate with the Scaligeri ladder emblem, the swallowtail battlements, and the 47-metre keep. Walk round the castle to the left: from the lakefront you can see the harbour and its arch into the water.
+
+        Tip: on an ordinary day, climbing the walls and the tower is worth it for the view over the whole peninsula. This trip won't allow it, though: the castle is closed on Sunday afternoons and on Mondays.
+
+  - name: { en: Via Vittorio Emanuele, ru: Улица Виа Витторио Эмануэле }
+    place: "Via Vittorio Emanuele, Sirmione"
+    lat: 45.49334
+    lng: 10.60701
+    radius_m: 150
+    approach: [{ name: Piazza Carducci, lat: 45.49225, lng: 10.60672 }]
+    walk_min: 3
+    visit_min: [ 15, 20 ]
+    short:
+      ru: |
+        Главная улица старого города: лавки, джелатерии, кафе. Заглядываем на площадь Кардуччи у пристани.
+      en: |
+        The old town's main street: shops, gelato and cafés. Look into Piazza Carducci by the ferry pier.
+    long:
+      ru: |
+        Сразу за воротами замка начинается Via Vittorio Emanuele — узкая улица, которая ведёт через весь городок на север. Справа открывается **площадь Кардуччи** с пристанью: летом отсюда ходят катера по озеру, в ноябре — лишь несколько рейсов в день.
+
+        Поэт **Джозуэ Кардуччи**, первый итальянский нобелевский лауреат по литературе, любил Сирмионе и посвятил ему оду. Позже здесь жила Мария Каллас — её вилла стоит у восточного берега.
+
+        Совет: местная гордость — мороженое; многие джелатерии работают и в ноябре, по крайней мере в выходные. В праздник 1 ноября часть кафе может быть закрыта на сезон — не откладывайте ужин на поздний вечер.
+      en: |
+        Right past the castle gate, Via Vittorio Emanuele begins — a narrow street that runs north through the whole town. On the right opens **Piazza Carducci** with the ferry pier: in summer boats leave from here around the lake, in November only a few a day.
+
+        The poet **Giosuè Carducci**, Italy's first Nobel laureate in literature, loved Sirmione and wrote an ode to it. Later Maria Callas lived here — her villa stands near the east shore.
+
+        Tip: gelato is the local pride, and many gelaterias stay open in November, at least at weekends. On the 1 November holiday some cafés may already be closed for the season — don't leave dinner too late.
+
+  - name: { en: Santa Maria Maggiore, ru: Церковь Санта-Мария-Маджоре }
+    place: "Chiesa di Santa Maria Maggiore, Via Santa Maria Maggiore, Sirmione"
+    lat: 45.49328
+    lng: 10.60815
+    radius_m: 60
+    walk_min: 3
+    visit_min: 10
+    short:
+      ru: |
+        Небольшая церковь XV века у старой городской стены. Обратите внимание на колонну в портике — она римская.
+      en: |
+        A small 15th-century church by the old town wall. Note the column in the porch — it's Roman.
+    long:
+      ru: |
+        Приходскую церковь Сирмионе построили во второй половине XV века на месте более древней, прямо у стены, закрывавшей городок со стороны озера. Строители не стеснялись брать материал под рукой: одна из колонн портика — римская, с античной виллы на мысу.
+
+        Что посмотреть: внутри — фрески XV–XVI веков и деревянная статуя Мадонны. Снаружи, справа от церкви, — фрагмент старой стены и выход к воде.
+
+        Совет: часы работы церкви не фиксированы; если она открыта — заходите тихо, особенно в праздник, когда могут идти службы.
+      en: |
+        Sirmione's parish church was built in the second half of the 15th century on the site of an older one, right against the wall that closed the town off from the lake. The builders used what was to hand: one of the porch columns is Roman, taken from the ancient villa on the headland.
+
+        Inside are 15th–16th-century frescoes and a wooden statue of the Madonna. Outside, to the right of the church, is a stretch of the old wall and a way down to the water.
+
+        Tip: opening times aren't fixed; if it's open, go in quietly, especially on the holiday when services may be on.
+
+  - name: { en: Grottoes of Catullus, ru: Гроты Катулла }
+    place: "Grotte di Catullo, Piazzale Orti Manara 4, Sirmione"
+    lat: 45.50024
+    lng: 10.60593
+    radius_m: 250
+    approach:
+      - { name: Passeggiata delle Muse, lat: 45.49552, lng: 10.60831 }
+      - { name: Lido delle Bionde, lat: 45.49889, lng: 10.60725 }
+    walk_min: [ 15, 20 ]
+    visit_min: [ 10, 15 ]
+    short:
+      ru: |
+        По тропе Passeggiata delle Muse вдоль восточного берега — к руинам римской виллы на мысу. Сама археологическая зона в эти дни закрыта (вс до ~14:00, пн выходной) — смотрим ограду и оливковую рощу.
+      en: |
+        Along the Passeggiata delle Muse path on the east shore to the ruins of a Roman villa on the headland. The archaeological site is closed on these days (Sun until ~14:00, shut Mondays) — see the fence line and the olive grove.
+    long:
+      ru: |
+        «Гроты» — крупнейшая римская вилла Северной Италии: около двух гектаров на самом конце полуострова, конец I века до н. э. — I век н. э. Название появилось в XV веке, когда путешественники видели обрушенные, заросшие своды и принимали их за пещеры. Связь с поэтом **Катуллом**, родом из Вероны, — скорее легенда: у его семьи действительно была вилла в Сирмионе, и он писал о ней («Сирмион, жемчужина полуостровов и островов…»), но эта постройка, вероятно, позже.
+
+        По пути — **Lido delle Bionde**, маленький пляж с каменными плитами под скалой, и вид через залив на берег Венето. Вокруг виллы — **оливковая роща**: Сирмионе издавна славится маслом.
+
+        Совет: обычно вход в зону и музей по одному билету, на осмотр уходит 1–1,5 часа; в первое воскресенье месяца — бесплатно. Если вы окажетесь здесь во вторник–субботу в другой поездке, это лучшее место на полуострове.
+      en: |
+        The "Grottoes" are the largest Roman villa in northern Italy: about two hectares at the very tip of the peninsula, from the late 1st century BC to the 1st century AD. The name dates from the 15th century, when travellers saw the collapsed, overgrown vaults and took them for caves. The link to the Verona-born poet **Catullus** is more legend than fact: his family did own a villa in Sirmione and he wrote about it ("Sirmio, jewel of peninsulas and islands…"), but this building is probably later.
+
+        On the way you pass **Lido delle Bionde**, a small beach of stone slabs under the cliff, with views across the bay to the Veneto shore. Around the villa is an **olive grove** — Sirmione has always been known for its oil.
+
+        Tip: normally one ticket covers the site and the museum, and a visit takes 1–1.5 hours; it's free on the first Sunday of the month. If you're ever here Tuesday–Saturday on another trip, this is the best sight on the peninsula.
+
+  - name: { en: Jamaica Beach, ru: Пляж Ямайка }
+    place: "Jamaica Beach, Sirmione"
+    lat: 45.50250
+    lng: 10.60613
+    radius_m: 200
+    walk_min: 10
+    visit_min: [ 20, 30 ]
+    short:
+      ru: |
+        Закат над озером с белых каменных плит у подножия мыса. Тропа крутая и грунтовая, вниз ~10 минут; спускайтесь до темноты (закат ~17:00).
+      en: |
+        Sunset over the lake from white rock slabs at the foot of the headland. The path is steep and unpaved, ~10 minutes down; go before dark (sunset ~17:00).
+    long:
+      ru: |
+        Пляж назвали «Ямайкой» за бирюзовую воду и гладкие светлые плиты известняка, полого уходящие в озеро — летом по ним можно идти по колено в воде на десятки метров от берега. Над пляжем — обрыв и стены римской виллы.
+
+        Что посмотреть: закат на западе над Дезенцано и холмами Мореники; над головой — арки виллы, подсвеченные вечерним солнцем.
+
+        Совет: тропа начинается у калитки чуть раньше входа в Гроты и идёт вниз через оливковую рощу. Если калитка закрыта или уже темнеет — смотрите на пляж и закат сверху, с края рощи у Via Catullo. Нужна обувь с нескользкой подошвой: камни скользкие.
+      en: |
+        The beach is called "Jamaica" for its turquoise water and smooth pale limestone slabs that slope gently into the lake — in summer you can wade knee-deep for dozens of metres out. Above the beach rise the cliff and the walls of the Roman villa.
+
+        Watch the sunset in the west over Desenzano and the Morainic hills, with the villa's arches above you catching the evening light.
+
+        Tip: the path starts at a gate just before the Grottoes entrance and drops through the olive grove. If the gate is shut or it's getting dark, watch the beach and the sunset from above, at the edge of the grove by Via Catullo. Wear shoes with grip: the rocks are slippery.
+
+  - name: { en: Back to Parcheggio Monte Baldo, ru: Назад к парковке Monte Baldo }
+    place: "Parcheggio Monte Baldo, Piazzale Monte Baldo, Sirmione"
+    lat: 45.48698
+    lng: 10.60990
+    radius_m: 200
+    approach:
+      - { name: Via Catullo, lat: 45.49690, lng: 10.60609 }
+      - { name: Piazza Carducci, lat: 45.49225, lng: 10.60672 }
+      - { name: Lungolago Diaz, lat: 45.48992, lng: 10.60789 }
+    walk_min: [ 30, 35 ]
+    short:
+      ru: |
+        Финиш. Обратно по Via Catullo через старый город, мимо замка с вечерней подсветкой и по набережной Lungolago Diaz — к машине.
+      en: |
+        Finish. Back along Via Catullo through the old town, past the floodlit castle and along the Lungolago Diaz lakefront to the car.
+    long:
+      ru: |
+        Via Catullo идёт по хребту полуострова мимо отелей и вилл в садах; справа за деревьями — **Терме ди Сирмионе**. Горячий серный источник Бойола бьёт со дна озера; его нашли в 1889 году, вода выходит при температуре около 69 °C. Купальни работают круглый год.
+
+        Совет: вечером замок подсвечен, и вид на него с набережной у рва — лучший кадр за день. Поужинать можно в старом городе до выхода к парковке: в межсезонье кухни часто закрываются к 21:30–22:00.
+      en: |
+        Via Catullo runs along the spine of the peninsula past hotels and villas in their gardens; behind the trees on the right is the **Terme di Sirmione**. The hot sulphurous Boiola spring rises from the lake bed; it was found in 1889 and the water comes out at about 69 °C. The spa is open all year.
+
+        Tip: the castle is floodlit in the evening, and the view from the moat-side promenade is the best shot of the day. Have dinner in the old town before heading back: off-season kitchens often close by 21:30–22:00.

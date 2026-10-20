@@ -1,0 +1,436 @@
+country: {en: Italy, ru: Италия}
+city: {en: Venice, ru: Венеция}
+name: {en: "Doge's Palace, Castello and Dorsoduro", ru: "Дворец дожей, Кастелло и Дорсодуро"}
+place_suffix: Venezia
+summary:
+  ru: "≈ 7–8 км пешком, целый день с 7:30 до вечера; два вапоретто и две брони — Дворец дожей и собор"
+  en: "≈ 7–8 km on foot, a full day from 07:30 into the evening; two vaporetto rides and two bookings — the Doge's Palace and the basilica"
+intro:
+  ru: |
+    Пятница, 30 октября. Самый насыщенный день: утром — Дворец дожей и собор Святого Марка, днём — тихий Кастелло, вечером — Дорсодуро и закат на набережной Дзаттере.
+
+    **Брони — заранее, обе обязательны.**
+    - **Дворец дожей** на 9:00 — билет «Музеи площади Сан-Марко» (€35, в него входят ещё музей Коррер, Археологический музей и залы библиотеки Марчиана), на palazzoducale.visitmuve.it. До 31 октября дворец открыт с 9:00 до 19:00. Без выбранного времени входа пускают только после полудня — поэтому утренний слот обязателен.
+    - **Собор Святого Марка** — около 11:15, на tickets.basilicasanmarco.it. С июля 2025 года касс на месте нет, только онлайн; базовый билет около €10, Пала д’Оро и Музей с лоджией коней — отдельно. Опоздание допускается всего минут на пять.
+
+    **Дорога.** Выход из кемпинга около **7:30**: автобус № 6 до Пьяццале Рома, оттуда вапоретто **№ 2** до San Marco (Giardinetti), около 30 минут. Проездной на 72 часа, купленный вчера, покрывает всё.
+
+    Закат около **17:00** — к этому времени нужно быть на Дзаттере. Посещение Салюте вписано в 15:00: церковь закрыта на обед с 12:00 до 15:00.
+  en: |
+    Friday 30 October. The fullest day: the Doge's Palace and St Mark's Basilica in the morning, quiet Castello in the afternoon, Dorsoduro and sunset on the Zattere in the evening.
+
+    **Book both in advance — both are essential.**
+    - **Doge's Palace** at 09:00 — the "St Mark's Square Museums" ticket (€35, which also covers the Museo Correr, the Archaeological Museum and the Biblioteca Marciana rooms), at palazzoducale.visitmuve.it. Until 31 October the palace is open 09:00–19:00. Tickets without a chosen time slot only get in from noon, so the morning slot is a must.
+    - **St Mark's Basilica** — around 11:15, at tickets.basilicasanmarco.it. Since July 2025 there are no ticket desks on site, online only; the basic ticket is around €10, with the Pala d'Oro and the Museum with the Horses' Loggia extra. Only about five minutes' lateness is tolerated.
+
+    **Getting there.** Leave the campsite around **07:30**: bus no. 6 to Piazzale Roma, then vaporetto **no. 2** to San Marco (Giardinetti), about 30 minutes. Yesterday's 72-hour pass covers it all.
+
+    Sunset is around **17:00**, and you want to be on the Zattere by then. The Salute is slotted in at 15:00 because the church closes for lunch from 12:00 to 15:00.
+outro:
+  ru: |
+    Обратно — автобус № 6 с Пьяццале Рома до Via Paleocapa; последние рейсы — в 23:10, 23:25 и 23:50.
+
+    Завтра — острова: Бурано и, по желанию, Мурано. День начинается спокойнее, около 8:30.
+  en: |
+    Head back on bus no. 6 from Piazzale Roma to Via Paleocapa; the last departures are at 23:10, 23:25 and 23:50.
+
+    Tomorrow is the islands: Burano and, if you like, Murano. A gentler start, around 08:30.
+points:
+  - name: {en: hu Venezia camping in town, ru: Кемпинг hu Venezia camping in town}
+    place: "hu Venezia camping in town, Via Giuseppe De Marchi 7, Marghera"
+    lat: 45.47240
+    lng: 12.21200
+    radius_m: 250
+    short:
+      ru: |
+        Старт около 7:30. До остановки автобуса 12–15 минут пешком через подземный переход.
+      en: |
+        Start around 07:30. The bus stop is 12–15 minutes' walk through the underpass.
+    long:
+      ru: |
+        Путь до остановки тот же, что вчера: велодорожка вдоль Via De Marchi, подземный переход под съездом, Via della Fonte мимо спортивного центра, налево по Via Cesare Beccaria до Via Paleocapa.
+
+        Совет: проверьте, что брони на дворец и собор открываются в телефоне без интернета (сделайте скриншоты QR-кодов). Возьмите шарф или кофту, чтобы прикрыть плечи в соборе, и небольшую сумку: с рюкзаком в собор не пустят.
+      en: |
+        Same way to the stop as yesterday: the cycle path along Via De Marchi, the underpass beneath the ramp, Via della Fonte past the sports centre, then left up Via Cesare Beccaria to Via Paleocapa.
+
+        Tip: make sure the palace and basilica bookings open on your phone offline (screenshot the QR codes). Bring a scarf or cardigan to cover shoulders in the basilica, and a small bag: backpacks aren't allowed inside.
+
+  - name: {en: "Bus stop Paleocapa (line 6)", ru: "Остановка Paleocapa (автобус № 6)"}
+    place: "45.47691,12.22017"
+    lat: 45.47691
+    lng: 12.22017
+    approach:
+      - {name: Underpass, lat: 45.47117, lng: 12.21330}
+      - {name: Via della Fonte, lat: 45.47340, lng: 12.21600}
+      - {name: Via Cesare Beccaria, lat: 45.47427, lng: 12.21929}
+    walk_min: [12, 15]
+    short:
+      ru: |
+        Автобус № 6 в сторону Venezia, 10–15 минут до Пьяццале Рома. Утром в час пик автобусы полнее — заложите запас.
+      en: |
+        Bus no. 6 towards Venezia, 10–15 minutes to Piazzale Roma. Morning rush-hour buses are fuller, so allow some slack.
+    long:
+      ru: |
+        Автобусы ходят примерно каждые 20 минут. Чтобы успеть к 9:00 во Дворец дожей, нужно быть на Пьяццале Рома не позже 8:15.
+
+        Совет: если автобус задерживается, можно ехать и на любом другом в сторону Venezia — на Пьяццале Рома приходят все.
+      en: |
+        Buses run about every 20 minutes. To make the 09:00 Doge's Palace slot you need to be at Piazzale Roma by 08:15 at the latest.
+
+        Tip: if the bus is late, any other bus towards Venezia from this stop will do — they all end at Piazzale Roma.
+
+  - name: {en: "Piazzale Roma — vaporetto 2", ru: "Пьяццале Рома — вапоретто № 2"}
+    place: "Piazzale Roma, Venezia"
+    lat: 45.43801
+    lng: 12.31885
+    radius_m: 250
+    visit_min: [30, 35]
+    short:
+      ru: |
+        С причала Piazzale Roma — линия **2** до **San Marco (Giardinetti)**, около 30 минут. Если рейс № 2 заканчивается на Rialto (так бывает), пересядьте там на № 1. Резервный вариант — сразу № 1, ~45 минут.
+      en: |
+        From the Piazzale Roma pier take line **2** to **San Marco (Giardinetti)**, about 30 minutes. If the line 2 boat terminates at Rialto (some do), change to line 1 there. The fallback is line 1 all the way, ~45 minutes.
+    long:
+      ru: |
+        Линия 2 — «экспресс» по Гранд-каналу: останавливается только на главных причалах — Ferrovia, Rialto, San Tomà, Accademia, San Marco. Утром канал совсем другой, чем вечером: по нему идут грузовые лодки с продуктами, мусором и стройматериалами — вся логистика города.
+
+        Совет: от Giardinetti до входа во дворец — 5 минут пешком вдоль воды мимо Пьяцетты. Вход по билетам — через **Порта-дель-Фрументо** со стороны набережной.
+      en: |
+        Line 2 is the Grand Canal "express": it stops only at the main piers — Ferrovia, Rialto, San Tomà, Accademia, San Marco. The canal in the morning is nothing like the evening: barges carry food, rubbish and building materials — the whole logistics of the city.
+
+        Tip: from Giardinetti to the palace entrance is 5 minutes along the water past the Piazzetta. Ticket holders enter through the **Porta del Frumento** on the waterfront side.
+
+  - name: {en: "Doge's Palace", ru: Дворец дожей}
+    place: "Palazzo Ducale, Venezia"
+    lat: 45.43400
+    lng: 12.34040
+    approach: [{name: Piazzetta San Marco, lat: 45.43355, lng: 12.33985}]
+    walk_min: 5
+    visit_min: [110, 130]
+    short:
+      ru: |
+        Вход по брони в 9:00 через Порта-дель-Фрументо. Около двух часов: парадные залы, Зал Большого совета, Мост вздохов и тюрьмы.
+      en: |
+        Enter with your 09:00 booking through the Porta del Frumento. About two hours: the state rooms, the Great Council Hall, the Bridge of Sighs and the prisons.
+    long:
+      ru: |
+        Резиденция дожа и одновременно всё правительство Венецианской республики: советы, суды, канцелярия и тюрьма под одной крышей. Нынешний готический облик сложился в XIV–XV веках; розово-белый фасад с ажурными лоджиями, будто стоящий на кружеве, — уникальный венецианский стиль, перевернувший привычную логику «тяжёлый низ — лёгкий верх».
+
+        Что посмотреть: **Лестница гигантов** со статуями Марса и Нептуна работы Сансовино, на верхней площадке которой короновали дожей; **Золотая лестница**; **Зал Большого совета** — один из крупнейших залов Европы, с «Раем» Тинторетто, одним из самых больших холстов в мире, и фризом с портретами дожей, где вместо портрета Марино Фальера, казнённого за заговор в 1355 году, — чёрное покрывало. Затем — через **Мост вздохов** в Новые тюрьмы. Из тюрьмы Пьомби под крышей дворца в 1756 году бежал Казанова.
+
+        Совет: маршрут по дворцу односторонний и длинный, лестниц много; присесть можно в кафе во дворе. Отдельная экскурсия «Тайные маршруты» (кабинеты и камеры Казановы) — только по предварительной записи, и её мы не закладываем. После дворца до собора 3–5 минут.
+      en: |
+        The Doge's residence and the entire government of the Venetian Republic: councils, courts, chancery and prison under one roof. Its present Gothic form took shape in the 14th–15th centuries; the pink-and-white façade with lacy loggias that seems to rest on lace is a uniquely Venetian style that turns the usual "heavy below, light above" logic upside down.
+
+        Look for the **Giants' Staircase** with Sansovino's statues of Mars and Neptune, where doges were crowned at the top; the **Golden Staircase**; and the **Great Council Hall**, one of the largest rooms in Europe, with Tintoretto's "Paradise", among the biggest canvases in the world, and a frieze of doges' portraits where Marino Faliero, executed for conspiracy in 1355, is replaced by a black shroud. Then through the **Bridge of Sighs** to the New Prisons. Casanova escaped from the Piombi cells under the palace roof in 1756.
+
+        Tip: the route through the palace is one-way and long, with lots of stairs; there's a café in the courtyard to sit down. The separate "Secret Itineraries" tour (offices and Casanova's cell) is by advance booking only and isn't included here. From the palace to the basilica is 3–5 minutes.
+
+  - name: {en: "St Mark's Basilica", ru: Собор Святого Марка}
+    place: "Basilica di San Marco, Venezia"
+    lat: 45.43455
+    lng: 12.33982
+    walk_min: 5
+    visit_min: [40, 50]
+    short:
+      ru: |
+        Вход по брони около 11:15 с площади. Рюкзаки и большие сумки — заранее в бесплатную камеру хранения Атенео Сан-Бассо (слева от собора, до 1 часа). Плечи и колени закрыты.
+      en: |
+        Enter from the square with your ~11:15 booking. Backpacks and large bags go first to the free left-luggage at the Ateneo San Basso (left of the basilica, up to 1 hour). Shoulders and knees covered.
+    long:
+      ru: |
+        Собор построили в XI веке как дворцовую капеллу дожей для мощей евангелиста Марка: в 828 году их выкрали из Александрии венецианские купцы, по легенде спрятав под свининой, чтобы мусульманские таможенники не стали досматривать груз. Кафедральным собором города он стал только в 1807 году.
+
+        Что посмотреть: больше 8000 квадратных метров **золотых мозаик** XII–XIII веков на куполах и сводах — Пятидесятница, Вознесение, история Иосифа в атриуме; волнистый мозаичный пол, «поплывший» за века от осадки свай. За отдельный билет — **Пала д’Оро**, золотой алтарный образ с почти двумя тысячами драгоценных камней, и **Музей** с лоджией, где стоят подлинные бронзовые **кони святого Марка** — их вывезли из Константинополя в 1204 году, а Наполеон увёз в Париж (над площадью — копии).
+
+        Совет: лоджия коней — лучший вид на площадь Сан-Марко сверху, если готовы доплатить. Фотографировать внутри собора, как правило, нельзя — следите за табличками и смотрителями. Глаза привыкают к полумраку минут через пять: не торопитесь.
+      en: |
+        The basilica was built in the 11th century as the Doges' palace chapel to hold the relics of St Mark the Evangelist, stolen from Alexandria by Venetian merchants in 828 — hidden, legend says, under pork so that Muslim customs officers wouldn't search the load. It only became the city's cathedral in 1807.
+
+        Look at more than 8,000 square metres of 12th–13th-century **golden mosaics** on the domes and vaults — Pentecost, the Ascension, the story of Joseph in the atrium — and the undulating mosaic floor, warped over the centuries as the piles settled. With an extra ticket: the **Pala d'Oro**, a golden altarpiece set with almost two thousand gems, and the **Museum** with the loggia where the original bronze **Horses of St Mark** stand. They were taken from Constantinople in 1204 and carried off to Paris by Napoleon; the ones over the square are copies.
+
+        Tip: the Horses' Loggia gives the best view down onto St Mark's Square if you're willing to pay extra. Photography is generally not allowed inside, so watch the signs and the attendants. Your eyes take about five minutes to adjust to the dim light: don't rush.
+
+  - name: {en: San Zaccaria, ru: Сан-Заккария}
+    place: "Chiesa di San Zaccaria, Venezia"
+    lat: 45.43471
+    lng: 12.34357
+    walk_min: 5
+    visit_min: [15, 25]
+    short:
+      ru: |
+        Церковь открыта пн–сб 10:00–12:00 и 16:00–18:00, вход бесплатный, крипта — за пару евро. Если после собора уже за полдень, смотрим фасад; ради крипты можно забежать сюда между дворцом и собором — это 3 минуты.
+      en: |
+        Open Mon–Sat 10:00–12:00 and 16:00–18:00, free entry, the crypt costs a couple of euros. If it's past noon after the basilica, see the façade; for the crypt you can slip in between the palace and the basilica — it's 3 minutes away.
+    long:
+      ru: |
+        Один из самых богатых монастырей города: сюда отдавали дочерей знатнейшие семьи, и монахини славились светской жизнью. Дожи ежегодно приходили сюда на Пасху, а восемь из них здесь похоронены. Фасад — переход от готики к Возрождению: нижние ярусы начинал Антонио Гамбелло, а верх с полукруглым завершением закончил Мауро Кодуччи в конце XV века.
+
+        Что посмотреть: на левой стене — «Мадонна со святыми» (**Sacra Conversazione**, 1505) Джованни Беллини, одна из лучших алтарных картин Венеции. Внизу — **крипта IX–X веков**, которая часто стоит в воде: колонны отражаются в затопленном полу.
+
+        Совет: для картины Беллини держите монетку — подсветка включается за 50 центов–€1. После церкви выходите по Calle San Zaccaria прямо на набережную Рива-дельи-Скьявони.
+      en: |
+        One of the richest convents in the city: the noblest families sent their daughters here, and the nuns were famous for their social life. The doges came every Easter, and eight of them are buried here. The façade marks the move from Gothic to Renaissance: Antonio Gambello began the lower tiers, and Mauro Codussi finished the top with its rounded crown in the late 15th century.
+
+        On the left wall is Giovanni Bellini's **Sacra Conversazione** (1505), one of the finest altarpieces in Venice. Below is the **9th–10th-century crypt**, often standing in water, its columns reflected in the flooded floor.
+
+        Tip: keep a coin handy for the Bellini — the lighting costs 50 cents to €1. Afterwards take Calle San Zaccaria straight down to the Riva degli Schiavoni.
+
+  - name: {en: Riva degli Schiavoni, ru: Рива-дельи-Скьявони}
+    place: "Riva degli Schiavoni, Venezia"
+    lat: 45.43399
+    lng: 12.34482
+    radius_m: 300
+    inside:
+      - {name: Ponte della Paglia, lat: 45.43365, lng: 12.34101}
+      - {name: Chiesa della Pietà, lat: 45.43375, lng: 12.34560}
+      - {name: Campo Bandiera e Moro, lat: 45.43460, lng: 12.34665}
+    walk_min: 3
+    visit_min: [25, 35]
+    short:
+      ru: |
+        Набережная от Моста вздохов на восток. Сначала 2 минуты на запад, к мосту Палья, за видом на Мост вздохов днём, затем — вдоль воды мимо церкви Пьета до кампо Бандьера-э-Моро.
+      en: |
+        The waterfront heading east from the Bridge of Sighs. First 2 minutes west to the Ponte della Paglia for the daytime Bridge of Sighs view, then along the water past the Pietà church to Campo Bandiera e Moro.
+    long:
+      ru: |
+        «Набережная славян»: здесь швартовались торговцы из Далмации — «скьявони», как венецианцы называли славян с восточного берега Адриатики. Сегодня это самая парадная набережная города: гостиница **Даниэли** в готическом палаццо XIV века, конный памятник королю Виктору Эммануилу II и вид через бассейн на остров Сан-Джорджо-Маджоре с церковью Палладио.
+
+        Что посмотреть: церковь **Пьета** — при ней был сиротский приют, где больше тридцати лет преподавал музыку Антонио Вивальди; его девичий оркестр был знаменит на всю Европу. Чуть дальше, на тихом **кампо Бандьера-э-Моро**, — церковь Сан-Джованни-ин-Брагора, где Вивальди крестили в 1678 году.
+
+        Совет: на набережной много уличных торговцев и зазывал — держите сумки ближе. Хорошее место для перекуса и кофе — в переулках за кампо Бандьера-э-Моро, а не на самой Рива.
+      en: |
+        The "Quay of the Slavs": merchants from Dalmatia moored here — the "schiavoni", as Venetians called the Slavs from the eastern Adriatic shore. Today it's the city's grandest waterfront: the **Danieli** hotel in a 14th-century Gothic palace, the equestrian monument to King Victor Emmanuel II, and the view across the basin to San Giorgio Maggiore with Palladio's church.
+
+        Look at the **Pietà** church: its orphanage is where Antonio Vivaldi taught music for over thirty years, and his all-girl orchestra was famous across Europe. A little further, on quiet **Campo Bandiera e Moro**, is San Giovanni in Bragora, where Vivaldi was baptised in 1678.
+
+        Tip: the quay has plenty of street sellers and touts, so keep your bags close. For a snack and coffee, try the alleys behind Campo Bandiera e Moro rather than the Riva itself.
+
+  - name: {en: Arsenale gate, ru: Ворота Арсенала}
+    place: "Campo de l'Arsenal, Venezia"
+    lat: 45.43470
+    lng: 12.34975
+    approach: [{name: Fondamenta de Fazza l'Arsenal, lat: 45.43481, lng: 12.34940}]
+    walk_min: [5, 7]
+    visit_min: [10, 15]
+    short:
+      ru: |
+        Парадные ворота Порта-Магна и каменные львы у входа на верфь республики. Территория — военная и выставочная, снаружи смотрим бесплатно.
+      en: |
+        The Porta Magna gateway and the stone lions outside the Republic's shipyard. The grounds are naval and exhibition space; the outside is free to see.
+    long:
+      ru: |
+        **Арсенал** — государственная верфь Венеции, основанная в XII веке, сердце её морской мощи. В лучшие времена здесь работали до 16 тысяч «арсеналотти», а конвейерный метод позволял собрать галеру за один день. Данте описал кипящую смолу Арсенала в XXI песни «Ада».
+
+        Что посмотреть: **Порта-Магна** 1460 года — одно из первых ренессансных сооружений города, в виде триумфальной арки. Перед ней — львы, привезённые из Греции в 1687 году; на левом, самом большом льве из Пирея — **руны**, процарапанные, как считается, скандинавскими наёмниками в XI веке. Рядом — две башни над водными воротами, через которые корабли выходили в лагуну.
+
+        Совет: в 2026 году павильоны Арсенала занимает Биеннале современного искусства (до конца ноября) — если интересно, это отдельный билет и минимум 2–3 часа, так что лучше в другой раз.
+      en: |
+        The **Arsenale** was Venice's state shipyard, founded in the 12th century and the heart of its naval power. At its height up to 16,000 "arsenalotti" worked here, and an assembly-line method could finish a galley in a single day. Dante described the boiling pitch of the Arsenale in Canto XXI of the Inferno.
+
+        Look at the **Porta Magna** of 1460, one of the first Renaissance structures in the city, shaped like a triumphal arch. In front are lions brought from Greece in 1687; the large one on the left, from Piraeus, bears **runes** said to have been scratched by Scandinavian mercenaries in the 11th century. Beside it are the two towers over the water gate through which ships left for the lagoon.
+
+        Tip: in 2026 the Arsenale halls host the Art Biennale (until late November); it's a separate ticket and at least 2–3 hours, so save it for another trip.
+
+  - name: {en: Via Garibaldi, ru: Виа Гарибальди}
+    place: "Via Giuseppe Garibaldi, Venezia"
+    lat: 45.43226
+    lng: 12.35312
+    radius_m: 200
+    approach: [{name: Fondamenta de l'Arsenal, lat: 45.43395, lng: 12.35010}]
+    walk_min: [7, 10]
+    visit_min: [60, 75]
+    short:
+      ru: |
+        Самая широкая улица Венеции и самая «местная»: рынок, бельё над головой, бары для своих. Здесь — обед.
+      en: |
+        The widest street in Venice and the most local: a market, washing overhead, bars for regulars. Lunch here.
+    long:
+      ru: |
+        Улица — засыпанный в 1807 году по приказу Наполеона канал; отсюда её ширина, редкая для Венеции. Кастелло — район моряков и рабочих Арсенала, и Виа Гарибальди сохранила этот характер: утром здесь фруктовые лотки и рыбная лавка, днём старики на скамейках, в барах говорят на венецианском диалекте.
+
+        Что посмотреть: в начале улицы, на одном из домов — доска в память о мореплавателях **Джованни и Себастьяно Каботах**, которые жили здесь; Джованни (Джон Кабот) в 1497 году под английским флагом доплыл до Северной Америки. В конце улицы — памятник Гарибальди и вход в **сады Наполеона** (Giardini), разбитые на месте снесённых монастырей.
+
+        Совет: для обеда выбирайте траттории и бакари с меню на итальянском, где сидят местные; цены здесь заметно ниже, чем у Сан-Марко. От конца улицы до причала Giardini — 5 минут через сады.
+      en: |
+        The street is a canal filled in by Napoleon's order in 1807, hence a width rare in Venice. Castello was the district of sailors and Arsenale workers, and Via Garibaldi keeps that character: fruit stalls and a fishmonger in the morning, old men on benches in the afternoon, Venetian dialect in the bars.
+
+        At the start of the street, on one of the houses, is a plaque to the navigators **John and Sebastian Cabot**, who lived here; John Cabot reached North America under the English flag in 1497. At the far end are a Garibaldi monument and the entrance to the **Giardini**, Napoleon's public gardens laid out on the site of demolished convents.
+
+        Tip: for lunch pick trattorias and bacari with Italian menus where locals sit; prices are noticeably lower than around St Mark's. From the end of the street to the Giardini pier is 5 minutes through the gardens.
+
+  - name: {en: "Giardini — vaporetto 1 to the Salute", ru: "Джардини — вапоретто № 1 до Салюте"}
+    place: "45.42975,12.35503"
+    lat: 45.42975
+    lng: 12.35503
+    walk_min: 5
+    visit_min: [12, 15]
+    short:
+      ru: |
+        Причал Giardini. Линия **1 в сторону Piazzale Roma** до остановки **Salute** — четыре остановки, около 12–15 минут. Рассчитайте выезд так, чтобы приплыть к 15:00.
+      en: |
+        The Giardini pier. Take **line 1 towards Piazzale Roma** to **Salute** — four stops, about 12–15 minutes. Time it to arrive around 15:00.
+    long:
+      ru: |
+        Катер идёт вдоль Рива-дельи-Скьявони, мимо Дворца дожей и Пьяцетты, и пересекает устье Гранд-канала — с воды виден весь парадный фасад Венеции, которым город встречал послов и купцов.
+
+        Совет: на остановке Salute выходите на стороне Дорсодуро — до ступеней церкви буквально минута.
+      en: |
+        The boat runs along the Riva degli Schiavoni past the Doge's Palace and the Piazzetta and crosses the mouth of the Grand Canal: from the water you see the whole ceremonial front of Venice, the face the city showed to ambassadors and merchants.
+
+        Tip: at the Salute stop you land on the Dorsoduro side; the church steps are about a minute away.
+
+  - name: {en: Santa Maria della Salute, ru: Санта-Мария-делла-Салюте}
+    place: "Basilica di Santa Maria della Salute, Venezia"
+    lat: 45.43057
+    lng: 12.33473
+    walk_min: 2
+    visit_min: [20, 30]
+    short:
+      ru: |
+        Открыта ежедневно 9:30–12:00 и 15:00–17:30, вход в храм бесплатный. Ризница с Тицианом и Тинторетто — около €4, с 15:00 до 17:00.
+      en: |
+        Open daily 09:30–12:00 and 15:00–17:30, free entry to the church. The sacristy with Titian and Tintoretto costs about €4, 15:00–17:00.
+    long:
+      ru: |
+        Венецианский сенат дал обет построить эту церковь в 1630 году, во время чумы, унёсшей почти треть жителей города. Проект молодого Бальдассаре Лонгены строили больше полувека, до 1687 года; по преданию, под ней больше миллиона деревянных свай. Огромные волюты-«улитки» вокруг купола стали силуэтом, по которому Венецию узнают издалека.
+
+        Что посмотреть: восьмиугольный зал, где пол из цветного мрамора сходится к центру концентрическими кругами; главный алтарь со скульптурой «Венеция на коленях перед Мадонной, изгоняющей чуму». В **ризнице** — «Брак в Кане Галилейской» Тинторетто и несколько полотен Тициана.
+
+        Совет: каждый год 21 ноября на праздник Мадонны делла Салюте через Гранд-канал наводят понтонный мост, и весь город идёт сюда ставить свечи. Со ступеней церкви — прекрасный вид на Гранд-канал и причалы Сан-Марко.
+      en: |
+        The Venetian Senate vowed to build this church in 1630, during a plague that killed nearly a third of the city. Young Baldassare Longhena's design took more than half a century to build, until 1687; tradition says over a million wooden piles lie beneath it. The huge scroll buttresses round the dome became the silhouette that identifies Venice from afar.
+
+        Look at the octagonal hall, where the coloured marble floor converges in concentric rings, and the high altar with its sculpture of Venice kneeling before the Virgin as she drives out the plague. In the **sacristy** are Tintoretto's "Marriage at Cana" and several paintings by Titian.
+
+        Tip: every year on 21 November, the feast of the Madonna della Salute, a pontoon bridge is laid across the Grand Canal and the whole city comes here to light candles. The church steps give a lovely view of the Grand Canal and the San Marco piers.
+
+  - name: {en: Punta della Dogana, ru: Пунта-делла-Догана}
+    place: "Punta della Dogana, Venezia"
+    lat: 45.43095
+    lng: 12.33709
+    walk_min: 3
+    visit_min: [15, 20]
+    short:
+      ru: |
+        Мыс между Гранд-каналом и каналом Джудекка — одна из лучших бесплатных смотровых точек города. Музей современного искусства внутри — по желанию, отдельный билет.
+      en: |
+        The tip between the Grand Canal and the Giudecca Canal, one of the best free viewpoints in the city. The contemporary art museum inside is optional, separate ticket.
+    long:
+      ru: |
+        Здесь была морская таможня: каждый корабль, входивший в город, разгружался и платил пошлины. Нынешнее здание построено в 1677–1682 годах по проекту Джузеппе Беноне. Над башней два атланта держат золотой шар, а на нём стоит фигура Фортуны, которая поворачивается по ветру: удача Венеции зависела от моря и ветров.
+
+        В 2009 году склады переделал японский архитектор **Тадао Андо** для коллекции современного искусства Франсуа Пино, сохранив кирпичные стены и деревянные фермы.
+
+        Совет: встаньте на самом краю мыса — с одной стороны площадь Сан-Марко и Дворец дожей, прямо — Сан-Джорджо-Маджоре, справа — остров Джудекка. Отсюда идите вдоль воды на запад, по набережной Дзаттере.
+      en: |
+        This was the sea customs house: every ship entering the city unloaded and paid duty here. The present building dates from 1677–1682, designed by Giuseppe Benoni. Above the tower two Atlases hold a golden globe topped by a figure of Fortune that turns with the wind: Venice's luck depended on the sea and the winds.
+
+        In 2009 the Japanese architect **Tadao Ando** converted the warehouses for François Pinault's contemporary art collection, keeping the brick walls and timber trusses.
+
+        Tip: stand at the very tip: St Mark's Square and the Doge's Palace on one side, San Giorgio Maggiore straight ahead, Giudecca island to the right. From here walk west along the water onto the Zattere.
+
+  - name: {en: The Zattere at sunset, ru: Набережная Дзаттере на закате}
+    place: "Fondamenta Zattere ai Gesuati, Venezia"
+    lat: 45.42908
+    lng: 12.32802
+    radius_m: 300
+    approach: [{name: Fondamenta Zattere ai Saloni, lat: 45.42857, lng: 12.33298}]
+    inside:
+      - {name: Chiesa dei Gesuati, lat: 45.42954, lng: 12.32733}
+      - {name: Squero di San Trovaso, lat: 45.43034, lng: 12.32586}
+    walk_min: [10, 15]
+    visit_min: [40, 50]
+    short:
+      ru: |
+        Длинная солнечная набережная вдоль канала Джудекка. Закат около 17:00 — солнце садится за Джудекку и порт. Затем — к гондольной мастерской Сан-Тровазо.
+      en: |
+        A long sunny quay along the Giudecca Canal. Sunset is around 17:00, behind Giudecca and the port. Then on to the San Trovaso gondola yard.
+    long:
+      ru: |
+        «Дзаттере» значит «плоты»: сюда сплавляли лес с материка, и на этих брёвнах, по сути, стоит весь город. Набережная тянется почти на два километра и смотрит на юг, поэтому здесь всегда светлее и теплее, чем в узких улочках, — любимое место венецианцев для вечерней прогулки.
+
+        Что посмотреть: напротив, на Джудекке, — церковь **Иль-Реденторе** Палладио (1577–1592), построенная в благодарность за избавление от другой чумы. Справа по ходу — церковь **Джезуати** (XVIII век) с плафонами Тьеполо. В конце — **скверо Сан-Тровазо** на одноимённом канале: одна из старейших действующих мастерских, где строят и чинят гондолы, в деревянном доме в стиле альпийских шале — мастера приходили из горного Кадоре. Лучше всего она видна с противоположной набережной.
+
+        Совет: возьмите «джандуйотто» в **Gelateria Nico** — брикет шоколадно-орехового мороженого в сливках; это местная классика. Вечером с канала тянет холодом — пригодится тёплая кофта.
+      en: |
+        "Zattere" means "rafts": timber was floated here from the mainland, and the whole city effectively stands on those logs. The quay runs for almost two kilometres and faces south, so it's always brighter and warmer than the narrow alleys, a favourite Venetian spot for an evening stroll.
+
+        Opposite, on Giudecca, is Palladio's **Il Redentore** (1577–1592), built in thanks for deliverance from another plague. On your right as you walk is the 18th-century **Gesuati** church with ceilings by Tiepolo. At the end is the **Squero di San Trovaso** on the canal of the same name: one of the oldest working yards where gondolas are built and repaired, in a wooden house like an Alpine chalet — the craftsmen came from the mountains of Cadore. You see it best from the opposite bank.
+
+        Tip: get a "gianduiotto" at **Gelateria Nico** — a slab of chocolate-hazelnut ice cream drowned in whipped cream, a local classic. The canal gets chilly in the evening, so a warm layer helps.
+
+  - name: {en: Accademia Bridge, ru: Мост Академии}
+    place: "Ponte dell'Accademia, Venezia"
+    lat: 45.43168
+    lng: 12.32895
+    approach: ["Rio Terà Antonio Foscarini"]
+    walk_min: [7, 10]
+    visit_min: 10
+    short:
+      ru: |
+        Подъём на деревянный мост в синий час, около 17:15–17:40: самый известный вид Гранд-канала — на купол Салюте и устье канала.
+      en: |
+        Climb the wooden bridge in the blue hour, around 17:15–17:40: the most famous Grand Canal view, towards the Salute dome and the mouth of the canal.
+    long:
+      ru: |
+        Первый мост здесь, железный, построили австрийцы в 1854 году; в 1933-м его заменили «временным» деревянным мостом инженера Эудженио Мьоцци — венецианцы его так полюбили, что в 1985–1986 годах восстановили в том же виде, лишь усилив стальным каркасом. Это один из четырёх мостов через Гранд-канал.
+
+        Что посмотреть: на восток — купол Салюте, палаццо по обоим берегам и вдали — бассейн Сан-Марко; на запад — изгиб канала к Ка-Фоскари. У подножия моста со стороны Дорсодуро — **Галерея Академии**, главное собрание венецианской живописи от Беллини до Тьеполо.
+
+        Совет: перила моста увешаны замками, но вешать их запрещено — штраф. Лучшее фото — с верхней точки моста, держась у левых перил (если стоять лицом к Салюте).
+      en: |
+        The first bridge here, an iron one, was built by the Austrians in 1854; in 1933 it was replaced by a "temporary" wooden bridge by the engineer Eugenio Miozzi, which Venetians loved so much that in 1985–1986 it was rebuilt in the same form, just reinforced with a steel frame. It's one of the four bridges over the Grand Canal.
+
+        To the east: the Salute dome, palaces along both banks and the St Mark's Basin in the distance; to the west: the bend of the canal towards Ca' Foscari. At the Dorsoduro foot of the bridge is the **Gallerie dell'Accademia**, the main collection of Venetian painting from Bellini to Tiepolo.
+
+        Tip: the railings are covered in padlocks, but attaching them is banned and fined. The best photo is from the top of the bridge, by the left-hand railing when you face the Salute.
+
+  - name: {en: Dinner by the San Barnaba canal, ru: Ужин у канала Сан-Барнаба}
+    place: "Ponte dei Pugni, Venezia"
+    lat: 45.43316
+    lng: 12.32435
+    approach: [{name: Campo San Barnaba, lat: 45.43304, lng: 12.32498}]
+    walk_min: [7, 10]
+    visit_min: [75, 90]
+    short:
+      ru: |
+        Ужин у воды: остерии и бакари вдоль канала Сан-Барнаба у моста Пуньи. Если хочется видеть широкую воду — вернитесь на Дзаттере, там рестораны с отапливаемыми террасами на понтонах.
+      en: |
+        Dinner by the water: osterias and bacari along the San Barnaba canal by the Ponte dei Pugni. If you'd rather look out over open water, go back to the Zattere, where restaurants have heated terraces on pontoons.
+    long:
+      ru: |
+        **Мост Пуньи** («мост кулаков») — место знаменитых драк между двумя враждующими кланами простонародья, кастеллани и николотти: стенка на стенку, и проигравших сбрасывали в канал. Тогда у моста не было перил. Драки запретили в 1705 году, но на ступенях до сих пор видны четыре мраморных отпечатка ступней — стартовые позиции бойцов.
+
+        Что посмотреть: у моста по утрам стоит **плавучая овощная лавка** на барже — одна из последних в городе. На **кампо Сан-Барнаба** — церковь, где снимали сцены фильма «Индиана Джонс и последний крестовый поход» (там она «библиотека»).
+
+        Совет: столики у воды на набережной заняты быстро — в пятницу вечером лучше забронировать. Если хочется оживлённее и дешевле, в 3 минутах — кампо Санта-Маргерита, студенческая площадь с барами.
+      en: |
+        The **Ponte dei Pugni** ("bridge of fists") was the scene of famous brawls between two rival working-class factions, the Castellani and the Nicolotti: mass fist fights, with the losers thrown into the canal — the bridge had no railings then. The fights were banned in 1705, but four marble footprints on the steps still mark the fighters' starting positions.
+
+        In the mornings a **floating greengrocer's** barge moors by the bridge, one of the last in the city. On **Campo San Barnaba** stands the church used in "Indiana Jones and the Last Crusade" (as the "library").
+
+        Tip: the waterside tables fill fast, so book for Friday evening. For something livelier and cheaper, Campo Santa Margherita, the student square full of bars, is 3 minutes away.
+
+  - name: {en: Piazzale Roma, ru: Пьяццале Рома}
+    place: "Piazzale Roma, Venezia"
+    lat: 45.43801
+    lng: 12.31885
+    radius_m: 250
+    approach: [{name: Campo Santa Margherita, lat: 45.43431, lng: 12.32345}]
+    walk_min: [15, 20]
+    short:
+      ru: |
+        Финиш. Через кампо Санта-Маргерита к Пьяццале Рома; автобус № 6 до Via Paleocapa, последние рейсы — 23:10, 23:25, 23:50.
+      en: |
+        Finish. Through Campo Santa Margherita to Piazzale Roma; bus no. 6 to Via Paleocapa, last departures 23:10, 23:25, 23:50.
+    long:
+      ru: |
+        **Кампо Санта-Маргерита** — вытянутая площадь в сердце Дорсодуро, где по вечерам собираются студенты университета Ка-Фоскари. Днём здесь рыбный лоток и овощной рынок, вечером — бары с недорогим спритцем. Посередине стоит отдельное здание Скуолы деи Варотери — гильдии скорняков.
+
+        Совет: путь до Пьяццале Рома отмечен указателями на стенах; идти около 10–12 минут от площади.
+      en: |
+        **Campo Santa Margherita** is a long square in the heart of Dorsoduro where students from Ca' Foscari gather in the evenings. By day there's a fish stall and a produce market; at night, bars with cheap spritz. In the middle stands the free-standing Scuola dei Varoteri, the furriers' guild hall.
+
+        Tip: the way to Piazzale Roma is signposted on the walls; it's about 10–12 minutes from the square.
