@@ -13,7 +13,7 @@ intro:
 
     Дресс-код и в музеях, и в соборе: **закрытые плечи и колени**, без шорт и маек — охрана разворачивает прямо на входе. Большие рюкзаки, штативы и зонты-трости не пускают.
 
-    Дорога: от Пиньето линия C до **San Giovanni** (2 остановки), пересадка на линию A в сторону Battistini и 9 остановок до **Ottaviano**. Всего около 40 минут плюс 10–15 минут пешком до площади Святого Петра — выходите из дома около **8:00**. Оплата — Tap & Go, каждый своей картой; пересадка на San Giovanni входит в тот же билет.
+    Дорога: от Пиньето линия C до **San Giovanni** (2 остановки), пересадка на линию A в сторону Battistini и 9 остановок до **Ottaviano**. Всего около 40 минут плюс 10–15 минут пешком до площади Святого Петра — выходите из дома в **7:45**. Оплата — Tap & Go, каждый своей картой; пересадка на San Giovanni входит в тот же билет.
   en: |
     Monday 26 October. This is the longest day of the trip: St Peter's in the morning while the security queue is short, the Vatican Museums' 7 kilometres of galleries at midday, and a walk across the historic centre in the evening. Sunset is around **17:10**.
 
@@ -21,7 +21,7 @@ intro:
 
     Dress code in both the museums and the basilica: **shoulders and knees covered**, no shorts or vest tops — the guards turn people away at the door. Large backpacks, tripods and long umbrellas aren't allowed.
 
-    Getting there: from Pigneto take line C to **San Giovanni** (2 stops), change to line A towards Battistini and ride 9 stops to **Ottaviano**. About 40 minutes in all, plus 10–15 minutes' walk to St Peter's Square — leave home around **8:00**. Pay with Tap & Go, each with your own card; the change at San Giovanni is part of the same fare.
+    Getting there: from Pigneto take line C to **San Giovanni** (2 stops), change to line A towards Battistini and ride 9 stops to **Ottaviano**. About 40 minutes in all, plus 10–15 minutes' walk to St Peter's Square — leave home at **07:45**. Pay with Tap & Go, each with your own card; the change at San Giovanni is part of the same fare.
 outro:
   ru: |
     Домой: от станции **Colosseo – Fori Imperiali** линия C прямо до **Pigneto**, 4 остановки, около 10 минут, и 5 минут пешком до Via Adriano Balbi. Без пересадок — после такого дня это важно.
@@ -42,16 +42,16 @@ points:
     lng: 12.53165
     short:
       ru: |
-        Старт около 8:00. Проверьте одежду (плечи и колени закрыты) и паспорта — без них билеты в музеи не выдадут.
+        Старт в 7:45. Проверьте одежду (плечи и колени закрыты) и паспорта — без них билеты в музеи не выдадут.
       en: |
-        Start around 8:00. Check clothing (shoulders and knees covered) and passports — the museum tickets won't be handed over without them.
+        Start at 07:45. Check clothing (shoulders and knees covered) and passports — the museum tickets won't be handed over without them.
     long:
       ru: |
-        Позавтракайте плотно: до раннего обеда будет собор и полтора-два часа на ногах. Возьмите лёгкую кофту или шарф — им можно прикрыть плечи, если в соборе к одежде придерутся.
+        Позавтракайте плотно: обеда сегодня не будет, а впереди купол и собор — возьмите воду и перекус. Возьмите лёгкую кофту или шарф — им можно прикрыть плечи, если в соборе к одежде придерутся.
 
         Совет: возьмите маленькую сумку вместо рюкзака — на досмотре в музеях и в соборе с ней проще.
       en: |
-        Have a proper breakfast: there's the basilica and an hour and a half on your feet before an early lunch. Bring a light top or scarf to cover shoulders if the basilica guards object to anything.
+        Have a proper breakfast: there's no lunch break today, and the dome and the basilica come first — bring water and a snack. Bring a light top or scarf to cover shoulders if the basilica guards object to anything.
 
         Tip: take a small bag rather than a backpack — it makes both security checks easier.
 
@@ -104,49 +104,49 @@ points:
     visit_min: [ 60, 90 ]
     short:
       ru: |
-        Около 8:45: досмотр под правой колоннадой (утром очередь короткая) и собор. Вход бесплатный. Уходите не позже 11:00. Подробная прогулка с фото и аудиогидом на русском — [«Собор Святого Петра подробно»](#/tour/italy/03-rome-st-peters/1).
+        Около 8:15: досмотр под правой колоннадой, сразу купол (на лифте на крышу, вершина — по желанию), затем собор. Вход в собор бесплатный. Уходите не позже 11:45. Подробная прогулка с фото и аудиогидом на русском — [«Собор Святого Петра подробно»](#/tour/italy/03-rome-st-peters/1).
       en: |
-        Around 8:45: the security check under the right-hand colonnade (short in the morning) and the basilica. Free entry. Leave by 11:00 at the latest. For a detailed walk with photos and Russian audio, see [St Peter's Basilica in detail](#/tour/italy/03-rome-st-peters/1).
+        Around 08:15: the security check under the right-hand colonnade, straight up the dome (lift to the roof, the top optional), then the basilica. The basilica is free. Leave by 11:45 at the latest. For a detailed walk with photos and Russian audio, see [St Peter's Basilica in detail](#/tour/italy/03-rome-st-peters/1).
     long:
       ru: |
         Собор стоит над могилой апостола Петра, распятого, по преданию, в цирке Нерона рядом. Первую базилику построил император Константин в IV веке; нынешнюю возводили 120 лет, с 1506 по 1626 год, и над ней работали Браманте, Рафаэль, Микеланджело и Мадерно. Купол Микеланджело высотой 136 метров до сих пор определяет силуэт Рима. Площадь с колоннадами Бернини — «объятия Церкви», распахнутые к миру.
 
         Что посмотреть: **«Пьету» Микеланджело** справа от входа — он вырезал её в 24 года, и это единственная работа, которую он подписал; бронзовый **балдахин Бернини** над главным алтарём; бронзовую статую **святого Петра** со стёртой поцелуями паломников ступнёй. На площади встаньте на диск между обелиском и фонтаном — четыре ряда колонн сольются в один.
 
-        Совет: подъём на купол (551 ступень или лифт плюс 320) займёт ещё час — успеете, только если пройдёте досмотр до 9:00; иначе пропустите его, впереди три часа музеев. Если очередь на досмотр к 9:00 длиннее 45 минут, не ждите: собор открыт до 18:30–19:00, загляните в него после музеев, а прогулку по центру вечером сократите.
+        Совет: на купол — вдвоём на лифте до крыши и галереи внутри купола; 320 ступеней на вершину — по желанию, одному, пока мама ждёт на крыше. Если очередь на досмотр к 9:00 длиннее 45 минут, не ждите: собор открыт до 18:30–19:00, загляните в него после музеев, а прогулку по центру вечером сократите.
       en: |
         The basilica stands over the tomb of St Peter, said to have been crucified in Nero's circus next door. Emperor Constantine built the first basilica in the 4th century; the present one took 120 years, 1506 to 1626, with Bramante, Raphael, Michelangelo and Maderno all working on it. Michelangelo's 136-metre dome still defines Rome's skyline. Bernini's colonnaded square is the "arms of the Church" opened out to the world.
 
         Look at **Michelangelo's Pietà** to the right of the entrance — carved when he was 24, and the only work he ever signed; **Bernini's bronze baldachin** over the high altar; and the bronze **St Peter** with a foot worn smooth by pilgrims' kisses. In the square, stand on the disc between the obelisk and a fountain and the four rows of columns line up into one.
 
-        Tip: climbing the dome (551 steps, or a lift plus 320) takes another hour — only worth it if you're through security by 9:00; otherwise skip it, there are three hours of museums ahead. If the security queue at 9:00 is longer than 45 minutes, don't wait: the basilica is open until 18:30–19:00, so go in after the museums and shorten the evening walk instead.
+        Tip: take the dome lift together to the roof and the gallery inside the dome; the 320 steps to the top are optional and solo, while Mum waits on the roof. If the security queue at 9:00 is longer than 45 minutes, don't wait: the basilica is open until 18:30–19:00, so go in after the museums and shorten the evening walk instead.
 
-  - name: { en: "Lunch and ticket pick-up, Via Germanico 40", ru: "Обед и билеты, Via Germanico, 40" }
+  - name: { en: "Ticket pick-up, Via Germanico 40", ru: "Билеты, Via Germanico, 40" }
     place: "Via Germanico 40, 00192 Roma"
     lat: 41.90820
     lng: 12.45950
     radius_m: 100
     approach: [ Via di Borgo Pio, Via di Porta Angelica ]
     walk_min: [ 10, 15 ]
-    visit_min: [ 60, 75 ]
+    visit_min: [ 10, 20 ]
     short:
       ru: |
-        Ранний обед в Борго-Пио или Прати, затем к **12:05** — в офис посредника на Via Germanico, 40: паспорта, получить билеты. Оттуда ~5 минут пешком ко входу в музеи.
+        Через Борго-Пио к **12:05** — в офис посредника на Via Germanico, 40: паспорта, получить билеты. Оттуда ~5 минут пешком ко входу в музеи.
       en: |
-        Early lunch in Borgo Pio or Prati, then be at the reseller's office at Via Germanico 40 by **12:05**: passports out, collect the tickets. The museum entrance is ~5 minutes' walk from there.
+        Through Borgo Pio to the reseller's office at Via Germanico 40 by **12:05**: passports out, collect the tickets. The museum entrance is ~5 minutes' walk from there.
     long:
       ru: |
         **Борго** — средневековый квартал между собором и замком Святого Ангела, где веками жили паломники и папская прислуга; **Via di Borgo Pio** — его пешеходная улица с тратториями. **Прати** за стеной — спокойный район конца XIX века, где обедают служащие, а не туристы.
 
         Что посмотреть по пути: стену с **Passetto di Borgo** — крытым коридором, по которому папы бежали в замок, — она идёт вдоль Борго-Пио.
 
-        Совет: в музеях кафе есть, но в очереди к ним не стоит терять время — плотно поешьте здесь, около 11:00, пока в тратториях свободно. Офис выдаёт билеты и объясняет дорогу, но дальше вы идёте одни, без сопровождающего.
+        Совет: если захочется перекусить на ходу — пицца на вынос (pizza al taglio) в Прати готовится за пару минут; в музеях тоже есть кафе. Офис выдаёт билеты и объясняет дорогу, но дальше вы идёте одни, без сопровождающего.
       en: |
         The **Borgo** is the medieval quarter between the basilica and Castel Sant'Angelo, home for centuries to pilgrims and papal servants; **Via di Borgo Pio** is its pedestrian street of trattorias. **Prati**, beyond the wall, is a calm late-19th-century district where office workers, not tourists, have lunch.
 
         On the way, look at the wall carrying the **Passetto di Borgo**, the covered walkway the popes fled along to the castle — it runs beside Borgo Pio.
 
-        Tip: the museums have cafés, but don't lose time queuing for them — eat properly here around 11:00, while the trattorias are quiet. The office hands over the tickets and explains the way, but from there you walk on your own, with no escort.
+        Tip: if you want a bite on the move, pizza by the slice (pizza al taglio) in Prati takes a couple of minutes; the museums have cafés too. The office hands over the tickets and explains the way, but from there you walk on your own, with no escort.
 
   - name: { en: Vatican Museums & Sistine Chapel, ru: Ватиканские музеи и Сикстинская капелла }
     place: "Musei Vaticani entrance, Viale Vaticano, Roma"
@@ -157,9 +157,9 @@ points:
     visit_min: [ 150, 180 ]
     short:
       ru: |
-        Вход в 12:30, время может сдвинуться на полчаса; досмотр обязателен даже с приоритетным билетом. Минимум 2,5–3 часа; Сикстинская капелла — в конце, там тишина и без фото.
+        Вход в 12:30, время может сдвинуться на полчаса; досмотр обязателен даже с приоритетным билетом. Минимум 2,5–3 часа; Сикстинская капелла — в конце, там тишина и без фото. Подробный маршрут с фото и аудиогидом — [«Ватиканские музеи подробно»](#/tour/italy/03-rome-vatican-museums/1).
       en: |
-        Entry at 12:30; the time can slip by half an hour, and the security check applies even to priority tickets. Allow at least 2.5–3 hours; the Sistine Chapel comes at the end, with silence and no photos.
+        Entry at 12:30; the time can slip by half an hour, and the security check applies even to priority tickets. Allow at least 2.5–3 hours; the Sistine Chapel comes at the end, with silence and no photos. For the detailed route with photos and Russian audio, see [Vatican Museums in detail](#/tour/italy/03-rome-vatican-museums/1).
     long:
       ru: |
         Одно из крупнейших собраний искусства в мире выросло из коллекции античных статуй папы Юлия II, выставленной в 1506 году в Бельведерском дворе. За пять веков папы собрали египетские мумии, этрусские бронзы, греческие скульптуры, гобелены, карты и живопись — всего около 20 тысяч предметов в экспозиции.
