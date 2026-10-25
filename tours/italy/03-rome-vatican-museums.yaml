@@ -1,0 +1,512 @@
+country: { en: Italy, ru: Италия }
+city: { en: Rome, ru: Рим }
+name: { en: "Mon 26 Oct · Vatican Museums and the Sistine Chapel in detail", ru: "Пн, 26 окт · Ватиканские музеи и Сикстинская капелла подробно" }
+place_suffix: Roma
+summary:
+  ru: "≈ 2,5 км по залам, 2,5–3 часа; вход в 12:30. Аудиогид на русском в каждой точке"
+  en: "≈ 2.5 km of galleries, 2.5–3 hours; entry at 12:30. Russian audio at every stop"
+intro:
+  ru: |
+    Подробная прогулка по Ватиканским музеям — дневная часть дня «Ватикан, Тибр и барочный Рим». Маршрут идёт по главному пути музеев, от входа до Сикстинской капеллы: античная скульптура, галереи, станцы Рафаэля и капелла Микеланджело. У каждой точки есть **аудиорассказ на русском** — откройте точку и нажмите ▶; наушники обязательны.
+
+    **Билеты.** Получите их к **12:05** в офисе на Via Germanico, 40 (с паспортами), оттуда 5 минут пешком ко входу на Viale Vaticano. Вход в **12:30**, время может сдвинуться на полчаса; досмотр обязателен.
+
+    **Порядок.** В музеях одностороннее движение и указатели «Cappella Sistina» — держитесь их. Музеи огромные, 7 километров залов: не пытайтесь увидеть всё. Пинакотека в начале — по желанию, на неё нужно 20–30 минут.
+
+    **Правила.** Плечи и колени закрыты. Большие рюкзаки и зонты-трости сдают в гардероб у входа (бесплатно), забирают там же на выходе. Фотографировать можно везде без вспышки, **кроме Сикстинской капеллы**: там нельзя ни фото, ни громких разговоров. Туалеты и кафе — у входа, у Пинакотеки и у двора Пинии; ближе к капелле их почти нет.
+
+    **Если устанут ноги.** В гардеробе у входа бесплатно выдают инвалидные коляски — без брони, пока есть; уточните на месте. По маршруту есть лифты, а в Сикстинской капелле вдоль стен стоят скамьи. Садитесь при каждой возможности — впереди ещё вечерняя прогулка.
+
+    *Фото: Wikimedia Commons, авторы и лицензии — под каждым снимком.*
+  en: |
+    A detailed walk through the Vatican Museums — the afternoon part of "The Vatican, the Tiber and baroque Rome". It follows the main route from the entrance to the Sistine Chapel: ancient sculpture, the long galleries, Raphael's Rooms and Michelangelo's chapel. Every stop has a **Russian audio narration** — open the stop and press ▶ (English listeners can read the text); bring earphones.
+
+    **Tickets.** Collect them by **12:05** at the office on Via Germanico 40 (with passports); the Viale Vaticano entrance is 5 minutes' walk from there. Entry is at **12:30**, possibly up to half an hour later; there's a security check.
+
+    **The route.** The museums are one-way, with "Cappella Sistina" signs all the way — follow them. There are 7 kilometres of galleries, so don't try to see everything. The Pinacoteca at the start is optional and needs 20–30 minutes.
+
+    **Rules.** Shoulders and knees covered. Large backpacks and long umbrellas go to the cloakroom by the entrance (free) and are collected there on the way out. Photos without flash are fine everywhere **except the Sistine Chapel**: no photos and no loud talking there. Toilets and cafés are at the entrance, by the Pinacoteca and by the Pine Cone Courtyard; there are hardly any nearer the chapel.
+
+    **If legs get tired.** The cloakroom by the entrance lends wheelchairs free of charge — no booking, while they last; check on the spot. There are lifts along the route, and benches line the walls of the Sistine Chapel. Sit down whenever you can — there's still the evening walk ahead.
+
+    *Photos: Wikimedia Commons; authors and licences under each picture.*
+outro:
+  ru: |
+    Выход — по спиральной лестнице к Viale Vaticano. Дальше по плану дня — [замок Святого Ангела](#/tour/italy/03-rome-vatican/7): около 20 минут пешком по Via Crescenzio.
+  en: |
+    The way out is down the spiral staircase to Viale Vaticano. Next in the day plan: [Castel Sant'Angelo](#/tour/italy/03-rome-vatican/7), about 20 minutes' walk along Via Crescenzio.
+points:
+  - name: { en: Museum entrance, ru: Вход в музеи }
+    place: "Musei Vaticani, Viale Vaticano, Roma"
+    lat: 41.90660
+    lng: 12.45370
+    radius_m: 60
+    audio: { ru: audio/italy/03-rome-vatican-museums/01.mp3 }
+    short:
+      ru: |
+        Вход на Viale Vaticano, вдоль высокой ватиканской стены. Досмотр, сканирование билетов, гардероб — и эскалатор наверх.
+      en: |
+        The entrance is on Viale Vaticano, along the high Vatican wall. Security, ticket scan, cloakroom — then the escalator up.
+    long:
+      ru: |
+        Ватиканские музеи начались в 1506 году, когда папа Юлий II выставил в своём саду несколько античных статуй, — среди них был «Лаокоон», которого вы скоро увидите. За пять веков папы собрали одну из крупнейших коллекций в мире: около 70 тысяч предметов, из которых выставлено около 20 тысяч, в 54 залах и галереях. Ежедневно сюда приходит до 25–30 тысяч человек.
+
+        Нынешний вход построили к Юбилею 2000 года. Рядом — старый парадный вход 1932 года со статуями Микеланджело и Рафаэля над аркой: те двое, кого вы сегодня будете встречать чаще всех.
+
+        Что сделать: после досмотра — сдайте большие сумки в гардероб, посетите туалет и выпейте воды. Дальше эскалатор поднимает на верхний уровень, к развилке: направо Пинакотека, прямо — двор Пинии и основной маршрут.
+
+        Совет: запомните, что выход будет здесь же, через спиральную лестницу, — гардероб по пути.
+      en: |
+        The Vatican Museums began in 1506, when Pope Julius II put a few ancient statues on show in his garden — among them the Laocoön, which you'll see shortly. Over five centuries the popes built one of the largest collections in the world: some 70,000 objects, about 20,000 on display, in 54 rooms and galleries. Up to 25–30,000 people come every day.
+
+        The present entrance was built for the Jubilee of 2000. Next to it is the old ceremonial entrance of 1932, with statues of Michelangelo and Raphael above the arch — the two men you'll meet most often today.
+
+        After security, leave large bags in the cloakroom, use the toilets and drink some water. The escalator takes you up to a fork: right for the Pinacoteca, straight on for the Pine Cone Courtyard and the main route.
+
+        Tip: remember that the exit is here too, down the spiral staircase, past the cloakroom.
+
+  - name: { en: "Pinacoteca — optional", ru: "Пинакотека — по желанию" }
+    place: "Pinacoteca Vaticana, Città del Vaticano"
+    lat: 41.90579
+    lng: 12.45278
+    radius_m: 40
+    walk_min: 5
+    visit_min: [ 20, 30 ]
+    audio: { ru: audio/italy/03-rome-vatican-museums/02.mp3 }
+    short:
+      ru: |
+        Картинная галерея направо от развилки. Если времени мало, идите только в зал VIII — к Рафаэлю, — и возвращайтесь.
+      en: |
+        The picture gallery, right at the fork. If time is short, go only to Room VIII — Raphael — and come back.
+    long:
+      ru: |
+        ![«Преображение» Рафаэля](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Transfiguration_Raphael.jpg/960px-Transfiguration_Raphael.jpg)
+        *Фото: общественное достояние*
+
+        Пинакотека — это живопись от средневековых икон до XIX века, восемнадцать залов. Главное сокровище — **зал VIII**, зал Рафаэля. В центре — «**Преображение**», его последняя картина: Рафаэль умер в 1520 году в 37 лет, не успев её закончить, и картину поставили у его гроба. Вверху Христос возносится в сиянии, внизу апостолы не могут исцелить одержимого мальчика — свет и тьма, вера и бессилие в одной композиции. Рядом — гобелены по картонам Рафаэля, сотканные для Сикстинской капеллы.
+
+        Что ещё посмотреть, если есть время: «**Святой Иероним**» Леонардо да Винчи — неоконченный, с проступающим рисунком; «**Положение во гроб**» Караваджо, где фигуры будто выходят из картины к зрителю.
+
+        Совет: Пинакотека в стороне от основного потока, в ней тише. Но если к 13:00 вы ещё не у двора Пинии, лучше идти дальше: главное впереди.
+      en: |
+        ![Raphael's Transfiguration](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Transfiguration_Raphael.jpg/960px-Transfiguration_Raphael.jpg)
+        *Photo: public domain*
+
+        The Pinacoteca is painting from medieval icons to the 19th century, in eighteen rooms. Its treasure is **Room VIII**, the Raphael room. In the middle is the **Transfiguration**, his last painting: Raphael died in 1520, aged 37, before finishing it, and it was placed by his coffin. Above, Christ rises in light; below, the apostles fail to heal a possessed boy — light and darkness, faith and helplessness in one picture. Around it hang tapestries woven from Raphael's cartoons for the Sistine Chapel.
+
+        If there's time, look for Leonardo da Vinci's unfinished **St Jerome**, with the drawing showing through, and Caravaggio's **Entombment**, whose figures seem to step out of the frame towards you.
+
+        Tip: the Pinacoteca is off the main flow and quieter. But if you're not at the Pine Cone Courtyard by 13:00, move on — the highlights are ahead.
+
+  - name: { en: The Pine Cone Courtyard, ru: Двор Пинии }
+    place: "Cortile della Pigna, Città del Vaticano"
+    lat: 41.90600
+    lng: 12.45455
+    radius_m: 60
+    walk_min: 5
+    visit_min: 10
+    audio: { ru: audio/italy/03-rome-vatican-museums/03.mp3 }
+    short:
+      ru: |
+        Большой двор под открытым небом с огромной бронзовой шишкой в нише. Глоток воздуха перед залами.
+      en: |
+        A big open-air courtyard with a giant bronze pine cone in a niche. A breath of air before the galleries.
+    long:
+      ru: |
+        ![Двор Пинии](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Cortile_della_Pigna_%28Vatican_Museums%29_September_2015-1.jpg/960px-Cortile_della_Pigna_%28Vatican_Museums%29_September_2015-1.jpg)
+        *Фото: Alvesgaspar, CC BY-SA 4.0*
+
+        Бронзовая **шишка пинии** высотой почти четыре метра — древнеримский фонтан I–II века: вода била из отверстий в чешуйках. Сначала она стояла возле Пантеона — по ней до сих пор называется римский квартал Пинья, — в Средние века её перенесли во двор старой базилики Святого Петра, а сюда — в 1608 году. Её видел Данте и сравнил с ней лицо великана в «Аде». По бокам — бронзовые павлины, символ бессмертия, — копии тех, что стояли у гробницы Адриана.
+
+        Двор — часть огромного **Бельведерского двора**, который Браманте в начале XVI века задумал как сад-театр, соединяющий папский дворец с летней виллой Бельведер. Позже его перегородили зданиями библиотеки, и вышло три двора.
+
+        Что посмотреть: в центре — бронзовый «**Шар в шаре**» Арнальдо Помодоро, 1990 год: под блестящей оболочкой видна «треснувшая» сложная механика — образ хрупкого мира.
+
+        Совет: здесь есть кафе и туалеты — последние перед долгим отрезком до капеллы.
+      en: |
+        ![The Pine Cone Courtyard](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Cortile_della_Pigna_%28Vatican_Museums%29_September_2015-1.jpg/960px-Cortile_della_Pigna_%28Vatican_Museums%29_September_2015-1.jpg)
+        *Photo: Alvesgaspar, CC BY-SA 4.0*
+
+        The bronze **pine cone**, almost four metres tall, is a Roman fountain of the 1st or 2nd century — water spouted from holes in its scales. It first stood near the Pantheon — Rome's Pigna district is still named after it — in the Middle Ages it was moved to the forecourt of old St Peter's, and it came here in 1608. Dante saw it and compared a giant's face to it in the Inferno. The bronze peacocks on either side, symbols of immortality, are copies of those that stood by Hadrian's tomb.
+
+        The courtyard is part of the vast **Belvedere Courtyard**, which Bramante designed in the early 16th century as a garden-theatre linking the papal palace to the Belvedere summer villa. Library wings were later built across it, splitting it into three.
+
+        In the middle is Arnaldo Pomodoro's bronze **Sphere within Sphere** of 1990: under the shiny shell a "cracked" inner mechanism shows through — an image of a fragile world.
+
+        Tip: there's a café and toilets here — the last before the long stretch to the chapel.
+
+  - name: { en: The Octagonal Court, ru: Восьмиугольный двор }
+    place: "Cortile Ottagono, Musei Vaticani, Città del Vaticano"
+    lat: 41.90646
+    lng: 12.45472
+    radius_m: 30
+    walk_min: 3
+    visit_min: [ 15, 20 ]
+    audio: { ru: audio/italy/03-rome-vatican-museums/04.mp3 }
+    short:
+      ru: |
+        Маленький двор-галерея с апельсиновыми деревьями. В угловых нишах — «Лаокоон», «Аполлон Бельведерский» и «Персей» Кановы.
+      en: |
+        A small courtyard gallery with orange trees. In the corner niches: the Laocoön, the Apollo Belvedere and Canova's Perseus.
+    long:
+      ru: |
+        ![«Лаокоон»](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Laoco%C3%B6n_and_his_sons_group.jpg/960px-Laoco%C3%B6n_and_his_sons_group.jpg)
+        *Фото: Wilfredor, CC0*
+
+        Это колыбель Ватиканских музеев: здесь, во дворе виллы Бельведер, Юлий II выставил первые статуи.
+
+        **«Лаокоон и его сыновья»** нашли 14 января 1506 года в винограднике на Эсквилинском холме. Папа сразу послал туда архитектора Джулиано да Сангалло, а с ним пришёл и Микеланджело — они узнали статую по описанию Плиния Старшего, который называл её лучшим произведением искусства в мире. Троянский жрец Лаокоон предупреждал не ввозить в город деревянного коня — и боги наслали змей, задушивших его и сыновей. Правую руку Лаокоона нашли только в 1906 году в лавке римского каменотёса: она оказалась согнутой, а не вытянутой вверх, как в реставрациях, и в 1957 году её вернули на место.
+
+        **«Аполлон Бельведерский»** — римская копия II века с бронзового оригинала IV века до н. э. Три столетия он считался образцом идеальной мужской красоты. Наполеон увёз его в Париж, и пока его не было, папа купил для этой ниши «**Персея**» Антонио Кановы — сегодня они стоят рядом.
+
+        Совет: «Лаокоона» стоит обойти — сбоку видно, как змеиные кольца связывают три фигуры в одну спираль.
+      en: |
+        ![The Laocoön](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Laoco%C3%B6n_and_his_sons_group.jpg/960px-Laoco%C3%B6n_and_his_sons_group.jpg)
+        *Photo: Wilfredor, CC0*
+
+        This is where the Vatican Museums were born: Julius II put the first statues on show here, in the courtyard of the Belvedere villa.
+
+        **Laocoön and His Sons** was dug up on 14 January 1506 in a vineyard on the Esquiline Hill. The pope sent the architect Giuliano da Sangallo at once, and Michelangelo went with him — they recognised the statue from Pliny the Elder, who called it the finest work of art in the world. The Trojan priest Laocoön warned against bringing the wooden horse into the city, and the gods sent serpents to strangle him and his sons. Laocoön's right arm turned up only in 1906, in a Roman stonemason's shop: it was bent, not stretched upwards as the restorers had made it, and it was put back in 1957.
+
+        The **Apollo Belvedere** is a 2nd-century Roman copy of a 4th-century BC bronze. For three centuries it was the model of ideal male beauty. Napoleon carried it off to Paris, and while it was gone the pope bought Antonio Canova's **Perseus** for its niche — today they stand side by side.
+
+        Tip: walk round the Laocoön — from the side you can see how the coils bind the three figures into one spiral.
+
+  - name: { en: The Belvedere Torso, ru: Бельведерский торс }
+    place: "Sala delle Muse, Musei Vaticani, Città del Vaticano"
+    lat: 41.90660
+    lng: 12.45505
+    radius_m: 25
+    walk_min: 2
+    visit_min: 5
+    audio: { ru: audio/italy/03-rome-vatican-museums/05.mp3 }
+    short:
+      ru: |
+        Зал Муз: в центре — мраморный торс без рук, ног и головы. Им восхищался Микеланджело.
+      en: |
+        The Hall of the Muses: in the middle, a marble torso without arms, legs or head. Michelangelo admired it.
+    long:
+      ru: |
+        ![Бельведерский торс](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Belvedere_Torso_Musei_Vaticani_%28cropped%29.jpg/960px-Belvedere_Torso_Musei_Vaticani_%28cropped%29.jpg)
+        *Фото: Emiliovillegas24, CC BY-SA 3.0*
+
+        На скале под фигурой подпись греческого скульптора: «Аполлоний, сын Нестора, афинянин», I век до н. э. Кого он изображает, спорят до сих пор; одна из версий — героя Аякса, решающегося на самоубийство после Троянской войны.
+
+        Микеланджело изучал этот торс часами. По преданию, папа попросил его «дополнить» статую руками и головой, и мастер отказался: она и так совершенна. Посмотрите на мощную, скрученную спину — а потом найдите те же мышцы на потолке Сикстинской капеллы, в фигурах обнажённых юношей и в Христе «Страшного суда». Торс стал для Микеланджело учебником анатомии.
+
+        Что посмотреть вокруг: сам зал Муз — статуи девяти муз и Аполлона, найденные на вилле под Тиволи, и потолок с фресками на ту же тему.
+
+        Совет: обойдите торс сзади — спина выразительнее, чем вид спереди.
+      en: |
+        ![The Belvedere Torso](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Belvedere_Torso_Musei_Vaticani_%28cropped%29.jpg/960px-Belvedere_Torso_Musei_Vaticani_%28cropped%29.jpg)
+        *Photo: Emiliovillegas24, CC BY-SA 3.0*
+
+        The rock under the figure carries the Greek sculptor's signature: "Apollonios, son of Nestor, Athenian", 1st century BC. Who it shows is still debated; one theory is the hero Ajax, contemplating suicide after the Trojan War.
+
+        Michelangelo studied this torso for hours. The story goes that the pope asked him to "complete" it with arms and a head, and he refused: it was perfect as it was. Look at the powerful, twisting back — then find the same muscles on the Sistine ceiling, in the nude youths and in the Christ of the Last Judgement. The torso was Michelangelo's anatomy textbook.
+
+        Look around the Hall of the Muses itself: statues of the nine Muses and Apollo found at a villa near Tivoli, and a ceiling frescoed on the same theme.
+
+        Tip: walk round to the back — it's more expressive than the front.
+
+  - name: { en: The Round Room, ru: Круглый зал }
+    place: "Sala Rotonda, Musei Vaticani, Città del Vaticano"
+    lat: 41.90672
+    lng: 12.45528
+    radius_m: 25
+    walk_min: 1
+    visit_min: [ 5, 10 ]
+    audio: { ru: audio/italy/03-rome-vatican-museums/06.mp3 }
+    short:
+      ru: |
+        «Маленький Пантеон» с купольным залом, огромной порфировой чашей в центре и позолоченным Гераклом.
+      en: |
+        A "little Pantheon" under a dome, with a huge porphyry basin in the middle and a gilded Hercules.
+    long:
+      ru: |
+        ![Круглый зал](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sala_Rotonda_%28Vatican_Museums%29_September_2015-1.jpg/960px-Sala_Rotonda_%28Vatican_Museums%29_September_2015-1.jpg)
+        *Фото: Alvesgaspar, CC BY-SA 4.0*
+
+        Зал построил архитектор Микеланджело Симонетти в 1779 году по образцу Пантеона: купол с кессонами и окно-окулус наверху, только в уменьшенном виде.
+
+        В центре — **порфировая чаша** диаметром больше четырёх метров, вырезанная из одного куска красного порфира. Этот камень добывали только в одной каменоломне в египетской пустыне, и в Риме он был цветом императоров. Чашу нашли в XVIII веке; по одной из версий, она украшала Золотой дом Нерона.
+
+        Что посмотреть: под ногами — римская **мозаика III века** из терм в Отриколи: битва греков с кентаврами и морские чудища. В нише — позолоченная бронзовая статуя **Геракла** почти четырёх метров. Её нашли в 1864 году: в древности в неё ударила молния, и римляне по обычаю закопали статую на месте, обложив плитами с надписью «FCS» — «здесь погребена молния».
+
+        Совет: встаньте у чаши и поднимите голову — свет из окулуса падает так же, как в настоящем Пантеоне, который вы увидите сегодня вечером.
+      en: |
+        ![The Round Room](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sala_Rotonda_%28Vatican_Museums%29_September_2015-1.jpg/960px-Sala_Rotonda_%28Vatican_Museums%29_September_2015-1.jpg)
+        *Photo: Alvesgaspar, CC BY-SA 4.0*
+
+        The architect Michelangelo Simonetti built the room in 1779 on the model of the Pantheon: a coffered dome with an oculus at the top, just smaller.
+
+        In the middle is a **porphyry basin** more than four metres across, carved from a single block of red porphyry. This stone came from just one quarry in the Egyptian desert, and in Rome it was the colour of emperors. The basin was found in the 18th century; one theory says it adorned Nero's Golden House.
+
+        Look down at the 3rd-century Roman **mosaic** from the baths at Otricoli: Greeks fighting centaurs, and sea monsters. In a niche stands a gilded bronze **Hercules** almost four metres tall. It was found in 1864: lightning had struck it in antiquity, and by custom the Romans buried it where it stood, covered with slabs marked "FCS" — "lightning buried here".
+
+        Tip: stand by the basin and look up — the light from the oculus falls just as it does in the real Pantheon, which you'll see this evening.
+
+  - name: { en: The Greek Cross Room, ru: Зал Греческого креста }
+    place: "Sala a Croce Greca, Musei Vaticani, Città del Vaticano"
+    lat: 41.90655
+    lng: 12.45545
+    radius_m: 25
+    walk_min: 1
+    visit_min: 5
+    audio: { ru: audio/italy/03-rome-vatican-museums/07.mp3 }
+    short:
+      ru: |
+        Два огромных порфировых саркофага: матери и дочери императора Константина. Отсюда лестница ведёт наверх, к галереям.
+      en: |
+        Two huge porphyry sarcophagi, of Emperor Constantine's mother and daughter. From here the stairs lead up to the galleries.
+    long:
+      ru: |
+        ![Саркофаг святой Елены](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/0_Sarcofago_di_Helena_-_Museo_Pio-Clementino_-_Vatican_%282a%29.JPG/960px-0_Sarcofago_di_Helena_-_Museo_Pio-Clementino_-_Vatican_%282a%29.JPG)
+        *Фото: Jean-Pol Grandmont, CC BY-SA 3.0*
+
+        Это самые большие порфировые саркофаги, дошедшие от античности, — по нескольку тонн твёрдого как гранит камня.
+
+        Слева от входа — саркофаг **святой Елены**, матери Константина Великого, которая, по преданию, нашла в Иерусалиме Крест Господень. На нём римские всадники побеждают варваров — странная тема для христианской святой: вероятно, саркофаг делали для мужчины — самого Константина или его отца — и лишь потом отдали Елене.
+
+        Справа — саркофаг **Констанции**, дочери Константина: на нём амуры собирают и давят виноград. Виноград здесь — уже христианский символ, вино Евхаристии, но язык образов ещё языческий. Это время, когда Рим только становился христианским.
+
+        Совет: дальше маршрут поднимается по лестнице Симонетти на верхний этаж — это начало длинного коридора галерей, почти полкилометра до станц Рафаэля.
+      en: |
+        ![The sarcophagus of St Helena](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/0_Sarcofago_di_Helena_-_Museo_Pio-Clementino_-_Vatican_%282a%29.JPG/960px-0_Sarcofago_di_Helena_-_Museo_Pio-Clementino_-_Vatican_%282a%29.JPG)
+        *Photo: Jean-Pol Grandmont, CC BY-SA 3.0*
+
+        These are the largest porphyry sarcophagi to survive from antiquity — several tonnes each of stone as hard as granite.
+
+        Left of the entrance is the sarcophagus of **St Helena**, mother of Constantine the Great, who tradition says found the True Cross in Jerusalem. On it Roman horsemen defeat barbarians — an odd theme for a Christian saint: it was probably made for a man, Constantine himself or his father, and only later given to Helena.
+
+        On the right is the sarcophagus of **Constantina**, Constantine's daughter: cupids harvest and press grapes. The grapes are already a Christian symbol, the wine of the Eucharist, but the imagery is still pagan. This is Rome in the middle of becoming Christian.
+
+        Tip: from here the route climbs the Simonetti staircase to the upper floor — the start of the long run of galleries, almost half a kilometre to Raphael's Rooms.
+
+  - name: { en: Gallery of the Candelabra, ru: Галерея канделябров }
+    place: "Galleria dei Candelabri, Musei Vaticani, Città del Vaticano"
+    lat: 41.90580
+    lng: 12.45417
+    radius_m: 40
+    walk_min: 3
+    visit_min: [ 5, 10 ]
+    audio: { ru: audio/italy/03-rome-vatican-museums/08.mp3 }
+    short:
+      ru: |
+        Длинная галерея, разделённая арками; между ними — античные мраморные светильники. Поток людей здесь плотный, идите в общем темпе.
+      en: |
+        A long gallery divided by arches, with ancient marble lamp stands between them. The crowd is thick here — move with the flow.
+    long:
+      ru: |
+        ![Галерея канделябров](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Galleria_dei_Candelabri_-_panoramio.jpg/960px-Galleria_dei_Candelabri_-_panoramio.jpg)
+        *Фото: Maaike Hage, CC BY-SA 3.0*
+
+        Галерею длиной около 80 метров назвали по огромным мраморным **канделябрам** II века, стоящим в проёмах арок: в древности на них ставили светильники в храмах и виллах. Между ними — античные статуи и саркофаги.
+
+        Потолок расписали только в 1883–1887 годах при папе Льве XIII. Посмотрите вверх: художники нарисовали ложные рамы, лепнину и тени так, что плоский свод кажется объёмным.
+
+        Что посмотреть: статую **Артемиды Эфесской** со множеством «грудей» на груди — по одной версии, это символ плодородия, по другой — бычьи семенники, которые приносили ей в жертву; маленькие статуи детей, играющих с гусями.
+
+        Совет: в этих галереях окна выходят на Ватиканские сады — гляньте наружу, это единственная возможность увидеть их без отдельной экскурсии.
+      en: |
+        ![Gallery of the Candelabra](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Galleria_dei_Candelabri_-_panoramio.jpg/960px-Galleria_dei_Candelabri_-_panoramio.jpg)
+        *Photo: Maaike Hage, CC BY-SA 3.0*
+
+        The gallery, about 80 metres long, is named after the huge 2nd-century marble **candelabra** standing in the arches: in antiquity lamps were set on them in temples and villas. Between them are ancient statues and sarcophagi.
+
+        The ceiling was painted only in 1883–1887, under Pope Leo XIII. Look up: the painters faked frames, stucco and shadows so the flat vault seems three-dimensional.
+
+        Look for **Artemis of Ephesus** with her many "breasts" — a fertility symbol, or by another theory the bull's testicles offered to her in sacrifice — and small statues of children playing with geese.
+
+        Tip: the windows of these galleries look out over the Vatican Gardens — glance outside; it's the only way to see them without a separate tour.
+
+  - name: { en: Gallery of Tapestries, ru: Галерея гобеленов }
+    place: "Galleria degli Arazzi, Musei Vaticani, Città del Vaticano"
+    lat: 41.90510
+    lng: 12.45418
+    radius_m: 40
+    walk_min: 2
+    visit_min: [ 5, 10 ]
+    audio: { ru: audio/italy/03-rome-vatican-museums/09.mp3 }
+    short:
+      ru: |
+        Слева — фламандские гобелены по эскизам учеников Рафаэля. Найдите «Воскресение» и пройдите мимо него, глядя Христу в глаза.
+      en: |
+        On the left, Flemish tapestries designed by Raphael's pupils. Find the Resurrection and walk past it looking Christ in the eye.
+    long:
+      ru: |
+        ![«Воскресение», гобелен](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/La_Resurrezione%2C_workshop_of_Pieter_van_Aelst%2C_1525_-_1531.jpg/960px-La_Resurrezione%2C_workshop_of_Pieter_van_Aelst%2C_1525_-_1531.jpg)
+        *Фото: общественное достояние*
+
+        Гобелены соткали в 1520-х годах в Брюсселе, в мастерской Питера ван Алста, по картонам учеников Рафаэля — так называемой «Новой школы». Это сцены из жизни Христа: каждая ткалась годами, а нити с золотом и шёлком стоили дороже фресок.
+
+        Найдите **«Воскресение»**. Христос выходит из гроба и смотрит прямо на вас. Идите вдоль гобелена — его взгляд будет следовать за вами, а угол саркофага словно поворачивается вместе с вами. Это не случайность, а точный расчёт перспективы.
+
+        Что посмотреть: напротив гобеленов, на правой стене, — сцены из жизни папы Урбана VIII; на потолке — ещё один пример расписной «лепнины».
+
+        Совет: гобелены выцветают от света, поэтому в галерее полумрак и шторы на окнах. Вспышку здесь использовать нельзя.
+      en: |
+        ![The Resurrection tapestry](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/La_Resurrezione%2C_workshop_of_Pieter_van_Aelst%2C_1525_-_1531.jpg/960px-La_Resurrezione%2C_workshop_of_Pieter_van_Aelst%2C_1525_-_1531.jpg)
+        *Photo: public domain*
+
+        The tapestries were woven in the 1520s in Brussels, in the workshop of Pieter van Aelst, from cartoons by Raphael's pupils, the "New School". They show scenes from the life of Christ: each took years to weave, and with gold and silk thread they cost more than frescoes.
+
+        Find the **Resurrection**. Christ steps out of the tomb looking straight at you. Walk along the tapestry — his gaze follows you, and the corner of the sarcophagus seems to turn with you. That's no accident but precise perspective.
+
+        Across the gallery, on the right wall, are scenes from the life of Pope Urban VIII; the ceiling is another piece of painted "stucco".
+
+        Tip: tapestries fade in light, so the gallery is dim with blinds on the windows. No flash here.
+
+  - name: { en: Gallery of Maps, ru: Галерея географических карт }
+    place: "Galleria delle Carte Geografiche, Musei Vaticani, Città del Vaticano"
+    lat: 41.90440
+    lng: 12.45421
+    radius_m: 60
+    walk_min: 2
+    visit_min: [ 10, 15 ]
+    audio: { ru: audio/italy/03-rome-vatican-museums/10.mp3 }
+    short:
+      ru: |
+        120-метровый коридор под золотым сводом, по стенам — 40 огромных карт Италии. Один из самых красивых залов музеев.
+      en: |
+        A 120-metre corridor under a golden vault, its walls lined with 40 huge maps of Italy. One of the most beautiful rooms in the museums.
+    long:
+      ru: |
+        ![Галерея географических карт](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Galleria_delle_carte_geografiche_%28Vatican_Museums%29_September_2015-1a.jpg/960px-Galleria_delle_carte_geografiche_%28Vatican_Museums%29_September_2015-1a.jpg)
+        *Фото: Alvesgaspar, CC BY-SA 4.0*
+
+        Галерею расписали в 1580–1583 годах для папы Григория XIII — того самого, что ввёл григорианский календарь. Карты рисовали по эскизам доминиканца Иньяцио Данти, математика и географа. Это самый большой в мире «атлас» на стенах: сорок фресок, каждая — отдельный регион Италии.
+
+        Галерея устроена как путешествие по полуострову вдоль хребта Апеннин: по одной стене — земли, которые омывает Тирренское море, по другой — Адриатическое. Идите по коридору — и вы как бы движетесь с севера на юг. В торцах — большие планы портов: Генуи, Венеции, Анконы, Чивитавеккьи.
+
+        Что найти: карты регионов, где вы уже были в этой поездке, — **Эмилию с Болоньей** и окрестности Рима, а в торце галереи — план **Венеции**, куда вы приедете в четверг. На картах нарисованы корабли, морские чудища и сцены сражений.
+
+        Совет: не забудьте посмотреть вверх: сводчатый потолок в золочёной лепнине — одно из лучших мест для фото в музеях.
+      en: |
+        ![Gallery of Maps](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Galleria_delle_carte_geografiche_%28Vatican_Museums%29_September_2015-1a.jpg/960px-Galleria_delle_carte_geografiche_%28Vatican_Museums%29_September_2015-1a.jpg)
+        *Photo: Alvesgaspar, CC BY-SA 4.0*
+
+        The gallery was painted in 1580–1583 for Pope Gregory XIII — the pope who gave us the Gregorian calendar. The maps follow designs by the Dominican mathematician and geographer Ignazio Danti. It's the largest "atlas" on walls anywhere: forty frescoes, each a region of Italy.
+
+        The gallery is laid out as a journey down the peninsula along the Apennines: one wall shows the lands on the Tyrrhenian Sea, the other those on the Adriatic. Walk along it and you travel from north to south. At the ends are big plans of ports: Genoa, Venice, Ancona, Civitavecchia.
+
+        Look for the regions you've already been through on this trip — **Emilia with Bologna** and the country round Rome — and the plan of **Venice** at the end, where you'll be on Thursday. The maps are full of ships, sea monsters and battle scenes.
+
+        Tip: don't forget to look up: the gilded, stuccoed vault is one of the best photo spots in the museums.
+
+  - name: { en: Raphael's Rooms, ru: Станцы Рафаэля }
+    place: "Stanze di Raffaello, Musei Vaticani, Città del Vaticano"
+    lat: 41.90330
+    lng: 12.45454
+    radius_m: 40
+    walk_min: 5
+    visit_min: [ 25, 35 ]
+    audio: { ru: audio/italy/03-rome-vatican-museums/11.mp3 }
+    short:
+      ru: |
+        Четыре зала-апартамента папы Юлия II, расписанные Рафаэлем. Главная фреска — «Афинская школа» в третьем зале. Не спешите здесь.
+      en: |
+        Four rooms of Pope Julius II's apartments, painted by Raphael. The masterpiece is the School of Athens in the third room. Take your time here.
+    long:
+      ru: |
+        ![«Афинская школа»](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/960px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg)
+        *Фото: общественное достояние*
+
+        В 1508 году Юлий II не захотел жить в покоях своего предшественника Борджиа и поручил расписать новые комнаты 25-летнему Рафаэлю. Тот работал здесь до самой смерти в 1520 году, а последний зал заканчивали ученики. Маршрут проходит залы в обратном порядке, от поздних к ранним.
+
+        **Зал Константина** — самый большой, с битвой у Мильвийского моста: победа Константина, сделавшая Рим христианским. **Зал Илиодора** — найдите «**Освобождение апостола Петра**» над окном: ночная сцена, где свет исходит от ангела, — одна из первых «ночных» фресок в истории.
+
+        **Зал Подписи** был библиотекой папы. Здесь «**Афинская школа**»: все великие мыслители античности под сводами храма. В центре — **Платон**, указывающий на небо, с лицом Леонардо да Винчи, и **Аристотель**, обращающий ладонь к земле. Задумчивый человек на ступенях, облокотившийся на мраморный блок, — **Гераклит** с чертами Микеланджело: Рафаэль добавил его, когда увидел первую часть потолка Сикстинской капеллы. Евклид, чертящий циркулем внизу справа, — архитектор Браманте. А с правого края на вас смотрит сам **Рафаэль** в тёмном берете.
+
+        Совет: в «Афинской школе» лучше встать у противоположной стены, у окна, — оттуда видна вся композиция. Напротив неё — «**Диспута**», спор о таинстве причастия: небесная и земная церковь.
+      en: |
+        ![The School of Athens](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/960px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg)
+        *Photo: public domain*
+
+        In 1508 Julius II refused to live in the rooms of his predecessor, the Borgia pope, and had new rooms painted by the 25-year-old Raphael. He worked here until his death in 1520, and his pupils finished the last room. The route takes the rooms in reverse order, latest first.
+
+        The **Room of Constantine** is the largest, with the Battle of the Milvian Bridge — the victory that made Rome Christian. In the **Room of Heliodorus**, find the **Liberation of St Peter** above the window: a night scene lit by the angel, one of the first "night" frescoes in history.
+
+        The **Room of the Segnatura** was the pope's library. Here is the **School of Athens**: all the great thinkers of antiquity under the vaults of a temple. In the middle, **Plato** points to the sky — with Leonardo da Vinci's face — and **Aristotle** turns his palm to the earth. The brooding man on the steps, leaning on a marble block, is **Heraclitus** with Michelangelo's features: Raphael added him after seeing the first half of the Sistine ceiling. Euclid, bending over his compass at lower right, is the architect Bramante. And at the right edge **Raphael** himself looks out at you in a dark beret.
+
+        Tip: for the School of Athens, stand against the opposite wall by the window to see the whole composition. Facing it is the **Disputation**, the debate over the Eucharist: the Church in heaven and on earth.
+
+  - name: { en: The Sistine Chapel, ru: Сикстинская капелла }
+    place: "Cappella Sistina, Città del Vaticano"
+    lat: 41.90293
+    lng: 12.45440
+    radius_m: 30
+    walk_min: [ 10, 15 ]
+    visit_min: [ 20, 30 ]
+    audio: { ru: audio/italy/03-rome-vatican-museums/12.mp3 }
+    short:
+      ru: |
+        Послушайте этот рассказ ДО входа — внутри нельзя фотографировать и говорить. Сядьте на скамью у стены и смотрите вверх.
+      en: |
+        Listen to this BEFORE you go in — no photos and no talking inside. Sit on the bench along the wall and look up.
+    long:
+      ru: |
+        ![Потолок Сикстинской капеллы](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/%27Sistine_Chapel_ceiling%27_by_Michelangelo_JBU21.JPG/960px-%27Sistine_Chapel_ceiling%27_by_Michelangelo_JBU21.JPG)
+        *Фото: Jörg Bittner Unna, CC BY 3.0*
+
+        Капеллу построили в 1473–1481 годах для папы Сикста IV — отсюда название. Здесь собирается конклав, выбирающий нового папу: в 2025 году именно здесь избрали Льва XIV. Стены расписали лучшие художники XV века — Боттичелли, Перуджино, Гирландайо: по одной стороне жизнь Моисея, по другой — жизнь Христа.
+
+        В 1508 году Юлий II поручил потолок Микеланджело. Тот считал себя скульптором и отказывался, но за четыре года, к 1512-му, расписал больше 500 квадратных метров — стоя на лесах, запрокинув голову, а не лёжа, как часто рассказывают. Девять сцен по центру идут от входа к алтарю: от «Опьянения Ноя» до «Отделения света от тьмы». Найдите «**Сотворение Адама**» — четвёртая сцена от алтаря: два пальца, которые почти соприкасаются.
+
+        ![«Страшный суд»](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Last_Judgement_%28Michelangelo%29.jpg/960px-Last_Judgement_%28Michelangelo%29.jpg)
+        *Фото: общественное достояние*
+
+        Через 24 года, уже 60-летним, Микеланджело вернулся и написал на алтарной стене «**Страшный суд**», 1536–1541. В центре Христос-судия поднимает руку, справа грешников уносят в ад. В правом нижнем углу — **Минос** с ослиными ушами и змеёй: это лицо папского церемониймейстера Бьяджо да Чезены, который назвал фреску «подходящей для бани». А святой Варфоломей держит содранную с себя кожу — и лицо на этой коже, искажённое, это автопортрет самого Микеланджело. Позже наготу фигур прикрыли драпировками — художника, который это сделал, прозвали «Штанописцем».
+
+        Совет: охрана повторяет «No photo! Silence!» — не спорьте. Смотрите сначала на «Страшный суд», потом садитесь и рассматривайте потолок от алтаря к выходу.
+      en: |
+        ![The Sistine ceiling](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/%27Sistine_Chapel_ceiling%27_by_Michelangelo_JBU21.JPG/960px-%27Sistine_Chapel_ceiling%27_by_Michelangelo_JBU21.JPG)
+        *Photo: Jörg Bittner Unna, CC BY 3.0*
+
+        The chapel was built in 1473–1481 for Pope Sixtus IV, hence the name. The conclave meets here to elect a new pope — Leo XIV was elected here in 2025. The best painters of the 15th century, Botticelli, Perugino and Ghirlandaio among them, painted the walls: the life of Moses on one side, the life of Christ on the other.
+
+        In 1508 Julius II gave the ceiling to Michelangelo. He saw himself as a sculptor and tried to refuse, but in four years, by 1512, he painted more than 500 square metres — standing on scaffolding with his head thrown back, not lying down as is often said. The nine central scenes run from the entrance to the altar, from the Drunkenness of Noah to the Separation of Light from Darkness. Find the **Creation of Adam**, the fourth scene from the altar: two fingers about to touch.
+
+        ![The Last Judgement](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Last_Judgement_%28Michelangelo%29.jpg/960px-Last_Judgement_%28Michelangelo%29.jpg)
+        *Photo: public domain*
+
+        Twenty-four years later, aged 60, Michelangelo came back and painted the **Last Judgement** on the altar wall, 1536–1541. In the middle Christ the judge raises his arm; on the right the damned are dragged to hell. In the bottom right corner is **Minos** with donkey's ears and a serpent — the face of the papal master of ceremonies, Biagio da Cesena, who said the fresco belonged in a bathhouse. St Bartholomew holds up his own flayed skin, and the distorted face on it is Michelangelo's self-portrait. The nudes were later covered with drapery — the painter who did it was nicknamed "the breeches-maker".
+
+        Tip: the guards keep calling "No photo! Silence!" — don't argue. Look at the Last Judgement first, then sit and read the ceiling from the altar back to the entrance.
+
+  - name: { en: The spiral staircase and the exit, ru: Спиральная лестница и выход }
+    place: "Scala elicoidale, Musei Vaticani, Viale Vaticano, Roma"
+    lat: 41.90655
+    lng: 12.45380
+    radius_m: 40
+    walk_min: [ 15, 20 ]
+    visit_min: 5
+    audio: { ru: audio/italy/03-rome-vatican-museums/13.mp3 }
+    short:
+      ru: |
+        Из капеллы — по указателям «Uscita» обратно через залы к входному зданию. Спуск — по знаменитой двойной спирали.
+      en: |
+        From the chapel follow the "Uscita" signs back through the rooms to the entrance building. The way down is the famous double spiral.
+    long:
+      ru: |
+        ![Спиральная лестница](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Vatican_Museums_Spiral_Staircase_2012.jpg/960px-Vatican_Museums_Spiral_Staircase_2012.jpg)
+        *Фото: Colin, CC BY-SA 3.0*
+
+        Короткий проход из капеллы прямо в собор Святого Петра открыт только для групп с гидом, поэтому возвращаемся длинным путём: около 15–20 минут по коридорам. По пути — Ватиканская библиотека с росписями и витринами.
+
+        Лестницу спроектировал Джузеппе Момо в 1932 году. Это двойная спираль: два отдельных пролёта закручены друг в друга, и люди, идущие вверх и вниз, никогда не встречаются. Идея взята у **лестницы Браманте** 1505 года, по которой можно было въехать верхом прямо в папский дворец; её оригинал сохранился, но обычно закрыт.
+
+        Что сделать: заберите вещи в гардеробе у выхода. Сфотографируйте лестницу сверху — с верхней площадки спираль похожа на раковину улитки.
+
+        Совет: если устали, у выхода есть кафе. Дальше по плану — 20 минут пешком к замку Святого Ангела, а после — Пьяцца Навона и Пантеон.
+      en: |
+        ![The spiral staircase](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Vatican_Museums_Spiral_Staircase_2012.jpg/960px-Vatican_Museums_Spiral_Staircase_2012.jpg)
+        *Photo: Colin, CC BY-SA 3.0*
+
+        The short passage from the chapel straight into St Peter's is open only to guided groups, so it's the long way back: about 15–20 minutes of corridors, passing the decorated halls and display cases of the Vatican Library.
+
+        Giuseppe Momo designed the staircase in 1932. It's a double spiral: two separate flights twist round each other, so people going up and coming down never meet. The idea comes from **Bramante's staircase** of 1505, which you could ride up on horseback straight into the papal palace; the original survives but is usually closed.
+
+        Collect your things from the cloakroom by the exit. Photograph the staircase from the top landing — from above the spiral looks like a snail's shell.
+
+        Tip: if you're tired, there's a café by the exit. Next up is a 20-minute walk to Castel Sant'Angelo, then Piazza Navona and the Pantheon.
