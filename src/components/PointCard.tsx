@@ -1,7 +1,7 @@
 import type { Tour, Via } from '../data/schema'
 import { formatMinutes } from '../geo'
 import { navigateUrl, viaLabel } from '../gmaps'
-import { pick, t } from '../i18n'
+import { lang, pick, t } from '../i18n'
 import { Markdown } from './Markdown'
 
 type Props = {
@@ -21,6 +21,7 @@ export function PointCard({ tour, index, selected, onSelect }: Props) {
   const previous = tour.points[index - 1]
   const short = pick(point.short)
   const long = pick(point.long)
+  const audio = point.audio?.[lang.value]
   const toggle = () => onSelect(selected ? undefined : index)
 
   return (
@@ -47,6 +48,7 @@ export function PointCard({ tour, index, selected, onSelect }: Props) {
             <p class="point-path">{pathText([pick(previous.name), ...point.approach, name])}</p>
           )}
           {point.inside && <p class="point-path">↻ {pathText([name, ...point.inside])}</p>}
+          {audio && <audio class="point-audio" controls preload="none" src={audio} />}
           {long && <Markdown class="point-long" text={long} />}
           <div class="point-actions">
             <a class="button" href={navigateUrl(tour, index)} target="_blank" rel="noopener">

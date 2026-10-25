@@ -28,6 +28,7 @@ const point = z
     visit_min: minutes.optional(),
     short: localized.optional(),
     long: localized.optional(),
+    audio: localized.optional(),
   })
   .strict()
 

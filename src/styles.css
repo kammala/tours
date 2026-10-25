@@ -375,6 +375,25 @@ h3 {
   padding-left: 1.2em;
 }
 
+.markdown img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.markdown p:has(> img) em {
+  display: block;
+  margin-top: 4px;
+  color: var(--muted);
+  font-size: 0.75rem;
+}
+
+.point-audio {
+  width: 100%;
+  margin-bottom: 8px;
+}
+
 .point-actions,
 .action-row {
   display: flex;

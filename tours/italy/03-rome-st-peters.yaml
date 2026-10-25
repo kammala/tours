@@ -1,0 +1,548 @@
+country: { en: Italy, ru: Италия }
+city: { en: Rome, ru: Рим }
+name: { en: "Mon 26 Oct · St Peter's Basilica in detail", ru: "Пн, 26 окт · Собор Святого Петра подробно" }
+place_suffix: Roma
+summary:
+  ru: "≈ 1,5 км, 1,5–2 часа; с подъёмом на купол — ещё 1–1,5 часа. Аудиогид на русском в каждой точке"
+  en: "≈ 1.5 km, 1.5–2 hours; another 1–1.5 hours with the dome climb. Russian audio at every stop"
+intro:
+  ru: |
+    Подробная прогулка по площади и собору Святого Петра — утренняя часть дня «Ватикан, Тибр и барочный Рим». У каждой точки есть **аудиорассказ на русском**: откройте точку и нажмите ▶. Наушники обязательны — в соборе просят соблюдать тишину. Аудио загружается из сети, поэтому лучше один раз прослушать начало каждой записи ещё в метро или через мобильный интернет на площади.
+
+    **Время.** Приходите к **8:45**: собор открывается в 7:00, очередь на досмотр утром короткая, к полудню растёт до часа. Крайний срок — **11:00**: в 12:05 нужно быть в офисе на Via Germanico, 40 за билетами в Ватиканские музеи.
+
+    **Вход бесплатный**, без бронирования. Дресс-код строгий: **плечи и колени закрыты**, без шорт, коротких юбок и маек; охрана разворачивает прямо на входе. Большие рюкзаки не пускают. Внутри идут службы — некоторые капеллы открыты только для молитвы.
+
+    Официальные аудиогиды собора и платные приложения есть, но здесь они не нужны — рассказ уже в каждой точке.
+
+    *Фото: Wikimedia Commons, авторы и лицензии — под каждым снимком.*
+  en: |
+    A detailed walk through St Peter's Square and Basilica — the morning part of "The Vatican, the Tiber and baroque Rome". Every stop has a **Russian audio narration**: open the stop and press ▶ (English listeners can read the text). Bring earphones — silence is requested inside the basilica. The audio streams from the internet.
+
+    **Timing.** Arrive by **08:45**: the basilica opens at 07:00, the security queue is short in the morning and grows to an hour by midday. Leave by **11:00** at the latest: you need to be at the office on Via Germanico 40 at 12:05 to collect the Vatican Museums tickets.
+
+    **Entry is free**, no booking. The dress code is strict: **shoulders and knees covered**, no shorts, short skirts or vest tops — the guards turn people away at the door. No large backpacks. Services are held inside, and some chapels are open for prayer only.
+
+    Official audio guides and paid apps exist, but you don't need them — the story is already in every stop.
+
+    *Photos: Wikimedia Commons; authors and licences under each picture.*
+outro:
+  ru: |
+    Дальше по плану дня — [ранний обед и билеты на Via Germanico, 40](#/tour/italy/03-rome-vatican/5): от площади это 10–15 минут пешком через Борго-Пио.
+  en: |
+    Next in the day plan: [early lunch and the ticket pick-up on Via Germanico 40](#/tour/italy/03-rome-vatican/5), 10–15 minutes' walk from the square through Borgo Pio.
+points:
+  - name: { en: The obelisk, ru: Обелиск }
+    place: "Obelisco Vaticano, Piazza San Pietro, Città del Vaticano"
+    lat: 41.90224
+    lng: 12.45725
+    radius_m: 60
+    audio: { ru: audio/italy/03-rome-st-peters/01.mp3 }
+    short:
+      ru: |
+        Старт в центре площади. Встаньте у обелиска лицом к собору — отсюда видно всю композицию Бернини.
+      en: |
+        Start in the middle of the square. Stand by the obelisk facing the basilica — the whole of Bernini's design opens up from here.
+    long:
+      ru: |
+        ![Ватиканский обелиск](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Rome%2C_Italy%2C_The_Vatican_obelisk_at_St._Peter%27s_Square.jpg/960px-Rome%2C_Italy%2C_The_Vatican_obelisk_at_St._Peter%27s_Square.jpg)
+        *Фото: Vyacheslav Argenberg, CC BY 4.0*
+
+        Этому обелиску больше четырёх тысяч лет — его вытесали из красного асуанского гранита в Египте, а в 37 году император Калигула привёз его в Рим для своего цирка. Цирк стоял прямо здесь, чуть левее нынешнего собора, и именно в нём, по преданию, при Нероне распяли апостола Петра. Так что обелиск — единственный «свидетель» его казни.
+
+        В отличие от других римских обелисков, этот никогда не падал. В 1586 году папа Сикст V велел перенести его на середину площади. Инженер Доменико Фонтана поднимал 330-тонный монолит девятьсот рабочих и сто сорок лошадей, а на площади под страхом смерти запретили говорить. Когда канаты начали дымиться от трения, моряк из Сан-Ремо по имени Бреска нарушил запрет и крикнул: «Воды на канаты!» — и спас операцию. Вместо казни папа наградил его семью вечной привилегией поставлять Ватикану пальмовые ветви на Вербное воскресенье.
+
+        Что посмотреть: крест на вершине — в нём хранится частица Животворящего Креста; бронзовые львы у основания; вокруг на мостовой — гранитная «роза ветров» и диск с отметками знаков зодиака: обелиск служит гигантской стрелкой солнечных часов.
+
+        Совет: сделайте общее фото с этой точки — собор и обе колоннады помещаются в кадр целиком.
+      en: |
+        ![The Vatican obelisk](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Rome%2C_Italy%2C_The_Vatican_obelisk_at_St._Peter%27s_Square.jpg/960px-Rome%2C_Italy%2C_The_Vatican_obelisk_at_St._Peter%27s_Square.jpg)
+        *Photo: Vyacheslav Argenberg, CC BY 4.0*
+
+        This obelisk is over four thousand years old: it was cut from red Aswan granite in Egypt, and in AD 37 Emperor Caligula shipped it to Rome for his circus. The circus stood right here, just left of today's basilica, and tradition says St Peter was crucified in it under Nero — which makes the obelisk the only surviving witness to his death.
+
+        Unlike Rome's other obelisks, this one never fell. In 1586 Pope Sixtus V had it moved to the middle of the square. The engineer Domenico Fontana raised the 330-tonne monolith with nine hundred men and a hundred and forty horses, and talking in the square was forbidden on pain of death. When the ropes began to smoke from friction, a sailor from Sanremo called Bresca broke the rule and shouted "Water on the ropes!" — saving the operation. Instead of punishing him, the pope gave his family the perpetual right to supply the Vatican's palm fronds for Palm Sunday.
+
+        Look at the cross on top, which holds a relic of the True Cross; the bronze lions at the base; and the granite wind rose and zodiac markers in the paving around it — the obelisk is the pointer of a giant sundial.
+
+        Tip: take the wide shot from here — the basilica and both colonnades fit in one frame.
+
+  - name: { en: Bernini's colonnade and the disc, ru: Колоннада Бернини и «точка фокуса» }
+    place: "Centro del Colonnato, Piazza San Pietro, Città del Vaticano"
+    lat: 41.90253
+    lng: 12.45725
+    radius_m: 40
+    walk_min: 1
+    visit_min: 5
+    audio: { ru: audio/italy/03-rome-st-peters/02.mp3 }
+    short:
+      ru: |
+        Между обелиском и правым фонтаном — круглая плита «Centro del colonnato». Встаньте на неё и посмотрите на колоннаду.
+      en: |
+        Between the obelisk and the right-hand fountain is a round slab marked "Centro del colonnato". Stand on it and look at the colonnade.
+    long:
+      ru: |
+        ![Площадь Святого Петра](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg/960px-St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg)
+        *Фото: Diliff, CC BY-SA 3.0*
+
+        Площадь построил Джан Лоренцо Бернини в 1656–1667 годах. Колоннады — это «руки Церкви», раскрытые, чтобы обнять весь мир: 284 колонны в четыре ряда и 140 статуй святых на крыше. С этой плиты, одной из двух на площади, четыре ряда колонн сливаются в один — вся колоннада будто становится тонкой ширмой. Сделайте шаг в сторону — и снова видите лес колонн.
+
+        Фонтанов два: правый поставил Карло Мадерно в 1613 году, левый — копию — спустя полвека добавили, чтобы площадь стала симметричной.
+
+        Что посмотреть: справа над колоннадой — **Апостольский дворец**; второе окно справа на верхнем этаже — окно, из которого папа по воскресеньям в полдень читает молитву «Ангел Господень». Справа под колоннадой — вход на досмотр, туда и идём.
+
+        Совет: на плите всегда очередь из желающих сфотографироваться — посмотрите и отойдите, эффект виден за пару секунд.
+      en: |
+        ![St Peter's Square](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg/960px-St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg)
+        *Photo: Diliff, CC BY-SA 3.0*
+
+        Gian Lorenzo Bernini built the square in 1656–1667. The colonnades are the "arms of the Church", opened to embrace the whole world: 284 columns in rows of four, with 140 statues of saints along the top. From this slab — one of two in the square — the four rows of columns line up into one, and the whole colonnade turns into a thin screen. Take a step to the side and the forest of columns is back.
+
+        There are two fountains: Carlo Maderno built the right-hand one in 1613, and a copy was added on the left half a century later to make the square symmetrical.
+
+        Look up to the right above the colonnade at the **Apostolic Palace**: the second window from the right on the top floor is where the pope leads the Angelus prayer at noon on Sundays. The security entrance is under the right-hand colonnade — that's where we head next.
+
+        Tip: there's always a queue of people wanting a photo on the slab — look, then step off; the effect takes a couple of seconds to see.
+
+  - name: { en: Security check, ru: Досмотр }
+    place: "Colonnato destro, Piazza San Pietro, Città del Vaticano"
+    lat: 41.90300
+    lng: 12.45610
+    radius_m: 40
+    walk_min: 3
+    visit_min: [ 5, 30 ]
+    audio: { ru: audio/italy/03-rome-st-peters/03.mp3 }
+    short:
+      ru: |
+        Под правой колоннадой — рамки и сканеры, как в аэропорту. Утром 5–15 минут. Билет не нужен.
+      en: |
+        Under the right-hand colonnade — scanners and metal detectors like at an airport. 5–15 minutes in the morning. No ticket needed.
+    long:
+      ru: |
+        Здесь проверяют сумки и одежду. Если плечи открыты, достаньте шарф заранее — накинуть его в очереди проще, чем спорить на входе. Ножи, стеклянные бутылки, штативы и большие рюкзаки не пропустят.
+
+        За рамками не ходите сразу к главному входу: справа от лестницы, под портиком, — вход на подъём на купол. Если вы прошли досмотр **до 9:00** и хотите наверх, идите туда сразу (последняя точка маршрута); иначе купол сегодня лучше пропустить.
+
+        Совет: очередь на досмотр одна для собора и купола; не соглашайтесь на предложения «провести без очереди» — вход в собор и так бесплатный.
+      en: |
+        Bags and clothing are checked here. If your shoulders are bare, get the scarf out now — it's easier to put on in the queue than to argue at the door. Knives, glass bottles, tripods and large backpacks won't get through.
+
+        After the scanners, don't go straight to the main entrance: to the right of the steps, under the portico, is the entrance to the dome climb. If you're through security **before 09:00** and want to go up, go there first (the last stop of this tour); otherwise skip the dome today.
+
+        Tip: there is one security queue for both the basilica and the dome; ignore offers to "skip the line" — entry to the basilica is free anyway.
+
+  - name: { en: The façade and the Swiss Guard, ru: Фасад и швейцарская гвардия }
+    place: "Basilica di San Pietro, Piazza San Pietro, Città del Vaticano"
+    lat: 41.90205
+    lng: 12.45530
+    radius_m: 50
+    walk_min: 3
+    visit_min: 5
+    audio: { ru: audio/italy/03-rome-st-peters/04.mp3 }
+    short:
+      ru: |
+        Поднимитесь по ступеням и обернитесь на площадь, затем посмотрите на фасад и налево — на арку с часовыми в полосатой форме.
+      en: |
+        Climb the steps and turn round to look at the square, then up at the façade and left at the arch with the guards in striped uniforms.
+    long:
+      ru: |
+        Фасад построил Карло Мадерно к 1612 году: ширина — 115 метров, высота — 45. На аттике стоят тринадцать статуй высотой почти шесть метров: Христос, Иоанн Креститель и одиннадцать апостолов. Петра среди них нет — он вместе с Павлом стоит внизу, у подножия лестницы: Пётр с ключами, Павел с мечом.
+
+        Над центральным входом — **лоджия Благословений**. С этого балкона объявляют «Habemus papam» — «У нас есть папа», и отсюда новый папа впервые благословляет город и мир.
+
+        Слева, под аркой Колоколов, стоят **швейцарские гвардейцы**. Это самая маленькая и одна из старейших армий мира: её основал папа Юлий II в 1506 году. Гвардейцы — молодые неженатые католики, граждане Швейцарии. 6 мая 1527 года, во время разграбления Рима, 147 из 189 гвардейцев погибли, прикрывая бегство папы в замок Святого Ангела; с тех пор новобранцы приносят присягу именно 6 мая. Полосатую сине-жёлто-красную форму часто приписывают Микеланджело, но её нынешний вид придуман в 1914 году.
+
+        Совет: фотографировать гвардейцев можно, но не подходите вплотную и не просите их позировать — они на посту.
+      en: |
+        Carlo Maderno finished the façade in 1612: 115 metres wide and 45 high. Thirteen statues almost six metres tall stand on the attic: Christ, John the Baptist and eleven apostles. Peter isn't among them — he stands with Paul at the foot of the steps, Peter with the keys, Paul with the sword.
+
+        Above the central doorway is the **Benediction Loggia**. "Habemus papam" — "We have a pope" — is announced from this balcony, and a new pope gives his first blessing to the city and the world from here.
+
+        To the left, under the Arch of the Bells, stand the **Swiss Guards**. It's the smallest army in the world and one of the oldest, founded by Pope Julius II in 1506. The guards are young, unmarried Catholic Swiss citizens. On 6 May 1527, during the Sack of Rome, 147 of the 189 guards died covering the pope's escape to Castel Sant'Angelo; recruits have sworn their oath on 6 May ever since. The blue, yellow and red stripes are often credited to Michelangelo, but the present design dates from 1914.
+
+        Tip: you can photograph the guards, but don't walk right up to them or ask them to pose — they're on duty.
+
+  - name: { en: The portico and the Holy Door, ru: Портик и Святые врата }
+    place: "Porta Santa, Basilica di San Pietro, Città del Vaticano"
+    lat: 41.90232
+    lng: 12.45482
+    radius_m: 30
+    walk_min: 2
+    visit_min: 5
+    audio: { ru: audio/italy/03-rome-st-peters/05.mp3 }
+    short:
+      ru: |
+        В портике — пять дверей. Святые врата — крайние справа; рядом с центральной входите в собор.
+      en: |
+        The portico has five doors. The Holy Door is the one on the far right; you enter the basilica next to the central one.
+    long:
+      ru: |
+        ![Святые врата](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Rom%2C_Vatikan%2C_Petersdom_-_Heilige_Pforte_1.jpg/960px-Rom%2C_Vatikan%2C_Petersdom_-_Heilige_Pforte_1.jpg)
+        *Фото: Dnalor 01, CC BY-SA 3.0*
+
+        Пять бронзовых дверей рассказывают историю Церкви. Крайняя слева — **Врата смерти** работы Джакомо Манцу XX века: через неё выносят тела пап. Центральная — **врата Филарете** 1445 года, единственная дверь, перенесённая из старой, Константиновой базилики.
+
+        Крайняя справа — **Святые врата**. Их открывают только в Юбилейные годы, обычно раз в 25 лет: папа сам отворяет их в Сочельник, и паломник, прошедший через них, получает отпущение грехов. Последний Юбилей был в 2025 году, и 6 января 2026-го врата снова закрыли до следующего Святого года. Бронзовые панели с сюжетами о грехе и прощении сделал Вико Консорти в 1950 году.
+
+        Что посмотреть: обернитесь — над центральным выходом на внутренней стене портика мозаика **«Навичелла»** по рисунку Джотто, около 1300 года: лодка апостолов в бурю и Христос, идущий по воде. Её много раз переделывали, но это самое старое, что вы увидите сегодня.
+
+        Совет: в соборе громко не разговаривают — выключите звук телефона уже здесь и наденьте наушники.
+      en: |
+        ![The Holy Door](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Rom%2C_Vatikan%2C_Petersdom_-_Heilige_Pforte_1.jpg/960px-Rom%2C_Vatikan%2C_Petersdom_-_Heilige_Pforte_1.jpg)
+        *Photo: Dnalor 01, CC BY-SA 3.0*
+
+        The five bronze doors tell the story of the Church. The far left one is Giacomo Manzù's 20th-century **Door of Death**, through which popes' bodies are carried out. The central one is **Filarete's door** of 1445, the only door brought over from the old Constantinian basilica.
+
+        The far right one is the **Holy Door**. It's opened only in Jubilee years, usually once every 25 years: the pope opens it himself on Christmas Eve, and pilgrims who pass through it receive an indulgence. The last Jubilee was 2025, and on 6 January 2026 the door was closed again until the next Holy Year. Vico Consorti made its bronze panels of sin and forgiveness in 1950.
+
+        Turn round: above the central exit, on the inner wall of the portico, is the **Navicella** mosaic designed by Giotto around 1300 — the apostles' boat in a storm and Christ walking on the water. It has been redone many times, but it's the oldest thing you'll see today.
+
+        Tip: voices stay low in the basilica — mute your phone here and put the earphones in.
+
+  - name: { en: The nave, ru: Центральный неф }
+    place: "Navata centrale, Basilica di San Pietro, Città del Vaticano"
+    lat: 41.90214
+    lng: 12.45465
+    radius_m: 30
+    walk_min: 1
+    visit_min: 5
+    audio: { ru: audio/italy/03-rome-st-peters/06.mp3 }
+    short:
+      ru: |
+        Сразу за входом — круглая плита из красного порфира. Остановитесь у неё и посмотрите вдоль нефа на балдахин.
+      en: |
+        Just inside the entrance is a round slab of red porphyry. Stop by it and look down the nave to the canopy.
+    long:
+      ru: |
+        Нынешний собор строили 120 лет, с 1506 по 1626 год, на месте базилики императора Константина IV века. Над проектом успели поработать Браманте, Рафаэль, Микеланджело и Мадерно. Длина собора — 186 метров, и долгое время он был крупнейшим храмом мира.
+
+        Красный круг под ногами — **Rota porphyretica**, плита из старой базилики. По преданию, на ней в Рождество 800 года папа Лев III короновал Карла Великого императором. Теперь её не топчут: это первое, что видит каждый входящий.
+
+        Масштаб здесь обманывает глаз: ангелочки, держащие чаши со святой водой у первых колонн, кажутся детьми, а ростом они около двух метров. Буквы надписей под карнизом — тоже почти по два метра. Почувствовать размеры помогают латунные метки в полу нефа: на них отмечена длина других великих соборов мира — лондонского Святого Павла, Миланского, Кёльнского — и все они «заканчиваются» раньше.
+
+        Совет: почти все «картины» в соборе — на самом деле мозаики: живопись на холсте не выдерживала сырости. Подойдите ближе к любой из них — и увидите крошечные кусочки смальты.
+      en: |
+        The present basilica took 120 years to build, from 1506 to 1626, on the site of Emperor Constantine's 4th-century basilica. Bramante, Raphael, Michelangelo and Maderno all worked on the design. It's 186 metres long, and for centuries it was the largest church in the world.
+
+        The red circle at your feet is the **Rota Porphyretica**, a slab from the old basilica. Tradition says Pope Leo III crowned Charlemagne emperor on it on Christmas Day 800. Nobody walks over it now — it's the first thing every visitor sees.
+
+        The scale fools the eye: the cherubs holding the holy-water basins at the first piers look like children, but they're about two metres tall, and the letters of the inscriptions below the cornice are nearly two metres high too. Brass markers in the nave floor help: they show the lengths of other great cathedrals — St Paul's in London, Milan, Cologne — and all of them "end" before you reach the canopy.
+
+        Tip: almost every "painting" in the basilica is really a mosaic — canvas couldn't survive the damp. Go close to any of them and you'll see the tiny tesserae.
+
+  - name: { en: Michelangelo's Pietà, ru: «Пьета» Микеланджело }
+    place: "Pietà di Michelangelo, Basilica di San Pietro, Città del Vaticano"
+    lat: 41.90230
+    lng: 12.45458
+    radius_m: 25
+    walk_min: 1
+    visit_min: [ 5, 10 ]
+    audio: { ru: audio/italy/03-rome-st-peters/07.mp3 }
+    short:
+      ru: |
+        Первая капелла справа от входа, за стеклом. Здесь самая плотная толпа — подождите минуту, и место у центра освободится.
+      en: |
+        The first chapel on the right of the entrance, behind glass. This is the most crowded spot — wait a minute and a place in the middle frees up.
+    long:
+      ru: |
+        ![«Пьета» Микеланджело](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Michelangelo%27s_Piet%C3%A0_Saint_Peter%27s_Basilica_Vatican_City.jpg/960px-Michelangelo%27s_Piet%C3%A0_Saint_Peter%27s_Basilica_Vatican_City.jpg)
+        *Фото: Jebulon, CC0*
+
+        Микеланджело было 24 года, когда в 1499 году он закончил эту скульптуру для надгробия французского кардинала. Из одной глыбы каррарского мрамора он вырезал Богоматерь, держащую на коленях тело снятого с креста Христа. Современники удивлялись, что Мария выглядит моложе своего сына; Микеланджело отвечал, что чистота сохраняет молодость.
+
+        Это единственная работа, которую Микеланджело подписал. По рассказу Вазари, он услышал, как посетители приписывают «Пьету» другому скульптору, ночью вернулся с резцом и вырезал на ленте, пересекающей грудь Марии: «Микеланджело Буонарроти, флорентиец, сделал».
+
+        В 1972 году психически больной человек ударил статую молотком пятнадцать раз и отбил Марии нос и часть руки. Скульптуру восстановили по собранным осколкам, а с тех пор она стоит за пуленепробиваемым стеклом.
+
+        Что посмотреть: ленту с подписью на груди Марии; складки её одежды — гигантская драпировка скрывает, что фигура Марии намного больше Христа, иначе она не удержала бы его на коленях; спокойное лицо Христа.
+
+        Совет: стекло бликует — фотографируйте немного сбоку и не со вспышкой.
+      en: |
+        ![Michelangelo's Pietà](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Michelangelo%27s_Piet%C3%A0_Saint_Peter%27s_Basilica_Vatican_City.jpg/960px-Michelangelo%27s_Piet%C3%A0_Saint_Peter%27s_Basilica_Vatican_City.jpg)
+        *Photo: Jebulon, CC0*
+
+        Michelangelo was 24 when he finished this sculpture in 1499 for a French cardinal's tomb. From a single block of Carrara marble he carved the Virgin holding the body of Christ, taken down from the cross, across her knees. People were puzzled that Mary looked younger than her son; Michelangelo answered that purity keeps one young.
+
+        It's the only work Michelangelo ever signed. Vasari says he overheard visitors crediting the Pietà to another sculptor, came back at night with a chisel, and carved on the sash across Mary's chest: "Michelangelo Buonarroti, Florentine, made this."
+
+        In 1972 a mentally ill man struck the statue fifteen times with a hammer, breaking off Mary's nose and part of her arm. It was restored from the collected fragments and has stood behind bulletproof glass ever since.
+
+        Look for the signed sash across Mary's chest; her robes, whose huge folds hide that her figure is far larger than Christ's — otherwise she couldn't hold him on her lap; and Christ's calm face.
+
+        Tip: the glass reflects — shoot slightly from the side and without flash.
+
+  - name: { en: Tomb of John Paul II, ru: Гробница Иоанна Павла II }
+    place: "Cappella di San Sebastiano, Basilica di San Pietro, Città del Vaticano"
+    lat: 41.90232
+    lng: 12.45425
+    radius_m: 25
+    walk_min: 1
+    visit_min: 5
+    audio: { ru: audio/italy/03-rome-st-peters/08.mp3 }
+    short:
+      ru: |
+        Дальше по правому нефу — капелла Святого Себастьяна. Под алтарём — гробница папы Иоанна Павла II.
+      en: |
+        Further along the right aisle is the Chapel of St Sebastian. Under the altar is the tomb of Pope John Paul II.
+    long:
+      ru: |
+        Иоанн Павел II — поляк Кароль Войтыла, папа с 1978 по 2005 год, первый папа-неитальянец за 455 лет. Сначала его похоронили в гротах под собором, но в 2011 году, после беатификации, гробницу перенесли сюда, под алтарь, чтобы к ней могли подходить паломники. В 2014 году его причислили к лику святых.
+
+        Над алтарём — «Мученичество святого Себастьяна»: копия в мозаике с картины Доменикино XVII века.
+
+        Что посмотреть по пути: напротив, на пилоне — **памятник шведской королеве Кристине**, которая отреклась от престола, приняла католичество и переехала в Рим; она одна из трёх женщин, похороненных в соборе. Следующая капелла справа, за решёткой, — **капелла Святых Даров**: она только для молитвы, туристов туда не пускают.
+
+        Совет: у гробницы часто молятся — фотографируйте издалека и не задерживайтесь в проходе.
+      en: |
+        John Paul II — the Pole Karol Wojtyła, pope from 1978 to 2005 and the first non-Italian pope in 455 years. He was first buried in the grottoes below, but in 2011, after his beatification, the tomb was moved up here under the altar so pilgrims could reach it. He was canonised in 2014.
+
+        Above the altar is "The Martyrdom of St Sebastian", a mosaic copy of Domenichino's 17th-century painting.
+
+        On the way, look at the pier opposite for the **monument to Queen Christina of Sweden**, who gave up her throne, became a Catholic and moved to Rome — one of only three women buried in the basilica. The next chapel on the right, behind a grille, is the **Chapel of the Blessed Sacrament**: it's for prayer only, and tourists aren't let in.
+
+        Tip: people pray at the tomb — take photos from a distance and don't block the aisle.
+
+  - name: { en: Bronze statue of St Peter, ru: Бронзовая статуя святого Петра }
+    place: "Statua di San Pietro, Basilica di San Pietro, Città del Vaticano"
+    lat: 41.90225
+    lng: 12.45375
+    radius_m: 25
+    walk_min: 2
+    visit_min: 5
+    audio: { ru: audio/italy/03-rome-st-peters/09.mp3 }
+    short:
+      ru: |
+        У последнего пилона нефа справа, перед подкупольным пространством — сидящий бронзовый Пётр. Посмотрите на его правую стопу.
+      en: |
+        At the last pier of the nave on the right, just before the space under the dome, sits the bronze St Peter. Look at his right foot.
+    long:
+      ru: |
+        ![Статуя святого Петра](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Statue_of_Saint_Peter_by_Arnolfo_di_Cambio_01.jpg/960px-Statue_of_Saint_Peter_by_Arnolfo_di_Cambio_01.jpg)
+        *Фото: Antoine Taveneaux, CC BY-SA 3.0*
+
+        Статую приписывают флорентийскому скульптору Арнольфо ди Камбио, конец XIII века. Пётр сидит на мраморном троне, правой рукой благословляет, в левой держит ключи от Царства Небесного — те самые ключи, что изображены на гербе Ватикана.
+
+        Семь веков паломники касаются и целуют его правую стопу — и бронза стёрлась: пальцы почти слились в гладкую поверхность. 29 июня, в день святых Петра и Павла, статую облачают в папские ризы и надевают на неё тиару.
+
+        Совет: очередь к стопе движется быстро. Если не хотите касаться — просто посмотрите, как стёрся металл, это удивительнее любой легенды.
+      en: |
+        ![The statue of St Peter](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Statue_of_Saint_Peter_by_Arnolfo_di_Cambio_01.jpg/960px-Statue_of_Saint_Peter_by_Arnolfo_di_Cambio_01.jpg)
+        *Photo: Antoine Taveneaux, CC BY-SA 3.0*
+
+        The statue is attributed to the Florentine sculptor Arnolfo di Cambio, late 13th century. Peter sits on a marble throne, blessing with his right hand and holding in his left the keys of the Kingdom of Heaven — the same keys as on the Vatican's coat of arms.
+
+        For seven centuries pilgrims have touched and kissed his right foot, and the bronze has worn away: the toes have almost melted into a smooth surface. On 29 June, the feast of Saints Peter and Paul, the statue is dressed in papal vestments and crowned with a tiara.
+
+        Tip: the queue to the foot moves fast. If you'd rather not touch it, just look at how worn the metal is — it's more striking than any legend.
+
+  - name: { en: Bernini's canopy and St Peter's tomb, ru: Балдахин Бернини и гробница Петра }
+    place: "Baldacchino di San Pietro, Basilica di San Pietro, Città del Vaticano"
+    lat: 41.90212
+    lng: 12.45339
+    radius_m: 25
+    walk_min: 1
+    visit_min: [ 10, 15 ]
+    audio: { ru: audio/italy/03-rome-st-peters/10.mp3 }
+    short:
+      ru: |
+        В самом центре собора, под куполом — бронзовый балдахин над папским алтарём, а перед ним — спуск к гробнице апостола.
+      en: |
+        In the very centre of the basilica, under the dome: the bronze canopy over the papal altar, with the steps down towards the apostle's tomb in front.
+    long:
+      ru: |
+        ![Балдахин Бернини](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Baldaquin_Bernin_Saint-Pierre_Vatican.jpg/960px-Baldaquin_Bernin_Saint-Pierre_Vatican.jpg)
+        *Фото: Jebulon, CC0*
+
+        Балдахин — первая большая работа молодого Бернини для папы Урбана VIII из рода Барберини, 1623–1634 годы. Высота — почти 29 метров, как у десятиэтажного дома. Витые колонны повторяют форму колонн из старой базилики, которые, по преданию, привезли из Иерусалимского храма. Бронзы ушло так много, что римляне сложили поговорку: «Чего не сделали варвары, сделали Барберини», — будто металл сняли с портика Пантеона. На деле большая часть пантеоновой бронзы пошла на пушки для замка Святого Ангела.
+
+        Что посмотреть: пчёл на колоннах и навершии — это герб Барберини; гербы на восьми мраморных постаментах — лицо женщины на них постепенно искажается, будто от родовых мук, а на последнем гербе вместо него появляется детская головка; по легенде, так Бернини отметил трудные роды племянницы папы. За алтарём служит месса только папа.
+
+        Перед алтарём — **Конфессия**: полукруглая лестница вниз, окружённая 95 негаснущими лампадами. Под ней, глубоко под полом, — некрополь, где в 1940-х нашли захоронение, которое Церковь считает гробницей апостола Петра. Весь собор построен так, чтобы его алтарь стоял точно над ней.
+
+        Совет: экскурсии в некрополь (Scavi) бронируют за месяцы — на этот раз их не будет, но спуститься в гроты под собором можно в конце маршрута.
+      en: |
+        ![Bernini's canopy](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Baldaquin_Bernin_Saint-Pierre_Vatican.jpg/960px-Baldaquin_Bernin_Saint-Pierre_Vatican.jpg)
+        *Photo: Jebulon, CC0*
+
+        The canopy, the baldacchino, was young Bernini's first big commission, for Pope Urban VIII of the Barberini family, 1623–1634. It's almost 29 metres tall, like a ten-storey building. The twisted columns copy those of the old basilica, which tradition said came from the Temple in Jerusalem. So much bronze went into it that Romans coined the saying "What the barbarians didn't do, the Barberini did" — as if the metal had been stripped from the Pantheon's portico. In fact most of the Pantheon's bronze went into cannons for Castel Sant'Angelo.
+
+        Look for the bees on the columns and the top — the Barberini coat of arms; and the arms on the eight marble plinths, where a woman's face grows more and more contorted as if in labour, until on the last one a baby's head appears instead — legend says Bernini was marking the difficult childbirth of the pope's niece. Only the pope says Mass at this altar.
+
+        In front of the altar is the **Confessio**, a curved stairway down ringed by 95 ever-burning lamps. Beneath it, deep under the floor, is the necropolis where in the 1940s archaeologists found the burial the Church holds to be St Peter's tomb. The whole basilica is laid out so that its altar stands exactly above it.
+
+        Tip: necropolis (Scavi) tours are booked months ahead, so not this time — but you can go down into the grottoes below the basilica at the end of the walk.
+
+  - name: { en: Under the dome, ru: Под куполом }
+    place: "Cupola di San Pietro, Basilica di San Pietro, Città del Vaticano"
+    lat: 41.90200
+    lng: 12.45352
+    radius_m: 30
+    walk_min: 1
+    visit_min: [ 5, 10 ]
+    audio: { ru: audio/italy/03-rome-st-peters/11.mp3 }
+    short:
+      ru: |
+        Встаньте сбоку от балдахина и поднимите голову. Затем обойдите четыре пилона со статуями святых.
+      en: |
+        Stand beside the canopy and look straight up. Then walk round the four piers with their statues of saints.
+    long:
+      ru: |
+        ![Купол собора изнутри](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/S._Pietro_May_2022-15.jpg/960px-S._Pietro_May_2022-15.jpg)
+        *Фото: Alvesgaspar, CC BY-SA 4.0*
+
+        Купол спроектировал Микеланджело: он взялся за собор в 1547 году, в 71 год, и работал над ним бесплатно, «во славу Божию», до самой смерти. Закончили купол уже после него, в 1590 году, Джакомо делла Порта и Доменико Фонтана. До верха креста — 136 метров, диаметр изнутри — 42 метра: чуть меньше, чем у Пантеона, — Микеланджело будто намеренно уступил древнему храму.
+
+        По кругу у основания купола идёт надпись золотыми буквами двухметровой высоты: «Ты — Пётр, и на сём камне Я создам Церковь Мою, и дам тебе ключи Царства Небесного». Это слова Христа из Евангелия от Матфея, на которых держится вся идея собора.
+
+        Что посмотреть: четыре пилона, на которых стоит купол, и статуи в их нишах — каждая связана с реликвией, хранящейся в соборе: **святой Лонгин** работы Бернини с копьём, которым пронзили Христа; **святая Елена** с Крестом; **святая Вероника** с платом, на котором отпечатался лик Христа; **святой Андрей** с косым крестом. Наверху, у фонаря купола, — лица Бога Отца в мозаике.
+
+        Совет: лучший вид на купол — не прямо под ним, а из-за угла балдахина, когда в кадр попадают и колонны, и свет из окон барабана. Утром лучи часто падают внутрь косыми столбами.
+      en: |
+        ![The dome from inside](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/S._Pietro_May_2022-15.jpg/960px-S._Pietro_May_2022-15.jpg)
+        *Photo: Alvesgaspar, CC BY-SA 4.0*
+
+        Michelangelo designed the dome: he took over the basilica in 1547, aged 71, and worked on it unpaid, "for the glory of God", until his death. Giacomo della Porta and Domenico Fontana finished it after him in 1590. It's 136 metres to the top of the cross and 42 metres across inside — just smaller than the Pantheon, as if Michelangelo deliberately deferred to the ancient temple.
+
+        Round the base of the dome runs an inscription in gold letters two metres high: "You are Peter, and on this rock I will build my Church, and I will give you the keys of the Kingdom of Heaven" — Christ's words from St Matthew's Gospel, the idea on which the whole basilica rests.
+
+        Look at the four piers that carry the dome and the statues in their niches, each tied to a relic kept in the basilica: Bernini's **St Longinus** with the lance that pierced Christ; **St Helena** with the Cross; **St Veronica** with the veil that took the imprint of Christ's face; and **St Andrew** with his X-shaped cross. High above, by the lantern, is God the Father in mosaic.
+
+        Tip: the best view of the dome isn't directly underneath but from the corner of the canopy, with the columns and the light from the drum windows in the frame. In the morning the sunlight often falls inside in slanting shafts.
+
+  - name: { en: Throne of St Peter, ru: Кафедра святого Петра }
+    place: "Cattedra di San Pietro, Basilica di San Pietro, Città del Vaticano"
+    lat: 41.90213
+    lng: 12.45265
+    radius_m: 25
+    walk_min: 2
+    visit_min: [ 5, 10 ]
+    audio: { ru: audio/italy/03-rome-st-peters/12.mp3 }
+    short:
+      ru: |
+        В самом конце собора, в апсиде за балдахином — золотой трон и окно с голубем. Во время мессы сюда не пускают — смотрите из-за ограждения.
+      en: |
+        At the far end of the basilica, in the apse behind the canopy — a golden throne and a window with a dove. During Mass the area is closed — look from behind the barrier.
+    long:
+      ru: |
+        ![Кафедра святого Петра](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rom%2C_Vatikan%2C_Petersdom%2C_Cathedra_Petri_%28Bernini%29.jpg/960px-Rom%2C_Vatikan%2C_Petersdom%2C_Cathedra_Petri_%28Bernini%29.jpg)
+        *Фото: Dnalor 01, CC BY-SA 3.0*
+
+        Этот алтарь — поздний шедевр Бернини, 1657–1666 годы. В бронзовый позолоченный трон заключено деревянное кресло, которое веками почитали как кафедру самого Петра. На деле это трон IX века, подаренный папе франкским королём Карлом Лысым, но значение у него прежнее: «кафедра» — символ учительской власти папы.
+
+        Трон будто парит: его лишь касаются пальцами четыре великана — **учители Церкви**. Впереди латинские, Амвросий и Августин, в митрах; позади греческие, Афанасий и Иоанн Златоуст, с открытой головой. Так Бернини показал единство Западной и Восточной церкви вокруг престола Петра.
+
+        Над троном — окно из тонкого алебастра с **голубем Святого Духа** — размах крыльев почти два метра. Окно разделено на двенадцать частей по числу апостолов, а вокруг вихрем разлетаются золотые лучи, облака и ангелы. Это единственный в соборе витраж.
+
+        Совет: утром, когда солнце светит в окно апсиды, алебастр загорается янтарём — сейчас самое удачное время.
+      en: |
+        ![The Throne of St Peter](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rom%2C_Vatikan%2C_Petersdom%2C_Cathedra_Petri_%28Bernini%29.jpg/960px-Rom%2C_Vatikan%2C_Petersdom%2C_Cathedra_Petri_%28Bernini%29.jpg)
+        *Photo: Dnalor 01, CC BY-SA 3.0*
+
+        This altar is a late masterpiece by Bernini, 1657–1666. The gilded bronze throne encloses a wooden chair venerated for centuries as Peter's own. It's actually a 9th-century throne given to the pope by the Frankish king Charles the Bald, but the meaning is the same: the "cathedra" stands for the pope's authority to teach.
+
+        The throne seems to float — four giants, the **Doctors of the Church**, barely touch it with their fingertips. In front are the Latin ones, Ambrose and Augustine, in mitres; behind them the Greek ones, Athanasius and John Chrysostom, bareheaded. Bernini's message: West and East united around Peter's throne.
+
+        Above the throne is a window of thin alabaster with the **dove of the Holy Spirit**, its wings almost two metres across. The window is divided into twelve sections for the twelve apostles, and gilded rays, clouds and angels swirl out around it. It's the only stained glass in the basilica.
+
+        Tip: in the morning, when the sun hits the apse window, the alabaster glows amber — now is the best time.
+
+  - name: { en: Monument to Alexander VII, ru: Надгробие Александра VII }
+    place: "Monumento di Alessandro VII, Basilica di San Pietro, Città del Vaticano"
+    lat: 41.90185
+    lng: 12.45300
+    radius_m: 25
+    walk_min: 2
+    visit_min: 5
+    audio: { ru: audio/italy/03-rome-st-peters/13.mp3 }
+    short:
+      ru: |
+        Возвращаясь от кафедры, держитесь левой стороны: в проходе за левым трансептом, над дверью, — золотой скелет с песочными часами.
+      en: |
+        On the way back from the throne keep left: in the passage beyond the left transept, above a doorway, is a golden skeleton with an hourglass.
+    long:
+      ru: |
+        ![Надгробие Александра VII](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Tomb_of_Pope_Alexander_VII_by_Bernini%2C_St._Peter%27s_Basilica_%2848466379271%29.jpg/960px-Tomb_of_Pope_Alexander_VII_by_Bernini%2C_St._Peter%27s_Basilica_%2848466379271%29.jpg)
+        *Фото: Gary Todd, общественное достояние*
+
+        Это последняя работа Бернини в соборе, 1671–1678 годы; мастеру было под восемьдесят. Папа Александр VII стоит на коленях наверху и молится — без тиары, как простой смертный. Под ним — тяжёлое покрывало из красной сицилийской яшмы, и из-под него выползает позолоченный скелет, поднимая над головой песочные часы: время папы истекло.
+
+        Бернини использовал неудобное место: в нише была дверь, и он превратил её во «врата смерти» — скелет словно выходит из настоящего проёма, через который и сегодня ходят люди.
+
+        Что посмотреть: четыре женские фигуры — Милосердие, Истина, Благоразумие и Справедливость. Истина ставит ногу на глобус, прямо на Англию: намёк на отпадение страны от Католической церкви. Изначально Истина была обнажённой, но папа Иннокентий XI велел «одеть» её в бронзовое платье.
+
+        Совет: многие проходят мимо, не поднимая глаз, — а это одна из самых театральных скульптур Рима.
+      en: |
+        ![The monument to Alexander VII](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Tomb_of_Pope_Alexander_VII_by_Bernini%2C_St._Peter%27s_Basilica_%2848466379271%29.jpg/960px-Tomb_of_Pope_Alexander_VII_by_Bernini%2C_St._Peter%27s_Basilica_%2848466379271%29.jpg)
+        *Photo: Gary Todd, public domain*
+
+        This is Bernini's last work in the basilica, 1671–1678, made when he was nearly eighty. Pope Alexander VII kneels at the top in prayer, without his tiara, like any mortal. Below him a heavy drape of red Sicilian jasper is pulled aside, and a gilded skeleton crawls out from under it, raising an hourglass: the pope's time has run out.
+
+        Bernini made the most of an awkward spot: there was a doorway in the niche, and he turned it into the "door of death" — the skeleton seems to emerge from a real opening that people still walk through today.
+
+        Look at the four women — Charity, Truth, Prudence and Justice. Truth rests her foot on a globe, right on England — a dig at its break with the Catholic Church. Truth was originally nude, but Pope Innocent XI had her "dressed" in a bronze robe.
+
+        Tip: most people walk past without looking up — yet it's one of the most theatrical sculptures in Rome.
+
+  - name: { en: "Vatican Grottoes — optional", ru: "Ватиканские гроты — по желанию" }
+    place: "Grotte Vaticane, Basilica di San Pietro, Città del Vaticano"
+    lat: 41.90222
+    lng: 12.45352
+    radius_m: 30
+    walk_min: 3
+    visit_min: [ 20, 30 ]
+    audio: { ru: audio/italy/03-rome-st-peters/14.mp3 }
+    short:
+      ru: |
+        Вход бесплатный, по указателям «Grotte Vaticane» у одного из пилонов купола. Внизу один путь — к выходу из собора. Иногда гроты закрывают на время служб.
+      en: |
+        Free entry, follow the "Grotte Vaticane" signs by one of the dome piers. Downstairs there's one way through, ending at the basilica exit. They sometimes close during services.
+    long:
+      ru: |
+        Гроты — это пространство между полом нынешнего собора и полом старой, Константиновой базилики, примерно на три метра ниже. Здесь похоронены более ста пап и несколько королей. Атмосфера совсем иная, чем наверху: низкие своды, полумрак, тишина.
+
+        Что посмотреть: гробницы **Павла VI** и **Иоанна Павла I**, который был папой всего 33 дня в 1978 году; гробницу **Бенедикта XVI** — его похоронили в 2023 году в той самой нише, где прежде лежал Иоанн Павел II. Через решётку видна стена, за которой находится гробница апостола Петра. А вот папы Франциска, умершего в 2025 году, здесь нет — по его собственной воле он похоронен в базилике Санта-Мария-Маджоре.
+
+        Совет: выход из гротов выводит наружу сбоку от собора — вернуться внутрь можно только снова через досмотр. Поэтому спускайтесь сюда в самом конце.
+      en: |
+        The grottoes are the space between the floor of today's basilica and the floor of the old Constantinian one, about three metres lower. More than a hundred popes and several monarchs are buried here. The mood is quite different from upstairs: low vaults, half-light and silence.
+
+        Look for the tombs of **Paul VI** and **John Paul I**, who was pope for just 33 days in 1978; and of **Benedict XVI**, buried in 2023 in the very niche where John Paul II once lay. Through a grille you can see the wall behind which St Peter's tomb lies. Pope Francis, who died in 2025, isn't here — at his own wish he was buried in Santa Maria Maggiore.
+
+        Tip: the grottoes exit brings you outside beside the basilica, and getting back in means going through security again — so come down here last.
+
+  - name: { en: "The dome climb — optional", ru: "Подъём на купол — по желанию" }
+    place: "Ingresso Cupola di San Pietro, Città del Vaticano"
+    lat: 41.90250
+    lng: 12.45420
+    radius_m: 40
+    walk_min: 5
+    visit_min: [ 60, 90 ]
+    audio: { ru: audio/italy/03-rome-st-peters/15.mp3 }
+    short:
+      ru: |
+        Только если вы здесь до 9:00: вход справа от собора, билеты на месте (дороже с лифтом). 551 ступень пешком или 320 после лифта; на всё — 1–1,5 часа.
+      en: |
+        Only if you're here before 09:00: the entrance is to the right of the basilica, tickets on the spot (more with the lift). 551 steps on foot, or 320 after the lift; allow 1–1.5 hours.
+    long:
+      ru: |
+        ![Вид на площадь с купола](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Saint_Peter%27s_Square_from_the_dome.jpg/960px-Saint_Peter%27s_Square_from_the_dome.jpg)
+        *Фото: valyag, CC BY-SA 3.0*
+
+        Сначала лифт или лестница поднимают на крышу собора, к статуям фасада. Оттуда — внутренняя галерея по кругу барабана: вы стоите на высоте 53 метров над балдахином, а мозаики купола оказываются на расстоянии вытянутой руки и видны как огромные мозаичные панно из миллионов кусочков.
+
+        Последние 320 ступеней идут между двумя оболочками купола: проход узкий, стены наклонены вслед за изгибом, а наверху — почти вертикальная винтовая лестница с канатом вместо перил. Людям с клаустрофобией или проблемами с сердцем лучше остановиться на крыше.
+
+        Наверху — открытая галерея на высоте 136 метров: вся площадь в форме замочной скважины, Ватиканские сады, Тибр, замок Святого Ангела и весь Рим до самых холмов.
+
+        Совет: если поднимались, обратите внимание на время — к 11:00 нужно выйти, чтобы успеть пообедать до 12:05. Спуск ведёт прямо в собор, так что после купола можно пройти маршрут внизу.
+      en: |
+        ![St Peter's Square from the dome](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Saint_Peter%27s_Square_from_the_dome.jpg/960px-Saint_Peter%27s_Square_from_the_dome.jpg)
+        *Photo: valyag, CC BY-SA 3.0*
+
+        A lift or stairs take you first to the basilica roof, by the façade statues. From there an inner gallery runs round the drum: you stand 53 metres above the canopy, and the dome mosaics are close enough to see as huge panels made of millions of pieces.
+
+        The last 320 steps climb between the dome's two shells: the passage is narrow, the walls lean with the curve, and the final stretch is a near-vertical spiral with a rope for a handrail. If you're claustrophobic or have heart trouble, stop at the roof.
+
+        At the top is an open gallery 136 metres up: the keyhole-shaped square, the Vatican Gardens, the Tiber, Castel Sant'Angelo and the whole of Rome to the hills.
+
+        Tip: if you go up, watch the time — you need to be out by 11:00 to have lunch before 12:05. The way down leads straight into the basilica, so you can do the rest of the walk afterwards.

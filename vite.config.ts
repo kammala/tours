@@ -5,6 +5,7 @@ import { VitePWA } from 'vite-plugin-pwa'
 import { toursPlugin } from './src/data/vite-plugin-tours.ts'
 
 const TILE_CACHE_ENTRIES = 3000
+const IMAGE_CACHE_ENTRIES = 300
 
 export default defineConfig({
   base: './',
@@ -38,6 +39,15 @@ export default defineConfig({
             options: {
               cacheName: 'osm-tiles',
               expiration: { maxEntries: TILE_CACHE_ENTRIES, maxAgeSeconds: 30 * 24 * 3600 },
+              cacheableResponse: { statuses: [0, 200] },
+            },
+          },
+          {
+            urlPattern: /^https:\/\/upload\.wikimedia\.org\//,
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'wikimedia-images',
+              expiration: { maxEntries: IMAGE_CACHE_ENTRIES, maxAgeSeconds: 30 * 24 * 3600 },
               cacheableResponse: { statuses: [0, 200] },
             },
           },
