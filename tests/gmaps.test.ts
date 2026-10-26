@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import { fullRouteParts, MAX_WAYPOINTS, navigateUrl, viaLabel, viaQuery } from '../src/gmaps'
-import { LOOP, point, tour } from './fixtures'
+import { GRAVENSTEEN, KORENMARKT, LOOP, point, START, tour, VRIJDAGMARKT } from './fixtures'
 
 function params(url: string) {
   return Object.fromEntries(new URL(url).searchParams)
@@ -45,5 +45,17 @@ describe('fullRouteParts', () => {
     expect(parts.map(({ from, to }) => [from, to])).toEqual([[0, 10], [10, 20], [20, 24]])
     parts.forEach(({ url }) => expect(params(url).waypoints.split('|').length).toBeLessThanOrEqual(MAX_WAYPOINTS))
     expect(params(parts[1].url).origin).toBe('P10, Gent')
+  })
+
+  it('routes through approach vias before their point and inside vias after it', () => {
+    const castle = { ...GRAVENSTEEN, approach: ['Groentenmarkt', { name: 'Kraanlei', lat: 51.0571, lng: 3.7232 }], inside: ['Sint-Veerleplein'] }
+    const [part] = fullRouteParts(tour([START, KORENMARKT, castle, VRIJDAGMARKT]))
+    expect(params(part.url).waypoints.split('|')).toEqual(['Korenmarkt, Gent', 'Groentenmarkt, Gent', '51.0571,3.7232', 'Gravensteen, Gent', 'Sint-Veerleplein, Gent'])
+  })
+
+  it('labels a part ending mid-leg with the last point passed', () => {
+    const approach = Array.from({ length: 9 }, (_, index) => `Street ${index}`)
+    const points = [START, KORENMARKT, { ...GRAVENSTEEN, approach }, VRIJDAGMARKT]
+    expect(fullRouteParts(tour(points)).map(({ from, to }) => [from, to])).toEqual([[0, 1], [1, 3]])
   })
 })

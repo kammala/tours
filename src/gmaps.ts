@@ -30,15 +30,27 @@ export function navigateUrl(tour: TourData, index: number): string {
 
 export type RoutePart = { url: string; from: number; to: number }
 
+type RouteStop = { query: string; passed: number }
+
+function routeStops(tour: TourData): RouteStop[] {
+  const suffix = tour.place_suffix
+  return tour.points.flatMap((point, index) => [
+    ...(point.approach ?? []).map((via) => ({ query: viaQuery(via, suffix), passed: Math.max(index - 1, 0) })),
+    { query: pointQuery(point, suffix), passed: index },
+    ...(point.inside ?? []).map((via) => ({ query: viaQuery(via, suffix), passed: index })),
+  ])
+}
+
 export function fullRouteParts(tour: TourData): RoutePart[] {
-  const last = tour.points.length - 1
-  if (tour.map_url) return [{ url: tour.map_url, from: 0, to: last }]
-  const stops = tour.points.map((point) => pointQuery(point, tour.place_suffix))
+  if (tour.map_url) return [{ url: tour.map_url, from: 0, to: tour.points.length - 1 }]
+  const stops = routeStops(tour)
+  const last = stops.length - 1
   const step = MAX_WAYPOINTS + 1
   const parts: RoutePart[] = []
   for (let from = 0; from < last; from += step) {
     const to = Math.min(from + step, last)
-    parts.push({ url: directionsUrl(stops.slice(from, to + 1)), from, to })
+    const leg = stops.slice(from, to + 1)
+    parts.push({ url: directionsUrl(leg.map(({ query }) => query)), from: stops[from].passed, to: stops[to].passed })
   }
   return parts
 }
