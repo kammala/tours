@@ -1,0 +1,595 @@
+country: { en: Italy, ru: Италия }
+city: { en: Florence, ru: Флоренция }
+name: { en: "Wed 28 Oct · The Uffizi room by room", ru: "Ср, 28 окт · Уффици по залам" }
+place_suffix: Firenze
+summary:
+  ru: "≈ 1,5 км по залам, 2–2,5 часа; вход в 14:30. Аудиогид на русском в каждой точке"
+  en: "≈ 1.5 km of galleries, 2–2.5 hours; entry at 14:30. Russian audio at every stop"
+intro:
+  ru: |
+    Подробная прогулка по галерее Уффици — дневная часть дня «Сады Боболи, Ольтрарно и Уффици». Маршрут идёт по главному пути музея: сначала второй этаж — от средневековых алтарей через Боттичелли и Леонардо к Микеланджело и Рафаэлю, потом первый — Тициан и Караваджо. У каждой точки есть **аудиорассказ на русском** на 1–2 минуты — откройте точку и нажмите ▶; наушники обязательны.
+
+    **Вход.** Будьте у входа для забронированных билетов к **14:15** (номер двери — в письме), билеты на **14:30**, на троих, с паспортами. Сразу после досмотра, под восточной колоннадой, — бесплатный гардероб: туда чемодан, рюкзаки и зонты.
+
+    **Время.** Закат на Понте Веккьо около 17:10, поэтому выходите к **16:50**. Если не успеваете — пропустите кафе и первый этаж оставьте на последние полчаса: Тициан и Караваджо стоят того, чтобы прийти к ним не уставшими, но Боттичелли, Леонардо и Микеланджело важнее.
+
+    **Если устанут ноги.** На второй этаж ведёт парадная лестница Вазари — 126 ступеней; рядом с гардеробом есть **лифт**, спросите у смотрителей. Скамейки — почти в каждом зале и вдоль коридоров. Инвалидные коляски можно попросить в гардеробе.
+
+    **Правила.** Фотографировать без вспышки можно везде. Залы иногда перевешивают — если картины нет на месте, спросите смотрителя «Dov'è …?» или посмотрите план музея у входа.
+
+    *Фото: Wikimedia Commons, авторы и лицензии — под каждым снимком.*
+  en: |
+    A detailed walk through the Uffizi — the afternoon part of "Boboli, the Oltrarno and the Uffizi". It follows the museum's main route: the second floor first, from medieval altarpieces through Botticelli and Leonardo to Michelangelo and Raphael, then the first floor for Titian and Caravaggio. Every stop has a 1–2 minute **Russian audio narration** — open the stop and press ▶ (English listeners can read the text); bring earphones.
+
+    **Entry.** Be at the pre-booked entrance by **14:15** (the door number is in your email); tickets for **14:30**, for three, with passports. Right after security, under the eastern colonnade, is the free cloakroom: the suitcase, backpacks and umbrellas go there.
+
+    **Time.** Sunset on Ponte Vecchio is around 17:10, so head out by **16:50**. If you're running late, skip the café; Titian and Caravaggio deserve fresh eyes, but Botticelli, Leonardo and Michelangelo matter more.
+
+    **If legs get tired.** Vasari's grand staircase to the second floor has 126 steps; there's a **lift** near the cloakroom — ask the attendants. There are benches in almost every room and along the corridors. Wheelchairs can be requested at the cloakroom.
+
+    **Rules.** Photos without flash are fine everywhere. Rooms are sometimes rehung — if a painting isn't where this says, ask an attendant "Dov'è …?" or check the floor plan by the entrance.
+
+    *Photos: Wikimedia Commons; authors and licences under each picture.*
+outro:
+  ru: |
+    Дальше по плану дня — [Понте Веккьо на закате](#/tour/italy/05-florence-in-depth/8): от выхода две минуты по площади Уффици к реке и направо.
+  en: |
+    Next in the day plan: [Ponte Vecchio at sunset](#/tour/italy/05-florence-in-depth/8), two minutes from the exit down the Uffizi courtyard to the river and right.
+points:
+  - name: { en: Entrance and cloakroom, ru: Вход и гардероб }
+    place: "Galleria degli Uffizi, Piazzale degli Uffizi 6, Firenze"
+    lat: 43.76860
+    lng: 11.25585
+    radius_m: 60
+    audio: { ru: audio/italy/05-florence-uffizi/01.mp3 }
+    short:
+      ru: |
+        Вход для забронированных билетов — под восточной колоннадой, со стороны Палаццо Веккьо. Досмотр, гардероб, потом лифт или лестница Вазари на второй этаж.
+      en: |
+        The pre-booked entrance is under the eastern colonnade, on the Palazzo Vecchio side. Security, cloakroom, then the lift or Vasari's staircase to the second floor.
+    long:
+      ru: |
+        ![Двор Уффици](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Uffizi_courtyard%2C_Florence.jpg/960px-Uffizi_courtyard%2C_Florence.jpg)
+        *Фото: Armin Kleiner, CC BY-SA 4.0*
+
+        Здание построил Джорджо Вазари в 1560-х годах для герцога Козимо I Медичи — как правительственные конторы, «уффици» по-итальянски и значит «офисы». Это длинная подкова: два крыла вдоль площади и короткая перемычка над Арно. Под крышей, на втором этаже, Медичи устроили галерею для своих статуй и картин, и уже в XVI веке туда пускали знатных гостей. В 1737 году последняя из рода, Анна Мария Луиза Медичи, завещала всё собрание Флоренции с условием, что оно никогда не покинет город. Поэтому всё это до сих пор здесь.
+
+        Посмотрите на колоннаду: в нишах стоят статуи великих тосканцев XIX века — Данте, Леонардо, Микеланджело, Галилей, Макиавелли. Сегодня вы увидите работы многих из них.
+
+        Совет: чемодан, рюкзаки и зонты — в гардероб сразу после досмотра, это бесплатно. Наверх лучше на лифте: лестница Вазари длинная, а впереди два с лишним часа на ногах.
+      en: |
+        ![The Uffizi courtyard](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Uffizi_courtyard%2C_Florence.jpg/960px-Uffizi_courtyard%2C_Florence.jpg)
+        *Photo: Armin Kleiner, CC BY-SA 4.0*
+
+        Giorgio Vasari built it in the 1560s for Duke Cosimo I de' Medici as government offices — "uffizi" simply means offices. It's a long horseshoe: two wings along the courtyard and a short link over the Arno. Up under the roof, on the second floor, the Medici set up a gallery for their statues and paintings, and as early as the 16th century distinguished guests were let in. In 1737 the last of the line, Anna Maria Luisa de' Medici, left the whole collection to Florence on condition that it never leave the city. That's why it's all still here.
+
+        Look at the colonnade: its niches hold 19th-century statues of great Tuscans — Dante, Leonardo, Michelangelo, Galileo, Machiavelli. You'll see work by several of them today.
+
+        Tip: suitcase, backpacks and umbrellas go to the cloakroom straight after security, free of charge. Take the lift up: Vasari's staircase is long, and there are two-plus hours on your feet ahead.
+
+  - name: { en: The East Corridor, ru: Восточный коридор }
+    place: "Galleria degli Uffizi, Firenze"
+    lat: 43.76840
+    lng: 11.25595
+    radius_m: 50
+    walk_min: 3
+    visit_min: [ 3, 5 ]
+    audio: { ru: audio/italy/05-florence-uffizi/02.mp3 }
+    short:
+      ru: |
+        Наверху — длинный светлый коридор с античными статуями вдоль стен. Посмотрите вверх, а потом сразу налево, в зал 2.
+      en: |
+        Upstairs is a long bright corridor lined with ancient statues. Look up, then turn straight into Room 2.
+    long:
+      ru: |
+        ![Коридор Уффици](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Uffizi_Gallery%2C_Florence-2.jpg/960px-Uffizi_Gallery%2C_Florence-2.jpg)
+        *Фото: Armin Kleiner, CC BY-SA 4.0*
+
+        Это и есть изначальная галерея Медичи. Окна с одной стороны, залы с другой — так был задуман первый в Европе музей в современном смысле: длинный коридор, по которому гуляют и разглядывают коллекцию.
+
+        Посмотрите на потолок: он весь расписан **гротесками** — фантастическими существами, гирляндами, масками, птицами и сценками. Этот стиль художники Возрождения подсмотрели в подземных залах Золотого дома Нерона в Риме, которые тогда казались гротами, — отсюда и слово «гротеск». Роспись делали в 1580-х годах, и каждый пролёт отличается от соседнего.
+
+        Вдоль стен — римские мраморные статуи и бюсты императоров, которые Медичи собирали так же страстно, как картины. Для них античность была образцом, а живопись, которую вы увидите в залах, выросла из этого восхищения.
+
+        Совет: в окна видны башня Палаццо Веккьо и красные крыши; к виду на реку вы выйдете позже, в коридоре над Арно.
+      en: |
+        ![The Uffizi corridor](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Uffizi_Gallery%2C_Florence-2.jpg/960px-Uffizi_Gallery%2C_Florence-2.jpg)
+        *Photo: Armin Kleiner, CC BY-SA 4.0*
+
+        This is the original Medici gallery. Windows on one side, rooms on the other — it was conceived as Europe's first museum in the modern sense: a long corridor to stroll along while looking at the collection.
+
+        Look at the ceiling: it's covered in **grotesques** — fantastical creatures, garlands, masks, birds and little scenes. Renaissance artists copied the style from the buried rooms of Nero's Golden House in Rome, which at the time looked like grottoes — hence "grotesque". It was painted in the 1580s, and every bay is different from the next.
+
+        Along the walls are Roman marble statues and imperial busts, which the Medici collected as eagerly as paintings. Antiquity was their model, and the painting you'll see in the rooms grew out of that admiration.
+
+        Tip: the windows show Palazzo Vecchio's tower and the red roofs; the river view comes later, in the corridor over the Arno.
+
+  - name: { en: "Room 2: three great Madonnas", ru: "Зал 2: три Мадонны" }
+    place: "Galleria degli Uffizi, Firenze"
+    lat: 43.76875
+    lng: 11.25605
+    radius_m: 40
+    walk_min: 1
+    visit_min: [ 5, 8 ]
+    audio: { ru: audio/italy/05-florence-uffizi/03.mp3 }
+    short:
+      ru: |
+        Зал, похожий на церковь, с тремя огромными алтарными образами. Встаньте в центре: слева Чимабуэ, посередине Дуччо, справа Джотто.
+      en: |
+        A church-like room with three huge altarpieces. Stand in the middle: Cimabue on the left, Duccio in the centre, Giotto on the right.
+    long:
+      ru: |
+        ![Джотто, «Мадонна Оньиссанти»](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Madonna_di_Ognissanti_by_Giotto.jpg/960px-Madonna_di_Ognissanti_by_Giotto.jpg)
+        *Фото: общественное достояние*
+
+        С этого зала начинается история итальянской живописи — буквально за три картины. Все три — **Мадонна на троне с Младенцем и ангелами**, все три написаны в одном городе за тридцать лет, между 1280 и 1310 годами.
+
+        **Чимабуэ** — ещё почти икона: золотой фон, вытянутые фигуры, плоские складки, трон, который непонятно на чём стоит. **Дуччо** из Сиены — мягче и наряднее: тонкие линии, нежные лица, прозрачная ткань. А теперь **Джотто**, ученик Чимабуэ: Мадонна у него тяжёлая и настоящая, под одеждой чувствуется тело, колени выступают вперёд, трон стоит в пространстве, и ангелы заглядывают в него сбоку. Это первый шаг к живописи, которая изображает мир таким, каким мы его видим.
+
+        Данте, современник Джотто, писал, что слава Чимабуэ померкла, когда пришёл Джотто, — и здесь это видно своими глазами.
+
+        Совет: отойдите к дальней стене и посмотрите на троны: у Чимабуэ он плоский, у Джотто — как настоящий готический киот, в который можно войти.
+      en: |
+        ![Giotto, Ognissanti Madonna](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Madonna_di_Ognissanti_by_Giotto.jpg/960px-Madonna_di_Ognissanti_by_Giotto.jpg)
+        *Photo: public domain*
+
+        The history of Italian painting starts in this room — in just three pictures. All three show the **Madonna enthroned with the Child and angels**, and all three were painted within thirty years, between 1280 and 1310.
+
+        **Cimabue** is still close to an icon: gold background, elongated figures, flat folds, a throne that stands on nothing in particular. **Duccio** of Siena is softer and more elegant: fine lines, gentle faces, translucent fabric. Now **Giotto**, Cimabue's pupil: his Madonna is heavy and real, there's a body under the clothes, her knees push forward, the throne stands in space and the angels peer into it from the side. It's the first step towards painting the world as we see it.
+
+        Dante, Giotto's contemporary, wrote that Cimabue's fame was eclipsed when Giotto came along — and here you can see why.
+
+        Tip: step back to the far wall and compare the thrones: Cimabue's is flat, Giotto's is a real Gothic shrine you could walk into.
+
+  - name: { en: "Room 3: Simone Martini's Annunciation", ru: "Зал 3: «Благовещение» Симоне Мартини" }
+    place: "Galleria degli Uffizi, Firenze"
+    lat: 43.76865
+    lng: 11.25600
+    radius_m: 40
+    walk_min: 1
+    visit_min: [ 3, 5 ]
+    audio: { ru: audio/italy/05-florence-uffizi/04.mp3 }
+    short:
+      ru: |
+        Сиенский зал. Главная картина — золотое «Благовещение» с ангелом слева и отпрянувшей Марией справа.
+      en: |
+        The Sienese room. The star is the golden Annunciation, with the angel on the left and Mary shrinking back on the right.
+    long:
+      ru: |
+        ![Симоне Мартини, «Благовещение»](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Simone_Martini_-_The_Annunciation_and_Two_Saints_-_WGA21438.jpg/960px-Simone_Martini_-_The_Annunciation_and_Two_Saints_-_WGA21438.jpg)
+        *Фото: общественное достояние*
+
+        «Благовещение» написали в 1333 году **Симоне Мартини** и его шурин **Липпо Мемми** для собора Сиены. Сиена тогда соперничала с Флоренцией не только в торговле, но и в искусстве, и её художники шли другим путём, чем Джотто: не к тяжести и объёму, а к изяществу и золоту.
+
+        Посмотрите на детали. Слова ангела — «Радуйся, Благодатная, Господь с Тобою» — буквально летят из его рта к Марии, выпуклыми золотыми буквами по фону. Сама Мария не склоняется покорно, как на многих картинах, а испуганно отстраняется и запахивает плащ — это живая человеческая реакция. Ангел ещё в движении: плащ развевается, крылья не сложены. Между ними — ваза с белыми лилиями, символом чистоты, а у ангела в руке оливковая ветвь — знак мира; лилия была символом соперницы-Флоренции.
+
+        Совет: подойдите вплотную к золоту — фон не гладкий, а весь в тиснёных узорах, их наносили штампами по позолоте.
+      en: |
+        ![Simone Martini, Annunciation](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Simone_Martini_-_The_Annunciation_and_Two_Saints_-_WGA21438.jpg/960px-Simone_Martini_-_The_Annunciation_and_Two_Saints_-_WGA21438.jpg)
+        *Photo: public domain*
+
+        The Annunciation was painted in 1333 by **Simone Martini** and his brother-in-law **Lippo Memmi** for Siena Cathedral. Siena rivalled Florence in art as well as trade, and its painters took a different road from Giotto: not weight and volume but elegance and gold.
+
+        Look at the details. The angel's words — "Hail, full of grace, the Lord is with thee" — literally fly from his mouth towards Mary in raised gold letters across the background. Mary doesn't bow meekly as in so many paintings: she shrinks back in alarm and pulls her cloak closed — a real human reaction. The angel is still in motion: cloak fluttering, wings not yet folded. Between them is a vase of white lilies, symbol of purity; the angel holds an olive branch, a sign of peace — the lily was the emblem of rival Florence.
+
+        Tip: get close to the gold — the background isn't smooth but tooled all over with patterns punched into the gilding.
+
+  - name: { en: "Rooms 5–6: Gentile da Fabriano", ru: "Залы 5–6: Джентиле да Фабриано" }
+    place: "Galleria degli Uffizi, Firenze"
+    lat: 43.76850
+    lng: 11.25595
+    radius_m: 40
+    walk_min: 1
+    visit_min: [ 3, 5 ]
+    audio: { ru: audio/italy/05-florence-uffizi/05.mp3 }
+    short:
+      ru: |
+        Зал «интернациональной готики». Ищите сверкающее золотом «Поклонение волхвов» в резной раме.
+      en: |
+        The International Gothic room. Look for the glittering gold Adoration of the Magi in its carved frame.
+    long:
+      ru: |
+        ![Джентиле да Фабриано, «Поклонение волхвов»](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gentile_da_fabriano%2C_adorazione_dei_magi.jpg/960px-Gentile_da_fabriano%2C_adorazione_dei_magi.jpg)
+        *Фото: общественное достояние*
+
+        «Поклонение волхвов» **Джентиле да Фабриано** заказал в 1423 году **Палла Строцци** — самый богатый человек Флоренции того времени, богаче даже Медичи. И картина выглядит как демонстрация богатства: настоящее золото не только на фоне, но и на коронах, шпорах, сбруе, узорах тканей — где-то оно выпуклое, почти ювелирное.
+
+        Читайте картину сверху вниз и слева направо: в трёх арках вверху волхвы видят звезду, едут через горы и въезжают в город, а внизу вся процессия наконец добирается до Младенца. Свита — как двор средневекового короля: лошади, соколы, собаки, обезьянка, пажи, экзотические звери. Старший волхв уже на коленях, а самый молодой, нарядный, снимает с него шпоры. Говорят, что у его правого плеча в толпе — сам Палла Строцци в красной шапке.
+
+        Совет: посмотрите на нижнюю полосу, пределлу: в сцене бегства в Египет Джентиле одним из первых нарисовал настоящий пейзаж с солнцем, которое отбрасывает тени.
+      en: |
+        ![Gentile da Fabriano, Adoration of the Magi](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gentile_da_fabriano%2C_adorazione_dei_magi.jpg/960px-Gentile_da_fabriano%2C_adorazione_dei_magi.jpg)
+        *Photo: public domain*
+
+        Gentile da Fabriano's Adoration of the Magi was commissioned in 1423 by **Palla Strozzi** — the richest man in Florence at the time, richer even than the Medici. And it looks like a display of wealth: real gold not just in the background but on the crowns, spurs, harness and fabric patterns, in places raised like jewellery.
+
+        Read it top to bottom and left to right: in the three arches above, the Magi see the star, ride through the mountains and enter a city; below, the whole procession finally reaches the Child. The retinue is a medieval royal court: horses, falcons, dogs, a monkey, pages and exotic beasts. The oldest king is already kneeling, while the youngest and finest-dressed has a page removing his spurs. Palla Strozzi himself is said to be in the crowd, in a red hat.
+
+        Tip: look at the strip along the bottom, the predella: in the Flight into Egypt, Gentile painted one of the first real landscapes, with a sun that casts shadows.
+
+  - name: { en: "Rooms 7–8: Uccello, Piero, Lippi", ru: "Залы 7–8: Уччелло, Пьеро, Липпи" }
+    place: "Galleria degli Uffizi, Firenze"
+    lat: 43.76835
+    lng: 11.25588
+    radius_m: 40
+    walk_min: 1
+    visit_min: [ 8, 10 ]
+    audio: { ru: audio/italy/05-florence-uffizi/06.mp3 }
+    short:
+      ru: |
+        Раннее Возрождение. В зале 7 — битва с копьями и двойной портрет в профиль, в зале 8 — Мадонна Филиппо Липпи.
+      en: |
+        The early Renaissance. Room 7 has the battle full of lances and the double profile portrait; Room 8 has Filippo Lippi's Madonna.
+    long:
+      ru: |
+        ![Пьеро делла Франческа, портреты герцогов Урбино](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Piero_della_Francesca_044.jpg/960px-Piero_della_Francesca_044.jpg)
+        *Фото: общественное достояние*
+
+        Здесь флорентийцы открывают перспективу. **Паоло Уччелло** был ею одержим: говорили, что ночью жена звала его спать, а он отвечал «какая сладкая вещь перспектива». Его **«Битва при Сан-Романо»** — одна из трёх панелей, две другие в Лондоне и Париже. Посмотрите на землю: сломанные копья лежат как линии сетки, уходящие вглубь, и даже упавший воин уложен строго по перспективе. Лошади при этом похожи на игрушечные — это скорее геометрия, чем бой.
+
+        **Пьеро делла Франческа** — двойной портрет **герцога Урбино Федерико да Монтефельтро** и его жены **Баттисты Сфорца**. Федерико всегда писали только с левой стороны лица: на турнире он потерял правый глаз, а переносицу ему потом срезали, чтобы лучше видеть уцелевшим. Баттиста так бледна потому, что портрет писали уже после её смерти. За ними — тот же холмистый пейзаж, единая земля, которой они правили.
+
+        ![Филиппо Липпи, «Мадонна с Младенцем и двумя ангелами»](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Fra_Filippo_Lippi_-_Madonna_and_Child_with_two_Angels_-_Uffizi.jpg/960px-Fra_Filippo_Lippi_-_Madonna_and_Child_with_two_Angels_-_Uffizi.jpg)
+        *Фото: общественное достояние*
+
+        В зале 8 — **«Мадонна с Младенцем и двумя ангелами» Филиппо Липпи**. Липпи был монахом, который похитил из монастыря монахиню Лукрецию Бути, и говорят, что Мадонна написана с неё. Посмотрите на ангела справа: он с озорной улыбкой смотрит прямо на нас. Учеником Липпи был Боттичелли — и это видно уже в следующих залах.
+      en: |
+        ![Piero della Francesca, the Duke and Duchess of Urbino](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Piero_della_Francesca_044.jpg/960px-Piero_della_Francesca_044.jpg)
+        *Photo: public domain*
+
+        This is where the Florentines discover perspective. **Paolo Uccello** was obsessed with it: when his wife called him to bed at night, he supposedly answered, "what a sweet thing perspective is". His **Battle of San Romano** is one of three panels; the others are in London and Paris. Look at the ground: broken lances lie like grid lines running into depth, and even a fallen soldier is laid out in strict perspective. The horses, meanwhile, look like toys — it's more geometry than battle.
+
+        **Piero della Francesca**'s double portrait shows **Federico da Montefeltro, Duke of Urbino**, and his wife **Battista Sforza**. Federico was only ever painted from his left side: he lost his right eye in a tournament and later had the bridge of his nose cut away to see better with the good one. Battista is so pale because the portrait was painted after her death. Behind them is the same rolling landscape — the single land they ruled.
+
+        ![Filippo Lippi, Madonna and Child with Two Angels](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Fra_Filippo_Lippi_-_Madonna_and_Child_with_two_Angels_-_Uffizi.jpg/960px-Fra_Filippo_Lippi_-_Madonna_and_Child_with_two_Angels_-_Uffizi.jpg)
+        *Photo: public domain*
+
+        In Room 8 is **Filippo Lippi's Madonna and Child with Two Angels**. Lippi was a monk who eloped with a nun, Lucrezia Buti, and she's said to be the model for the Madonna. Look at the angel on the right, grinning cheekily straight at us. Lippi's pupil was Botticelli — and it shows in the next rooms.
+
+  - name: { en: "Botticelli I: Primavera", ru: "Боттичелли I: «Весна»" }
+    place: "Galleria degli Uffizi, Firenze"
+    lat: 43.76815
+    lng: 11.25580
+    radius_m: 40
+    walk_min: 1
+    visit_min: [ 8, 12 ]
+    audio: { ru: audio/italy/05-florence-uffizi/07.mp3 }
+    short:
+      ru: |
+        Большой зал Боттичелли (залы 10–14). «Весна» и «Рождение Венеры» висят друг напротив друга. Начните с «Весны» — она на тёмном фоне апельсиновой рощи.
+      en: |
+        The big Botticelli room (Rooms 10–14). Primavera and the Birth of Venus hang facing each other. Start with Primavera, on the dark background of an orange grove.
+    long:
+      ru: |
+        ![Боттичелли, «Весна»](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sandro_Botticelli_-_La_Primavera_-_Google_Art_Project.jpg/960px-Sandro_Botticelli_-_La_Primavera_-_Google_Art_Project.jpg)
+        *Фото: общественное достояние*
+
+        **«Весну»** Сандро Боттичелли написал около 1480 года для кого-то из семьи Медичи, скорее всего к свадьбе. Её смысл спорят до сих пор, но читать фигуры удобнее справа налево.
+
+        Справа синий, холодный **Зефир**, западный ветер, хватает нимфу **Хлориду** — у неё изо рта уже сыплются цветы, и рядом она же превращается во **Флору**, богиню весны, в платье, усыпанном цветами, которая разбрасывает розы. В центре, чуть позади, — **Венера**, богиня любви, а над ней летит Купидон с завязанными глазами и целится стрелой. Левее танцуют три **Грации** в прозрачных одеждах — Купидон метит в ту, что посередине. Слева — **Меркурий**: жезлом он разгоняет облака, чтобы в этом саду всегда было ясно.
+
+        Под ногами — целый ботанический атлас: учёные насчитали около 190 видов цветов, и почти все растут в окрестностях Флоренции весной.
+
+        Совет: днём здесь самая густая толпа. Не пробивайтесь вперёд: картина огромная, её лучше видно с середины зала. Если совсем тесно — сходите в Трибуну за углом и вернитесь сюда.
+      en: |
+        ![Botticelli, Primavera](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sandro_Botticelli_-_La_Primavera_-_Google_Art_Project.jpg/960px-Sandro_Botticelli_-_La_Primavera_-_Google_Art_Project.jpg)
+        *Photo: public domain*
+
+        Sandro Botticelli painted **Primavera** around 1480 for a member of the Medici family, most likely for a wedding. Its meaning is still debated, but the figures are easiest to read right to left.
+
+        On the right, blue and chilly **Zephyr**, the west wind, seizes the nymph **Chloris** — flowers are already spilling from her mouth, and next to her she turns into **Flora**, goddess of spring, in a dress strewn with flowers, scattering roses. In the centre, set slightly back, is **Venus**, goddess of love, with a blindfolded Cupid flying above her, aiming an arrow. To the left the three **Graces** dance in transparent robes — Cupid is aiming at the middle one. On the far left, **Mercury** uses his staff to push away the clouds so it's always fair in this garden.
+
+        Underfoot is a whole botanical atlas: scholars have counted about 190 species of flowers, nearly all of them growing around Florence in spring.
+
+        Tip: in the afternoon this is the densest crowd. Don't push to the front: the painting is huge and reads better from the middle of the room. If it's really packed, visit the Tribuna round the corner and come back.
+
+  - name: { en: "Botticelli II: The Birth of Venus", ru: "Боттичелли II: «Рождение Венеры»" }
+    place: "Galleria degli Uffizi, Firenze"
+    lat: 43.76810
+    lng: 11.25578
+    radius_m: 40
+    walk_min: 1
+    visit_min: [ 8, 12 ]
+    audio: { ru: audio/italy/05-florence-uffizi/08.mp3 }
+    short:
+      ru: |
+        Повернитесь к противоположной стене: Венера на раковине. Потом обойдите зал — «Поклонение волхвов» с автопортретом Боттичелли и огромный нидерландский триптих Портинари.
+      en: |
+        Turn to the opposite wall: Venus on her shell. Then go round the room for the Adoration of the Magi with Botticelli's self-portrait and the huge Netherlandish Portinari Triptych.
+    long:
+      ru: |
+        ![Боттичелли, «Рождение Венеры»](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/960px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg)
+        *Фото: общественное достояние*
+
+        **«Рождение Венеры»**, около 1485 года, — одна из первых больших картин Возрождения на холсте, а не на доске, и первая со времён античности, где обнажённая богиня — главная героиня, а не грешница.
+
+        Венера только что родилась из морской пены и плывёт к берегу на раковине. Слева её подгоняют ветры — **Зефир** и обнявшая его нимфа, — и вокруг летят розы. Справа на берегу Ора, богиня времени года, протягивает ей плащ в цветах. Поза Венеры — стыдливо прикрывающаяся рукой — взята прямо с античной статуи: вы увидите такую же Венеру через несколько минут в Трибуне. Длинная шея, покатые плечи и неестественно длинная левая рука Боттичелли не смущали: ему важна была красота линии, а не анатомия. Есть легенда, что моделью была Симонетта Веспуччи, первая красавица Флоренции, но это скорее романтическая выдумка.
+
+        ![Боттичелли, «Поклонение волхвов»](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Sandro_Botticelli_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg/960px-Sandro_Botticelli_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg)
+        *Фото: общественное достояние*
+
+        Найдите в зале и **«Поклонение волхвов»** Боттичелли: волхвы и свита — это Медичи, а у правого края стоит мужчина в жёлтом плаще и смотрит прямо на нас — это сам Боттичелли. А **триптих Портинари** Хуго ван дер Гуса привезли из Брюгге в 1483 году: флорентийцы впервые увидели, на что способна масляная живопись, — посмотрите на грубые, живые лица пастухов.
+      en: |
+        ![Botticelli, The Birth of Venus](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/960px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg)
+        *Photo: public domain*
+
+        **The Birth of Venus**, around 1485, is one of the first large Renaissance paintings on canvas rather than wood, and the first since antiquity in which a nude goddess is the heroine rather than a sinner.
+
+        Venus has just been born from the sea foam and floats ashore on a shell. On the left the winds blow her along — **Zephyr** with a nymph wrapped around him — and roses tumble through the air. On the right, on the shore, a Hora, goddess of the seasons, holds out a flowered cloak. Venus's modest pose, covering herself with her hand, comes straight from an ancient statue: you'll see just such a Venus in a few minutes in the Tribuna. The long neck, sloping shoulders and impossibly long left arm didn't bother Botticelli: he cared about the beauty of the line, not anatomy. Legend says the model was Simonetta Vespucci, the great beauty of Florence, but that's more romance than fact.
+
+        ![Botticelli, Adoration of the Magi](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Sandro_Botticelli_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg/960px-Sandro_Botticelli_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg)
+        *Photo: public domain*
+
+        Find Botticelli's **Adoration of the Magi** in the room too: the Magi and their retinue are the Medici, and at the right edge a man in a yellow cloak looks straight at us — Botticelli himself. Hugo van der Goes's **Portinari Triptych** arrived from Bruges in 1483: it showed Florentines what oil paint could do — look at the rough, living faces of the shepherds.
+
+  - name: { en: "The Tribuna", ru: "Трибуна" }
+    place: "Tribuna degli Uffizi, Firenze"
+    lat: 43.76797
+    lng: 11.25566
+    radius_m: 40
+    walk_min: 2
+    visit_min: [ 3, 5 ]
+    audio: { ru: audio/italy/05-florence-uffizi/09.mp3 }
+    short:
+      ru: |
+        Восьмиугольный красный зал с куполом — в него не заходят, смотрят из дверей. В центре — Венера Медичи.
+      en: |
+        An octagonal red room with a dome — you don't go in, you look through the doorways. In the middle is the Medici Venus.
+    long:
+      ru: |
+        ![Трибуна](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Tribuna_uffizi.jpg/960px-Tribuna_uffizi.jpg)
+        *Фото: Marta De Bortoli1991, CC BY-SA 4.0*
+
+        **Трибуну** построил архитектор Бернардо Буонталенти в 1584 году для великого герцога Франческо I Медичи — как сокровищницу для самых ценных вещей. Это был кабинет чудес: здесь собраны четыре стихии. Воздух — флюгер на фонаре купола, который был соединён со стрелкой внутри; вода — купол, выложенный тысячами перламутровых раковин; огонь — красный бархат стен; земля — пол из цветного камня, флорентийской мозаики.
+
+        В центре — **Венера Медичи**, античная мраморная копия греческой статуи. Узнаёте позу? Это та самая стыдливая Венера, которую Боттичелли перенёс на свою картину. В XVIII веке, в эпоху Гранд-тура, она считалась самой красивой статуей в мире: английские аристократы приезжали во Флоренцию ради неё, а Наполеон увёз её в Париж — после его падения статую вернули.
+
+        Совет: обойдите Трибуну по коридору и загляните во все двери — с разных сторон видны разные статуи, и купол с перламутром лучше всего виден с дальнего входа.
+      en: |
+        ![The Tribuna](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Tribuna_uffizi.jpg/960px-Tribuna_uffizi.jpg)
+        *Photo: Marta De Bortoli1991, CC BY-SA 4.0*
+
+        Architect Bernardo Buontalenti built the **Tribuna** in 1584 for Grand Duke Francesco I de' Medici as a treasury for his most precious things. It was a cabinet of wonders, holding all four elements: air — a weather vane on the lantern, once linked to a pointer inside; water — the dome, inlaid with thousands of mother-of-pearl shells; fire — the red velvet walls; earth — the floor of coloured stone inlay.
+
+        In the centre is the **Medici Venus**, an ancient marble copy of a Greek statue. Recognise the pose? It's the same modest Venus Botticelli borrowed for his painting. In the 18th century, the age of the Grand Tour, it was thought the most beautiful statue in the world: English aristocrats came to Florence for it, and Napoleon carried it off to Paris — it was returned after his fall.
+
+        Tip: walk around the Tribuna and look through every doorway — each shows different statues, and the mother-of-pearl dome is best seen from the far entrance.
+
+  - name: { en: The corridor over the Arno, ru: Коридор над Арно }
+    place: "Galleria degli Uffizi, Firenze"
+    lat: 43.76776
+    lng: 11.25530
+    radius_m: 40
+    walk_min: 2
+    visit_min: [ 3, 5 ]
+    audio: { ru: audio/italy/05-florence-uffizi/10.mp3 }
+    short:
+      ru: |
+        Короткий коридор с окнами на реку. Подойдите к окну с видом на Понте Веккьо — хорошее место присесть.
+      en: |
+        A short corridor with windows over the river. Go to the window looking at Ponte Vecchio — a good place to sit down.
+    long:
+      ru: |
+        ![Коридор Вазари и Понте Веккьо из Уффици](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Vasari_corridor_and_Ponte_Vecchio_seen_from_the_Uffizi.jpg/960px-Vasari_corridor_and_Ponte_Vecchio_seen_from_the_Uffizi.jpg)
+        *Фото: Armin Kleiner, CC BY-SA 4.0*
+
+        Отсюда виден весь **Понте Веккьо** — лавки ювелиров, а над ними ряд маленьких окошек. Это **коридор Вазари**: в 1565 году за пять месяцев Вазари построил крытый проход от Палаццо Веккьо через Уффици, над мостом и дальше к палаццо Питти, где жили Медичи. Герцог мог пройти почти километр от дома до работы, не выходя на улицу и не встречаясь с подданными. Коридор недавно открыли после восьмилетней реставрации, но вход туда — по отдельному билету.
+
+        Посмотрите и на сам коридор, где вы стоите: здесь стоят античные статуи, а окна на обе стороны дают редкий вид — с одной стороны река и холмы Ольтрарно, где вы были утром, с другой — вся площадь Уффици до башни Палаццо Веккьо.
+
+        Совет: вечером, на закате, вы будете стоять на этом мосту и смотреть сюда, на эти окна. Хорошее место, чтобы присесть на пару минут перед второй половиной музея.
+      en: |
+        ![The Vasari Corridor and Ponte Vecchio from the Uffizi](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Vasari_corridor_and_Ponte_Vecchio_seen_from_the_Uffizi.jpg/960px-Vasari_corridor_and_Ponte_Vecchio_seen_from_the_Uffizi.jpg)
+        *Photo: Armin Kleiner, CC BY-SA 4.0*
+
+        From here you can see all of **Ponte Vecchio** — the goldsmiths' shops, and above them a row of small windows. That's the **Vasari Corridor**: in 1565 Vasari built, in five months, a covered passage from Palazzo Vecchio through the Uffizi, over the bridge and on to Palazzo Pitti, where the Medici lived. The duke could walk nearly a kilometre from home to work without going outside or meeting his subjects. It recently reopened after an eight-year restoration, but it needs a separate ticket.
+
+        Look at the corridor you're standing in too: ancient statues, and windows on both sides — the river and the Oltrarno hills where you were this morning on one, the whole Uffizi courtyard up to Palazzo Vecchio's tower on the other.
+
+        Tip: at sunset you'll be standing on that bridge looking back at these windows. A good place to sit for a couple of minutes before the second half of the museum.
+
+  - name: { en: "Room 35: Leonardo", ru: "Зал 35: Леонардо" }
+    place: "Galleria degli Uffizi, Firenze"
+    lat: 43.76800
+    lng: 11.25490
+    radius_m: 40
+    walk_min: 2
+    visit_min: [ 8, 10 ]
+    audio: { ru: audio/italy/05-florence-uffizi/11.mp3 }
+    short:
+      ru: |
+        Западное крыло. Зал Леонардо: «Благовещение» на стене напротив входа, неоконченное «Поклонение волхвов» в центре, «Крещение Христа» Верроккьо слева.
+      en: |
+        The west wing. The Leonardo room: the Annunciation on the wall facing the entrance, the unfinished Adoration of the Magi in the centre, Verrocchio's Baptism of Christ on the left.
+    long:
+      ru: |
+        ![Леонардо, «Благовещение»](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Leonardo_da_Vinci_-_Annunciazione_-_Google_Art_Project.jpg/960px-Leonardo_da_Vinci_-_Annunciazione_-_Google_Art_Project.jpg)
+        *Фото: общественное достояние*
+
+        Три картины — три шага Леонардо. Начните слева, с **«Крещения Христа»** его учителя **Андреа Верроккьо**. Посмотрите на двух ангелов слева: дальний, с повернутой головой и мягкими волосами, написал юный Леонардо. Вазари рассказывает, что, увидев этого ангела, Верроккьо решил больше не браться за кисть, раз ученик его превзошёл.
+
+        **«Благовещение»** — одна из первых самостоятельных работ Леонардо, ему около двадцати. Посмотрите на сад за ангелом: деревья тают в голубой дымке — это его знаменитое «сфумато», воздух между нами и далью. Крылья ангела Леонардо писал с крыльев настоящих птиц; позже чужая рука удлинила их. Правая рука Марии кажется слишком длинной: картина висела высоко и сбоку, и Леонардо рассчитывал её на взгляд снизу справа — попробуйте отойти вправо и чуть присесть.
+
+        **«Поклонение волхвов»** 1481 года он так и не закончил: уехал в Милан. Это коричневый подмалёвок, и в нём видно, как он думал: вихрь людей и лошадей вокруг Мадонны, руины, сражающиеся всадники на фоне. Реставрация 2017 года сняла жёлтый лак, и проступили десятки фигур, которых раньше никто не видел.
+      en: |
+        ![Leonardo, Annunciation](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Leonardo_da_Vinci_-_Annunciazione_-_Google_Art_Project.jpg/960px-Leonardo_da_Vinci_-_Annunciazione_-_Google_Art_Project.jpg)
+        *Photo: public domain*
+
+        Three pictures, three steps of Leonardo. Start on the left with **The Baptism of Christ** by his master, **Andrea del Verrocchio**. Look at the two angels on the left: the further one, with the turned head and soft hair, was painted by the young Leonardo. Vasari says that when Verrocchio saw that angel he resolved never to touch a brush again, since his pupil had surpassed him.
+
+        **The Annunciation** is one of Leonardo's first independent works; he was about twenty. Look at the garden behind the angel: the trees dissolve into blue haze — his famous "sfumato", the air between us and the distance. He painted the angel's wings from real birds' wings; another hand later lengthened them. Mary's right arm looks too long: the painting hung high and to one side, and Leonardo calculated it for a view from below right — try stepping to the right and crouching a little.
+
+        **The Adoration of the Magi**, of 1481, he never finished: he left for Milan. It's a brown underpainting, and you can watch him think: a whirl of people and horses around the Madonna, ruins and fighting horsemen behind. The 2017 restoration removed the yellow varnish and revealed dozens of figures nobody had seen before.
+
+  - name: { en: "Room 41: Michelangelo and Raphael", ru: "Зал 41: Микеланджело и Рафаэль" }
+    place: "Galleria degli Uffizi, Firenze"
+    lat: 43.76825
+    lng: 11.25505
+    radius_m: 40
+    walk_min: 2
+    visit_min: [ 8, 10 ]
+    audio: { ru: audio/italy/05-florence-uffizi/12.mp3 }
+    short:
+      ru: |
+        В центре зала, в стеклянной витрине, — круглое «Тондо Дони» Микеланджело. Вокруг — Рафаэль: «Мадонна со щеглом» и портреты супругов Дони.
+      en: |
+        In the middle of the room, in a glass case, is Michelangelo's round Doni Tondo. Around it is Raphael: the Madonna of the Goldfinch and the portraits of the Doni couple.
+    long:
+      ru: |
+        ![Микеланджело, «Тондо Дони»](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tondo_Doni_2021.jpg/960px-Tondo_Doni_2021.jpg)
+        *Фото: общественное достояние*
+
+        **«Тондо Дони»**, около 1506 года, — единственная бесспорно законченная станковая картина **Микеланджело**: он считал себя скульптором, а живопись — делом второстепенным. И это видно: Мадонна, Иосиф и Младенец сплетены в одну скульптурную группу, тела мускулистые, как мраморные, краски резкие и чистые. Мадонна — первая в истории с такими сильными руками, она передаёт Младенца через плечо. За ними — обнажённые юноши: мир до Христа, а маленький Иоанн Креститель между ними — мост к новому миру. Раму с головами пророков рисовал сам Микеланджело.
+
+        Заказчик, богатый торговец тканями **Аньоло Дони**, заказал картину к свадьбе с Маддаленой Строцци. Вазари рассказывает, что Микеланджело запросил 70 дукатов, Дони предложил 40 — и художник поднял цену до 140, которые пришлось заплатить.
+
+        ![Рафаэль, «Мадонна со щеглом»](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Raffaello_Sanzio_-_Madonna_del_Cardellino_-_Google_Art_Project.jpg/960px-Raffaello_Sanzio_-_Madonna_del_Cardellino_-_Google_Art_Project.jpg)
+        *Фото: общественное достояние*
+
+        Напротив — **портреты самих Дони** работы молодого **Рафаэля**, того же 1506 года: Маддалена сидит в позе Моны Лизы, которую Рафаэль как раз видел у Леонардо. И **«Мадонна со щеглом»**: щегол в руке Иоанна — символ будущих страданий Христа. В 1547 году дом владельца рухнул, картина раскололась на 17 кусков; её собрали, а реставрация 2008 года вернула ей краски.
+      en: |
+        ![Michelangelo, Doni Tondo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tondo_Doni_2021.jpg/960px-Tondo_Doni_2021.jpg)
+        *Photo: public domain*
+
+        The **Doni Tondo**, around 1506, is **Michelangelo**'s only undisputed finished panel painting: he thought of himself as a sculptor and of painting as secondary. And it shows: Mary, Joseph and the Child are twisted into one sculptural group, the bodies muscular like marble, the colours sharp and pure. This is the first Madonna in history with such strong arms, passing the Child over her shoulder. Behind them are nude youths — the world before Christ — and the little John the Baptist between them is the bridge to the new one. Michelangelo designed the frame with its prophets' heads himself.
+
+        The client, wealthy cloth merchant **Agnolo Doni**, ordered it for his marriage to Maddalena Strozzi. Vasari says Michelangelo asked 70 ducats, Doni offered 40 — and the artist raised the price to 140, which Doni had to pay.
+
+        ![Raphael, Madonna of the Goldfinch](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Raffaello_Sanzio_-_Madonna_del_Cardellino_-_Google_Art_Project.jpg/960px-Raffaello_Sanzio_-_Madonna_del_Cardellino_-_Google_Art_Project.jpg)
+        *Photo: public domain*
+
+        Opposite are **the Doni couple's portraits** by the young **Raphael**, from the same year: Maddalena sits in the pose of the Mona Lisa, which Raphael had just seen in Leonardo's studio. And the **Madonna of the Goldfinch**: the goldfinch in John's hand is a symbol of Christ's future Passion. In 1547 its owner's house collapsed and the panel broke into 17 pieces; it was pieced together, and a 2008 restoration brought back its colours.
+
+  - name: { en: "The terrace café — optional", ru: "Кафе на террасе — по желанию" }
+    place: "Caffetteria degli Uffizi, Firenze"
+    lat: 43.76905
+    lng: 11.25550
+    radius_m: 40
+    walk_min: 3
+    visit_min: [ 15, 20 ]
+    audio: { ru: audio/italy/05-florence-uffizi/13.mp3 }
+    short:
+      ru: |
+        В конце западного коридора — кафе с террасой на крыше Лоджии деи Ланци. Посидите, если есть время и силы нужны.
+      en: |
+        At the end of the west corridor is the café with a terrace on the roof of the Loggia dei Lanzi. Sit down if there's time and you need a rest.
+    long:
+      ru: |
+        Терраса кафе лежит прямо на крыше **Лоджии деи Ланци** — открытой галереи со статуями на площади Синьории. Когда-то здесь был висячий сад Медичи, где играли музыканты во время праздников на площади.
+
+        Вид — один из лучших в центре: прямо напротив, рукой подать, — **башня Палаццо Веккьо**, ратуши Флоренции, за ней — **купол собора** Брунеллески, а внизу шумит площадь Синьории с копией «Давида» у входа во дворец.
+
+        Если времени мало — пропустите кафе, но хотя бы выгляните на террасу. Туалеты есть рядом с кафе. Цены в нём выше, чем в городе.
+
+        Совет: до 16:00 вы на графике. Если уже позже — сразу спускайтесь на первый этаж: лестница и лифт рядом с кафе, указатели «Primo piano».
+      en: |
+        The café terrace sits right on the roof of the **Loggia dei Lanzi** — the open arcade full of statues on Piazza della Signoria. It was once a Medici hanging garden where musicians played during festivals in the square.
+
+        The view is one of the best in the centre: right in front of you is the **tower of Palazzo Vecchio**, Florence's town hall; beyond it, Brunelleschi's **cathedral dome**; and below, the bustle of Piazza della Signoria with the copy of David at the palace door.
+
+        If you're short of time, skip the café, but at least step out onto the terrace. There are toilets next to the café. Prices are higher than in town.
+
+        Tip: if it's before 16:00 you're on schedule. If it's later, go straight down to the first floor — the stairs and lift are by the café, signposted "Primo piano".
+
+  - name: { en: "Room 83: Titian's Venus of Urbino", ru: "Зал 83: «Венера Урбинская» Тициана" }
+    place: "Galleria degli Uffizi, Firenze"
+    lat: 43.76845
+    lng: 11.25515
+    radius_m: 40
+    walk_min: 4
+    visit_min: [ 5, 8 ]
+    audio: { ru: audio/italy/05-florence-uffizi/14.mp3 }
+    short:
+      ru: |
+        Первый этаж, венецианские залы. Ищите лежащую обнажённую женщину с собачкой у ног.
+      en: |
+        The first floor, the Venetian rooms. Look for the reclining nude with a little dog at her feet.
+    long:
+      ru: |
+        ![Тициан, «Венера Урбинская»](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tiziano_-_Venere_di_Urbino_-_Google_Art_Project.jpg/960px-Tiziano_-_Venere_di_Urbino_-_Google_Art_Project.jpg)
+        *Фото: общественное достояние*
+
+        После флорентийских линий — венецианский цвет. **«Венеру Урбинскую»** **Тициан** написал в 1538 году для Гвидобальдо делла Ровере, будущего герцога Урбино. Сам заказчик в письмах называл её просто «обнажённая женщина», а не Венера: это, скорее всего, свадебная картина, и смысл у неё земной.
+
+        Посмотрите на детали. Женщина смотрит прямо на зрителя, спокойно и уверенно, — у Боттичелли Венера смотрела в сторону. У её ног свернулась **собачка** — символ верности. В глубине комнаты две служанки роются в **свадебном сундуке**, кассоне, — готовят приданое. В руке — розы, знак любви, на окне — мирт, растение Венеры. Ровная зелёная занавеска делит картину пополам: слева тело, справа обычная жизнь дома.
+
+        Картина вдохновляла художников три века: Мане взял её позу для своей «Олимпии», которая вызвала скандал в Париже. А Марк Твен назвал её самой непристойной картиной в мире — и тем лишь добавил ей славы.
+
+        Совет: подойдите ближе и посмотрите на кожу — Тициан писал её слоями прозрачной краски, поэтому она кажется тёплой.
+      en: |
+        ![Titian, Venus of Urbino](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tiziano_-_Venere_di_Urbino_-_Google_Art_Project.jpg/960px-Tiziano_-_Venere_di_Urbino_-_Google_Art_Project.jpg)
+        *Photo: public domain*
+
+        After Florentine line comes Venetian colour. **Titian** painted the **Venus of Urbino** in 1538 for Guidobaldo della Rovere, the future Duke of Urbino. In his letters the client simply called it "the nude woman", not Venus: it's most likely a marriage painting, and its meaning is earthly.
+
+        Look at the details. The woman looks straight at the viewer, calm and assured — Botticelli's Venus looked away. At her feet a **little dog** is curled up, a symbol of fidelity. At the back of the room two maids are rummaging in a **wedding chest**, a cassone, preparing the trousseau. She holds roses, a token of love; myrtle, Venus's plant, stands on the windowsill. A plain green curtain splits the picture in two: the body on the left, everyday household life on the right.
+
+        It inspired painters for three centuries: Manet took its pose for his Olympia, which scandalised Paris. And Mark Twain called it the most indecent picture in the world — which only added to its fame.
+
+        Tip: look closely at the skin — Titian built it up in layers of translucent paint, which is why it seems warm.
+
+  - name: { en: "Room 90: Caravaggio and Artemisia", ru: "Зал 90: Караваджо и Артемизия" }
+    place: "Galleria degli Uffizi, Firenze"
+    lat: 43.76865
+    lng: 11.25525
+    radius_m: 40
+    walk_min: 3
+    visit_min: [ 8, 10 ]
+    audio: { ru: audio/italy/05-florence-uffizi/15.mp3 }
+    short:
+      ru: |
+        Тёмные залы Караваджо в конце маршрута. Три его картины — «Медуза», «Вакх», «Жертвоприношение Исаака» — и рядом «Юдифь» Артемизии Джентилески.
+      en: |
+        The dark Caravaggio rooms near the end of the route. His three paintings — Medusa, Bacchus and the Sacrifice of Isaac — and next to them Artemisia Gentileschi's Judith.
+    long:
+      ru: |
+        ![Караваджо, «Медуза»](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Caravaggio_-_Medusa_Uffizi_-_High_quality.jpg/960px-Caravaggio_-_Medusa_Uffizi_-_High_quality.jpg)
+        *Фото: общественное достояние*
+
+        **Караваджо** — художник, который около 1600 года перевернул живопись: резкий свет из темноты, модели прямо с улицы, никакой идеализации. **«Медуза»** написана на настоящем выпуклом щите — это подарок кардинала дель Монте великому герцогу Фердинандо Медичи. Голова только что отрублена, кровь хлещет, змеи ещё извиваются, а лицо кричит. Говорят, Караваджо писал Медузу с себя, глядя в зеркало. Выпуклый щит при этом кажется плоским, а голова — выступающей из него: это оптическая игра.
+
+        **«Вакх»** — ленивый юноша с бокалом вина, с неровным загаром на руках и грязью под ногтями: бог как обычный парень с римской улицы. Посмотрите на графин с вином в левом нижнем углу: при реставрации в нём нашли крошечное отражение самого художника за мольбертом.
+
+        ![Артемизия Джентилески, «Юдифь, обезглавливающая Олоферна»](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Judit_decapitando_a_Holofernes%2C_por_Artemisia_Gentileschi.jpg/960px-Judit_decapitando_a_Holofernes%2C_por_Artemisia_Gentileschi.jpg)
+        *Фото: общественное достояние*
+
+        Рядом — **«Юдифь, обезглавливающая Олоферна»** **Артемизии Джентилески**, около 1620 года. Это та же библейская история, что у Караваджо, но страшнее: две женщины с силой держат и режут мужчину, кровь бьёт фонтаном. Артемизия в юности пережила насилие и публичный суд, где пытали её саму, — и многие видят в картине ответ. Она стала первой женщиной, принятой во флорентийскую Академию рисунка.
+      en: |
+        ![Caravaggio, Medusa](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Caravaggio_-_Medusa_Uffizi_-_High_quality.jpg/960px-Caravaggio_-_Medusa_Uffizi_-_High_quality.jpg)
+        *Photo: public domain*
+
+        **Caravaggio** turned painting upside down around 1600: harsh light out of darkness, models straight off the street, no idealising. **Medusa** is painted on a real convex shield — a gift from Cardinal del Monte to Grand Duke Ferdinando de' Medici. The head has just been cut off, blood gushes, the snakes still writhe and the face screams. Caravaggio is said to have painted Medusa from himself, in a mirror. And the convex shield looks flat while the head seems to stick out of it — an optical trick.
+
+        **Bacchus** is a lazy youth with a glass of wine, uneven tan lines on his arms and dirt under his nails: a god as an ordinary lad off a Roman street. Look at the wine carafe in the lower left corner: restorers found a tiny reflection of the painter himself at his easel in it.
+
+        ![Artemisia Gentileschi, Judith Slaying Holofernes](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Judit_decapitando_a_Holofernes%2C_por_Artemisia_Gentileschi.jpg/960px-Judit_decapitando_a_Holofernes%2C_por_Artemisia_Gentileschi.jpg)
+        *Photo: public domain*
+
+        Next to them is **Judith Slaying Holofernes** by **Artemisia Gentileschi**, around 1620. It's the same biblical story Caravaggio painted, but more terrible: two women hold the man down with all their strength and cut, and the blood spurts. As a young woman Artemisia survived rape and a public trial in which she herself was tortured — many see the painting as her answer. She became the first woman admitted to Florence's Academy of Drawing.
+
+  - name: { en: The exit, ru: Выход }
+    place: "Galleria degli Uffizi, Firenze"
+    lat: 43.76860
+    lng: 11.25585
+    radius_m: 60
+    walk_min: 5
+    visit_min: [ 5, 10 ]
+    audio: { ru: audio/italy/05-florence-uffizi/16.mp3 }
+    short:
+      ru: |
+        По указателям «Uscita» вниз. **Заберите чемодан в гардеробе** — если выход ведёт мимо него не сразу, спросите смотрителя «guardaroba?».
+      en: |
+        Follow the "Uscita" signs downstairs. **Collect the suitcase from the cloakroom** — if the exit doesn't lead straight past it, ask an attendant "guardaroba?".
+    long:
+      ru: |
+        Вы прошли путь от золотых алтарей XIII века до Караваджо — почти четыреста лет истории искусства за пару часов. Перед выходом маршрут проводит через книжный магазин; открытки с картинами, которые вы только что видели, — хороший недорогой сувенир.
+
+        Проверьте вещи: чемодан, сумки, зонты из гардероба, билеты больше не нужны.
+
+        Дальше — к реке: выйдите на площадь Уффици, дойдите до арки над Арно и поверните направо по набережной — через две минуты вы на Понте Веккьо, как раз к закату около 17:10. Посмотрите оттуда назад: над рекой — те самые окна коридора, у которых вы стояли час назад.
+      en: |
+        You've gone from the gold altarpieces of the 13th century to Caravaggio — nearly four hundred years of art history in a couple of hours. The route out passes through the bookshop; postcards of the paintings you've just seen make a good cheap souvenir.
+
+        Check your things: suitcase, bags and umbrellas from the cloakroom; you won't need the tickets again.
+
+        Then to the river: walk down the Uffizi courtyard to the arch over the Arno and turn right along the embankment — two minutes later you're on Ponte Vecchio, just in time for the 17:10 sunset. Look back from there: above the river are the very corridor windows you stood at an hour ago.
