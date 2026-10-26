@@ -30,11 +30,11 @@ outro:
   ru: |
     Ужинать можно в Сан-Никколо — по дороге наверх вы пройдёте мимо десятка тратторий и винных баров, — или ближе к дому, вокруг Piazza Ferrucci и Viale Giannotti, где цены заметно ниже, чем в центре.
 
-    Завтра — Уффици к открытию в 8:15, так что ложитесь пораньше.
+    Завтра — сады Боболи к открытию в 8:15, выход из дома в 7:50, так что ложитесь пораньше.
   en: |
     For dinner, San Niccolò has a dozen trattorias and wine bars you'll have walked past on the way up; closer to home, the places around Piazza Ferrucci and Viale Giannotti are noticeably cheaper than the centre.
 
-    Tomorrow starts with the Uffizi at 8:15, so make it an early night.
+    Tomorrow starts with the Boboli Gardens at their 8:15 opening, leaving home at 7:50, so make it an early night.
 points:
   - name: {en: Casa Angi, ru: Casa Angi}
     place: "Via de' Baldovini 19, 50126 Firenze"
@@ -68,6 +68,7 @@ points:
     inside: ["Battistero di San Giovanni, Firenze", "Campanile di Giotto, Firenze"]
     walk_min: [25, 35]
     visit_min: [30, 40]
+    audio: {ru: audio/italy/04-florence-first-afternoon/02.mp3}
     short:
       ru: |
         Обойдите собор кругом снаружи: фасад, купол Брунеллески со стороны апсиды, «Райские врата» баптистерия, кампанила Джотто. Внутрь сегодня не заходим — очереди и раннее закрытие.
@@ -94,6 +95,7 @@ points:
     approach: [{name: Via dei Calzaiuoli, lat: 43.77154, lng: 11.25533}, "Orsanmichele, Firenze"]
     walk_min: [5, 10]
     visit_min: [20, 30]
+    audio: {ru: audio/italy/04-florence-first-afternoon/03.mp3}
     short:
       ru: |
         По Via dei Calzaiuoli, мимо Орсанмикеле. Палаццо Веккьо, копия «Давида», фонтан Нептуна и статуи в Лоджии деи Ланци — всё снаружи и бесплатно.
@@ -120,6 +122,7 @@ points:
     approach: [{name: Piazzale degli Uffizi, lat: 43.76851, lng: 11.25557}]
     walk_min: 5
     visit_min: [15, 20]
+    audio: {ru: audio/italy/04-florence-first-afternoon/04.mp3}
     short:
       ru: |
         Через двор Уффици к реке и на мост. В середине моста — открытые арки с видом вдоль Арно; затем сразу налево, на Via de' Bardi.
@@ -147,6 +150,7 @@ points:
     approach: [{name: Via de' Bardi, lat: 43.76708, lng: 11.25385}, {name: Via di San Niccolò, lat: 43.76441, lng: 11.26111}]
     walk_min: [15, 20]
     visit_min: [10, 15]
+    audio: {ru: audio/italy/04-florence-first-afternoon/05.mp3}
     short:
       ru: |
         По тихим Via de' Bardi и Via di San Niccolò вдоль левого берега, к средневековой башне-воротам у реки. Если идёте по графику, здесь можно выпить кофе перед подъёмом.
@@ -173,6 +177,7 @@ points:
     approach: [{name: Rampe del Poggi, lat: 43.76390, lng: 11.26520}]
     walk_min: [10, 15]
     visit_min: [40, 60]
+    audio: {ru: audio/italy/04-florence-first-afternoon/06.mp3}
     short:
       ru: |
         Подъём по лестницам и аллеям Rampe del Poggi — около 10 минут, крутовато, но коротко. Будьте наверху к 16:50; закат около 17:15, сумерки и огни города — ещё полчаса после.
@@ -182,13 +187,13 @@ points:
       ru: |
         Площадь и серпантин Viale dei Colli, который к ней ведёт, спроектировал архитектор Джузеппе Поджи в 1869 году — тогда Флоренция была столицей молодого Итальянского королевства, и средневековые стены на этом берегу снесли ради бульваров. Рампы с гротами и фонтанами, по которым вы поднимаетесь, — тоже его. Поджи задумывал здесь музей Микеланджело, но музей так и не появился; осталась бронзовая копия «Давида» 1873 года в центре площади.
 
-        Что посмотреть: вся Флоренция с одной точки — купол собора, башня Палаццо Веккьо, Санта-Кроче справа, мосты через Арно и холмы Фьезоле на горизонте. Солнце садится справа, за Понте Веккьо и мостами ниже по течению, — в конце октября закат почти прямо вдоль реки.
+        Что посмотреть: вся Флоренция с одной точки — купол собора, башня Палаццо Веккьо, Санта-Кроче справа, мосты через Арно и холмы Фьезоле на горизонте. Солнце садится слева, за Понте Веккьо и мостами ниже по течению, — в конце октября закат почти прямо вдоль реки.
 
         Совет: лучшие места — у балюстрады с левой стороны или на ступенях под ней; народ собирается за полчаса до заката. Если останутся силы, в 5 минутах выше — церковь Сан-Миниато-аль-Монте с видом ещё шире. Вечером на площади холодно и ветрено — возьмите с собой кофту.
       en: |
         The square and the Viale dei Colli that winds up to it were designed by Giuseppe Poggi in 1869, when Florence was briefly capital of the new Kingdom of Italy and the medieval walls on this bank came down to make way for boulevards. The ramps with their grottoes and fountains that you climb are his too. Poggi meant to put a Michelangelo museum here; it never happened, and what remains is the 1873 bronze copy of David in the middle.
 
-        The whole of Florence from one spot — the cathedral dome, the tower of Palazzo Vecchio, Santa Croce on the right, the bridges over the Arno and the hills of Fiesole on the horizon. The sun sets to the right, beyond Ponte Vecchio and the bridges downstream — in late October almost straight down the river.
+        The whole of Florence from one spot — the cathedral dome, the tower of Palazzo Vecchio, Santa Croce on the right, the bridges over the Arno and the hills of Fiesole on the horizon. The sun sets to the left, beyond Ponte Vecchio and the bridges downstream — in late October almost straight down the river.
 
         Tip: the best spots are along the balustrade on the left or on the steps below it; the crowd builds half an hour before sunset. If you have energy left, San Miniato al Monte is 5 minutes further uphill with an even wider view. It gets cold and windy up here in the evening — bring a jumper.
 
