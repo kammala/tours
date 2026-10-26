@@ -9,7 +9,7 @@ intro:
   ru: |
     Среда, 28 октября. Спокойный день без спешки: утром, пока прохладно и пусто, — сады Боболи к открытию в **8:15**, потом мастерские Ольтрарно, в обед — рынок Меркато Чентрале, где к вам присоединяется третий участник, а после обеда — **Уффици в 14:30**, все втроём (билеты с точным временем, именные, куплены заранее на www.uffizi.it).
 
-    Маршрут: Casa Angi → автобус C4 → палаццо Питти и сады Боболи → Via Maggio → площадь Санто-Спирито → Борго Сан-Фредиано (по желанию) → рынок Меркато Чентрале → Уффици → площадь Синьории → автобус 23 домой.
+    Маршрут: Casa Angi → автобус C4 → палаццо Питти и сады Боболи → Via Maggio → площадь Санто-Спирито → Борго Сан-Фредиано (по желанию) → рынок Меркато Чентрале → Уффици → площадь Синьории → Понте Веккьо на закате → автобус 23 домой.
 
     **Запасы времени.** Между обедом и Уффици — час: если рейс задержится, слот в 14:30 не сгорит. Сидячие паузы — каждые полтора-два часа: скамейки в Боболи и на площади Санто-Спирито, обед, скамейки в Уффици. Единственный подъём за день — в Боболи, и его можно ограничить нижними террасами.
 
@@ -19,7 +19,7 @@ intro:
   en: |
     Wednesday 28 October. An unhurried day: the Boboli Gardens at their **08:15** opening while it's cool and empty, then the Oltrarno workshops, lunch at Mercato Centrale where the third person joins you, and after lunch the **Uffizi at 14:30**, all three of you (timed, named tickets booked in advance at www.uffizi.it).
 
-    Route: Casa Angi → bus C4 → Palazzo Pitti and the Boboli Gardens → Via Maggio → Piazza Santo Spirito → Borgo San Frediano (optional) → Mercato Centrale → Uffizi → Piazza della Signoria → bus 23 home.
+    Route: Casa Angi → bus C4 → Palazzo Pitti and the Boboli Gardens → Via Maggio → Piazza Santo Spirito → Borgo San Frediano (optional) → Mercato Centrale → Uffizi → Piazza della Signoria → Ponte Vecchio at sunset → bus 23 home.
 
     **Buffers.** There's an hour between lunch and the Uffizi, so a delayed flight won't cost you the 14:30 slot. There's a sit-down break every hour and a half to two hours: benches in Boboli and on Piazza Santo Spirito, lunch, the benches in the Uffizi. The day's only climb is in Boboli, and you can keep to the lower terraces.
 
@@ -222,24 +222,50 @@ points:
 
         Tip: in the afternoon the Botticelli rooms are the busiest — if they're packed, see Leonardo and the Tribuna first and come back. There are benches in almost every room. The café terrace on top of the Loggia dei Lanzi is a good break with a view of the dome and Palazzo Vecchio's tower. Suitcases, backpacks and large bags go to the cloakroom for free.
 
+  - name: {en: Ponte Vecchio at sunset, ru: Понте Веккьо на закате}
+    lat: 43.76803
+    lng: 11.25316
+    radius_m: 120
+    approach: [{name: Piazza della Signoria, lat: 43.76956, lng: 11.25561}]
+    walk_min: [3, 5]
+    visit_min: [15, 20]
+    short:
+      ru: |
+        Заберите чемодан, выйдите на площадь Синьории и через пару минут — на мост. Встаньте у открытых арок посередине: закат около 17:10, и Арно розовеет в обе стороны.
+      en: |
+        Collect the suitcase, step out onto Piazza della Signoria and in a couple of minutes you're on the bridge. Stand at the open arches in the middle: sunset is about 17:10, and the Arno turns pink both ways.
+    long:
+      ru: |
+        Мост на этом месте стоит с римских времён; нынешний построен в 1345 году после большого наводнения. Это единственный флорентийский мост, который уцелел в 1944 году, когда отступавшие немецкие войска взорвали все остальные. Лавки на нём были всегда, но сначала здесь торговали мясники и кожевники; в 1593 году великий герцог Фердинанд I выгнал их и пустил на мост ювелиров — с тех пор здесь только золото.
+
+        Что посмотреть: над лавками по левой стороне идёт **коридор Вазари** — крытый проход 1565 года, по которому Медичи ходили из Палаццо Веккьо через Уффици в палаццо Питти, не выходя на улицу. В середине моста — бюст ювелира **Бенвенуто Челлини** и открытые арки с видом вдоль реки.
+
+        Совет: для третьего участника это первая встреча с мостом, для вас — вторая, уже в вечернем свете. Лавки закрываются около 19:00, деревянные ставни на ночь превращают мост в ряд сундуков.
+      en: |
+        There has been a bridge here since Roman times; this one was built in 1345 after a great flood. It's the only Florentine bridge that survived 1944, when the retreating German army blew up all the others. There have always been shops on it, but at first they were butchers and tanners; in 1593 Grand Duke Ferdinando I threw them out and moved the goldsmiths in — it's been gold ever since.
+
+        Look up along the left-hand side at the **Vasari Corridor**, the covered passage of 1565 that let the Medici walk from Palazzo Vecchio through the Uffizi to Palazzo Pitti without going outside. In the middle of the bridge are the bust of the goldsmith **Benvenuto Cellini** and the open arches with the view along the river.
+
+        Tip: for the third person it's a first look at the bridge, for you a second one, in the evening light. The shops close around 19:00, and their wooden shutters turn the bridge into a row of chests for the night.
+
   - name: {en: Back to Casa Angi, ru: Обратно в Casa Angi}
     place: "Via de' Baldovini 19, 50126 Firenze"
     lat: 43.76255
     lng: 11.27528
     radius_m: 100
-    approach: [{name: Piazza della Signoria, lat: 43.76956, lng: 11.25561}, "Ponte alle Grazie, Firenze"]
+    approach: [{name: Lungarno Generale Diaz, lat: 43.76760, lng: 11.25780}, "Ponte alle Grazie, Firenze"]
     walk_min: [10, 30]
     short:
       ru: |
-        Финиш. Заберите чемодан, выйдите на площадь Синьории — закат около 17:10. Домой — автобус **23** в сторону **Sorgane / Bagno a Ripoli** от остановки у моста Понте-алле-Грацие до **Baldovini**, около 15 минут; или 30 минут пешком вдоль реки.
+        Финиш. По набережной до моста Понте-алле-Грацие, 8–10 минут. Домой — автобус **23** в сторону **Sorgane / Bagno a Ripoli** от остановки у моста Понте-алле-Грацие до **Baldovini**, около 15 минут; или 30 минут пешком вдоль реки.
       en: |
-        Finish. Collect the suitcase and step out onto Piazza della Signoria — sunset is about 17:10. Home on bus **23** towards **Sorgane / Bagno a Ripoli** from the stop by Ponte alle Grazie to **Baldovini**, about 15 minutes; or a 30-minute walk along the river.
+        Finish. Along the embankment to Ponte alle Grazie, 8–10 minutes. Home on bus **23** towards **Sorgane / Bagno a Ripoli** from the stop by Ponte alle Grazie to **Baldovini**, about 15 minutes; or a 30-minute walk along the river.
     long:
       ru: |
-        От Уффици до моста Понте-алле-Грацие — 8–10 минут по набережной. Автобус 23 идёт через мост и по Lungarno Serristori, а остановка **Baldovini** — прямо у дома. Точное место остановки и время проверьте в Google Maps или в приложении Autolinee Toscane.
+        От Понте Веккьо до моста Понте-алле-Грацие — 8–10 минут по набережной. Автобус 23 идёт через мост и по Lungarno Serristori, а остановка **Baldovini** — прямо у дома. Точное место остановки и время проверьте в Google Maps или в приложении Autolinee Toscane.
 
         Совет: ужинать можно в центре, пока вы ещё здесь, или у дома — у площади Ферруччи и на Viale Giannotti заметно дешевле. Перед сном соберите вещи и проверьте дорогу на Венецию — выезд утром, через Firenze Sud, в объезд центра.
       en: |
-        From the Uffizi to Ponte alle Grazie is 8–10 minutes along the embankment. Bus 23 crosses the bridge and runs along Lungarno Serristori, and the **Baldovini** stop is right outside the house. Check the exact stop and times in Google Maps or the Autolinee Toscane app.
+        From Ponte Vecchio to Ponte alle Grazie is 8–10 minutes along the embankment. Bus 23 crosses the bridge and runs along Lungarno Serristori, and the **Baldovini** stop is right outside the house. Check the exact stop and times in Google Maps or the Autolinee Toscane app.
 
         Tip: have dinner in the centre while you're here, or near home — around Piazza Ferrucci and Viale Giannotti it's noticeably cheaper. Pack before bed and check the route to Venice — you leave in the morning via Firenze Sud, round the centre.
