@@ -1,10 +1,10 @@
 country: {en: Italy, ru: Италия}
 city: {en: Florence, ru: Флоренция}
-name: {en: "Tue 27 Oct · First afternoon: Duomo to Piazzale Michelangelo", ru: "Вт, 27 окт · Первый день: от Дуомо до площади Микеланджело"}
+name: {en: "Tue 27 Oct · First evening: Piazzale Michelangelo to the Duomo", ru: "Вт, 27 окт · Первый вечер: от площади Микеланджело до Дуомо"}
 place_suffix: Firenze
 summary:
-  ru: "≈ 4–5 км пешком, 3–3,5 часа после заселения; до центра — автобус"
-  en: "≈ 4–5 km on foot, 3–3.5 hours after check-in; bus into the centre"
+  ru: "≈ 3–3,5 км пешком, почти всё под горку, около 3,5 часа; наверх — такси, домой — такси или автобус"
+  en: "≈ 3–3.5 km on foot, nearly all downhill, about 3.5 hours; a taxi up, a taxi or bus home"
 intro:
   ru: |
     Вторник, 27 октября. Выезд из римской квартиры — до 10:00. До Флоренции около 280 км по автостраде **A1** (Autostrada del Sole): 3–3,5 часа плюс получасовая остановка на кофе где-то в районе Орвьето или Кьюзи. Платная дорога — талон берёте на въезде, платите картой на выезде.
@@ -13,9 +13,9 @@ intro:
 
     Своей парковки у Casa Angi нет. Рядом есть общественная парковка — около 12 € в сутки, бронировать не нужно; точное место уточните у хозяина, когда будете договариваться о встрече. Можно встать и на улице, но читайте знаки: синяя разметка — платная, а часть мест только для жителей. Всё это за пределами ZTL. Машина стоит там до утра четверга.
 
-    Заселение с 14:00 до 21:00, вас встретят. Если приехали раньше — кофе в одном из баров на Viale Giannotti. Из дома выходите около 14:45, чтобы к 15:15 быть у собора: закат 27 октября около **17:15** (часы перевели 25-го), и к нему нужно успеть на площадь Микеланджело.
+    Из дома выходите около **16:00**: такси наверх, на площадь Микеланджело, к 16:30. Закат 27 октября около **17:15** (часы перевели 25-го), огни города загораются ещё полчаса после. Дальше весь путь — пешком вниз и по ровному, а площади и мосты в центре вечером подсвечены.
 
-    Маршрут: автобус до Дуомо → площадь Синьории → Понте Веккьо → по левому берегу через квартал Сан-Никколо → подъём на площадь Микеланджело к закату → пешком вниз домой, 20 минут.
+    Маршрут: такси на площадь Микеланджело к закату → вниз по рампам в квартал Сан-Никколо → по левому берегу к Понте Веккьо → площадь Синьории → Дуомо в подсветке → такси или автобус домой.
   en: |
     Tuesday 27 October. Check out of the Rome flat by 10:00. Florence is about 280 km up the **A1** motorway (Autostrada del Sole): 3–3.5 hours plus a half-hour coffee stop somewhere around Orvieto or Chiusi. It's a toll road — take a ticket on the way in, pay by card on the way out.
 
@@ -23,16 +23,16 @@ intro:
 
     Casa Angi has no parking of its own. There is a public car park nearby — about €12 a day, no reservation needed; ask the host for the exact spot when you arrange the meet-up. Street parking is possible too, but read the signs: blue lines are paid, and some spaces are for residents only. All of it is outside the ZTL. The car stays there until Thursday morning.
 
-    Check-in is 14:00–21:00 and someone meets you there. If you arrive early, have a coffee at one of the bars on Viale Giannotti. Head out around 14:45 so you're at the cathedral by 15:15: sunset on 27 October is about **17:15** (the clocks went back on the 25th), and you want to be on Piazzale Michelangelo for it.
+    Head out around **16:00**: a taxi up to Piazzale Michelangelo, there by 16:30. Sunset on 27 October is about **17:15** (the clocks went back on the 25th), and the city lights come on over the next half hour. After that it's all on foot, downhill or flat, and the squares and bridges in the centre are floodlit in the evening.
 
-    Route: bus to the Duomo → Piazza della Signoria → Ponte Vecchio → along the south bank through San Niccolò → up to Piazzale Michelangelo for sunset → a 20-minute walk downhill home.
+    Route: taxi to Piazzale Michelangelo for sunset → down the ramps into San Niccolò → along the south bank to Ponte Vecchio → Piazza della Signoria → the floodlit Duomo → taxi or bus home.
 outro:
   ru: |
-    Ужинать можно в Сан-Никколо — по дороге наверх вы пройдёте мимо десятка тратторий и винных баров, — или ближе к дому, вокруг Piazza Ferrucci и Viale Giannotti, где цены заметно ниже, чем в центре.
+    Ужинать — ближе к дому, вокруг Piazza Ferrucci и Viale Giannotti, где цены заметно ниже, чем в центре. Если проголодаетесь раньше — в Сан-Никколо десяток тратторий и винных баров; большинство открывается около 19:00.
 
     Завтра — сады Боболи к открытию в 8:15, выход из дома в 7:50, так что ложитесь пораньше.
   en: |
-    For dinner, San Niccolò has a dozen trattorias and wine bars you'll have walked past on the way up; closer to home, the places around Piazza Ferrucci and Viale Giannotti are noticeably cheaper than the centre.
+    For dinner, head back towards home: the places around Piazza Ferrucci and Viale Giannotti are noticeably cheaper than the centre. If you're hungry earlier, San Niccolò has a dozen trattorias and wine bars; most open around 19:00.
 
     Tomorrow starts with the Boboli Gardens at their 8:15 opening, leaving home at 7:50, so make it an early night.
 points:
@@ -43,37 +43,147 @@ points:
     radius_m: 100
     short:
       ru: |
-        Старт. Остановка **Baldovini** — прямо у дома: автобус **23** в сторону центра до остановки **Pucci Duomo**, около 20–25 минут. Проезд — приложите бесконтактную карту или телефон к валидатору у двери, это и есть билет на 90 минут.
+        Старт около 16:00. Такси до площади Микеланджело — около 5 минут. Пешком — 20–25 минут в гору: через площадь Ферруччи и вверх по Viale Michelangiolo.
       en: |
-        Start. The **Baldovini** stop is right outside: bus **23** towards the centre to the **Pucci Duomo** stop, about 20–25 minutes. To pay, tap a contactless card or phone on the reader by the door — that is your 90-minute ticket.
+        Start around 16:00. A taxi to Piazzale Michelangelo takes about 5 minutes. On foot it's 20–25 minutes uphill: via Piazza Ferrucci and up Viale Michelangiolo.
     long:
       ru: |
         Casa Angi стоит в Рикорболи — тихом жилом квартале между площадью Ферруччи и Гавинаной, за пределами исторического центра и зоны ZTL. Туристов здесь почти нет: обычные бары, булочные, овощные лавки, и до Арно пять минут пешком.
 
-        Автобус 23 идёт отсюда по набережной Lungarno Serristori, через мост Понте-алле-Грацие, мимо Санта-Кроче и выходит на Via de' Pucci в 150 метрах от собора. Бесконтактная оплата («Tip Tap») работает во всех автобусах Autolinee Toscane и в трамвае: каждый из троих прикладывает свою карту, билет действует 90 минут с пересадками и стоит около 2 €. С одной карты троих оплатить нельзя.
+        Такси вызывайте по телефону 055 4390 или 055 4242 или через приложения appTaxi и itTaxi; поездка на троих — около 10 €. Подъём пешком — по Viale Michelangiolo, бульвару Поджи: широкий тротуар, деревья, но всё время в гору; силы лучше оставить на спуск через город.
 
-        Совет: такси до Дуомо — 10–15 минут и примерно 12–15 € на троих; вызывайте по телефону 055 4390 или 055 4242 или через приложения appTaxi и itTaxi. Пешком до собора около 35 минут вдоль реки — красиво, но силы лучше оставить на вечерний подъём.
+        Совет: возьмите тёплую кофту — на площади вечером ветрено. Домой вернётесь из центра на такси или автобусе 23; бесконтактная оплата («Tip Tap») работает во всех автобусах Autolinee Toscane: каждый прикладывает свою карту, билет на 90 минут стоит около 2 €.
       en: |
         Casa Angi is in Ricorboli, a quiet residential area between Piazza Ferrucci and Gavinana, outside both the historic centre and the ZTL. There are hardly any tourists: ordinary bars, bakeries and greengrocers, and the Arno is five minutes' walk away.
 
-        Bus 23 runs from here along Lungarno Serristori, over Ponte alle Grazie, past Santa Croce and up Via de' Pucci, 150 metres from the cathedral. Contactless payment ("Tip Tap") works on every Autolinee Toscane bus and on the tram: each of you taps your own card, the ticket lasts 90 minutes including changes and costs about €2. One card cannot pay for three.
+        Call a taxi on 055 4390 or 055 4242, or use the appTaxi or itTaxi apps; the ride costs about €10 for the three of you. Walking up means Viale Michelangiolo, Poggi's boulevard: wide pavements and trees, but uphill all the way — better to save your legs for the walk down through the city.
 
-        Tip: a taxi to the Duomo takes 10–15 minutes and costs roughly €12–15 for the three of you; call 055 4390 or 055 4242, or use the appTaxi or itTaxi apps. Walking to the cathedral is about 35 minutes along the river — pretty, but save your legs for the climb this evening.
+        Tip: bring a warm layer — the square gets windy in the evening. You'll come home from the centre by taxi or bus 23; contactless payment ("Tip Tap") works on every Autolinee Toscane bus: each of you taps your own card, and a 90-minute ticket costs about €2.
+
+  - name: {en: Piazzale Michelangelo, ru: Площадь Микеланджело}
+    lat: 43.76283
+    lng: 11.26499
+    radius_m: 200
+    approach: ["Piazza Ferrucci, Firenze", {name: Viale Michelangiolo, lat: 43.76299, lng: 11.27202}]
+    walk_min: [20, 25]
+    visit_min: [60, 75]
+    audio: {ru: audio/italy/04-florence-first-afternoon/06.mp3}
+    short:
+      ru: |
+        Будьте наверху около 16:30; закат около 17:15, сумерки и огни города — ещё полчаса после, примерно до 17:45.
+      en: |
+        Be up here around 16:30; sunset is about 17:15, and dusk with the city lights coming on lasts until about 17:45.
+    long:
+      ru: |
+        Площадь и серпантин Viale dei Colli, который к ней ведёт, спроектировал архитектор Джузеппе Поджи в 1869 году — тогда Флоренция была столицей молодого Итальянского королевства, и средневековые стены на этом берегу снесли ради бульваров. Рампы с гротами и фонтанами, по которым вы потом спуститесь, — тоже его. Поджи задумывал здесь музей Микеланджело, но музей так и не появился; осталась бронзовая копия «Давида» 1873 года в центре площади.
+
+        Что посмотреть: вся Флоренция с одной точки — купол собора, башня Палаццо Веккьо, Санта-Кроче справа, мосты через Арно и холмы Фьезоле на горизонте. Солнце садится слева, за Понте Веккьо и мостами ниже по течению, — в конце октября закат почти прямо вдоль реки.
+
+        Совет: лучшие места — у балюстрады с левой стороны или на ступенях под ней; народ собирается за полчаса до заката. Вечером на площади холодно и ветрено. Когда загорятся огни, спускайтесь по лестницам Rampe del Poggi — они ведут с площади вниз прямо к воротам Сан-Никколо.
+      en: |
+        The square and the Viale dei Colli that winds up to it were designed by Giuseppe Poggi in 1869, when Florence was briefly capital of the new Kingdom of Italy and the medieval walls on this bank came down to make way for boulevards. The ramps with their grottoes and fountains that you'll walk down afterwards are his too. Poggi meant to put a Michelangelo museum here; it never happened, and what remains is the 1873 bronze copy of David in the middle.
+
+        The whole of Florence from one spot — the cathedral dome, the tower of Palazzo Vecchio, Santa Croce on the right, the bridges over the Arno and the hills of Fiesole on the horizon. The sun sets to the left, beyond Ponte Vecchio and the bridges downstream — in late October almost straight down the river.
+
+        Tip: the best spots are along the balustrade on the left or on the steps below it; the crowd builds half an hour before sunset. It gets cold and windy up here in the evening. Once the lights are on, head down the stairs of the Rampe del Poggi — they lead from the square straight down to the San Niccolò gate.
+
+  - name: {en: San Niccolò and its gate, ru: Сан-Никколо и городские ворота}
+    place: "Porta San Niccolò, Piazza Giuseppe Poggi, Firenze"
+    lat: 43.76451
+    lng: 11.26486
+    radius_m: 200
+    approach: [{name: Rampe del Poggi, lat: 43.76390, lng: 11.26520}]
+    walk_min: [10, 15]
+    visit_min: [10, 15]
+    audio: {ru: audio/italy/04-florence-first-afternoon/05.mp3}
+    short:
+      ru: |
+        Вниз по лестницам и аллеям Rampe del Poggi — около 10 минут, ступени крутоватые, держитесь за перила. Внизу — средневековая башня-ворота у реки. Здесь можно выпить кофе или бокал вина.
+      en: |
+        Down the stairs and paths of the Rampe del Poggi — about 10 minutes; the steps are steepish, so use the handrail. At the bottom is the medieval gate tower by the river. Stop for a coffee or a glass of wine here.
+    long:
+      ru: |
+        Via de' Bardi названа по банкирскому роду Барди, который в XIV веке ссужал деньги английскому королю Эдуарду III — и разорился, когда тот не вернул долг. Улица узкая, зажатая между рекой и холмом, с глухими стенами старых дворцов. Via di San Niccolò, с которой она начинается, — квартал ремесленников, маленьких тратторий и винных баров, где живут сами флорентийцы.
+
+        Что посмотреть: **Порта Сан-Никколо** 1324 года — единственные городские ворота, сохранившие полную высоту: остальные башни в XVI веке срезали, чтобы на них не попадали ядра. Стены от ворот поднимаются вверх по склону к Порта Сан-Миниато — это лучший кусок средневековых укреплений в городе. Обратите внимание на отметки уровня воды наводнения 4 ноября 1966 года на стенах домов: в этом квартале вода стояла выше человеческого роста.
+
+        Совет: остерии здесь открываются около 19:00 — вино на разлив, никаких туристических меню. Туалет и кофе — в барах на Via di San Niccolò. Дальше — налево вдоль реки по Via di San Niccolò и Via de' Bardi к Понте Веккьо.
+      en: |
+        Via de' Bardi is named after the Bardi banking family, who in the 14th century lent money to Edward III of England — and went bust when he didn't pay it back. The street is narrow, squeezed between river and hill, lined with the blank walls of old palaces. Via di San Niccolò, where it begins, is a district of craftsmen, small trattorias and wine bars where Florentines actually live.
+
+        **Porta San Niccolò**, from 1324, is the only city gate that kept its full height: the others were cut down in the 16th century so cannonballs wouldn't hit them. From the gate the walls climb the hillside to Porta San Miniato — the best stretch of medieval fortifications in the city. Look for the marks on the house walls showing the flood of 4 November 1966: in this quarter the water rose above head height.
+
+        Tip: the osterias here open around 19:00 — wine by the glass, no tourist menus. Coffee and toilets in the bars on Via di San Niccolò. From here, follow the river along Via di San Niccolò and Via de' Bardi to Ponte Vecchio.
+
+  - name: {en: Ponte Vecchio, ru: Понте Веккьо}
+    lat: 43.76803
+    lng: 11.25316
+    radius_m: 120
+    approach: [{name: Via di San Niccolò, lat: 43.76441, lng: 11.26111}, {name: Via de' Bardi, lat: 43.76708, lng: 11.25385}]
+    walk_min: [15, 20]
+    visit_min: [15, 20]
+    audio: {ru: audio/italy/04-florence-first-afternoon/04.mp3}
+    short:
+      ru: |
+        По тихим Via di San Niccolò и Via de' Bardi вдоль левого берега — и направо, на мост. В середине моста — открытые арки с видом вдоль Арно; затем через мост на правый берег и прямо, через двор Уффици.
+      en: |
+        Along quiet Via di San Niccolò and Via de' Bardi on the south bank, then right onto the bridge. The open arches in the middle give the view along the Arno; then cross to the north bank and carry straight on through the Uffizi courtyard.
+    long:
+      ru: |
+        Самый старый мост Флоренции на этом месте стоит с римских времён; нынешний построен в 1345 году после большого наводнения. Лавки на нём были всегда, но сначала здесь торговали мясники и кожевники и сбрасывали отходы прямо в реку. В 1593 году великий герцог Фердинанд I выгнал их и пустил на мост ювелиров — с тех пор здесь только золото.
+
+        Что посмотреть: над лавками восточной стороны тянется **коридор Вазари** — крытый переход длиной почти километр, который Козимо I построил в 1565 году, чтобы ходить из Палаццо Веккьо в палаццо Питти, не смешиваясь с толпой; в 2024 году его снова открыли для посетителей. В центре моста — бюст Бенвенуто Челлини, самого знаменитого флорентийского ювелира. Понте Веккьо — единственный мост города, который немцы не взорвали при отступлении в августе 1944 года; вместо этого они разрушили дома на обоих концах.
+
+        Совет: лучшая фотография самого моста — не с него, а с соседнего Понте Санта-Тринита или с набережной у Уффици. Ювелирные лавки к вечеру закрываются деревянными ставнями-сундуками — это тоже красиво. Замки на перилах вешать запрещено, за это штрафуют.
+      en: |
+        There has been a bridge here since Roman times; the present one was built in 1345 after a great flood. It has always had shops, but at first they were butchers and tanners who threw their waste straight into the river. In 1593 Grand Duke Ferdinando I threw them out and gave the bridge to goldsmiths — it has been gold ever since.
+
+        Above the shops on the east side runs the **Vasari Corridor**, a covered passage almost a kilometre long that Cosimo I built in 1565 to walk from Palazzo Vecchio to Palazzo Pitti without mixing with the crowd; it reopened to visitors in 2024. In the middle of the bridge is a bust of Benvenuto Cellini, Florence's most famous goldsmith. Ponte Vecchio is the only bridge the Germans did not blow up when they retreated in August 1944; they destroyed the houses at either end instead.
+
+        Tip: the best photo of the bridge is taken not from it but from Ponte Santa Trinita next door or the embankment by the Uffizi. In the evening the goldsmiths close up behind wooden shutter-chests — worth a look too. Padlocks on the railings are banned and fined.
+
+  - name: {en: Piazza della Signoria, ru: Площадь Синьории}
+    lat: 43.76957
+    lng: 11.25586
+    radius_m: 150
+    approach: [{name: Piazzale degli Uffizi, lat: 43.76851, lng: 11.25557}]
+    walk_min: 5
+    visit_min: [20, 30]
+    audio: {ru: audio/italy/04-florence-first-afternoon/03.mp3}
+    short:
+      ru: |
+        Через двор Уффици — он выводит на площадь между Лоджией деи Ланци и Палаццо Веккьо. Копия «Давида», фонтан Нептуна и статуи в лоджии — всё снаружи, бесплатно и вечером в подсветке.
+      en: |
+        Through the Uffizi courtyard — it comes out onto the square between the Loggia dei Lanzi and Palazzo Vecchio. The copy of David, the Neptune Fountain and the statues in the loggia — all outdoors, free and floodlit in the evening.
+    long:
+      ru: |
+        Политический центр Флоренции со Средних веков. **Палаццо Веккьо** с башней высотой 94 метра построили на рубеже XIII–XIV веков для городского правительства — синьории, отсюда и название площади. Здесь же в 1498 году сожгли монаха Савонаролу, который незадолго до того устраивал на этом месте «костры тщеславия»; круглая плита в мостовой перед фонтаном отмечает место казни.
+
+        Что посмотреть: у входа в палаццо — копия **«Давида» Микеланджело** на том самом месте, где оригинал стоял с 1504 по 1873 год (теперь он в Галерее Академии). Рядом — **фонтан Нептуна** Амманнати, которого флорентийцы прозвали «Il Biancone», «белый громила», и конная статуя Козимо I работы Джамболоньи. **Лоджия деи Ланци** — открытая галерея-музей: «Персей» Бенвенуто Челлини с головой Медузы и «Похищение сабинянок» Джамболоньи, высеченное из одного блока мрамора.
+
+        Совет: присядьте на ступени лоджии — это разрешено, — и посмотрите на площадь. Дальше — на север по Via dei Calzaiuoli к собору; по пути Орсанмикеле — бывший зерновой рынок, ставший церковью; в нишах снаружи — статуи покровителей городских цехов работы Донателло, Гиберти и Верроккьо (тоже копии, но отличные).
+      en: |
+        Florence's political centre since the Middle Ages. **Palazzo Vecchio**, with its 94-metre tower, was built around 1300 for the city government, the Signoria, which gave the square its name. It was here in 1498 that the friar Savonarola was burned, shortly after staging his "bonfires of the vanities" on the same spot; a round plaque in the paving in front of the fountain marks the place.
+
+        By the palace door stands a copy of **Michelangelo's David** on the very spot where the original stood from 1504 to 1873 (it is now in the Accademia). Next to it are Ammannati's **Neptune Fountain**, nicknamed "Il Biancone", the big white lump, and Giambologna's equestrian statue of Cosimo I. The **Loggia dei Lanzi** is an open-air sculpture gallery: Cellini's Perseus holding Medusa's head, and Giambologna's Rape of the Sabine Women, carved from a single block of marble.
+
+        Tip: sit on the loggia steps — that's allowed — and watch the square. Then head north up Via dei Calzaiuoli to the cathedral; on the way, Orsanmichele was a grain market turned church, and the niches outside hold the guild patron saints by Donatello, Ghiberti and Verrocchio (copies, but very good ones).
 
   - name: {en: "Duomo, Baptistery and Campanile", ru: "Дуомо, баптистерий и кампанила"}
     place: "Piazza del Duomo, Firenze"
     lat: 43.77290
     lng: 11.25600
     radius_m: 250
-    inside: ["Battistero di San Giovanni, Firenze", "Campanile di Giotto, Firenze"]
-    walk_min: [25, 35]
+    approach: ["Orsanmichele, Firenze", {name: Via dei Calzaiuoli, lat: 43.77154, lng: 11.25533}]
+    inside: ["Campanile di Giotto, Firenze", "Battistero di San Giovanni, Firenze"]
+    walk_min: [5, 10]
     visit_min: [30, 40]
     audio: {ru: audio/italy/04-florence-first-afternoon/02.mp3}
     short:
       ru: |
-        Обойдите собор кругом снаружи: фасад, купол Брунеллески со стороны апсиды, «Райские врата» баптистерия, кампанила Джотто. Внутрь сегодня не заходим — очереди и раннее закрытие.
+        Вверх по Via dei Calzaiuoli, мимо Орсанмикеле. Обойдите собор кругом снаружи, в вечерней подсветке: кампанила Джотто, «Райские врата» баптистерия, фасад, купол Брунеллески со стороны апсиды. Внутрь не заходим — уже закрыто.
       en: |
-        Walk all the way round the outside: the façade, Brunelleschi's dome from the apse end, the Baptistery's Gates of Paradise and Giotto's bell tower. No going inside today — long queues and early closing.
+        Up Via dei Calzaiuoli, past Orsanmichele. Walk all the way round the outside, floodlit for the evening: Giotto's bell tower, the Baptistery's Gates of Paradise, the façade, and Brunelleschi's dome from the apse end. No going inside — it's closed by now.
     long:
       ru: |
         Собор Санта-Мария-дель-Фьоре начал строить Арнольфо ди Камбио в 1296 году, но почти полтора века над недостроенным храмом зияла дыра шириной 45 метров: никто не знал, как её перекрыть. В 1420 году за дело взялся Филиппо Брунеллески — ювелир по образованию. Он возвёл купол без деревянных кружал, из двух оболочек, с кладкой «ёлочкой», которая держала сама себя по мере роста. Купол закончили в 1436 году; это до сих пор самый большой кирпичный купол в мире.
@@ -88,133 +198,23 @@ points:
 
         Tip: the best view of the dome is from Via dei Servi and the north-east corner of the square, where it's quiet. Climbing the dome (463 steps) or the bell tower (414) needs a timed ticket bought online at duomo.firenze.it — better saved for another trip.
 
-  - name: {en: Piazza della Signoria, ru: Площадь Синьории}
-    lat: 43.76957
-    lng: 11.25586
-    radius_m: 150
-    approach: [{name: Via dei Calzaiuoli, lat: 43.77154, lng: 11.25533}, "Orsanmichele, Firenze"]
-    walk_min: [5, 10]
-    visit_min: [20, 30]
-    audio: {ru: audio/italy/04-florence-first-afternoon/03.mp3}
-    short:
-      ru: |
-        По Via dei Calzaiuoli, мимо Орсанмикеле. Палаццо Веккьо, копия «Давида», фонтан Нептуна и статуи в Лоджии деи Ланци — всё снаружи и бесплатно.
-      en: |
-        Down Via dei Calzaiuoli, past Orsanmichele. Palazzo Vecchio, the copy of David, the Neptune Fountain and the statues in the Loggia dei Lanzi — all outdoors and free.
-    long:
-      ru: |
-        Политический центр Флоренции со Средних веков. **Палаццо Веккьо** с башней высотой 94 метра построили на рубеже XIII–XIV веков для городского правительства — синьории, отсюда и название площади. Здесь же в 1498 году сожгли монаха Савонаролу, который незадолго до того устраивал на этом месте «костры тщеславия»; круглая плита в мостовой перед фонтаном отмечает место казни.
-
-        Что посмотреть: у входа в палаццо — копия **«Давида» Микеланджело** на том самом месте, где оригинал стоял с 1504 по 1873 год (теперь он в Галерее Академии). Рядом — **фонтан Нептуна** Амманнати, которого флорентийцы прозвали «Il Biancone», «белый громила», и конная статуя Козимо I работы Джамболоньи. **Лоджия деи Ланци** — открытая галерея-музей: «Персей» Бенвенуто Челлини с головой Медузы и «Похищение сабинянок» Джамболоньи, высеченное из одного блока мрамора.
-
-        Совет: присядьте на ступени лоджии — это разрешено, — и посмотрите на площадь. Орсанмикеле по дороге — бывший зерновой рынок, ставший церковью; в нишах снаружи — статуи покровителей городских цехов работы Донателло, Гиберти и Верроккьо (тоже копии, но отличные).
-      en: |
-        Florence's political centre since the Middle Ages. **Palazzo Vecchio**, with its 94-metre tower, was built around 1300 for the city government, the Signoria, which gave the square its name. It was here in 1498 that the friar Savonarola was burned, shortly after staging his "bonfires of the vanities" on the same spot; a round plaque in the paving in front of the fountain marks the place.
-
-        By the palace door stands a copy of **Michelangelo's David** on the very spot where the original stood from 1504 to 1873 (it is now in the Accademia). Next to it are Ammannati's **Neptune Fountain**, nicknamed "Il Biancone", the big white lump, and Giambologna's equestrian statue of Cosimo I. The **Loggia dei Lanzi** is an open-air sculpture gallery: Cellini's Perseus holding Medusa's head, and Giambologna's Rape of the Sabine Women, carved from a single block of marble.
-
-        Tip: sit on the loggia steps — that's allowed — and watch the square. Orsanmichele on the way was a grain market turned church; the niches outside hold the guild patron saints by Donatello, Ghiberti and Verrocchio (copies, but very good ones).
-
-  - name: {en: Ponte Vecchio, ru: Понте Веккьо}
-    lat: 43.76803
-    lng: 11.25316
-    radius_m: 120
-    approach: [{name: Piazzale degli Uffizi, lat: 43.76851, lng: 11.25557}]
-    walk_min: 5
-    visit_min: [15, 20]
-    audio: {ru: audio/italy/04-florence-first-afternoon/04.mp3}
-    short:
-      ru: |
-        Через двор Уффици к реке и на мост. В середине моста — открытые арки с видом вдоль Арно; затем сразу налево, на Via de' Bardi.
-      en: |
-        Through the Uffizi courtyard to the river and onto the bridge. The open arches in the middle give the view along the Arno; then turn left straight away into Via de' Bardi.
-    long:
-      ru: |
-        Самый старый мост Флоренции на этом месте стоит с римских времён; нынешний построен в 1345 году после большого наводнения. Лавки на нём были всегда, но сначала здесь торговали мясники и кожевники и сбрасывали отходы прямо в реку. В 1593 году великий герцог Фердинанд I выгнал их и пустил на мост ювелиров — с тех пор здесь только золото.
-
-        Что посмотреть: над лавками восточной стороны тянется **коридор Вазари** — крытый переход длиной почти километр, который Козимо I построил в 1565 году, чтобы ходить из Палаццо Веккьо в палаццо Питти, не смешиваясь с толпой; в 2024 году его снова открыли для посетителей. В центре моста — бюст Бенвенуто Челлини, самого знаменитого флорентийского ювелира. Понте Веккьо — единственный мост города, который немцы не взорвали при отступлении в августе 1944 года; вместо этого они разрушили дома на обоих концах.
-
-        Совет: лучшая фотография самого моста — не с него, а с соседнего Понте Санта-Тринита или с набережной у Уффици. Замки на перилах вешать запрещено, за это штрафуют.
-      en: |
-        There has been a bridge here since Roman times; the present one was built in 1345 after a great flood. It has always had shops, but at first they were butchers and tanners who threw their waste straight into the river. In 1593 Grand Duke Ferdinando I threw them out and gave the bridge to goldsmiths — it has been gold ever since.
-
-        Above the shops on the east side runs the **Vasari Corridor**, a covered passage almost a kilometre long that Cosimo I built in 1565 to walk from Palazzo Vecchio to Palazzo Pitti without mixing with the crowd; it reopened to visitors in 2024. In the middle of the bridge is a bust of Benvenuto Cellini, Florence's most famous goldsmith. Ponte Vecchio is the only bridge the Germans did not blow up when they retreated in August 1944; they destroyed the houses at either end instead.
-
-        Tip: the best photo of the bridge is taken not from it but from Ponte Santa Trinita next door or the embankment by the Uffizi. Padlocks on the railings are banned and fined.
-
-  - name: {en: San Niccolò and its gate, ru: Сан-Никколо и городские ворота}
-    place: "Porta San Niccolò, Piazza Giuseppe Poggi, Firenze"
-    lat: 43.76451
-    lng: 11.26486
-    radius_m: 200
-    approach: [{name: Via de' Bardi, lat: 43.76708, lng: 11.25385}, {name: Via di San Niccolò, lat: 43.76441, lng: 11.26111}]
-    walk_min: [15, 20]
-    visit_min: [10, 15]
-    audio: {ru: audio/italy/04-florence-first-afternoon/05.mp3}
-    short:
-      ru: |
-        По тихим Via de' Bardi и Via di San Niccolò вдоль левого берега, к средневековой башне-воротам у реки. Если идёте по графику, здесь можно выпить кофе перед подъёмом.
-      en: |
-        Along quiet Via de' Bardi and Via di San Niccolò on the south bank to the medieval gate tower by the river. If you're on time, grab a coffee here before the climb.
-    long:
-      ru: |
-        Via de' Bardi названа по банкирскому роду Барди, который в XIV веке ссужал деньги английскому королю Эдуарду III — и разорился, когда тот не вернул долг. Улица узкая, зажатая между рекой и холмом, с глухими стенами старых дворцов; после толпы на мосту здесь вдруг становится тихо. Дальше Via di San Niccolò — квартал ремесленников, маленьких тратторий и винных баров, где живут сами флорентийцы.
-
-        Что посмотреть: **Порта Сан-Никколо** 1324 года — единственные городские ворота, сохранившие полную высоту: остальные башни в XVI веке срезали, чтобы на них не попадали ядра. Стены от ворот поднимаются вверх по склону к Порта Сан-Миниато — это лучший кусок средневековых укреплений в городе. Обратите внимание на отметки уровня воды наводнения 4 ноября 1966 года на стенах домов: в этом квартале вода стояла выше человеческого роста.
-
-        Совет: в Сан-Никколо стоит вернуться на ужин после заката — остерии, вино на разлив, никаких туристических меню. Туалет и кофе — в барах на Via di San Niccolò.
-      en: |
-        Via de' Bardi is named after the Bardi banking family, who in the 14th century lent money to Edward III of England — and went bust when he didn't pay it back. The street is narrow, squeezed between river and hill, lined with the blank walls of old palaces; after the crowd on the bridge it suddenly goes quiet. Beyond it Via di San Niccolò is a district of craftsmen, small trattorias and wine bars where Florentines actually live.
-
-        **Porta San Niccolò**, from 1324, is the only city gate that kept its full height: the others were cut down in the 16th century so cannonballs wouldn't hit them. From the gate the walls climb the hillside to Porta San Miniato — the best stretch of medieval fortifications in the city. Look for the marks on the house walls showing the flood of 4 November 1966: in this quarter the water rose above head height.
-
-        Tip: San Niccolò is worth coming back to for dinner after sunset — osterias, wine by the glass, no tourist menus. Coffee and toilets in the bars on Via di San Niccolò.
-
-  - name: {en: Piazzale Michelangelo, ru: Площадь Микеланджело}
-    lat: 43.76283
-    lng: 11.26499
-    radius_m: 200
-    approach: [{name: Rampe del Poggi, lat: 43.76390, lng: 11.26520}]
-    walk_min: [10, 15]
-    visit_min: [40, 60]
-    audio: {ru: audio/italy/04-florence-first-afternoon/06.mp3}
-    short:
-      ru: |
-        Подъём по лестницам и аллеям Rampe del Poggi — около 10 минут, крутовато, но коротко. Будьте наверху к 16:50; закат около 17:15, сумерки и огни города — ещё полчаса после.
-      en: |
-        Up the stairs and paths of the Rampe del Poggi — about 10 minutes, steep but short. Be at the top by 16:50; sunset is about 17:15, and dusk with the city lights coming on lasts another half hour.
-    long:
-      ru: |
-        Площадь и серпантин Viale dei Colli, который к ней ведёт, спроектировал архитектор Джузеппе Поджи в 1869 году — тогда Флоренция была столицей молодого Итальянского королевства, и средневековые стены на этом берегу снесли ради бульваров. Рампы с гротами и фонтанами, по которым вы поднимаетесь, — тоже его. Поджи задумывал здесь музей Микеланджело, но музей так и не появился; осталась бронзовая копия «Давида» 1873 года в центре площади.
-
-        Что посмотреть: вся Флоренция с одной точки — купол собора, башня Палаццо Веккьо, Санта-Кроче справа, мосты через Арно и холмы Фьезоле на горизонте. Солнце садится слева, за Понте Веккьо и мостами ниже по течению, — в конце октября закат почти прямо вдоль реки.
-
-        Совет: лучшие места — у балюстрады с левой стороны или на ступенях под ней; народ собирается за полчаса до заката. Если останутся силы, в 5 минутах выше — церковь Сан-Миниато-аль-Монте с видом ещё шире. Вечером на площади холодно и ветрено — возьмите с собой кофту.
-      en: |
-        The square and the Viale dei Colli that winds up to it were designed by Giuseppe Poggi in 1869, when Florence was briefly capital of the new Kingdom of Italy and the medieval walls on this bank came down to make way for boulevards. The ramps with their grottoes and fountains that you climb are his too. Poggi meant to put a Michelangelo museum here; it never happened, and what remains is the 1873 bronze copy of David in the middle.
-
-        The whole of Florence from one spot — the cathedral dome, the tower of Palazzo Vecchio, Santa Croce on the right, the bridges over the Arno and the hills of Fiesole on the horizon. The sun sets to the left, beyond Ponte Vecchio and the bridges downstream — in late October almost straight down the river.
-
-        Tip: the best spots are along the balustrade on the left or on the steps below it; the crowd builds half an hour before sunset. If you have energy left, San Miniato al Monte is 5 minutes further uphill with an even wider view. It gets cold and windy up here in the evening — bring a jumper.
-
   - name: {en: Back to Casa Angi, ru: Обратно в Casa Angi}
     place: "Via de' Baldovini 19, 50126 Firenze"
     lat: 43.76255
     lng: 11.27528
     radius_m: 100
-    approach: [{name: Viale Michelangiolo, lat: 43.76299, lng: 11.27202}, "Piazza Ferrucci, Firenze"]
-    walk_min: [20, 25]
+    walk_min: [25, 35]
     short:
       ru: |
-        Финиш. Вниз по Viale Michelangiolo до площади Ферруччи и направо к дому — около 1,2 км, всё под горку. Если ноги устали — такси от площади, 5 минут.
+        Финиш. Такси — 10–15 минут, около 12–15 € на троих: 055 4390, 055 4242 или приложение appTaxi. Или автобус **23** — остановку в сторону дома проверьте в Google Maps (режим «общественный транспорт»).
       en: |
-        Finish. Down Viale Michelangiolo to Piazza Ferrucci and on to the house — about 1.2 km, all downhill. If your legs are done, a taxi from the square takes 5 minutes.
+        Finish. A taxi takes 10–15 minutes, about €12–15 for the three of you: 055 4390, 055 4242 or the appTaxi app. Or bus **23** — check the stop for the homeward direction in Google Maps (transit mode).
     long:
       ru: |
-        Viale Michelangiolo — тот самый бульвар Поджи: широкий, обсаженный деревьями, с тротуаром по обеим сторонам и освещённый вечером. Он спускается серпантином мимо вилл конца XIX века прямо к площади Ферруччи, откуда до Via de' Baldovini пять минут.
+        Пешком до дома около 35 минут вдоль реки — после такого дня лучше ехать. В автобусе каждый прикладывает свою бесконтактную карту к валидатору у двери: билет на 90 минут, около 2 €.
 
-        Совет: идите по внутренней стороне бульвара, ближе к холму, — там тротуар шире. На площади Ферруччи есть продуктовые магазины и пекарня — удобно купить что-то к завтраку, ведь завтра выходить рано.
+        Совет: на площади Ферруччи есть продуктовые магазины и пекарня — удобно купить что-то к завтраку, ведь завтра выходить рано.
       en: |
-        Viale Michelangiolo is Poggi's boulevard: wide, tree-lined, with pavements on both sides and lit at night. It winds down past late-19th-century villas straight to Piazza Ferrucci, five minutes from Via de' Baldovini.
+        Walking home takes about 35 minutes along the river — after a day like this, ride. On the bus each of you taps your own contactless card on the reader by the door: a 90-minute ticket, about €2.
 
-        Tip: keep to the hillside of the boulevard, where the pavement is wider. Piazza Ferrucci has grocery shops and a bakery — handy for breakfast supplies, since tomorrow starts early.
+        Tip: Piazza Ferrucci has grocery shops and a bakery — handy for breakfast supplies, since tomorrow starts early.
