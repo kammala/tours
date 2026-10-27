@@ -1,33 +1,33 @@
 country: {en: Italy, ru: Италия}
 city: {en: Venice, ru: Венеция}
-name: {en: "Fri 30 Oct · Doge's Palace, St Mark's, San Giorgio and sunset on the Zattere", ru: "Пт, 30 окт · Дворец дожей, Сан-Марко, Сан-Джорджо и закат на Дзаттере"}
+name: {en: "Fri 30 Oct · Doge's Palace, St Mark's, the Salute and sunset on the Zattere", ru: "Пт, 30 окт · Дворец дожей, Сан-Марко, Салюте и закат на Дзаттере"}
 place_suffix: Venezia
 summary:
-  ru: "≈ 3 км пешком, с 7:30 до вечера; четыре вапоретто и две брони — дворец в 9:00 и собор около 11:15"
-  en: "≈ 3 km on foot, from 07:30 into the evening; four vaporetto rides and two bookings — the palace at 09:00 and the basilica around 11:15"
+  ru: "≈ 3 км пешком, с 9:15 до вечера; три вапоретто; брони: дворец в 10:30, собор в 13:30"
+  en: "≈ 3 km on foot, from 09:15 into the evening; three vaporetto rides; booked: the palace at 10:30, the basilica at 13:30"
 intro:
   ru: |
-    Пятница, 30 октября. Утром вдвоём — Дворец дожей к открытию; третий участник отсыпается и присоединяется к 11:00 у собора Святого Марка. Дальше все вместе: обед сидя, катер на остров Сан-Джорджо-Маджоре с лифтом на колокольню, церковь Салюте, закат и ужин на набережной Дзаттере, катер домой. Длинных пеших переходов нет: между точками — по 3–10 минут или вапоретто.
+    Пятница, 30 октября. Утром вдвоём — Дворец дожей; третий участник отсыпается и присоединяется в 13:15 у собора Святого Марка. Дальше все вместе: собор, поздний обед сидя, катер к церкви Салюте, закат и ужин на набережной Дзаттере, катер домой. Длинных пеших переходов нет: между точками — по 3–10 минут или вапоретто.
 
-    **Брони — заранее, обе обязательны.**
-    - **Дворец дожей** на **9:00**, на двоих — билет «Музеи площади Сан-Марко» (€35, в него входят ещё музей Коррер, Археологический музей и залы библиотеки Марчиана), на palazzoducale.visitmuve.it. Очередь по брони с досмотром — 5–15 минут.
-    - **Собор Святого Марка** — около **11:15**, на троих, на tickets.basilicasanmarco.it. С июля 2025 года касс на месте нет, только онлайн; базовый билет около €10, Пала д’Оро и Музей с лоджией коней — отдельно. Опоздание допускается всего минут на пять.
+    **Брони сделаны.**
+    - **Дворец дожей** — **10:30**, на двоих (билет «Музеи площади Сан-Марко»; слот в музей Коррер в 16:50 — для галочки, идти не нужно). Очередь по брони с досмотром — 5–15 минут.
+    - **Собор Святого Марка** — **13:30** (вход до 14:00), на троих. Пала д’Оро и Музей с лоджией коней в билет не входят.
 
-    **Дорога.** Вдвоём — выход в **7:30**: автобус № 6 до Пьяццале Рома, оттуда вапоретто **№ 2** до San Marco (Giardinetti), около 30 минут. Третий участник — выход **не позже 10:00** тем же путём, встреча в **11:00** у камеры хранения Атенео Сан-Бассо, слева от собора. Проездной на 72 часа, купленный вчера, покрывает всё.
+    **Дорога.** Вдвоём — выход около **9:15**: автобус № 6 до Пьяццале Рома, оттуда вапоретто **№ 2** до San Marco (Giardinetti), около 30 минут. Третий участник — выход около **12:00** тем же путём, встреча в **13:15** у камеры хранения Атенео Сан-Бассо, слева от собора. Проездной на 72 часа, купленный вчера, покрывает всё.
 
-    **Ритм.** Присесть можно каждые 30–45 минут: катер, кафе во дворе дворца, обед, катер, лифт на колокольню, катер, кафе на Дзаттере, ужин.
+    **Ритм.** Присесть можно каждые 30–45 минут: катер, кафе во дворе дворца, кофе после дворца, обед, катер, ступени Салюте, кафе на Дзаттере, ужин.
 
     Закат около **17:00** — его встречаем на Дзаттере. Салюте открывается после обеденного перерыва в 15:00.
   en: |
-    Friday 30 October. In the morning, two of you do the Doge's Palace at opening; the third person sleeps in and joins at 11:00 at St Mark's Basilica. Then all together: a sit-down lunch, a boat to San Giorgio Maggiore with a lift up its bell tower, the Salute church, sunset and dinner on the Zattere, and the boat home. No long walks: 3–10 minutes between stops, or a vaporetto.
+    Friday 30 October. In the morning, two of you do the Doge's Palace; the third person sleeps in and joins at 13:15 at St Mark's Basilica. Then all together: the basilica, a late sit-down lunch, a boat to the Salute church, sunset and dinner on the Zattere, and the boat home. No long walks: 3–10 minutes between stops, or a vaporetto.
 
-    **Book both in advance — both are essential.**
-    - **Doge's Palace** at **09:00**, for two — the "St Mark's Square Museums" ticket (€35, which also covers the Museo Correr, the Archaeological Museum and the Biblioteca Marciana rooms), at palazzoducale.visitmuve.it. The booked queue plus security takes 5–15 minutes.
-    - **St Mark's Basilica** — around **11:15**, for three, at tickets.basilicasanmarco.it. Since July 2025 there are no ticket desks on site, online only; the basic ticket is around €10, with the Pala d'Oro and the Museum with the Horses' Loggia extra. Only about five minutes' lateness is tolerated.
+    **Booked.**
+    - **Doge's Palace** at **10:30**, for two (the "St Mark's Square Museums" ticket; the 16:50 Museo Correr slot was only required to complete the purchase — no need to go). The booked queue plus security takes 5–15 minutes.
+    - **St Mark's Basilica** at **13:30** (entry until 14:00), for three. The Pala d'Oro and the Museum with the Horses' Loggia aren't included.
 
-    **Getting there.** The two of you leave at **07:30**: bus no. 6 to Piazzale Roma, then vaporetto **no. 2** to San Marco (Giardinetti), about 30 minutes. The third person leaves **by 10:00** the same way and meets you at **11:00** at the Ateneo San Basso left-luggage, to the left of the basilica. Yesterday's 72-hour pass covers it all.
+    **Getting there.** The two of you leave around **09:15**: bus no. 6 to Piazzale Roma, then vaporetto **no. 2** to San Marco (Giardinetti), about 30 minutes. The third person leaves around **12:00** the same way and meets you at **13:15** at the Ateneo San Basso left-luggage, to the left of the basilica. Yesterday's 72-hour pass covers it all.
 
-    **Pace.** There's a chance to sit every 30–45 minutes: the boat, the palace courtyard café, lunch, the boat, the bell-tower lift, the boat, a café on the Zattere, dinner.
+    **Pace.** There's a chance to sit every 30–45 minutes: the boat, the palace courtyard café, coffee after the palace, lunch, the boat, the Salute steps, a café on the Zattere, dinner.
 
     Sunset is around **17:00**, to be watched from the Zattere. The Salute reopens after its lunch break at 15:00.
 outro:
@@ -47,18 +47,18 @@ points:
     radius_m: 250
     short:
       ru: |
-        Вдвоём — старт около 7:30. Третий участник — не позже 10:00. До остановки автобуса 12–15 минут пешком через подземный переход.
+        Вдвоём — старт около 9:15. Третий участник — около 12:00. До остановки автобуса 12–15 минут пешком через подземный переход.
       en: |
-        The two of you start around 07:30; the third person by 10:00. The bus stop is 12–15 minutes' walk through the underpass.
+        The two of you start around 09:15; the third person around 12:00. The bus stop is 12–15 minutes' walk through the underpass.
     long:
       ru: |
         Путь до остановки тот же, что вчера: велодорожка вдоль Via De Marchi, подземный переход под съездом, Via della Fonte мимо спортивного центра, налево по Via Cesare Beccaria до Via Paleocapa.
 
-        Совет: проверьте, что брони на дворец и собор открываются в телефоне без интернета (сделайте скриншоты QR-кодов), и перешлите третьему участнику его билет в собор. Возьмите шарф или кофту, чтобы прикрыть плечи в соборе, и небольшую сумку: с рюкзаком в собор не пустят.
+        Совет: проверьте, что билеты во дворец и собор открываются в телефоне без интернета (сделайте скриншоты QR-кодов), и перешлите третьему участнику его билет в собор — он именной. Возьмите шарф или кофту, чтобы прикрыть плечи в соборе, и небольшую сумку: с рюкзаком в собор не пустят.
       en: |
         Same way to the stop as yesterday: the cycle path along Via De Marchi, the underpass beneath the ramp, Via della Fonte past the sports centre, then left up Via Cesare Beccaria to Via Paleocapa.
 
-        Tip: make sure the palace and basilica bookings open on your phone offline (screenshot the QR codes), and forward the third person their basilica ticket. Bring a scarf or cardigan to cover shoulders in the basilica, and a small bag: backpacks aren't allowed inside.
+        Tip: make sure the palace and basilica tickets open on your phone offline (screenshot the QR codes), and forward the third person their basilica ticket — it's in their name. Bring a scarf or cardigan to cover shoulders in the basilica, and a small bag: backpacks aren't allowed inside.
 
   - name: {en: "Bus stop Paleocapa (line 6)", ru: "Остановка Paleocapa (автобус № 6)"}
     place: "45.47691,12.22017"
@@ -76,11 +76,11 @@ points:
         Bus no. 6 towards Venezia, 10–15 minutes to Piazzale Roma. Morning rush-hour buses are fuller, so allow some slack.
     long:
       ru: |
-        Автобусы ходят примерно каждые 20 минут. Чтобы успеть к 9:00 во дворец, нужно быть на Пьяццале Рома не позже 8:15; третьему участнику, чтобы успеть к 11:00, — не позже 10:15.
+        Автобусы ходят примерно каждые 20 минут. Чтобы успеть к 10:30 во дворец, нужно быть на Пьяццале Рома не позже 9:45; третьему участнику, чтобы успеть к 13:15, — не позже 12:30.
 
         Совет: если автобус задерживается, можно ехать и на любом другом в сторону Venezia — на Пьяццале Рома приходят все.
       en: |
-        Buses run about every 20 minutes. To make the 09:00 palace slot you need to be at Piazzale Roma by 08:15 at the latest; for the third person to make 11:00, by 10:15.
+        Buses run about every 20 minutes. To make the 10:30 palace slot you need to be at Piazzale Roma by 09:45 at the latest; for the third person to make 13:15, by 12:30.
 
         Tip: if the bus is late, any other bus towards Venezia from this stop will do — they all end at Piazzale Roma.
 
@@ -114,9 +114,9 @@ points:
     visit_min: [110, 120]
     short:
       ru: |
-        Вдвоём, вход по брони в 9:00 через Порта-дель-Фрументо. Около двух часов по одностороннему маршруту: парадные залы, Зал Большого совета, Мост вздохов и тюрьмы. Выйти к **10:55** — в 11:00 встреча у собора.
+        Вдвоём, вход по брони в 10:30 через Порта-дель-Фрументо. Около двух часов по одностороннему маршруту: парадные залы, Зал Большого совета, Мост вздохов и тюрьмы. Выйти около **12:30** — до встречи у собора в 13:15 есть время на кофе с тост-сэндвичем в баре за причалом San Zaccaria.
       en: |
-        The two of you, entering with the 09:00 booking through the Porta del Frumento. About two hours on a one-way route: the state rooms, the Great Council Hall, the Bridge of Sighs and the prisons. Be out by **10:55** — the meet-up at the basilica is at 11:00.
+        The two of you, entering with the 10:30 booking through the Porta del Frumento. About two hours on a one-way route: the state rooms, the Great Council Hall, the Bridge of Sighs and the prisons. Out around **12:30** — before the 13:15 meet-up at the basilica there's time for a coffee and a toasted sandwich at a bar behind the San Zaccaria pier.
     long:
       ru: |
         Резиденция дожа и одновременно всё правительство Венецианской республики: советы, суды, канцелярия и тюрьма под одной крышей. Нынешний готический облик сложился в XIV–XV веках; розово-белый фасад с ажурными лоджиями, будто стоящий на кружеве, — уникальный венецианский стиль, перевернувший привычную логику «тяжёлый низ — лёгкий верх».
@@ -139,9 +139,9 @@ points:
     visit_min: [40, 50]
     short:
       ru: |
-        **Встреча в 11:00** у камеры хранения Атенео Сан-Бассо (слева от собора): туда рюкзаки и большие сумки, бесплатно, до 1 часа. Вход по брони около 11:15 с площади, все трое. Плечи и колени закрыты.
+        **Встреча в 13:15** у камеры хранения Атенео Сан-Бассо (слева от собора): туда рюкзаки и большие сумки, бесплатно, до 1 часа. Вход по брони в 13:30 (до 14:00) с площади, все трое. Плечи и колени закрыты.
       en: |
-        **Meet at 11:00** at the Ateneo San Basso left-luggage (to the left of the basilica): backpacks and large bags go there, free, up to 1 hour. Enter with the ~11:15 booking from the square, all three of you. Shoulders and knees covered.
+        **Meet at 13:15** at the Ateneo San Basso left-luggage (to the left of the basilica): backpacks and large bags go there, free, up to 1 hour. Enter with the 13:30 booking (valid until 14:00) from the square, all three of you. Shoulders and knees covered.
     long:
       ru: |
         Собор построили в XI веке как дворцовую капеллу дожей для мощей евангелиста Марка: в 828 году их выкрали из Александрии венецианские купцы, по легенде спрятав под свининой, чтобы мусульманские таможенники не стали досматривать груз. Кафедральным собором города он стал только в 1807 году.
@@ -172,43 +172,38 @@ points:
         East along the waterfront: the Bridge of Sighs view from the Ponte della Paglia, past the Pietà church to quiet Campo Bandiera e Moro. A sit-down lunch, unhurried, in the alleys behind the square rather than on the quay itself.
     long:
       ru: |
-        «Набережная славян»: здесь швартовались торговцы из Далмации — «скьявони», как венецианцы называли славян с восточного берега Адриатики. Сегодня это самая парадная набережная города: гостиница **Даниэли** в готическом палаццо XIV века и вид через бассейн на остров Сан-Джорджо-Маджоре — туда мы поплывём после обеда.
+        «Набережная славян»: здесь швартовались торговцы из Далмации — «скьявони», как венецианцы называли славян с восточного берега Адриатики. Сегодня это самая парадная набережная города: гостиница **Даниэли** в готическом палаццо XIV века и вид через бассейн на остров Сан-Джорджо-Маджоре с белой церковью Палладио.
 
         Что посмотреть: с **моста Палья** — **Мост вздохов**, по которому осуждённых вели из дворца в тюрьму. Церковь **Пьета** — при ней был сиротский приют, где больше тридцати лет преподавал музыку Антонио Вивальди; его девичий оркестр был знаменит на всю Европу.
 
         Совет: по пути три небольших моста со ступенями — идите не спеша. Цены в переулках за площадью заметно ниже, чем у Сан-Марко; выбирайте место с меню на итальянском. После обеда — 4 минуты назад к причалу San Zaccaria.
       en: |
-        The "Quay of the Slavs": merchants from Dalmatia moored here — the "schiavoni", as Venetians called the Slavs from the eastern Adriatic shore. Today it's the city's grandest waterfront: the **Danieli** hotel in a 14th-century Gothic palace, and the view across the basin to San Giorgio Maggiore — where you're heading after lunch.
+        The "Quay of the Slavs": merchants from Dalmatia moored here — the "schiavoni", as Venetians called the Slavs from the eastern Adriatic shore. Today it's the city's grandest waterfront: the **Danieli** hotel in a 14th-century Gothic palace, and the view across the basin to San Giorgio Maggiore and Palladio's white church.
 
         From the **Ponte della Paglia** look at the **Bridge of Sighs**, which led the condemned from the palace to the prison. The **Pietà** church ran an orphanage where Antonio Vivaldi taught music for over thirty years; his all-girl orchestra was famous across Europe.
 
         Tip: there are three small stepped bridges on the way — take them slowly. Prices in the alleys behind the square are noticeably lower than around St Mark's; pick a place with an Italian menu. After lunch it's 4 minutes back to the San Zaccaria pier.
 
-  - name: {en: "San Giorgio Maggiore — the bell tower with a lift", ru: "Сан-Джорджо-Маджоре — колокольня с лифтом"}
-    place: "San Giorgio Maggiore, Venezia"
-    lat: 45.42900
-    lng: 12.34320
-    approach: [{name: San Zaccaria pier, lat: 45.43385, lng: 12.34230}]
+  - name: {en: "San Zaccaria — vaporetto 1 to Salute", ru: "Сан-Дзаккария — вапоретто № 1 до Салюте"}
+    place: "45.43385,12.34230"
+    lat: 45.43385
+    lng: 12.34230
     walk_min: [4, 5]
-    visit_min: [45, 60]
+    visit_min: [10, 15]
     short:
       ru: |
-        С причала **San Zaccaria** — линия **2** в сторону Giudecca/Piazzale Roma, одна остановка, 3–5 минут, до **San Giorgio**. На колокольню — **на лифте** (около €8, билет в церкви), ступенек почти нет.
+        С причала **San Zaccaria** — линия **1** в сторону **Piazzale Roma**, две остановки, около 7 минут, до **Salute**. Катер подходит к самым ступеням церкви.
       en: |
-        From the **San Zaccaria** pier take line **2** towards Giudecca/Piazzale Roma, one stop, 3–5 minutes, to **San Giorgio**. Up the bell tower **by lift** (about €8, tickets inside the church) — hardly any steps.
+        From the **San Zaccaria** pier take line **1** towards **Piazzale Roma**, two stops, about 7 minutes, to **Salute**. The boat docks right by the church steps.
     long:
       ru: |
-        Остров напротив площади Сан-Марко целиком занимает бенедиктинский монастырь. Белую церковь построил **Андреа Палладио** в 1566–1610 годах: фасад как античный храм, внутри — светло, просторно и почти пусто. Колокольня рухнула в 1774 году, нынешнюю построили заново в конце XVIII века.
+        Катер пересекает устье Гранд-канала: слева остаются Дворец дожей и Пьяцетта с двумя колоннами, справа — остров **Сан-Джорджо-Маджоре** с церковью Палладио и мыс Пунта-делла-Догана.
 
-        Что посмотреть: с верхней площадки колокольни — **лучший вид на Венецию**: прямо напротив — площадь Сан-Марко и Дворец дожей, налево — Джудекка и устье Гранд-канала с Салюте, направо — Лидо и лагуна, в ясную погоду — Альпы. Толп, как на кампаниле Сан-Марко, здесь обычно нет. В церкви, у алтаря, — «Тайная вечеря» Тинторетто; вход в церковь бесплатный.
-
-        Совет: наверху ветрено — накиньте куртку. Обратно — линия **2** до San Zaccaria, там пересадка на линию **1** в сторону Piazzale Roma, две остановки до **Salute**; причалы рядом, по пути нет мостов. Будьте у Салюте после 15:00, когда она открывается.
+        Совет: у San Zaccaria несколько понтонов с буквами — на табло найдите тот, где написано «1 Piazzale Roma». Будьте у Салюте после 15:00, когда она открывается.
       en: |
-        The island opposite St Mark's Square is taken up entirely by a Benedictine monastery. **Andrea Palladio** built the white church in 1566–1610: a façade like an ancient temple, and inside it's bright, spacious and nearly empty. The bell tower collapsed in 1774 and was rebuilt at the end of the 18th century.
+        The boat crosses the mouth of the Grand Canal: the Doge's Palace and the Piazzetta with its two columns on the left, **San Giorgio Maggiore** with Palladio's church and the Punta della Dogana on the right.
 
-        From the top of the tower is **the best view of Venice**: St Mark's Square and the Doge's Palace straight across, Giudecca and the mouth of the Grand Canal with the Salute to the left, the Lido and the lagoon to the right, and on a clear day the Alps. There's usually none of the crowd you get at the St Mark's bell tower. In the church, by the altar, is Tintoretto's "Last Supper"; entry to the church is free.
-
-        Tip: it's windy at the top, so bring a jacket. Back: line **2** to San Zaccaria, then change to line **1** towards Piazzale Roma, two stops to **Salute**; the piers are side by side, with no bridges on the way. Aim to reach the Salute after 15:00, when it opens.
+        Tip: San Zaccaria has several lettered pontoons — find the one whose board says "1 Piazzale Roma". Aim to reach the Salute after 15:00, when it opens.
 
   - name: {en: Santa Maria della Salute, ru: Санта-Мария-делла-Салюте}
     place: "Basilica di Santa Maria della Salute, Venezia"
@@ -250,11 +245,11 @@ points:
       ru: |
         Здесь была морская таможня: каждый корабль, входивший в город, разгружался и платил пошлины. Над башней два атланта держат золотой шар, а на нём стоит фигура Фортуны, которая поворачивается по ветру: удача Венеции зависела от моря и ветров.
 
-        Совет: встаньте на самом краю мыса — с одной стороны площадь Сан-Марко и Дворец дожей, прямо — Сан-Джорджо, где вы только что были, справа — остров Джудекка. Отсюда — медленно на запад вдоль воды, по набережной Дзаттере, 8–10 минут.
+        Совет: встаньте на самом краю мыса — с одной стороны площадь Сан-Марко и Дворец дожей, прямо — Сан-Джорджо-Маджоре, справа — остров Джудекка. Отсюда — медленно на запад вдоль воды, по набережной Дзаттере, 8–10 минут.
       en: |
         This was the sea customs house: every ship entering the city unloaded and paid duty here. Above the tower two Atlases hold a golden globe topped by a figure of Fortune that turns with the wind: Venice's luck depended on the sea and the winds.
 
-        Tip: stand at the very tip: St Mark's Square and the Doge's Palace on one side, San Giorgio — where you've just been — straight ahead, Giudecca island to the right. From here, walk slowly west along the water on the Zattere, 8–10 minutes.
+        Tip: stand at the very tip: St Mark's Square and the Doge's Palace on one side, San Giorgio Maggiore straight ahead, Giudecca island to the right. From here, walk slowly west along the water on the Zattere, 8–10 minutes.
 
   - name: {en: "The Zattere: sunset and dinner", ru: "Дзаттере: закат и ужин"}
     place: "Fondamenta Zattere ai Gesuati, Venezia"
@@ -273,13 +268,13 @@ points:
       ru: |
         «Дзаттере» значит «плоты»: сюда сплавляли лес с материка, и на этих брёвнах, по сути, стоит весь город. Набережная тянется почти на два километра и смотрит на юг, поэтому здесь светлее и теплее, чем в узких улочках, — любимое место венецианцев для вечерней прогулки.
 
-        Что посмотреть: напротив, на Джудекке, — церковь **Иль-Реденторе** Палладио, того же архитектора, что и Сан-Джорджо; вечером её подсвечивают. Рядом — церковь **Джезуати** с плафонами Тьеполо. По желанию, в 3 минутах дальше, — **скверо Сан-Тровазо**, старинная мастерская гондол в деревянном доме, похожем на альпийское шале.
+        Что посмотреть: напротив, на Джудекке, — церковь **Иль-Реденторе** Палладио, автора Сан-Джорджо-Маджоре; вечером её подсвечивают. Рядом — церковь **Джезуати** с плафонами Тьеполо. По желанию, в 3 минутах дальше, — **скверо Сан-Тровазо**, старинная мастерская гондол в деревянном доме, похожем на альпийское шале.
 
         Совет: «джандуйотто» в **Gelateria Nico** — брикет шоколадно-орехового мороженого в сливках, местная классика. Венецианцы ужинают с 19:00; до этого — аперитив у воды, спритц или бокал вина. Вечером с канала тянет холодом — пригодится тёплая кофта.
       en: |
         "Zattere" means "rafts": timber was floated here from the mainland, and the whole city effectively stands on those logs. The quay runs for almost two kilometres and faces south, so it's brighter and warmer than the narrow alleys — a favourite Venetian spot for an evening stroll.
 
-        Opposite, on Giudecca, is **Il Redentore**, by Palladio like San Giorgio, floodlit in the evening. Nearby is the **Gesuati** church with ceilings by Tiepolo. Optionally, 3 minutes further on, is the **Squero di San Trovaso**, an old gondola yard in a wooden house like an Alpine chalet.
+        Opposite, on Giudecca, is **Il Redentore**, by Palladio, who also built San Giorgio Maggiore, floodlit in the evening. Nearby is the **Gesuati** church with ceilings by Tiepolo. Optionally, 3 minutes further on, is the **Squero di San Trovaso**, an old gondola yard in a wooden house like an Alpine chalet.
 
         Tip: a "gianduiotto" at **Gelateria Nico** is a slab of chocolate-hazelnut ice cream drowned in whipped cream, a local classic. Venetians dine from 19:00; until then, an aperitivo by the water, a spritz or a glass of wine. The canal gets chilly in the evening, so a warm layer helps.
 
