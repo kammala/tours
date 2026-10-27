@@ -69,6 +69,7 @@ points:
       - {name: Palazzo Pitti, lat: 43.76560, lng: 11.25030}
     walk_min: [5, 10]
     visit_min: [100, 120]
+    audio: {ru: audio/italy/05-florence-in-depth/02.mp3}
     short:
       ru: |
         Сады открываются в **8:15** — вы среди первых. Вход через двор палаццо, касса справа от главного входа: **2 билета по 10 €**. Не спеша: амфитеатр → фонтан Нептуна → вид от статуи Изобилия; Сад рыцаря наверху — крутой подъём, по желанию. Около 10:15 выходите обратно через Питти. Если дождь — пропускайте и идите сразу на Via Maggio.
@@ -76,13 +77,13 @@ points:
         The gardens open at **08:15** — you're among the first in. Enter through the palace courtyard; the ticket desk is to the right of the main door: **2 tickets at €10**. At an easy pace: amphitheatre → Neptune Fountain → the view from the statue of Abundance; the Knight's Garden at the top is a steep climb, optional. Head back out through Pitti around 10:15. If it rains, skip it and go straight on to Via Maggio.
     long:
       ru: |
-        Палаццо начал в 1458 году банкир Лука Питти, соперник Медичи, — и разорился, не достроив. В 1550 году дворец купила Элеонора Толедская, жена Козимо I, и он стал главной резиденцией Медичи, потом Лотарингской династии и Савойского дома. Холм за дворцом превратили в сад, ставший образцом «итальянского сада» для всей Европы: его закладывали Триболо, затем Амманнати и Буонталенти.
+        Палаццо начал в 1458 году банкир Лука Питти, соперник Медичи, — и разорился, не достроив. В 1549 году дворец купила Элеонора Толедская, жена Козимо I, и он стал главной резиденцией Медичи, потом Лотарингской династии и Савойского дома. Холм за дворцом превратили в сад, ставший образцом «итальянского сада» для всей Европы: его закладывали Триболо, затем Амманнати и Буонталенти.
 
         Что посмотреть: **амфитеатр** прямо за дворцом, с египетским обелиском из Рима и гранитной античной чашей — здесь Медичи устраивали представления. Выше — **фонтан Нептуна** с бронзовым богом, которого прозвали «Нептун с вилкой», и на самом верху — **статуя Изобилия**, начатая Джамболоньей. Отсюда налево — **Сад рыцаря**, маленький регулярный сад на бастионе с видом на оливковые холмы и Музей фарфора. Спускаясь к выходу, загляните в **грот Буонталенти** у северного края и найдите фонтан **«Вакхино»**: на черепахе сидит придворный карлик Козимо I по прозвищу Морганте.
 
         Совет: билет только в Боболи — 10 € в кассе или 13 € онлайн; комбинированный с палаццо Питти не нужен, на музеи дворца сегодня нет времени. Подъём к статуе Изобилия крутой и гравийный, скамейки — по пути; утром, пока прохладно и пусто, идти легче всего. Передохните на скамейке у амфитеатра перед выходом. Если день дождливый, сад могут закрыть по погодному предупреждению — проверьте раздел новостей на www.uffizi.it.
       en: |
-        The banker Luca Pitti, a Medici rival, began the palace in 1458 — and went broke before finishing it. In 1550 Eleonora of Toledo, wife of Cosimo I, bought it and it became the main Medici residence, later home to the Lorraine dynasty and the House of Savoy. The hill behind became the garden that set the pattern for "Italian gardens" all over Europe, laid out by Tribolo and then Ammannati and Buontalenti.
+        The banker Luca Pitti, a Medici rival, began the palace in 1458 — and went broke before finishing it. In 1549 Eleonora of Toledo, wife of Cosimo I, bought it and it became the main Medici residence, later home to the Lorraine dynasty and the House of Savoy. The hill behind became the garden that set the pattern for "Italian gardens" all over Europe, laid out by Tribolo and then Ammannati and Buontalenti.
 
         Look for the **amphitheatre** right behind the palace, with an Egyptian obelisk brought from Rome and an ancient granite basin — the Medici staged shows here. Higher up is the **Neptune Fountain**, its bronze god nicknamed "Neptune with the fork", and at the very top the **statue of Abundance**, begun by Giambologna. From there turn left to the **Knight's Garden**, a small formal garden on a bastion with a view over the olive-covered hills, and the Porcelain Museum. On the way down, look into the **Buontalenti Grotto** at the northern edge and find the **Bacchino** fountain: Cosimo I's court dwarf, known as Morgante, astride a turtle.
 
@@ -95,6 +96,7 @@ points:
     radius_m: 150
     walk_min: [3, 5]
     visit_min: [15, 20]
+    audio: {ru: audio/italy/05-florence-in-depth/03.mp3}
     short:
       ru: |
         Улица антикваров и дворцов — от площади Питти через Сдруччоло-деи-Питти. Пройдите её не спеша в сторону реки и сверните налево на Via dei Michelozzi — она выводит прямо на площадь Санто-Спирито.
@@ -121,6 +123,7 @@ points:
     approach: [{name: Via dei Michelozzi, lat: 43.76695, lng: 11.24840}]
     walk_min: [3, 5]
     visit_min: [30, 45]
+    audio: {ru: audio/italy/05-florence-in-depth/04.mp3}
     short:
       ru: |
         Сердце Ольтрарно. Церковь Брунеллески внутри **по средам закрыта** — смотрите фасад и площадь, а время отдайте мастерским на окрестных улицах: позолотчики, переплётчики, багетчики, реставраторы. Мастерские открываются около 9:30–10:00.
@@ -149,6 +152,7 @@ points:
     inside: ["Chiesa di San Frediano in Cestello, Firenze", {name: Porta San Frediano, lat: 43.77051, lng: 11.24018}]
     walk_min: [10, 15]
     visit_min: [45, 75]
+    audio: {ru: audio/italy/05-florence-in-depth/05.mp3}
     short:
       ru: |
         Только если есть силы. Через площадь Кармине в старый рабочий квартал: Борго от церкви Сан-Фредиано-ин-Честелло до городских ворот — мастерские, булочные, винные бары. В **12:15** пора идти на обед.
@@ -158,13 +162,13 @@ points:
       ru: |
         Сан-Фредиано веками был кварталом ткачей, кожевников и прачек — бедным, шумным и гордым. Его прославил Васко Пратолини в романе «Девушки из Сан-Фредиано»; в 2020-х Lonely Planet включил квартал в список самых интересных районов мира. Туристов здесь по-прежнему немного: ремесленные мастерские соседствуют с модными винными барами и обычными булочными.
 
-        Что посмотреть: на площади Кармине — церковь **Санта-Мария-дель-Кармине** с капеллой Бранкаччи, где фрески Мазаччо открыли живопись Возрождения (вход по записи). Дальше — купол **Сан-Фредиано-ин-Честелло** над рекой и в конце улицы — **Порта Сан-Фредиано** 1324 года, ворота с огромными деревянными створками, сохранившимися со Средних веков. На Via Lorenzo Bartolini, в двух шагах, — **Antico Setificio Fiorentino**, шёлкоткацкая мастерская XVIII века, которая до сих пор работает на старинных станках (посещение по записи).
+        Что посмотреть: на площади Кармине — церковь **Санта-Мария-дель-Кармине** с капеллой Бранкаччи, где фрески Мазаччо открыли живопись Возрождения (вход по записи). Дальше — купол **Сан-Фредиано-ин-Честелло** над рекой и в конце улицы — **Порта Сан-Фредиано** 1330-х годов, ворота с огромными деревянными створками, сохранившимися со Средних веков. На Via Lorenzo Bartolini, в двух шагах, — **Antico Setificio Fiorentino**, шёлкоткацкая мастерская XVIII века, которая до сих пор работает на старинных станках (посещение по записи).
 
         Совет: от Порта Сан-Фредиано до рынка Меркато Чентрале — около 25 минут через мост Понте-алла-Карраия. Если устали, пропустите Борго: от Санто-Спирито через мост Санта-Тринита до рынка — около 20 минут.
       en: |
         For centuries San Frediano was the quarter of weavers, tanners and washerwomen — poor, noisy and proud. Vasco Pratolini made it famous in his novel The Girls of San Frediano, and in the 2020s Lonely Planet put it on its list of the world's coolest neighbourhoods. There are still few tourists: craft workshops sit next to fashionable wine bars and ordinary bakeries.
 
-        On Piazza del Carmine stands **Santa Maria del Carmine** with the Brancacci Chapel, where Masaccio's frescoes launched Renaissance painting (booking required). Further on is the dome of **San Frediano in Cestello** over the river, and at the end of the street **Porta San Frediano** from 1324, whose huge wooden doors survive from the Middle Ages. A few steps away on Via Lorenzo Bartolini is the **Antico Setificio Fiorentino**, an 18th-century silk-weaving workshop still working its old looms (visits by appointment).
+        On Piazza del Carmine stands **Santa Maria del Carmine** with the Brancacci Chapel, where Masaccio's frescoes launched Renaissance painting (booking required). Further on is the dome of **San Frediano in Cestello** over the river, and at the end of the street **Porta San Frediano** from the 1330s, whose huge wooden doors survive from the Middle Ages. A few steps away on Via Lorenzo Bartolini is the **Antico Setificio Fiorentino**, an 18th-century silk-weaving workshop still working its old looms (visits by appointment).
 
         Tip: from Porta San Frediano to Mercato Centrale is about 25 minutes over Ponte alla Carraia. If you're tired, skip the Borgo: from Santo Spirito over Ponte Santa Trinita to the market is about 20 minutes.
 
@@ -176,6 +180,7 @@ points:
     approach: ["Ponte Santa Trinita, Firenze", {name: Via de' Tornabuoni, lat: 43.77120, lng: 11.25130}, {name: Piazza San Lorenzo, lat: 43.77507, lng: 11.25406}]
     walk_min: [20, 25]
     visit_min: [60, 75]
+    audio: {ru: audio/italy/05-florence-in-depth/06.mp3}
     short:
       ru: |
         Будьте здесь к **12:45** и займите стол на втором этаже, в фуд-холле. **Здесь к вам присоединяется третий участник:** рейс KL1653 садится около 12:00, от аэропорта — трамвай **T2** до остановки **Unità** (20–25 минут, оплата бесконтактной картой), оттуда 7 минут пешком; встреча около 13:00. Чемодан берёт с собой — в Уффици его бесплатно примут в гардероб. В **14:00** выходите к Уффици.
@@ -233,6 +238,7 @@ points:
     approach: [{name: Piazza della Signoria, lat: 43.76956, lng: 11.25561}]
     walk_min: [3, 5]
     visit_min: [15, 20]
+    audio: {ru: audio/italy/05-florence-in-depth/08.mp3}
     short:
       ru: |
         Заберите чемодан, выйдите на площадь Синьории и через пару минут — на мост. Встаньте у открытых арок посередине: закат около 17:10, и Арно розовеет в обе стороны.
