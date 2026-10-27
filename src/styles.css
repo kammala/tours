@@ -144,12 +144,83 @@ h3 {
   cursor: pointer;
 }
 
+.city > summary {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  list-style: none;
+  cursor: pointer;
+}
+
+.city > summary::-webkit-details-marker {
+  display: none;
+}
+
+.city > summary::before {
+  content: '▸';
+  color: var(--muted);
+  transition: transform 0.15s;
+}
+
+.city[open] > summary::before {
+  transform: rotate(90deg);
+}
+
 .city h3 {
+  flex: 1;
   margin: 8px 0 6px;
   color: var(--muted);
   font-size: 0.9rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
+}
+
+.tour-row {
+  display: flex;
+  align-items: stretch;
+  gap: 4px;
+  margin-bottom: 8px;
+}
+
+.tour-row .tour-link {
+  flex: 1;
+  margin-bottom: 0;
+}
+
+.tour-row.hidden .tour-link {
+  opacity: 0.5;
+}
+
+.eye {
+  display: grid;
+  place-items: center;
+  width: 40px;
+  min-height: 40px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+}
+
+.show-hidden {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  min-height: 32px;
+  padding: 0 10px;
+  border: 1px solid currentColor;
+  border-radius: 999px;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.show-hidden[aria-pressed='true'] {
+  background: var(--accent-text);
+  color: var(--accent);
 }
 
 .tour-list,

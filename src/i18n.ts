@@ -24,6 +24,9 @@ const STRINGS = {
     more: 'More',
     m: 'm',
     km: 'km',
+    hide: 'Hide',
+    unhide: 'Show again',
+    showHidden: 'Show hidden tours',
   },
   ru: {
     tours: 'Маршруты',
@@ -45,6 +48,9 @@ const STRINGS = {
     more: 'Подробнее',
     m: 'м',
     km: 'км',
+    hide: 'Скрыть',
+    unhide: 'Показать снова',
+    showHidden: 'Показать скрытые маршруты',
   },
 } satisfies Record<Lang, Record<string, string>>
 
