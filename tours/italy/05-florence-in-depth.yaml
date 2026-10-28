@@ -9,7 +9,7 @@ intro:
   ru: |
     Среда, 28 октября. Спокойный день без спешки: утром, пока прохладно и пусто, — сады Боболи к открытию в **8:15**, потом мастерские Ольтрарно, в обед — рынок Меркато Чентрале, где к вам присоединяется третий участник, а после обеда — **Уффици в 14:30**, все втроём (билеты с точным временем, именные, куплены заранее на www.uffizi.it).
 
-    Маршрут: Casa Angi → автобус C4 → палаццо Питти и сады Боболи → Via Maggio → площадь Санто-Спирито → Борго Сан-Фредиано (по желанию) → рынок Меркато Чентрале → Уффици → площадь Синьории → Понте Веккьо на закате → автобус 23 домой.
+    Маршрут: Casa Angi → автобус C4 → палаццо Питти и сады Боболи → Via Maggio → площадь Санто-Спирито → Борго Сан-Фредиано и старый газгольдер (по желанию) → рынок Меркато Чентрале → Уффици → площадь Синьории → Понте Веккьо на закате → автобус 23 домой.
 
     **Запасы времени.** Между обедом и Уффици — час: если рейс задержится, слот в 14:30 не сгорит. Сидячие паузы — каждые полтора-два часа: скамейки в Боболи и на площади Санто-Спирито, обед, скамейки в Уффици. Единственный подъём за день — в Боболи, и его можно ограничить нижними террасами.
 
@@ -19,7 +19,7 @@ intro:
   en: |
     Wednesday 28 October. An unhurried day: the Boboli Gardens at their **08:15** opening while it's cool and empty, then the Oltrarno workshops, lunch at Mercato Centrale where the third person joins you, and after lunch the **Uffizi at 14:30**, all three of you (timed, named tickets booked in advance at www.uffizi.it).
 
-    Route: Casa Angi → bus C4 → Palazzo Pitti and the Boboli Gardens → Via Maggio → Piazza Santo Spirito → Borgo San Frediano (optional) → Mercato Centrale → Uffizi → Piazza della Signoria → Ponte Vecchio at sunset → bus 23 home.
+    Route: Casa Angi → bus C4 → Palazzo Pitti and the Boboli Gardens → Via Maggio → Piazza Santo Spirito → Borgo San Frediano and the old gasometer (optional) → Mercato Centrale → Uffizi → Piazza della Signoria → Ponte Vecchio at sunset → bus 23 home.
 
     **Buffers.** There's an hour between lunch and the Uffizi, so a delayed flight won't cost you the 14:30 slot. There's a sit-down break every hour and a half to two hours: benches in Boboli and on Piazza Santo Spirito, lunch, the benches in the Uffizi. The day's only climb is in Boboli, and you can keep to the lower terraces.
 
@@ -155,9 +155,9 @@ points:
     audio: {ru: audio/italy/05-florence-in-depth/05.mp3}
     short:
       ru: |
-        Только если есть силы. Через площадь Кармине в старый рабочий квартал: Борго от церкви Сан-Фредиано-ин-Честелло до городских ворот — мастерские, булочные, винные бары. В **12:15** пора идти на обед.
+        Только если есть силы. Через площадь Кармине в старый рабочий квартал: Борго от церкви Сан-Фредиано-ин-Честелло до городских ворот — мастерские, булочные, винные бары. В **12:00** — к газгольдеру за воротами или сразу на обед.
       en: |
-        Only if you have the energy. Through Piazza del Carmine into the old working-class quarter: the Borgo from San Frediano in Cestello to the city gate — workshops, bakeries, wine bars. At **12:15** it's time to head for lunch.
+        Only if you have the energy. Through Piazza del Carmine into the old working-class quarter: the Borgo from San Frediano in Cestello to the city gate — workshops, bakeries, wine bars. At **12:00** head out of the gate to the gasometer, or straight to lunch.
     long:
       ru: |
         Сан-Фредиано веками был кварталом ткачей, кожевников и прачек — бедным, шумным и гордым. Его прославил Васко Пратолини в романе «Девушки из Сан-Фредиано»; в 2020-х Lonely Planet включил квартал в список самых интересных районов мира. Туристов здесь по-прежнему немного: ремесленные мастерские соседствуют с модными винными барами и обычными булочными.
@@ -171,6 +171,33 @@ points:
         On Piazza del Carmine stands **Santa Maria del Carmine** with the Brancacci Chapel, where Masaccio's frescoes launched Renaissance painting (booking required). Further on is the dome of **San Frediano in Cestello** over the river, and at the end of the street **Porta San Frediano** from the 1330s, whose huge wooden doors survive from the Middle Ages. A few steps away on Via Lorenzo Bartolini is the **Antico Setificio Fiorentino**, an 18th-century silk-weaving workshop still working its old looms (visits by appointment).
 
         Tip: from Porta San Frediano to Mercato Centrale is about 25 minutes over Ponte alla Carraia. If you're tired, skip the Borgo: from Santo Spirito over Ponte Santa Trinita to the market is about 20 minutes.
+
+  - name: {en: "The old gasometer — optional", ru: "Старый газгольдер — по желанию"}
+    place: "Parco dell'Anconella, Via dell'Anconella, Firenze"
+    lat: 43.77135
+    lng: 11.23883
+    radius_m: 120
+    approach: [{name: Porta San Frediano, lat: 43.77051, lng: 11.24018}]
+    walk_min: [3, 5]
+    visit_min: [10, 15]
+    short:
+      ru: |
+        Сразу за воротами Сан-Фредиано, на Via dell'Anconella, — железный каркас газгольдера XIX века посреди сквера с огородами. Пять минут посмотреть — и к **12:15** на обед.
+      en: |
+        Just outside Porta San Frediano, on Via dell'Anconella: the iron frame of a 19th-century gasometer in a small park with allotments. Five minutes to look, then off to lunch by **12:15**.
+    long:
+      ru: |
+        Газовую промышленность город пустил сюда, за городские ворота, в середине XIX века: газгольдер построили в **1845 году** и расширили в **1896-м**. Это был не завод, а гигантский «буфер»: огромный колокол поднимался и опускался в резервуаре, держал ровное давление в городской газовой сети и смешивал газ. Со временем газгольдеров стало четыре; остальные разобрали, а этот работал до 1970-х.
+
+        Сегодня от него остался только клёпаный железный каркас — один из немногих памятников промышленной архитектуры XIX века во Флоренции, он охраняется как наследие. Десятилетиями вокруг был заброшенный пустырь; в 2022 году жители и местные ассоциации разбили здесь городские огороды, а с января 2025-го каркас по вечерам подсвечивают. Город обещает дать ему новую жизнь — проекты с бассейном и кафе наверху обсуждают с 2011 года.
+
+        Совет: отсюда до рынка Меркато Чентрале — около 30 минут через мост Понте-алла-Карраия; если устали, у ворот Сан-Фредиано ходят автобусы в центр, или возьмите такси.
+      en: |
+        The city put its gas industry out here, beyond the walls, in the mid-19th century: the gasometer was built in **1845** and enlarged in **1896**. It wasn't the gasworks itself but a giant buffer: a huge bell rose and sank in its tank, keeping the city's gas network at steady pressure and mixing the gas. Over time there were four gasometers; the others were dismantled, and this one worked until the 1970s.
+
+        Today only the riveted iron frame is left — one of Florence's few pieces of 19th-century industrial architecture, protected as heritage. For decades the ground around it was derelict; in 2022 residents and local associations laid out urban allotments, and since January 2025 the frame has been lit up in the evenings. The city keeps promising it a new life — schemes with a pool and a café on top have been discussed since 2011.
+
+        Tip: from here to Mercato Centrale is about 30 minutes over Ponte alla Carraia; if you're tired, buses to the centre stop by Porta San Frediano, or take a taxi.
 
   - name: {en: Mercato Centrale, ru: Рынок Меркато Чентрале}
     place: "Mercato Centrale, Via dell'Ariento, Firenze"
