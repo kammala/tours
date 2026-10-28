@@ -1,27 +1,27 @@
 country: {en: Italy, ru: Италия}
 city: {en: Venice, ru: Венеция}
-name: {en: "Sat 31 Oct · Burano, Murano and evening Cannaregio by boat", ru: "Сб, 31 окт · Бурано, Мурано и вечерний Каннареджо на катерах"}
+name: {en: "Sat 31 Oct · Murano, lunch on Burano and evening Cannaregio by boat", ru: "Сб, 31 окт · Мурано, обед на Бурано и вечерний Каннареджо на катерах"}
 place_suffix: Venezia
 summary:
-  ru: "≈ 3 км пешком, с 10:15 до вечера; около 2 часов на вапоретто — лагуна, острова и тихий Каннареджо"
-  en: "≈ 3 km on foot, from 10:15 into the evening; about 2 hours on vaporetti — the lagoon, the islands and quiet Cannaregio"
+  ru: "≈ 3 км пешком, с 10:15 до вечера; около 2 часов на вапоретто — Мурано, обед на Бурано в 14:30 и тихий Каннареджо"
+  en: "≈ 3 km on foot, from 10:15 into the evening; about 2 hours on vaporetti — Murano, lunch on Burano at 14:30 and quiet Cannaregio"
 intro:
   ru: |
-    Суббота, 31 октября. День островов, все вместе: подъём в 9:00, выход около **10:15**. Катером до причала Фондаменте-Нове, оттуда вапоретто **№ 12** на Бурано, около 45 минут. Обед на Бурано, на обратном пути — недолго Мурано, затем катером прямо в самый тихий район Венеции, Каннареджо, на ужин. Пешком сегодня немного: почти все переходы — на воде, сидя.
+    Суббота, 31 октября. День островов, все вместе: подъём в 9:00, выход около **10:15**. С Пьяццале Рома вапоретто **4.2** без пересадки идёт прямо на **Мурано** — смотрим стекло, пока работают печи. Оттуда **№ 12** на **Бурано**: прогулка по цветным улицам и поздний обед в **Gatto Nero**. На закате — катером через лагуну обратно, и вечер в самом тихом районе Венеции, Каннареджо. Пешком сегодня немного: почти все переходы — на воде, сидя.
 
-    **Время на воде.** Катера займут около двух часов (20 минут до Фондаменте-Нове, 45 до Бурано, ~30 до Мурано, ~15 до Мадонна-дель-Орто, ~10 обратно), плюс ожидание: осенью № 12 ходит примерно раз в 30–40 минут. Расписание проверяйте в приложении AVM Venezia или на табло. Если Мурано не хочется — с Бурано на № 12 прямо до Фондаменте-Нове, оттуда 4.1 до Orto.
+    **Время на воде.** Катера займут около двух часов (~35 минут до Мурано, ~30 до Бурано, ~40 до Фондаменте-Нове, 5 до Мадонна-дель-Орто, ~10 вечером до Пьяццале Рома), плюс ожидание: осенью № 12 ходит примерно раз в 30 минут. Расписание проверяйте в приложении AVM Venezia или на табло.
 
-    **Очереди.** Утренние рейсы № 12 полные; к 11:30 уже свободнее. Обратно с Бурано самый наплыв — с 15:30 до 17:00: можно не сесть на первый катер и прождать 20–30 минут. Поэтому уезжаем с Бурано около 15:00.
+    **Очереди.** № 12 приходит на Мурано-Фаро уже с пассажирами из Фондаменте-Нове. Около 12:50 обычно садимся спокойно, но если катер полный — следующий через полчаса, и к обеду вы всё равно успеваете. Обратно с Бурано самый наплыв — с 15:30 до 17:00; мы уезжаем после обеда, около 17:00, когда он спадает.
 
-    **Обед на Бурано** — забронируйте столик на **13:00**. Музей кружева открыт примерно до 16:00. Закат около **17:00** — его застанете на катере через лагуну.
+    **Обед на Бурано забронирован: 14:30, трое, дегустационное меню.** Бронь строго на троих — изменения только с согласия ресторана заранее. Дегустация займёт 2–2½ часа. Музей кружева открыт примерно до 16:00, так что успеть в него можно только до обеда. Закат около **17:00** — его послесвечение застанете на катере через лагуну. После такого обеда ужин не нужен: вечером в Каннареджо — прогулка, спритц и пара чикетти.
   en: |
-    Saturday 31 October. Island day, all together: up at 9:00, out around **10:15**. A boat to the Fondamente Nove pier, then vaporetto **no. 12** to Burano, about 45 minutes. Lunch on Burano, a short stop on Murano on the way back, then a boat straight into the quietest district of Venice, Cannaregio, for dinner. Little walking today: almost every leg is on the water, sitting down.
+    Saturday 31 October. Island day, all together: up at 9:00, out around **10:15**. From Piazzale Roma vaporetto **4.2** runs straight to **Murano** with no change — see the glass while the furnaces are going. From there **no. 12** to **Burano**: a stroll through the coloured streets and a late lunch at **Gatto Nero**. At sunset, back across the lagoon by boat, and the evening in the quietest district of Venice, Cannaregio. Little walking today: almost every leg is on the water, sitting down.
 
-    **Time on the water.** The boats take about two hours (20 minutes to Fondamente Nove, 45 to Burano, ~30 to Murano, ~15 to Madonna dell'Orto, ~10 back), plus waiting: in autumn no. 12 runs only every 30–40 minutes or so. Check times in the AVM Venezia app or on the boards. If you'd rather skip Murano, take no. 12 from Burano straight to Fondamente Nove, then the 4.1 to Orto.
+    **Time on the water.** The boats take about two hours (~35 minutes to Murano, ~30 to Burano, ~40 to Fondamente Nove, 5 to Madonna dell'Orto, ~10 to Piazzale Roma in the evening), plus waiting: in autumn no. 12 runs only about every 30 minutes. Check times in the AVM Venezia app or on the boards.
 
-    **Queues.** The early no. 12 boats are packed; by 11:30 it's calmer. Coming back from Burano, the rush is 15:30–17:00: you may not get on the first boat and wait 20–30 minutes. So leave Burano around 15:00.
+    **Queues.** No. 12 reaches Murano Faro already carrying passengers from Fondamente Nove. Around 12:50 you'll usually get on fine, but if it's full the next one is half an hour later and you still make lunch. Coming back from Burano, the rush is 15:30–17:00; you leave after lunch, around 17:00, as it eases.
 
-    **Lunch on Burano**: book a table for **13:00**. The Lace Museum is open until about 16:00. Sunset is around **17:00** — you'll catch it on the boat across the lagoon.
+    **Lunch on Burano is booked: 14:30, three people, tasting menu.** The booking is binding for three — any change needs the restaurant's OK in advance. The tasting menu takes 2–2½ hours. The Lace Museum is open until about 16:00, so it only fits before lunch. Sunset is around **17:00** — you'll catch the afterglow on the boat across the lagoon. After a lunch like that nobody needs dinner: the Cannaregio evening is a stroll, a spritz and a few cicchetti.
 outro:
   ru: |
     Обратно — автобус № 6 с Пьяццале Рома до Via Paleocapa; последние рейсы — в 23:10, 23:25 и 23:50.
@@ -46,11 +46,11 @@ points:
       ru: |
         Путь до остановки тот же, что в предыдущие дни: велодорожка вдоль Via De Marchi, подземный переход, Via della Fonte, налево по Via Cesare Beccaria до Via Paleocapa.
 
-        Совет: на лагуне ветрено и холоднее, чем в городе, — возьмите тёплую куртку и шапку, даже если утро солнечное. Пригодится и бутылка воды: на причалах купить её негде.
+        Совет: на лагуне ветрено и холоднее, чем в городе, — возьмите тёплую куртку и шапку, даже если утро солнечное. Вернёмся уже в темноте. Пригодится и бутылка воды: на причалах купить её негде.
       en: |
         Same way to the stop as on the previous days: the cycle path along Via De Marchi, the underpass, Via della Fonte, then left up Via Cesare Beccaria to Via Paleocapa.
 
-        Tip: the lagoon is windier and colder than the city, so bring a warm jacket and a hat even if the morning is sunny. A bottle of water helps too: there's nowhere to buy one on the piers.
+        Tip: the lagoon is windier and colder than the city, so bring a warm jacket and a hat even if the morning is sunny — you'll be coming back after dark. A bottle of water helps too: there's nowhere to buy one on the piers.
 
   - name: {en: "Bus stop Paleocapa (line 6)", ru: "Остановка Paleocapa (автобус № 6)"}
     place: "45.47691,12.22017"
@@ -72,47 +72,74 @@ points:
       en: |
         On Saturday morning the buses are emptier than on weekdays. Tap your pass on the validator as you board.
 
-  - name: {en: "Piazzale Roma — vaporetto 4.2/5.2", ru: "Пьяццале Рома — вапоретто 4.2/5.2"}
+  - name: {en: "Piazzale Roma — vaporetto 4.2 to Murano", ru: "Пьяццале Рома — вапоретто 4.2 до Мурано"}
     place: "Piazzale Roma, Venezia"
     lat: 45.43801
     lng: 12.31885
     radius_m: 250
-    visit_min: [20, 25]
+    visit_min: [35, 40]
     short:
       ru: |
-        С причала Piazzale Roma — кольцевая линия **4.2** или **5.2** в сторону **Fondamente Nove** (через Ferrovia, Guglie и Orto), около 20–25 минут. На табло проверьте направление: 4.1/5.1 идут по кругу в другую сторону.
+        С причала Piazzale Roma — линия **4.2** в сторону **Fondamente Nove / Murano**, выйти на **Murano Colonna**, около 35 минут без пересадки (через Ferrovia, Guglie, Orto, Fondamente Nove и Cimitero). На табло проверьте: нужна 4.2 — 5.2 на Мурано не идёт, а 4.1 идёт по кругу в другую сторону.
       en: |
-        From the Piazzale Roma pier take circular line **4.2** or **5.2** towards **Fondamente Nove** (via Ferrovia, Guglie and Orto), about 20–25 minutes. Check the direction on the board: 4.1/5.1 go round the other way.
+        From the Piazzale Roma pier take line **4.2** towards **Fondamente Nove / Murano** and get off at **Murano Colonna**, about 35 minutes with no change (via Ferrovia, Guglie, Orto, Fondamente Nove and Cimitero). Check the board: you want the 4.2 — the 5.2 doesn't go to Murano, and the 4.1 goes round the other way.
     long:
       ru: |
-        Катер идёт по каналу Каннареджо под каменным мостом **Гулье** с четырьмя обелисками-шпилями, а затем вдоль северного берега, где туристов почти нет: верфи, лодочные гаражи, вид на лагуну и кладбищенский остров Сан-Микеле. Вечером вы вернётесь в этот же район уже на ужин.
+        Катер идёт по каналу Каннареджо под каменным мостом **Гулье** с четырьмя обелисками-шпилями, затем вдоль северного берега, где туристов почти нет: верфи, лодочные гаражи, вид на лагуну. Вечером вы вернётесь в этот же район. После Фондаменте-Нове катер заходит на остров **Сан-Микеле** (причал Cimitero) — кладбище за кирпичной стеной, где похоронены Стравинский, Дягилев и Бродский. Сегодня, накануне Дня всех святых, туда едут семьи с цветами.
 
-        Совет: садитесь, и пусть город проплывает мимо — пешком этот путь занял бы 40 минут и два десятка мостов со ступенями.
+        Совет: садитесь, и пусть город проплывает мимо — пешком до Фондаменте-Нове было бы 40 минут и два десятка мостов со ступенями.
       en: |
-        The boat runs down the Cannaregio Canal under the stone **Ponte delle Guglie** with its four obelisk spires, then along the north shore, where there are hardly any tourists: boatyards, boat sheds, views of the lagoon and the cemetery island of San Michele. You'll be back in this district for dinner tonight.
+        The boat runs down the Cannaregio Canal under the stone **Ponte delle Guglie** with its four obelisk spires, then along the north shore, where there are hardly any tourists: boatyards, boat sheds, views of the lagoon. You'll be back in this district tonight. After Fondamente Nove the boat calls at the island of **San Michele** (the Cimitero pier) — the cemetery behind its brick wall, where Stravinsky, Diaghilev and Brodsky are buried. Today, the eve of All Saints' Day, families head over with flowers.
 
-        Tip: sit back and let the city drift by — on foot this would be 40 minutes and a couple of dozen stepped bridges.
+        Tip: sit back and let the city drift by — on foot even Fondamente Nove would be 40 minutes and a couple of dozen stepped bridges.
 
-  - name: {en: "Fondamente Nove — vaporetto 12", ru: "Фондаменте-Нове — вапоретто № 12"}
-    place: "45.44396,12.33916"
-    lat: 45.44396
-    lng: 12.33916
-    radius_m: 200
-    visit_min: 45
+  - name: {en: "Murano: Fondamenta dei Vetrai", ru: "Мурано: Фондамента деи Ветраи"}
+    place: "Fondamenta dei Vetrai, Murano"
+    lat: 45.45250
+    lng: 12.35065
+    radius_m: 300
+    walk_min: [2, 3]
+    visit_min: [75, 90]
     short:
       ru: |
-        Линия **12** на **Burano**, около 45 минут (через Мурано-Фаро и Маццорбо). Причал № 12 — по табло; осенью рейсы примерно раз в 30–40 минут.
+        Около 11:30. От причала Colonna — сразу на главную улицу стеклодувов: мастерские, магазины и стекло в витринах. Утром печи работают — ищите открытую мастерскую с показом.
       en: |
-        Line **12** to **Burano**, about 45 minutes (via Murano Faro and Mazzorbo). Find the line 12 pontoon on the boards; in autumn boats run roughly every 30–40 minutes.
+        Around 11:30. From the Colonna pier straight onto the glassmakers' main street: workshops, shops and glass in every window. In the morning the furnaces are running — look for an open workshop with a demonstration.
     long:
       ru: |
-        **Фондаменте-Нове** — длинная набережная северного берега, построенная в XVI веке. Прямо напротив — кладбищенский остров **Сан-Микеле** за кирпичной стеной: там похоронены Стравинский, Дягилев и Бродский. Сегодня, накануне Дня всех святых, туда едут семьи с цветами.
+        В 1291 году республика перевела все стеклодувные печи из города на Мурано — из страха пожаров и, заодно, чтобы сохранить секреты ремесла. Мастерам давали привилегии, их дочери могли выходить замуж за патрициев, но уезжать из республики стеклодувам запрещалось под страхом смерти. Здесь изобрели прозрачное стекло «кристалло», зеркала и многоцветную мозаику «миллефиори».
 
-        Совет: садитесь на правую сторону катера — по пути видно Сан-Микеле, Мурано и маленькие островки лагуны. Некоторые рейсы № 12 сначала заходят на Торчелло — смотрите табло.
+        Что посмотреть: на Фондамента деи Ветраи и соседних набережных — мастерские с открытыми печами, где показывают, как выдувают вазу или лепят лошадку за пару минут; витрины с люстрами и стеклом. Пройдите набережную до моста, через канал — на Фондамента Даниэле Манин, и по ней к маяку и причалу Faro.
+
+        Совет: настоящее муранское стекло помечено знаком **«Vetro Artistico Murano»**; дешёвые сувениры часто сделаны в Азии. Показы в печах обычно бесплатные или за несколько евро, а после них ведут в магазин — покупать не обязательно. Около 12:40 двигайтесь к причалу Faro.
       en: |
-        **Fondamente Nove** is the long northern quay, built in the 16th century. Right opposite is the cemetery island of **San Michele** behind its brick wall: Stravinsky, Diaghilev and Brodsky are buried there. Today, the eve of All Saints' Day, families head over with flowers.
+        In 1291 the Republic moved every glass furnace from the city to Murano, out of fear of fire and, conveniently, to keep the craft's secrets. Glassmakers were granted privileges, and their daughters could marry patricians, but leaving the Republic was forbidden on pain of death. Clear "cristallo" glass, mirrors and many-coloured "millefiori" mosaic glass were invented here.
 
-        Tip: sit on the right side of the boat to see San Michele, Murano and the little islands of the lagoon. Some no. 12 runs call at Torcello first — check the boards.
+        Along the Fondamenta dei Vetrai and nearby quays are workshops with open furnaces where you can watch a vase blown or a little horse shaped in a couple of minutes, and windows full of chandeliers and glass. Walk the quay to the bridge, cross to the Fondamenta Daniele Manin and follow it to the lighthouse and the Faro pier.
+
+        Tip: genuine Murano glass carries the **"Vetro Artistico Murano"** mark; cheap souvenirs are often made in Asia. Furnace demonstrations are usually free or a few euros, and lead into a shop — no obligation to buy. Head for the Faro pier around 12:40.
+
+  - name: {en: "Murano Faro — vaporetto 12 to Burano", ru: "Мурано-Фаро — вапоретто № 12 до Бурано"}
+    place: "45.45266,12.35470"
+    lat: 45.45266
+    lng: 12.35470
+    approach: [{name: Fondamenta Daniele Manin, lat: 45.45359, lng: 12.35207}]
+    walk_min: [8, 10]
+    visit_min: [30, 35]
+    short:
+      ru: |
+        Линия **12** на **Burano**, около 30 минут (через Маццорбо). Целимся на катер около 12:50; если полный — следующий примерно через полчаса, к 14:30 всё равно успеваете.
+      en: |
+        Line **12** to **Burano**, about 30 minutes (via Mazzorbo). Aim for the boat around 12:50; if it's full, the next is about half an hour later and you still make 14:30.
+    long:
+      ru: |
+        Причал назван по белому маяку Мурано (1934) рядом с ним. Катер обходит Маццорбо и идёт через северную лагуну мимо заброшенных островков и рыбацких свай. При хорошей погоде на горизонте видны Доломиты.
+
+        Совет: некоторые рейсы № 12 заходят на Торчелло — смотрите табло, чтобы не уехать мимо Бурано.
+      en: |
+        The pier is named after the white Murano lighthouse (1934) beside it. The boat rounds Mazzorbo and crosses the northern lagoon past abandoned islets and fishing stakes. On a clear day the Dolomites show on the horizon.
+
+        Tip: some no. 12 runs call at Torcello — check the board so you don't sail past Burano.
 
   - name: {en: "Burano: Tre Ponti and the coloured houses", ru: "Бурано: Тре-Понти и цветные дома"}
     place: "Ponte dei Tre Ponti, Burano"
@@ -123,25 +150,25 @@ points:
       - {name: Fondamenta della Pescheria, lat: 45.48489, lng: 12.41632}
       - {name: Casa di Bepi Suà, lat: 45.48574, lng: 12.41817}
     walk_min: 5
-    visit_min: [45, 60]
+    visit_min: [30, 45]
     short:
       ru: |
-        От причала — 5 минут. Неспешная прогулка по каналам острова, лучшие ракурсы — с мостиков. Дом Бепи Суа с геометрическим узором — в двух шагах от главной улицы.
+        Около 13:30, 5 минут от причала. Неспешная прогулка по каналам острова, лучшие ракурсы — с мостиков. Дом Бепи Суа с геометрическим узором — в двух шагах от главной улицы.
       en: |
-        5 minutes from the pier. A slow wander along the island's canals; the best angles are from the little bridges. Bepi Suà's house with its geometric patterns is just off the main street.
+        Around 13:30, 5 minutes from the pier. A slow wander along the island's canals; the best angles are from the little bridges. Bepi Suà's house with its geometric patterns is just off the main street.
     long:
       ru: |
         Бурано — рыбацкий остров, заселённый, по преданию, ещё беглецами с материка в эпоху варварских нашествий. Дома здесь красят в яркие цвета: говорят, чтобы рыбаки узнавали свой дом в лагунном тумане. Традиция настолько строгая, что для перекраски нужно разрешение коммуны, которая выбирает цвет из допустимых для каждого участка.
 
         Что посмотреть: **Тре-Понти** — перекрёсток каналов с тремя мостиками; **Фондамента делла Пескерия** с рыбным рынком; дом **Бепи Суа** — Джузеппе Тозелли, местного продавца сладостей, расписавшего свой фасад узорами из кругов и треугольников. В конце главной улицы — деревянный мост **Понте-Лонго** на соседний остров Маццорбо с виноградником Venissa.
 
-        Совет: к полудню остров заполняют экскурсионные группы; в утренние часы и на боковых улицах за площадью — гораздо тише. Не заглядывайте в окна и двери — это жилые дома.
+        Совет: на главной улице днём многолюдно, а боковые улочки за площадью — гораздо тише. Не заглядывайте в окна и двери — это жилые дома.
       en: |
         Burano is a fishing island, settled, legend says, by refugees from the mainland during the barbarian invasions. The houses are painted bright colours, supposedly so fishermen could find home in the lagoon fog. The tradition is strict: repainting needs permission from the municipality, which picks a colour from those allowed for each plot.
 
         Look at **Tre Ponti**, a junction of canals with three little bridges; the **Fondamenta della Pescheria** with its fish market; and the house of **Bepi Suà** — Giuseppe Toselli, a local sweet seller who painted his façade with circles and triangles. At the end of the main street the wooden **Ponte Longo** crosses to neighbouring Mazzorbo and the Venissa vineyard.
 
-        Tip: tour groups fill the island by noon; mornings and the side streets behind the square are much quieter. Don't peer into windows and doors — these are people's homes.
+        Tip: the main street is busy in the afternoon; the side streets behind the square are much quieter. Don't peer into windows and doors — these are people's homes.
 
   - name: {en: "Piazza Galuppi and the leaning bell tower", ru: "Площадь Галуппи и падающая колокольня"}
     place: "Piazza Baldassare Galuppi, Burano"
@@ -151,119 +178,90 @@ points:
       - {name: Chiesa di San Martino, lat: 45.48418, lng: 12.41881}
       - {name: Museo del Merletto, lat: 45.48473, lng: 12.41872}
     walk_min: 5
-    visit_min: [40, 60]
+    visit_min: [30, 40]
     short:
       ru: |
-        Главная площадь острова: церковь Сан-Мартино с заметно наклонённой колокольней и Музей кружева (вт–вс, примерно до 16:00).
+        Главная площадь острова: церковь Сан-Мартино с заметно наклонённой колокольней и Музей кружева (вт–вс, примерно до 16:00 — только до обеда). Кофе и буссолаи здесь — чтобы дотянуть до 14:30.
       en: |
-        The island's main square: San Martino church with its visibly tilting bell tower, and the Lace Museum (Tue–Sun, until about 16:00).
+        The island's main square: San Martino church with its visibly tilting bell tower, and the Lace Museum (Tue–Sun, until about 16:00 — so before lunch only). Coffee and bussolai here to tide you over to 14:30.
     long:
       ru: |
         Площадь носит имя композитора **Бальдассаре Галуппи** по прозвищу Буранелло, родившегося здесь в 1706 году, — одного из отцов комической оперы; он несколько лет служил при дворе Екатерины II в Петербурге.
 
-        Что посмотреть: **колокольня Сан-Мартино** XVIII века отклонилась от вертикали почти на два метра — лучше всего это видно с набережных за площадью. В церкви — «Распятие» Джованни Баттисты Тьеполо. **Музей кружева** размещён в здании бывшей кружевной школы (1872–1970): буранское кружево «пунто ин арья» («стежок в воздухе») шьют иглой без основы, и на маленький воротник уходят месяцы. Иногда в музее работают кружевницы.
+        Что посмотреть: **колокольня Сан-Мартино** XVIII века отклонилась от вертикали почти на два метра — лучше всего это видно с набережных за площадью. В церкви — «Распятие» Джованни Баттисты Тьеполо. **Музей кружева** размещён в здании бывшей кружевной школы (1872–1970): буранское кружево «пунто ин арья» («стежок в воздухе») шьют иглой без основы, и на маленький воротник уходят месяцы. Иногда в музее работают кружевницы. На музей хватит получаса.
 
-        Совет: настоящее ручное кружево Бурано стоит дорого; дешёвые салфетки в сувенирных лавках обычно машинные и привозные. Спрашивайте, сделано ли изделие на острове.
+        Совет: обед поздний — выпейте кофе и купите **буссолаи** и **эсси**, буранское сливочное печенье в форме кольца и буквы «S», которое рыбаки брали в море; его продают в пекарнях на главной улице, и оно долго хранится — хороший подарок. Настоящее ручное кружево Бурано стоит дорого; дешёвые салфетки в сувенирных лавках обычно машинные и привозные.
       en: |
         The square is named after the composer **Baldassare Galuppi**, nicknamed Il Buranello, born here in 1706 — one of the fathers of comic opera, who spent several years at the court of Catherine the Great in St Petersburg.
 
-        Look at the 18th-century **San Martino bell tower**, which leans almost two metres off vertical — best seen from the quays behind the square. Inside the church is a Crucifixion by Giambattista Tiepolo. The **Lace Museum** is in the former lace school (1872–1970): Burano lace, "punto in aria" ("stitch in the air"), is worked with a needle and no backing fabric, and a small collar takes months. Sometimes lacemakers work in the museum.
+        Look at the 18th-century **San Martino bell tower**, which leans almost two metres off vertical — best seen from the quays behind the square. Inside the church is a Crucifixion by Giambattista Tiepolo. The **Lace Museum** is in the former lace school (1872–1970): Burano lace, "punto in aria" ("stitch in the air"), is worked with a needle and no backing fabric, and a small collar takes months. Sometimes lacemakers work in the museum. Half an hour is enough for it.
 
-        Tip: real handmade Burano lace is expensive; cheap doilies in souvenir shops are usually machine-made imports. Ask whether a piece was made on the island.
+        Tip: lunch is late, so have a coffee and pick up some **bussolai** and **essi**, Burano's buttery biscuits shaped like rings and the letter "S", which fishermen took to sea; bakeries on the main street sell them, and they keep well — a good gift. Real handmade Burano lace is expensive; cheap doilies in souvenir shops are usually machine-made imports.
 
-  - name: {en: "Lunch: risotto di gò", ru: "Обед: ризотто ди го"}
+  - name: {en: "Lunch at Gatto Nero, 14:30", ru: "Обед в Gatto Nero, 14:30"}
     place: "Trattoria al Gatto Nero, Fondamenta della Giudecca 88, Burano"
     lat: 45.48475
     lng: 12.41636
     walk_min: 5
-    visit_min: [75, 90]
+    visit_min: [120, 150]
     short:
       ru: |
-        Обед с главным блюдом острова — **ризотто ди го**. Классика — Trattoria al Gatto Nero (по понедельникам закрыта) или Trattoria da Romano на Via Galuppi. Бронь на 13:00.
+        **Забронировано: 14:30, трое, дегустационное меню.** Бронь строго на троих. Закладывайте 2–2½ часа.
       en: |
-        Lunch with the island's signature dish, **risotto di gò**. The classics are Trattoria al Gatto Nero (closed Mondays) or Trattoria da Romano on Via Galuppi. Book for 13:00.
+        **Booked: 14:30, three people, tasting menu.** The booking is binding for three. Allow 2–2½ hours.
     long:
       ru: |
-        **Го** — бычок-ghiozzo, мелкая лагунная рыбка, костлявая и почти несъедобная сама по себе, зато дающая очень ароматный бульон. Рыбу долго варят, протирают, и на этом бульоне готовят ризотто — нежное, «волной» (*all’onda*), без кусочков рыбы. Рецепт считается гордостью Бурано; **Da Romano**, работающая с 1920 года, называет себя хранительницей оригинального рецепта, а **Gatto Nero** — семейная траттория у канала, любимая самими венецианцами.
+        **Gatto Nero** — семейная траттория у канала, любимая самими венецианцами. Главное блюдо острова — **ризотто ди го**. **Го** — бычок-ghiozzo, мелкая лагунная рыбка, костлявая и почти несъедобная сама по себе, зато дающая очень ароматный бульон. Рыбу долго варят, протирают, и на этом бульоне готовят ризотто — нежное, «волной» (*all’onda*), без кусочков рыбы. Рецепт считается гордостью Бурано; за звание хранителя оригинала с Gatto Nero спорит **Da Romano** на Via Galuppi, работающая с 1920 года.
 
-        Что ещё попробовать: жареную рыбу и моеке — мягких лагунных крабов (сезон весной и осенью), а на десерт — **буссолаи** и **эсси**, буранское сливочное печенье в форме кольца и буквы «S», которое рыбаки брали в море.
+        Что ещё попробовать: жареную рыбу и моеке — мягких лагунных крабов (сезон весной и осенью).
 
-        Совет: ризотто ди го часто готовят минимум на две порции — закажите на троих вместе. Буссолаи продают в пекарнях на главной улице: хороший подарок, долго хранится.
+        Совет: если ризотто ди го не входит в дегустационное меню, спросите, можно ли его добавить, — ради него сюда и едут. Обратный № 12 ходит примерно раз в полчаса: под конец обеда посмотрите расписание и просите счёт заранее.
       en: |
-        **Gò** is the grass goby (ghiozzo), a tiny lagoon fish, bony and almost inedible on its own, but it makes a wonderfully fragrant broth. The fish is simmered for a long time and sieved, and the risotto is cooked in that broth — soft and "wavy" (*all'onda*), with no pieces of fish. The recipe is Burano's pride: **Da Romano**, open since 1920, calls itself the keeper of the original, and **Gatto Nero** is a family trattoria on the canal much loved by Venetians themselves.
+        **Gatto Nero** is a family trattoria on the canal, much loved by Venetians themselves. The island's signature dish is **risotto di gò**. **Gò** is the grass goby (ghiozzo), a tiny lagoon fish, bony and almost inedible on its own, but it makes a wonderfully fragrant broth. The fish is simmered for a long time and sieved, and the risotto is cooked in that broth — soft and "wavy" (*all'onda*), with no pieces of fish. The recipe is Burano's pride; **Da Romano** on Via Galuppi, open since 1920, vies with Gatto Nero for the title of keeper of the original.
 
-        Also try fried fish and moeche, soft-shell lagoon crabs (in season in spring and autumn), and for dessert **bussolai** and **essi**, Burano's buttery biscuits shaped like rings and the letter "S", which fishermen took to sea.
+        Also try fried fish and moeche, soft-shell lagoon crabs (in season in spring and autumn).
 
-        Tip: risotto di gò is often made for a minimum of two portions — order it together for the three of you. Bakeries on the main street sell bussolai: a good gift that keeps well.
+        Tip: if risotto di gò isn't on the tasting menu, ask whether it can be added — it's the reason to come here. The no. 12 back runs about every half hour: check the times towards the end of the meal and ask for the bill early.
 
-  - name: {en: "Burano pier — vaporetto 12 to Murano", ru: "Причал Бурано — вапоретто № 12 до Мурано"}
+  - name: {en: "Burano pier — vaporetto 12 to Fondamente Nove", ru: "Причал Бурано — вапоретто № 12 до Фондаменте-Нове"}
     place: "45.48761,12.41600"
     lat: 45.48761
     lng: 12.41600
     walk_min: 5
-    visit_min: [30, 35]
+    visit_min: [40, 45]
     short:
       ru: |
-        По желанию. Линия **12** в сторону Fondamente Nove, выйти на **Murano Faro**, около 30 минут. Если Мурано пропускаете — оставайтесь на борту до Фондаменте-Нове.
+        Первый катер после обеда, около 17:00. Линия **12** в сторону **Fondamente Nove**, около 40 минут (через Маццорбо и Мурано-Фаро).
       en: |
-        Optional. Line **12** towards Fondamente Nove, get off at **Murano Faro**, about 30 minutes. If you're skipping Murano, stay on board to Fondamente Nove.
+        The first boat after lunch, around 17:00. Line **12** towards **Fondamente Nove**, about 40 minutes (via Mazzorbo and Murano Faro).
     long:
       ru: |
-        Катер обходит Маццорбо и идёт через северную лагуну мимо заброшенных островков и рыбацких свай. Справа на горизонте при хорошей погоде видны Доломиты.
+        Обратный путь через лагуну ведёт прямо на закат: около 17:00 солнце садится за Каннареджо, и послесвечение над водой, силуэты колоколен на фоне неба — один из лучших видов дня. Перед Фондаменте-Нове катер проходит вдоль стены Сан-Микеле, мимо которого вы плыли утром.
 
-        Совет: проверьте время обратных рейсов заранее — осенью они реже. С 15:30 к причалу приходят все экскурсионные группы сразу: можно не сесть на первый катер. Уезжайте около 15:00 и вставайте в очередь заранее, чтобы сесть.
+        Совет: к 17:00 основной поток экскурсионных групп уже уехал, но если первый катер полный — следующий через полчаса, катера ходят до позднего вечера. Катер идёт к городу, и закат — впереди: садитесь у окна по ходу движения.
       en: |
-        The boat rounds Mazzorbo and crosses the northern lagoon past abandoned islets and fishing stakes. On a clear day the Dolomites show on the horizon to the right.
+        The trip back across the lagoon heads straight into the sunset: around 17:00 the sun goes down behind Cannaregio, and the afterglow over the water, with the bell towers silhouetted against the sky, is one of the best views of the day. Just before Fondamente Nove the boat runs along the wall of San Michele, which you passed this morning.
 
-        Tip: check return times in advance — boats are less frequent in autumn. From 15:30 the tour groups all arrive at the pier at once, and you may not get on the first boat. Leave around 15:00 and queue early to get a seat.
+        Tip: by 17:00 most tour groups have gone, but if the first boat is full the next is half an hour later, and boats run until late evening. The boat heads towards the city with the sunset ahead, so sit facing forward.
 
-  - name: {en: "Murano: Fondamenta dei Vetrai", ru: "Мурано: Фондамента деи Ветраи"}
-    place: "Fondamenta dei Vetrai, Murano"
-    lat: 45.45250
-    lng: 12.35065
-    radius_m: 300
-    approach:
-      - {name: Murano Faro, lat: 45.45266, lng: 12.35470}
-      - {name: Fondamenta Daniele Manin, lat: 45.45359, lng: 12.35207}
-    walk_min: [8, 10]
-    visit_min: [45, 60]
+  - name: {en: "Fondamente Nove — vaporetto 4.1 to Orto", ru: "Фондаменте-Нове — вапоретто 4.1 до Orto"}
+    place: "45.44396,12.33916"
+    lat: 45.44396
+    lng: 12.33916
+    radius_m: 200
+    visit_min: [10, 15]
     short:
       ru: |
-        По желанию. Главная улица стеклодувов: мастерские, магазины и стекло в витринах. Показы в печах к 16:00 обычно уже заканчиваются — смотрите, где ещё открыто.
+        Пересадка: линия **4.1** в сторону Orto / Piazzale Roma, одна остановка до **Orto** (Мадонна-дель-Орто), около 5 минут. Причал 4.1 — по табло, на соседнем понтоне.
       en: |
-        Optional. The glassmakers' main street: workshops, shops and glass in every window. Furnace demonstrations mostly wind down by 16:00 — look for one still running.
+        Change here: line **4.1** towards Orto / Piazzale Roma, one stop to **Orto** (Madonna dell'Orto), about 5 minutes. Find the 4.1 pontoon on the boards; it's next door.
     long:
       ru: |
-        В 1291 году республика перевела все стеклодувные печи из города на Мурано — из страха пожаров и, заодно, чтобы сохранить секреты ремесла. Мастерам давали привилегии, их дочери могли выходить замуж за патрициев, но уезжать из республики стеклодувам запрещалось под страхом смерти. Здесь изобрели прозрачное стекло «кристалло», зеркала и многоцветную мозаику «миллефиори».
-
-        Что посмотреть: на Фондамента деи Ветраи и соседних набережных — мастерские с открытыми печами, где показывают, как выдувают вазу или лепят лошадку за пару минут; витрины с люстрами и стеклом; маяк Мурано (1934) у причала Faro.
-
-        Совет: настоящее муранское стекло помечено знаком **«Vetro Artistico Murano»**; дешёвые сувениры часто сделаны в Азии. Показы в печах обычно бесплатные или за несколько евро, а после них ведут в магазин — покупать не обязательно.
-      en: |
-        In 1291 the Republic moved every glass furnace from the city to Murano, out of fear of fire and, conveniently, to keep the craft's secrets. Glassmakers were granted privileges, and their daughters could marry patricians, but leaving the Republic was forbidden on pain of death. Clear "cristallo" glass, mirrors and many-coloured "millefiori" mosaic glass were invented here.
-
-        Along the Fondamenta dei Vetrai and nearby quays are workshops with open furnaces where you can watch a vase blown or a little horse shaped in a couple of minutes, windows full of chandeliers and glass, and the Murano lighthouse (1934) by the Faro pier.
-
-        Tip: genuine Murano glass carries the **"Vetro Artistico Murano"** mark; cheap souvenirs are often made in Asia. Furnace demonstrations are usually free or a few euros, and lead into a shop — no obligation to buy.
-
-  - name: {en: "Murano Colonna — vaporetto 4.1 to Orto", ru: "Мурано, причал Colonna — вапоретто 4.1 до Orto"}
-    place: "45.45000,12.35090"
-    lat: 45.45000
-    lng: 12.35090
-    walk_min: 3
-    visit_min: [15, 20]
-    short:
-      ru: |
-        В начале Фондамента деи Ветраи — причал **Murano Colonna**. Линия **4.1** через Fondamente Nove до **Orto** (Мадонна-дель-Орто), около 15 минут. На табло проверьте: нужна 4.1, не 4.2.
-      en: |
-        At the start of the Fondamenta dei Vetrai is the **Murano Colonna** pier. Line **4.1** via Fondamente Nove to **Orto** (Madonna dell'Orto), about 15 minutes. Check the board: you want the 4.1, not the 4.2.
-    long:
-      ru: |
-        Обратный путь через лагуну ведёт прямо на закат: около 17:00 солнце садится за Каннареджо, а силуэты колоколен на фоне неба — один из лучших видов дня. Катер проходит мимо кладбищенского острова Сан-Микеле: там похоронены Стравинский, Дягилев и Бродский; сегодня, накануне Дня всех святых, туда едут семьи с цветами.
+        **Фондаменте-Нове** — длинная набережная северного берега, построенная в XVI веке, с видом на лагуну и Сан-Микеле.
 
         Совет: если устали, оставайтесь на 4.1 дальше — она идёт вдоль северного берега через Guglie прямо до Piazzale Roma.
       en: |
-        The trip back across the lagoon heads straight into the sunset: around 17:00 the sun goes down behind Cannaregio, and the bell towers silhouetted against the sky make one of the best views of the day. The boat passes the cemetery island of San Michele, where Stravinsky, Diaghilev and Brodsky are buried; today, the eve of All Saints' Day, families head over with flowers.
+        **Fondamente Nove** is the long northern quay, built in the 16th century, looking out over the lagoon and San Michele.
 
         Tip: if you're tired, stay on the 4.1 — it carries on along the north shore via Guglie straight to Piazzale Roma.
 
@@ -276,9 +274,9 @@ points:
     visit_min: 15
     short:
       ru: |
-        Готическая церковь Тинторетто в 2 минутах от причала Orto. К нашему приходу около 17:00 она, скорее всего, закрывается, так что смотрим фасад и кампо деи Мори с каменными «маврами».
+        Готическая церковь Тинторетто в 2 минутах от причала Orto. Около 18:00 она уже закрыта и стемнеет, так что смотрим фасад и кампо деи Мори с каменными «маврами» при фонарях.
       en: |
-        Tintoretto's Gothic church, 2 minutes from the Orto pier. By the time you arrive around 17:00 it's probably closing, so see the façade and Campo dei Mori with its stone "Moors".
+        Tintoretto's Gothic church, 2 minutes from the Orto pier. By about 18:00 it's closed and dark, so see the façade and Campo dei Mori with its stone "Moors" by lamplight.
     long:
       ru: |
         Церковь XV века названа в честь статуи Мадонны, найденной, по преданию, в соседнем огороде (*orto*). Это приходская церковь **Тинторетто**: здесь он похоронен, а внутри — его огромные «Страшный суд» и «Введение во храм». Кирпичный фасад с белым камнем — один из лучших образцов венецианской готики.
@@ -293,32 +291,32 @@ points:
 
         Tip: it's truly quiet here: locals out for an evening walk and hardly any tourists. Next, cross the bridge south to the Fondamenta della Misericordia.
 
-  - name: {en: "Dinner on the Misericordia and Ormesini", ru: "Ужин на Мизерикордии и Ормезини"}
+  - name: {en: "Evening on the Misericordia and Ormesini", ru: "Вечер на Мизерикордии и Ормезини"}
     place: "Fondamenta degli Ormesini, Venezia"
     lat: 45.44514
     lng: 12.32990
     radius_m: 300
     approach: [{name: Fondamenta della Misericordia, lat: 45.44408, lng: 12.33224}]
     walk_min: 5
-    visit_min: [90, 120]
+    visit_min: [60, 90]
     short:
       ru: |
-        Две набережные вдоль одного канала — любимое вечернее место венецианцев: бакари, остерии и столики прямо у воды. Ужин здесь.
+        Две набережные вдоль одного канала — любимое вечернее место венецианцев: бакари и столики прямо у воды. После дегустации — спритц и пара чикетти вместо ужина.
       en: |
-        Two quays along one canal, the Venetians' favourite evening spot: bacari, osterias and tables right by the water. Dinner here.
+        Two quays along one canal, the Venetians' favourite evening spot: bacari and tables right by the water. After the tasting lunch, a spritz and a few cicchetti instead of dinner.
     long:
       ru: |
-        **Фондамента делла Мизерикордия** переходит в **Фондамента дельи Ормезини** — это один длинный канал, вдоль которого в субботний вечер собирается полгорода. Здесь пьют спритц стоя у воды, переходят из бара в бар и ужинают за столиками на набережной. Цены — местные, публика — тоже.
+        **Фондамента делла Мизерикордия** переходит в **Фондамента дельи Ормезини** — это один длинный канал, вдоль которого в субботний вечер собирается полгорода. Здесь пьют спритц стоя у воды, переходят из бара в бар и перекусывают чикетти — венецианскими закусками на один укус. Цены — местные, публика — тоже.
 
         Что посмотреть: известные адреса — **Al Timon** со столиками на пришвартованной лодке и **Il Paradiso Perduto** с длинными общими столами и иногда живой музыкой; на Ормезини — несколько винных баров с натуральными винами. Выбирайте по настроению и очереди.
 
-        Совет: в субботу вечером бронируйте или приходите к 18:30–19:00, пока свободно; до этого — аперитив у воды. Сегодня Хеллоуин — в барах может быть шумнее обычного.
+        Совет: в бакаро чикетти выбирают у стойки, показывая пальцем. Сегодня Хеллоуин — в барах может быть шумнее обычного; если захочется тишины, сядьте на дальнем конце Ормезини.
       en: |
-        The **Fondamenta della Misericordia** runs into the **Fondamenta degli Ormesini** — one long canal where half the city gathers on a Saturday night. People drink spritz standing by the water, hop from bar to bar and eat at tables on the quay. Local prices, local crowd.
+        The **Fondamenta della Misericordia** runs into the **Fondamenta degli Ormesini** — one long canal where half the city gathers on a Saturday night. People drink spritz standing by the water, hop from bar to bar and snack on cicchetti, Venetian one-bite nibbles. Local prices, local crowd.
 
         Well-known places include **Al Timon**, with tables on a moored boat, and **Il Paradiso Perduto**, with long shared tables and sometimes live music; on the Ormesini there are a few wine bars pouring natural wines. Pick by mood and by the length of the queue.
 
-        Tip: on a Saturday night, book or arrive by 18:30–19:00 while there's still room; until then, an aperitivo by the water. It's Halloween today, so the bars may be noisier than usual.
+        Tip: in a bacaro you pick cicchetti at the counter by pointing. It's Halloween today, so the bars may be noisier than usual; for somewhere calmer, try the far end of the Ormesini.
 
   - name: {en: The Ghetto, ru: Гетто}
     place: "Campo del Ghetto Novo, Venezia"
@@ -329,9 +327,9 @@ points:
     visit_min: 15
     short:
       ru: |
-        Первое в мире гетто — тихая площадь с высокими домами. Сегодня суббота, шаббат: музей и синагоги закрыты, кошерные заведения не работают. Ведите себя тихо.
+        Первое в мире гетто — тихая площадь с высокими домами. Сегодня суббота, шаббат: музей и синагоги закрыты. Ведите себя тихо.
       en: |
-        The world's first ghetto — a quiet square ringed by tall houses. Today is Saturday, the Sabbath: the museum and synagogues are closed and the kosher places shut. Keep your voices down.
+        The world's first ghetto — a quiet square ringed by tall houses. Today is Saturday, the Sabbath: the museum and synagogues are closed. Keep your voices down.
     long:
       ru: |
         В 1516 году республика обязала евреев Венеции жить на этом островке, где раньше была литейная (*getto* — «отливка»): так появилось слово «гетто». Ворота запирали на ночь, у мостов дежурила стража, которую оплачивала сама община. Места не хватало, и дома росли вверх — до семи-восьми этажей, самые высокие в городе тех времён.
