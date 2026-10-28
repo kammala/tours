@@ -173,7 +173,7 @@ points:
         Tip: from Porta San Frediano to Mercato Centrale is about 25 minutes over Ponte alla Carraia. If you're tired, skip the Borgo: from Santo Spirito over Ponte Santa Trinita to the market is about 20 minutes.
 
   - name: {en: "The old gasometer — optional", ru: "Старый газгольдер — по желанию"}
-    place: "Parco dell'Anconella, Via dell'Anconella, Firenze"
+    place: "43.77135,11.23883"
     lat: 43.77135
     lng: 11.23883
     radius_m: 120
