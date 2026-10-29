@@ -94,6 +94,7 @@ points:
     lng: 12.31885
     radius_m: 250
     visit_min: [30, 35]
+    audio: {ru: audio/italy/07-venice-san-marco-dorsoduro/03.mp3}
     short:
       ru: |
         С причала Piazzale Roma — линия **2** в сторону **Rialto** до **San Marco (Giardinetti)**, около 30 минут. Если рейс № 2 заканчивается на Rialto (так бывает), пересядьте там на № 1. Резервный вариант — сразу № 1, ~45 минут.
@@ -116,6 +117,7 @@ points:
     approach: [{name: Piazzetta San Marco, lat: 45.43355, lng: 12.33985}]
     walk_min: 5
     visit_min: [110, 120]
+    audio: {ru: audio/italy/07-venice-san-marco-dorsoduro/04.mp3}
     short:
       ru: |
         Вдвоём, вход по брони в 10:30 через Порта-дель-Фрументо. Около двух часов по одностороннему маршруту: парадные залы, Зал Большого совета, Мост вздохов и тюрьмы. Выйти около **12:30** — до встречи у собора в 13:15 есть время на кофе с тост-сэндвичем в баре за причалом San Zaccaria.
@@ -141,6 +143,7 @@ points:
     lng: 12.33982
     walk_min: 5
     visit_min: [40, 50]
+    audio: {ru: audio/italy/07-venice-san-marco-dorsoduro/05.mp3}
     short:
       ru: |
         **Встреча в 13:15** у камеры хранения Атенео Сан-Бассо (слева от собора): туда рюкзаки и большие сумки, бесплатно, до 1 часа. Вход по брони в 13:30 (до 14:00) с площади, все трое. Плечи и колени закрыты.
@@ -169,6 +172,7 @@ points:
       - {name: Chiesa della Pietà, lat: 45.43375, lng: 12.34560}
     walk_min: [8, 10]
     visit_min: [60, 75]
+    audio: {ru: audio/italy/07-venice-san-marco-dorsoduro/06.mp3}
     short:
       ru: |
         По набережной на восток: с моста Палья — вид на Мост вздохов, мимо церкви Пьета до тихого кампо Бандьера-э-Моро. Обед сидя — в переулках за площадью, а не на самой набережной. Идите сразу после собора и садитесь **до 14:30**: многие кухни после этого перестают принимать заказы. Если опоздали — бакаро с чиккетти или место с «orario continuato» (кухня без перерыва).
@@ -194,6 +198,7 @@ points:
     lng: 12.34230
     walk_min: [4, 5]
     visit_min: [10, 15]
+    audio: {ru: audio/italy/07-venice-san-marco-dorsoduro/07.mp3}
     short:
       ru: |
         С причала **San Zaccaria** — линия **1** в сторону **Piazzale Roma**, две остановки, около 7 минут, до **Salute**. Катер подходит к самым ступеням церкви.
@@ -215,6 +220,7 @@ points:
     lng: 12.33473
     walk_min: 2
     visit_min: [20, 30]
+    audio: {ru: audio/italy/07-venice-san-marco-dorsoduro/08.mp3}
     short:
       ru: |
         Открыта 15:00–17:30, вход в храм бесплатный. Ризница с Тицианом и Тинторетто — около €4, до 17:00. Ступени церкви — хорошее место присесть.
@@ -240,6 +246,7 @@ points:
     lng: 12.33709
     walk_min: 3
     visit_min: [15, 20]
+    audio: {ru: audio/italy/07-venice-san-marco-dorsoduro/09.mp3}
     short:
       ru: |
         Мыс между Гранд-каналом и каналом Джудекка — одна из лучших бесплатных смотровых точек города. Вдоль края — низкий каменный парапет, на нём можно сидеть.
@@ -263,6 +270,7 @@ points:
     approach: [{name: Fondamenta Zattere ai Saloni, lat: 45.42857, lng: 12.33298}]
     walk_min: [8, 10]
     visit_min: [90, 120]
+    audio: {ru: audio/italy/07-venice-san-marco-dorsoduro/10.mp3}
     short:
       ru: |
         Длинная солнечная набережная вдоль канала Джудекка. Мороженое в Gelateria Nico, кафе у воды до заката около 17:00 — солнце садится за Джудекку и порт. После заката — спритц и чиккетти в баре у воды, без брони.
@@ -288,6 +296,7 @@ points:
     lng: 12.32630
     walk_min: 3
     visit_min: [15, 20]
+    audio: {ru: audio/italy/07-venice-san-marco-dorsoduro/11.mp3}
     short:
       ru: |
         Финиш. С причала Zattere — линия **2** в сторону **Piazzale Roma** (через Сакка-Физола и Тронкетто), около 15 минут. Дальше автобус № 6 до Via Paleocapa, последние рейсы — 23:10, 23:25, 23:50.
