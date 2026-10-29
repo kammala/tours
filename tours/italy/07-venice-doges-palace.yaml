@@ -1,0 +1,561 @@
+country: { en: Italy, ru: Италия }
+city: { en: Venice, ru: Венеция }
+name: { en: "Fri 30 Oct · The Doge's Palace room by room", ru: "Пт, 30 окт · Дворец дожей по залам" }
+place_suffix: Venezia
+summary:
+  ru: "Около 2 часов по залам и лестницам; вход в 10:30. Аудиогид на русском в каждой точке"
+  en: "About 2 hours of rooms and staircases; entry at 10:30. Russian audio at every stop"
+intro:
+  ru: |
+    Подробная прогулка по Дворцу дожей — утренняя часть дня «Дворец дожей, Сан-Марко, Салюте и закат на Дзаттере». Маршрут идёт по официальному пути музея: Museo dell'Opera на первом этаже, двор, по лестнице Цензоров и Золотой лестнице на третий этаж — залы правительства Республики, затем Оружейная, спуск на второй этаж — Зал Большого совета, потом Мост вздохов и тюрьмы, назад через мост и выход через Порта-делла-Карта. У каждой точки есть **аудиорассказ на русском** на 1–3 минуты — откройте точку и нажмите ▶; наушники обязательны.
+
+    **Вход.** Билеты на **10:30**, на двоих («Музеи площади Сан-Марко»). Вход для посетителей — **Порта-дель-Фрументо**, ворота посередине фасада со стороны лагуны (набережная Моло). Будьте там к **10:15**, QR-код — в телефоне. Слот в музей Коррер в 16:50 из письма был нужен только для оформления покупки — идти туда не нужно.
+
+    **Маршрут односторонний.** Вернуться в уже пройденный зал обычно нельзя — смотрите как следует сразу. Если путь перекрыт или изменён, идите по указателям «percorso» и спрашивайте смотрителей.
+
+    **Время.** Около **двух часов**, выйти к **12:30**: в **13:15** встреча у собора Святого Марка. Если не успеваете — быстрее пройдите Оружейную и маленькие залы судов, но не экономьте на Зале Большого совета и Мосте вздохов.
+
+    **Ноги.** Лестниц много: лестница Цензоров, два марша Золотой лестницы, крутые ступени в Оружейной и в тюрьмах. Скамейки есть вдоль стен Зала Большого совета и в некоторых залах. Для посетителей с ограниченной подвижностью спросите смотрителей про лифт.
+
+    **Вещи и туалеты.** Большие сумки и рюкзаки сдайте в гардероб у входа. Туалеты — на первом этаже у входа; наверху их почти нет, так что зайдите до начала.
+
+    **Правила.** Фотографировать без вспышки можно; штативы нельзя.
+
+    *Фото: Wikimedia Commons, авторы и лицензии — под каждым снимком.*
+  en: |
+    A detailed walk through the Doge's Palace — the morning part of "Doge's Palace, St Mark's, the Salute and sunset on the Zattere". It follows the museum's official route: the Museo dell'Opera on the ground floor, the courtyard, up the Censors' Staircase and the Golden Staircase to the second floor — the Republic's government chambers — then the Armoury, down to the first floor for the Great Council Hall, then the Bridge of Sighs and the prisons, back over the bridge and out through the Porta della Carta. Every stop has a 1–3 minute **Russian audio narration** — open the stop and press ▶ (English listeners can read the text); bring earphones.
+
+    **Entry.** Tickets for **10:30**, for two (the "St Mark's Square Museums" ticket). The visitors' entrance is the **Porta del Frumento**, the gate in the middle of the lagoon-side façade (the Molo). Be there by **10:15**, QR code on your phone. The 16:50 Museo Correr slot in the email was only needed to complete the purchase — no need to go.
+
+    **One-way route.** You usually can't go back to a room you've passed, so take your time as you go. If a passage is closed or rerouted, follow the "percorso" signs and ask the attendants.
+
+    **Time.** About **two hours**; aim to be out by **12:30** for the **13:15** meet-up at St Mark's Basilica. If you're running late, move faster through the Armoury and the small court rooms, but don't skimp on the Great Council Hall or the Bridge of Sighs.
+
+    **Legs.** Lots of stairs: the Censors' Staircase, two flights of the Golden Staircase, steep steps in the Armoury and the prisons. There are benches along the walls of the Great Council Hall and in some rooms. For reduced mobility, ask the attendants about the lift.
+
+    **Bags and toilets.** Large bags and backpacks go to the cloakroom by the entrance. The toilets are on the ground floor by the entrance, and there are hardly any upstairs, so go before you start.
+
+    **Rules.** Photos without flash are fine; no tripods.
+
+    *Photos: Wikimedia Commons; authors and licences under each picture.*
+outro:
+  ru: |
+    Дальше по плану дня — [Собор Святого Марка](#/tour/italy/07-venice-san-marco-dorsoduro/5): от Порта-делла-Карта до входа в собор — минута. До встречи в 13:15 есть время на кофе и тост в баре за причалом San Zaccaria.
+  en: |
+    Next in the day plan: [St Mark's Basilica](#/tour/italy/07-venice-san-marco-dorsoduro/5), a minute from the Porta della Carta. Before the 13:15 meet-up there's time for a coffee and a toastie at a bar behind the San Zaccaria pier.
+points:
+  - name: { en: "Porta del Frumento and the Museo dell'Opera", ru: "Порта-дель-Фрументо и Museo dell'Opera" }
+    place: "Palazzo Ducale, Porta del Frumento, Venezia"
+    lat: 45.43355
+    lng: 12.34040
+    radius_m: 50
+    visit_min: [ 10, 15 ]
+    audio: { ru: audio/italy/07-venice-doges-palace/01.mp3 }
+    short:
+      ru: |
+        Вход — ворота посередине фасада со стороны лагуны. Досмотр, гардероб, а затем первый зал маршрута — шесть небольших залов Museo dell'Opera на первом этаже, с подлинными капителями дворца.
+      en: |
+        The entrance is the gate in the middle of the lagoon-side façade. Security, cloakroom, then the first part of the route: six small rooms of the Museo dell'Opera on the ground floor, with the palace's original capitals.
+    long:
+      ru: |
+        ![Капитель портика Дворца дожей](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/4883_-_Venezia_-_Palazzo_ducale_-_Capitello_01_-_Foto_Giovanni_Dall%27Orto%2C_31-Jul-2008.jpg/960px-4883_-_Venezia_-_Palazzo_ducale_-_Capitello_01_-_Foto_Giovanni_Dall%27Orto%2C_31-Jul-2008.jpg)
+        *Фото: Giovanni Dall'Orto, свободная лицензия с указанием автора*
+
+        Дворец дожей был не просто домом правителя: здесь под одной крышей заседали все советы Республики, суды, канцелярия, а за каналом — тюрьма. Почти тысячу лет, до 1797 года, отсюда управляли Венецией. Нынешнее готическое здание с розово-белым фасадом сложилось в XIV–XV веках.
+
+        **Опера** — это техническая служба, которая веками чинила и перестраивала дворец. В её бывших помещениях — небольшой музей. Когда с 1875 года реставрировали фасады, **сорок две** старые капители портика и лоджии заменили копиями, а подлинники привезли сюда. Подойдите ближе: на камне вырезаны люди, звери, растения, знаки зодиака, мифы, добродетели и пороки — средневековая «поэма в камне», которую читали все, кто шёл мимо дворца.
+
+        Совет: запомните пару фигур. На выходе, под аркадой со стороны площади, найдите их копии на колоннах — и сравните.
+      en: |
+        ![A capital of the Doge's Palace arcade](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/4883_-_Venezia_-_Palazzo_ducale_-_Capitello_01_-_Foto_Giovanni_Dall%27Orto%2C_31-Jul-2008.jpg/960px-4883_-_Venezia_-_Palazzo_ducale_-_Capitello_01_-_Foto_Giovanni_Dall%27Orto%2C_31-Jul-2008.jpg)
+        *Photo: Giovanni Dall'Orto, free licence with attribution*
+
+        The Doge's Palace was much more than the ruler's home: every council of the Republic sat under this roof, along with the courts and the chancery, and the prison stood across the canal. For almost a thousand years, until 1797, Venice was governed from here. The present Gothic building with its pink-and-white façade took shape in the 14th and 15th centuries.
+
+        The **Opera** was the technical office that repaired and rebuilt the palace for centuries; its former rooms now hold a small museum. When the façades were restored from 1875, **forty-two** old capitals of the arcade and loggia were replaced with copies, and the originals came here. Look closely: the stone is carved with people, animals, plants, signs of the zodiac, myths, virtues and vices — a medieval "poem in stone" read by everyone who walked past the palace.
+
+        Tip: remember a couple of figures. On the way out, under the arcade on the square side, find their copies on the columns and compare.
+
+  - name: { en: "The courtyard, the Scala dei Giganti and the Arco Foscari", ru: "Двор, Лестница гигантов (Scala dei Giganti) и арка Фоскари" }
+    place: "Cortile di Palazzo Ducale, Venezia"
+    lat: 45.43400
+    lng: 12.34055
+    radius_m: 50
+    walk_min: 2
+    visit_min: [ 5, 8 ]
+    audio: { ru: audio/italy/07-venice-doges-palace/02.mp3 }
+    short:
+      ru: |
+        Выйдите во двор и встаньте лицом к белой мраморной лестнице с двумя огромными статуями — это Лестница гигантов. Рядом с ней — арка Фоскари. Потом по указателям к лестнице Цензоров.
+      en: |
+        Step out into the courtyard and face the white marble staircase with two huge statues — the Giants' Staircase. Beside it is the Arco Foscari. Then follow the signs to the Censors' Staircase.
+    long:
+      ru: |
+        ![Лестница гигантов](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Venice%2C_Palazzo_Ducale%2C_Scala_dei_Giganti_%28ar.1484%2C_sc.1567%29_2.jpg/960px-Venice%2C_Palazzo_Ducale%2C_Scala_dei_Giganti_%28ar.1484%2C_sc.1567%29_2.jpg)
+        *Фото: Armin Kleiner, CC BY-SA 4.0*
+
+        **Лестница гигантов** — бывший парадный вход во дворец, её приписывают архитектору Антонио Риццо, конец XV века. Наверху стоят **Марс и Нептун** работы Якопо Сансовино, 1560-х годов: бог войны и бог моря — власть Венеции на суше и на море. На верхней площадке этой лестницы короновали новых дожей.
+
+        Рядом — **арка Фоскари**, названная в честь дожа Франческо Фоскари, правившего с 1423 по 1457 год. За ней — проход к воротам **Порта-делла-Карта**: через них вы и выйдете из дворца в конце.
+
+        Посмотрите и на два бронзовых колодца посреди двора: под ними — цистерны для дождевой воды. Своих источников пресной воды в Венеции не было.
+
+        Дальше — по указателям к **лестнице Цензоров**: с неё начинается подъём на верхние этажи.
+      en: |
+        ![The Giants' Staircase](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Venice%2C_Palazzo_Ducale%2C_Scala_dei_Giganti_%28ar.1484%2C_sc.1567%29_2.jpg/960px-Venice%2C_Palazzo_Ducale%2C_Scala_dei_Giganti_%28ar.1484%2C_sc.1567%29_2.jpg)
+        *Photo: Armin Kleiner, CC BY-SA 4.0*
+
+        The **Giants' Staircase** was the palace's ceremonial entrance; it's attributed to the architect Antonio Rizzo, late 15th century. At the top stand **Mars and Neptune** by Jacopo Sansovino, from the 1560s: the gods of war and the sea — Venice's power on land and at sea. New doges were crowned on the landing at the top of this staircase.
+
+        Beside it is the **Arco Foscari**, named after Doge Francesco Foscari, who reigned from 1423 to 1457. Beyond it a passage leads to the **Porta della Carta**, the gate you'll leave by at the end.
+
+        Look at the two bronze well-heads in the middle of the courtyard, too: beneath them are cisterns for rainwater. Venice had no fresh-water springs of its own.
+
+        Then follow the signs to the **Censors' Staircase**, where the climb to the upper floors begins.
+
+  - name: { en: "The Scala dei Censori, the loggias and the Scala d'Oro", ru: "Лестница Цензоров, лоджии и Золотая лестница (Scala d'Oro)" }
+    place: "Scala d'Oro, Palazzo Ducale, Venezia"
+    lat: 45.43395
+    lng: 12.34070
+    radius_m: 50
+    walk_min: 3
+    visit_min: [ 5, 10 ]
+    audio: { ru: audio/italy/07-venice-doges-palace/03.mp3 }
+    short:
+      ru: |
+        Поднимитесь по лестнице Цензоров на уровень лоджий и пройдите по галерее к Золотой лестнице: у её входа — Атлант с небесным сводом и Геракл с Гидрой. По ней — на третий этаж. По дороге ищите в стене каменную «львиную пасть» для доносов.
+      en: |
+        Climb the Censors' Staircase to the loggia level and walk along the gallery to the Golden Staircase, its entrance flanked by Atlas holding up the heavens and Hercules fighting the Hydra. Take it up to the second floor. On the way, look for a stone "lion's mouth" for denunciations set in the wall.
+    long:
+      ru: |
+        ![Золотая лестница](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Venice%2C_Palazzo_Ducale%2C_Scala_d%27Oro_%281557%29.jpg/960px-Venice%2C_Palazzo_Ducale%2C_Scala_d%27Oro_%281557%29.jpg)
+        *Фото: Armin Kleiner, CC BY-SA 4.0*
+
+        **Лестницу Цензоров** построили в 1525 году; с лоджий открывается вид на двор и Пьяцетту. В стенах дворца ещё сохранились **«львиные пасти»** — каменные прорези для доносов. С конца XVI века любой житель мог опустить туда записку о преступлении или растрате, и она падала в деревянный ящик прямо в кабинете нужного ведомства.
+
+        **Золотая лестница** — Scala d'Oro — вела к залам правительства, и подниматься по ней могли только магистраты и важные гости. Её спроектировал Якопо Сансовино в 1550-х годах; белая лепнина с позолотой — мастерская Алессандро Виттории, фрески — Баттиста Франко. Скульптуры у входа, **Атлант** и **Геракл**, — работа Тициано Аспетти, конец XVI века.
+
+        Совет: идите не спеша и посмотрите вверх — лучше всего свод виден с промежуточной площадки. Если по пути открыты **покои дожа** на втором этаже — там часто бывают временные выставки, — маршрут может пройти и через них.
+      en: |
+        ![The Golden Staircase](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Venice%2C_Palazzo_Ducale%2C_Scala_d%27Oro_%281557%29.jpg/960px-Venice%2C_Palazzo_Ducale%2C_Scala_d%27Oro_%281557%29.jpg)
+        *Photo: Armin Kleiner, CC BY-SA 4.0*
+
+        The **Censors' Staircase** was built in 1525; the loggias look over the courtyard and the Piazzetta. The palace walls still have **"lion's mouths"** — stone slots for denunciations. From the late 16th century anyone could drop in a note reporting a crime or embezzlement, and it fell into a wooden box inside the office concerned.
+
+        The **Golden Staircase** — the Scala d'Oro — led to the government chambers, and only magistrates and important guests could use it. Jacopo Sansovino designed it in the 1550s; the white and gilded stucco is by Alessandro Vittoria's workshop and the frescoes by Battista Franco. The statues at the entrance, **Atlas** and **Hercules**, are by Tiziano Aspetti, late 16th century.
+
+        Tip: take it slowly and look up — the vault is best seen from the half-landing. If the **Doge's apartments** on the first floor are open on the way (they often host temporary exhibitions), the route may pass through them too.
+
+  - name: { en: "Atrio Quadrato and Sala delle Quattro Porte", ru: "Квадратный атриум (Atrio Quadrato) и Зал четырёх дверей (Sala delle Quattro Porte)" }
+    place: "Palazzo Ducale, Venezia"
+    lat: 45.43405
+    lng: 12.34075
+    radius_m: 40
+    walk_min: 2
+    visit_min: [ 5, 8 ]
+    audio: { ru: audio/italy/07-venice-doges-palace/04.mp3 }
+    short:
+      ru: |
+        Наверху лестницы — небольшой квадратный зал: посмотрите на потолок Тинторетто. Дальше — Зал четырёх дверей: четыре парадных портала в мраморных рамах.
+      en: |
+        At the top of the stairs is a small square hall: look up at Tintoretto's ceiling. Next comes the Four Doors Room, with four grand doorways in marble frames.
+    long:
+      ru: |
+        **Квадратный атриум** украсили при доже Джироламо Приули, правившем с 1559 по 1567 год. На потолке Тинторетто изобразил самого Приули — Справедливость вручает ему меч и весы. Отсюда двери вели в личные покои дожа и в залы правительства.
+
+        **Зал четырёх дверей** — приёмная, где ждали вызова в Коллегию и Сенат. В 1574 году здесь был пожар, и зал отделали заново по рисункам Андреа Палладио и Джованни Антонио Рускони, а строил Антонио да Понте — тот самый, что потом возвёл каменный мост Риальто, по которому вы шли вчера. Двери обрамлены дорогим восточным мрамором, над ними — аллегорические скульптуры.
+
+        Найдите **картину Тициана**: дож Антонио Гримани стоит на коленях перед Верой. А на мольберте — поздняя работа **Тьеполо** середины XVIII века: Нептун подносит Венеции дары моря — раковины, кораллы, жемчуг. Через двести лет после Тициана тема всё та же: богатство Венеции приходит с моря.
+      en: |
+        The **Square Atrium** was decorated under Doge Girolamo Priuli, who reigned from 1559 to 1567. On the ceiling Tintoretto painted Priuli himself, receiving the sword and scales from Justice. Doors from here led to the Doge's private apartments and to the government chambers.
+
+        The **Four Doors Room** was the waiting room for those called before the College or the Senate. After a fire in 1574 it was redone to designs by Andrea Palladio and Giovanni Antonio Rusconi, built by Antonio da Ponte — the man who went on to build the stone Rialto Bridge you crossed yesterday. The doors are framed in precious Eastern marbles, with allegorical sculptures above.
+
+        Find **Titian's painting** of Doge Antonio Grimani kneeling before Faith. And on an easel stands a late **Tiepolo** from the mid-18th century: Neptune offering Venice the gifts of the sea — shells, coral, pearls. Two centuries after Titian the theme is the same: Venice's wealth comes from the sea.
+
+  - name: { en: "Sala dell'Anticollegio", ru: "Антиколлегия (Sala dell'Anticollegio)" }
+    place: "Palazzo Ducale, Venezia"
+    lat: 45.43398
+    lng: 12.34082
+    radius_m: 40
+    walk_min: 1
+    visit_min: [ 5, 8 ]
+    audio: { ru: audio/italy/07-venice-doges-palace/05.mp3 }
+    short:
+      ru: |
+        Приёмная перед залом Коллегии, где ждали послы. Ищите «Похищение Европы» Веронезе, четыре мифологические картины Тинторетто у дверей и «Возвращение Иакова» Бассано.
+      en: |
+        The antechamber to the College, where ambassadors waited. Look for Veronese's Rape of Europa, Tintoretto's four mythological canvases by the doors and Bassano's Return of Jacob.
+    long:
+      ru: |
+        ![Веронезе, «Похищение Европы»](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Paolo_veronese%2C_ratto_di_europa%2C_1580.JPG/960px-Paolo_veronese%2C_ratto_di_europa%2C_1580.JPG)
+        *Фото: Sailko, CC BY 3.0*
+
+        Здесь ждали приёма у дожа иностранные послы — и Республика хотела, чтобы ожидание их впечатлило. На потолке — фреска Веронезе «Венеция раздаёт почести и награды», 1577 год.
+
+        Четыре полотна **Тинторетто** у дверей — Меркурий и три Грации, Вакх и Ариадна, Минерва, прогоняющая Марса, и кузница Вулкана — сначала висели в Квадратном атриуме, сюда их перенесли в 1716 году. Это аллегории доброго правления: согласие, мир, мудрость, единство Республики.
+
+        Главная картина зала — **«Похищение Европы»** **Паоло Веронезе**, около 1580 года: Юпитер в образе белого быка, Европа в шелках, амуры, цветочные гирлянды. Рядом — **«Возвращение Иакова в Ханаан»** Якопо Бассано. Обе картины попали во дворец вместе, в 1713 году. Когда Республика пала, французы увезли «Европу» в Париж; потом её вернули.
+
+        Совет: у «Европы» посмотрите на заднем плане вправо — тот же сюжет продолжается: бык с Европой уплывает в море.
+      en: |
+        ![Veronese, The Rape of Europa](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Paolo_veronese%2C_ratto_di_europa%2C_1580.JPG/960px-Paolo_veronese%2C_ratto_di_europa%2C_1580.JPG)
+        *Photo: Sailko, CC BY 3.0*
+
+        Foreign ambassadors waited here for their audience with the Doge — and the Republic meant the wait to impress them. On the ceiling is Veronese's fresco of Venice distributing honours and rewards, 1577.
+
+        **Tintoretto's** four canvases by the doors — Mercury and the Three Graces, Bacchus and Ariadne, Minerva driving away Mars, and the Forge of Vulcan — first hung in the Square Atrium and were moved here in 1716. They're allegories of good government: harmony, peace, wisdom and the unity of the Republic.
+
+        The room's star is **The Rape of Europa** by **Paolo Veronese**, around 1580: Jupiter as a white bull, Europa in silks, cupids and garlands of flowers. Beside it is **The Return of Jacob to Canaan** by Jacopo Bassano. The two paintings came to the palace together in 1713. When the Republic fell, the French took the Europa to Paris; it was later returned.
+
+        Tip: in the Europa, look into the background on the right — the story goes on, and the bull carries Europa off into the sea.
+
+  - name: { en: "Sala del Collegio", ru: "Зал Коллегии (Sala del Collegio)" }
+    place: "Palazzo Ducale, Venezia"
+    lat: 45.43392
+    lng: 12.34078
+    radius_m: 40
+    walk_min: 1
+    visit_min: [ 5, 8 ]
+    audio: { ru: audio/italy/07-venice-doges-palace/06.mp3 }
+    short:
+      ru: |
+        Здесь дож и Коллегия принимали послов. Посмотрите вверх: весь потолок — Веронезе. На стене над трибуной — его картина о победе при Лепанто.
+      en: |
+        The Doge and the College received ambassadors here. Look up: the whole ceiling is by Veronese. On the wall above the tribune is his painting celebrating the victory at Lepanto.
+    long:
+      ru: |
+        ![Зал Коллегии](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Venice%2C_Palazzo_Ducale%2C_Sala_del_Collegio.jpg/960px-Venice%2C_Palazzo_Ducale%2C_Sala_del_Collegio.jpg)
+        *Фото: Armin Kleiner, CC BY-SA 4.0*
+
+        **Полная коллегия** — дож, шесть его советников, главы судов и министры-«мудрецы» — была исполнительной властью Республики: готовила дела для Сената и принимала послов. Дож сидел на деревянной трибуне в глубине зала, послы входили из Антиколлегии.
+
+        Потолок с золочёной резьбой расписал **Паоло Веронезе** в 1575–1578 годах — это гимн доброму правлению: в центре Венеция на троне, рядом Справедливость и Мир, вокруг фигуры добродетелей — Верность, Диалектика, Бдительность.
+
+        Над трибуной — картина Веронезе: дож **Себастьяно Веньер** благодарит Христа за победу при **Лепанто** в 1571 году. Веньер сам командовал венецианским флотом в той битве, где христианские флоты разгромили османский. На боковых стенах — картины Тинторетто: дожи перед Христом, Богоматерью и святыми.
+      en: |
+        ![The Sala del Collegio](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Venice%2C_Palazzo_Ducale%2C_Sala_del_Collegio.jpg/960px-Venice%2C_Palazzo_Ducale%2C_Sala_del_Collegio.jpg)
+        *Photo: Armin Kleiner, CC BY-SA 4.0*
+
+        The **Full College** — the Doge, his six councillors, the heads of the courts and the ministers known as "sages" — was the Republic's executive: it prepared business for the Senate and received ambassadors. The Doge sat on the wooden tribune at the far end; ambassadors came in from the Anticollegio.
+
+        **Paolo Veronese** painted the gilded, carved ceiling in 1575–1578 as a hymn to good government: Venice enthroned in the centre with Justice and Peace, surrounded by virtues — Fidelity, Dialectic, Vigilance.
+
+        Above the tribune hangs Veronese's painting of Doge **Sebastiano Venier** giving thanks to Christ for the victory at **Lepanto** in 1571. Venier himself commanded the Venetian fleet in that battle, in which the Christian fleets routed the Ottomans. On the side walls are Tintoretto's paintings of doges before Christ, the Virgin and saints.
+
+  - name: { en: "Sala del Senato", ru: "Зал Сената (Sala del Senato)" }
+    place: "Palazzo Ducale, Venezia"
+    lat: 45.43402
+    lng: 12.34085
+    radius_m: 40
+    walk_min: 1
+    visit_min: [ 5, 8 ]
+    audio: { ru: audio/italy/07-venice-doges-palace/07.mp3 }
+    short:
+      ru: |
+        Зал Сената, его называли и залом Прегади. Вдоль стен — деревянные скамьи сенаторов. В центре потолка — «Триумф Венеции, царицы морей» Тинторетто.
+      en: |
+        The Senate Chamber, also called the Sala dei Pregadi. Senators' wooden benches line the walls. In the centre of the ceiling is Tintoretto's Triumph of Venice, Queen of the Seas.
+    long:
+      ru: |
+        ![Потолок Зала Сената](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Venice%2C_Palazzo_Ducale%2C_Sala_del_Senato%2C_ceiling.jpg/960px-Venice%2C_Palazzo_Ducale%2C_Sala_del_Senato%2C_ceiling.jpg)
+        *Фото: Armin Kleiner, CC BY-SA 4.0*
+
+        **Сенат** решал самое важное: войну и мир, союзы, торговлю, налоги, флот. Сенаторов в старину называли **«прегади»** — «приглашённые»: когда-то дож просто приглашал знатных людей дать совет, а потом это стало постоянным органом.
+
+        Потолок с тяжёлой позолоченной резьбой спроектировал Кристофоро Сорте в 1581 году. В центре — **«Триумф Венеции, царицы морей»** **Якопо Тинторетто**, 1588–1590 годы: Венеция среди богов, а морские божества подносят ей дары. На стенах — картины Тинторетто, где дожи молятся перед Христом, и полотна Пальмы Младшего о событиях венецианской истории.
+
+        Совет: сядьте на минуту и посмотрите на зал глазами сенатора — вы на скамье, дож на трибуне напротив, а над головой вся слава Республики.
+      en: |
+        ![The Senate Chamber ceiling](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Venice%2C_Palazzo_Ducale%2C_Sala_del_Senato%2C_ceiling.jpg/960px-Venice%2C_Palazzo_Ducale%2C_Sala_del_Senato%2C_ceiling.jpg)
+        *Photo: Armin Kleiner, CC BY-SA 4.0*
+
+        The **Senate** decided the biggest questions: war and peace, alliances, trade, taxes, the fleet. Senators were known as the **"Pregadi"**, "the invited": once the Doge simply invited leading men to give advice, and in time it became a standing body.
+
+        The heavy gilded and carved ceiling was designed by Cristoforo Sorte in 1581. In the centre is **Jacopo Tintoretto's** **Triumph of Venice, Queen of the Seas**, 1588–1590: Venice among the gods while sea deities bring her gifts. On the walls are Tintoretto's paintings of doges praying before Christ, and canvases by Palma il Giovane showing events from Venetian history.
+
+        Tip: sit down for a minute and see the room as a senator did — you on the bench, the Doge on the tribune opposite, and all the Republic's glory overhead.
+
+  - name: { en: "Sala del Consiglio dei Dieci", ru: "Зал Совета десяти (Sala del Consiglio dei Dieci)" }
+    place: "Palazzo Ducale, Venezia"
+    lat: 45.43385
+    lng: 12.34085
+    radius_m: 40
+    walk_min: 1
+    visit_min: [ 4, 6 ]
+    audio: { ru: audio/italy/07-venice-doges-palace/08.mp3 }
+    short:
+      ru: |
+        Зал самого грозного органа Республики — Совета десяти, ведавшего государственной безопасностью. Посмотрите на центральный овал потолка: это копия Веронезе, подлинник увёз Наполеон.
+      en: |
+        The chamber of the Republic's most feared body, the Council of Ten, in charge of state security. Look at the central ceiling oval: it's a copy of a Veronese — Napoleon carried off the original.
+    long:
+      ru: |
+        ![Потолок Зала Совета десяти](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Venezia_Palazzo_Ducale_Innen_Sala_del_Consiglio_dei_Dieci_Decke_2.jpg/960px-Venezia_Palazzo_Ducale_Innen_Sala_del_Consiglio_dei_Dieci_Decke_2.jpg)
+        *Фото: Zairon, CC BY-SA 4.0*
+
+        **Совет десяти** создали после заговора Баджамонте Тьеполо в 1310 году — как временную меру против переворотов. Временная мера прожила почти пятьсот лет. Совет занимался изменой, шпионажем, заговорами, тайной дипломатией; заседал вместе с дожем и его советниками за полукруглым столом у дальней стены — всего семнадцать человек.
+
+        Потолок из двадцати пяти золочёных отсеков расписывал Джован Баттиста Понкино, а помогали ему молодые **Паоло Веронезе** и Джован Баттиста Дзелотти. В центральном овале — **Юпитер, мечущий молнии в пороки**, работы Веронезе. Но перед вами копия: в 1797 году, после падения Республики, Наполеон увёз подлинник в Париж, и сегодня он в Лувре.
+      en: |
+        ![The Council of Ten ceiling](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Venezia_Palazzo_Ducale_Innen_Sala_del_Consiglio_dei_Dieci_Decke_2.jpg/960px-Venezia_Palazzo_Ducale_Innen_Sala_del_Consiglio_dei_Dieci_Decke_2.jpg)
+        *Photo: Zairon, CC BY-SA 4.0*
+
+        The **Council of Ten** was set up after Bajamonte Tiepolo's conspiracy of 1310, as a temporary safeguard against coups. The temporary measure lasted almost five hundred years. The Council handled treason, espionage, plots and secret diplomacy; it sat with the Doge and his councillors at the semicircular bench by the far wall — seventeen men in all.
+
+        The ceiling's twenty-five gilded compartments were painted by Giovan Battista Ponchino with the help of the young **Paolo Veronese** and Giovan Battista Zelotti. The central oval shows **Jupiter hurling thunderbolts at the Vices**, by Veronese. But you're looking at a copy: in 1797, after the Republic fell, Napoleon took the original to Paris, and it's now in the Louvre.
+
+  - name: { en: "Sala della Bussola", ru: "Зал Компаса (Sala della Bussola)" }
+    place: "Palazzo Ducale, Venezia"
+    lat: 45.43380
+    lng: 12.34080
+    radius_m: 40
+    walk_min: 1
+    visit_min: [ 3, 5 ]
+    audio: { ru: audio/italy/07-venice-doges-palace/09.mp3 }
+    short:
+      ru: |
+        Приёмная перед Советом десяти. В углу — большая деревянная «буссола», дверь-тамбур со статуей Справедливости наверху; за ней кабинеты трёх глав Совета и инквизиторов. Камин — по рисунку Сансовино.
+      en: |
+        The waiting room for the Council of Ten. In the corner stands the big wooden "bussola", a screened doorway topped by a statue of Justice, leading to the rooms of the Council's three heads and the inquisitors. The fireplace is to a design by Sansovino.
+    long:
+      ru: |
+        Представьте, что вас вызвали к Совету десяти. Вы сидите здесь, в этом зале, и ждёте. Сюда же, в кабинеты за стеной, попадали записки из «львиных пастей». Деревянная **буссола** — по-итальянски и «компас», и тамбур с дверью — отделяла этот зал от **Зала трёх глав** и **Зала государственных инквизиторов**, самых тайных кабинетов дворца.
+
+        Эти кабинеты, как и камеры под крышей, в обычный маршрут не входят: их показывают только на экскурсии «Секретные маршруты» по записи. Камин с фигурами-атлантами сделан по рисунку Якопо Сансовино, роспись потолка — Веронезе.
+
+        Дальше маршрут ведёт наверх, в **Оружейную**: впереди крутые ступени.
+      en: |
+        Imagine you've been summoned by the Council of Ten. You sit here, in this room, and wait. The notes from the "lion's mouths" also ended up in the offices beyond this wall. The wooden **bussola** — in Italian both "compass" and a screened doorway — separated this room from the **Room of the Three Heads** and the **Room of the State Inquisitors**, the most secret offices in the palace.
+
+        Those rooms, like the cells under the roof, aren't on the regular route: you can only see them on the bookable "Secret Itineraries" tour. The fireplace with its caryatid figures follows a design by Jacopo Sansovino; the ceiling paintings are by Veronese.
+
+        From here the route goes up to the **Armoury** — steep steps ahead.
+
+  - name: { en: "The Armeria (Armoury)", ru: "Оружейная (Armeria)" }
+    place: "Palazzo Ducale, Venezia"
+    lat: 45.43370
+    lng: 12.34075
+    radius_m: 40
+    walk_min: 2
+    visit_min: [ 8, 12 ]
+    audio: { ru: audio/italy/07-venice-doges-palace/10.mp3 }
+    short:
+      ru: |
+        Несколько залов под крышей с мечами, арбалетами, алебардами и доспехами. Во втором зале — доспехи французского короля Генриха IV. Потом по лестнице Цензоров вниз, на второй этаж.
+      en: |
+        Several rooms under the roof full of swords, crossbows, halberds and armour. In the second room is the armour of King Henry IV of France. Then down the Censors' Staircase to the first floor.
+    long:
+      ru: |
+        Оружейная известна с XIV века и подчинялась Совету десяти. Здесь хранили оружие для охраны дворца, а в опасные дни — и для **арсеналотти**, рабочих венецианского Арсенала. Арсеналотти были самыми надёжными людьми Республики: после смерти дожа они стерегли двери дворца, а во время заседаний Большого совета охраняли лоджетту у подножия колокольни.
+
+        Сегодня в собрании больше двух тысяч предметов, хотя часть рассеялась после падения Республики. Посмотрите на рыцарские доспехи, двуручные мечи, арбалеты и ранние ружья. Во втором зале — **доспехи французского короля Генриха IV**.
+
+        Совет: это одна из самых долгих лестниц маршрута — спускайтесь медленно и держитесь за перила.
+      en: |
+        The Armoury dates back to the 14th century and answered to the Council of Ten. It held weapons for the palace guard and, in times of danger, for the **arsenalotti**, the workers of the Venetian Arsenal. The arsenalotti were the Republic's most trusted men: after a doge's death they guarded the palace doors, and during Great Council sessions they guarded the Loggetta at the foot of the bell tower.
+
+        Today the collection has more than two thousand pieces, though some was scattered after the Republic fell. Look at the knights' armour, two-handed swords, crossbows and early firearms. In the second room is the **armour of King Henry IV of France**.
+
+        Tip: this is one of the longest staircases on the route — go down slowly and hold the rail.
+
+  - name: { en: "Sala del Liagò, Sala della Quarantia Civil Vecchia and Sala del Guariento", ru: "Зал Лиаго, зал Старой гражданской Куарантии и зал Гуариенто" }
+    place: "Palazzo Ducale, Venezia"
+    lat: 45.43362
+    lng: 12.34065
+    radius_m: 40
+    walk_min: 3
+    visit_min: [ 5, 8 ]
+    audio: { ru: audio/italy/07-venice-doges-palace/11.mp3 }
+    short:
+      ru: |
+        Три зала подряд: коридор Лиаго, где члены совета беседовали между заседаниями; зал старого гражданского суда; и зал Гуариенто — с остатками огромной фрески, которая когда-то покрывала стену Большого совета.
+      en: |
+        Three rooms in a row: the Liagò corridor, where council members talked between sessions; the old civil court; and the Guariento Room, with the remains of the huge fresco that once covered the Great Council's wall.
+    long:
+      ru: |
+        **Лиаго** — длинный коридор-галерея: здесь члены Большого совета встречались, спорили и договаривались в перерывах между делами. Отсюда — прямой путь в Зал Большого совета.
+
+        **Куарантии** — «сороковки» — были высшими судами Республики, по сорок судей в каждом. Старая гражданская Куарантия рассматривала апелляции по гражданским делам.
+
+        В **зале Гуариенто** висит то, что осталось от фрески падуанского мастера **Гуариенто** «Коронование Девы Марии», около 1365 года. Она украшала главную стену Зала Большого совета, пока пожар 1577 года её почти не уничтожил. Остатки нашли только в 1903 году — под картиной, которой её заменили. Эту картину вы увидите через минуту.
+      en: |
+        The **Liagò** is a long corridor-gallery where Great Council members met, argued and struck deals between sessions. It leads straight into the Great Council Hall.
+
+        The **Quarantie** — "the Forties" — were the Republic's high courts, forty judges each. The Old Civil Quarantia heard appeals in civil cases.
+
+        The **Guariento Room** holds what's left of the Paduan painter **Guariento's** fresco of the Coronation of the Virgin, around 1365. It covered the main wall of the Great Council Hall until the fire of 1577 almost destroyed it. Its remains were only found in 1903 — beneath the painting that replaced it. You'll see that painting in a minute.
+
+  - name: { en: "Sala del Maggior Consiglio", ru: "Зал Большого совета (Sala del Maggior Consiglio)" }
+    place: "Palazzo Ducale, Venezia"
+    lat: 45.43360
+    lng: 12.34030
+    radius_m: 50
+    walk_min: 1
+    visit_min: [ 12, 15 ]
+    audio: { ru: audio/italy/07-venice-doges-palace/12.mp3 }
+    short:
+      ru: |
+        Самый большой зал дворца, около 53 на 25 метров. За троном дожа — «Рай» Тинторетто. Под потолком — портреты дожей и чёрное покрывало вместо одного из них. Вдоль стен скамьи — сядьте.
+      en: |
+        The palace's largest room, about 53 by 25 metres. Behind the Doge's throne is Tintoretto's Paradise. Below the ceiling runs a frieze of doges, with a black cloth in place of one of them. There are benches along the walls — sit down.
+    long:
+      ru: |
+        ![Тинторетто, «Рай»](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%28Venice%29_Jacopo_Tintoretto_-_Gloria_del_Paradiso_-_Sala_del_Maggior_Consiglio.jpg/960px-%28Venice%29_Jacopo_Tintoretto_-_Gloria_del_Paradiso_-_Sala_del_Maggior_Consiglio.jpg)
+        *Фото: Didier Descouens, общественное достояние*
+
+        **Большой совет** — собрание всей венецианской знати. Здесь избирали почти все должности Республики, включая членов Сената и самого дожа, и в лучшие времена в зал собиралось больше тысячи человек. Это один из самых больших залов Европы.
+
+        В 1577 году пожар уничтожил зал вместе с картинами Беллини, Тициана, Карпаччо и Гуариенто. Венецианцы восстановили всё за несколько лет и сохранили готический облик. Стену за троном заняла **«Рай»** **Якопо Тинторетто** с мастерской и сыном Доменико, 1588–1592 годы, — одна из самых больших картин на холсте в мире, больше двадцати метров в ширину. Сотни святых и праведников кружатся вокруг Христа и Богоматери.
+
+        На потолке найдите овал **Веронезе** «Апофеоз Венеции», 1585 год. Под потолком — фриз с портретами первых **семидесяти шести дожей**, в основном работы Доменико Тинторетто. Найдите среди них **чёрное покрывало**: это место дожа **Марино Фальеро**, который в 1355 году попытался совершить переворот и был обезглавлен. Надпись на покрывале гласит: «Здесь место Марино Фальеро, обезглавленного за преступления».
+      en: |
+        ![Tintoretto, Paradise](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%28Venice%29_Jacopo_Tintoretto_-_Gloria_del_Paradiso_-_Sala_del_Maggior_Consiglio.jpg/960px-%28Venice%29_Jacopo_Tintoretto_-_Gloria_del_Paradiso_-_Sala_del_Maggior_Consiglio.jpg)
+        *Photo: Didier Descouens, public domain*
+
+        The **Great Council** was the assembly of the whole Venetian nobility. It elected nearly every office of the Republic, including the Senate and the Doge himself, and at its height more than a thousand men gathered here. It's one of the largest rooms in Europe.
+
+        In 1577 a fire destroyed the hall along with paintings by Bellini, Titian, Carpaccio and Guariento. The Venetians rebuilt it within a few years and kept its Gothic look. The wall behind the throne went to **Jacopo Tintoretto's** **Paradise**, painted with his workshop and his son Domenico in 1588–1592 — one of the largest paintings on canvas in the world, more than twenty metres wide. Hundreds of saints and the blessed swirl round Christ and the Virgin.
+
+        On the ceiling find **Veronese's** oval Apotheosis of Venice, 1585. Below the ceiling runs a frieze of the first **seventy-six doges**, mostly by Domenico Tintoretto. Look for the **black cloth** among them: it's the place of Doge **Marino Faliero**, who attempted a coup in 1355 and was beheaded. Its inscription reads: "Here is the place of Marino Faliero, beheaded for his crimes".
+
+  - name: { en: "Sala dello Scrutinio", ru: "Зал Скрутинио (Sala dello Scrutinio)" }
+    place: "Palazzo Ducale, Venezia"
+    lat: 45.43388
+    lng: 12.33995
+    radius_m: 40
+    walk_min: 2
+    visit_min: [ 5, 8 ]
+    audio: { ru: audio/italy/07-venice-doges-palace/13.mp3 }
+    short:
+      ru: |
+        Зал, где подсчитывали голоса на выборах, в том числе при избрании дожа. На длинной стене — «Битва при Лепанто» Андреа Вичентино, в торце — триумфальная арка в честь дожа Франческо Морозини.
+      en: |
+        The room where votes were counted, including in the election of the Doge. On the long wall is Andrea Vicentino's Battle of Lepanto; at the end is a triumphal arch honouring Doge Francesco Morosini.
+    long:
+      ru: |
+        Сначала этот зал строили для книг: здесь должны были храниться рукописи, завещанные Венеции Петраркой и кардиналом Виссарионом. Потом здесь стали считать голоса — **scrutinio** и значит «подсчёт».
+
+        Выборы дожа были знамениты своей сложностью: **десять туров**, в которых жребий чередовался с голосованием, — чтобы ни одна семья не могла подкупить или подстроить результат.
+
+        После пожара 1577 года зал расписали сценами морских побед Республики. Картину Тинторетто о **Лепанто** огонь уничтожил, и новую «Битву при Лепанто» написал **Андреа Вичентино**: сотни галер, дым, обломки. В торце зала — триумфальная арка работы Андреа Тирали в честь дожа **Франческо Морозини**, который отвоевал у турок Пелопоннес и умер в 1694 году во время этой войны.
+
+        Отсюда маршрут возвращается через Зал Большого совета — ещё один взгляд на «Рай».
+      en: |
+        This room was first built for books: it was meant to hold the manuscripts bequeathed to Venice by Petrarch and Cardinal Bessarion. Later votes were counted here — **scrutinio** means "count".
+
+        The election of a doge was famous for its complexity: **ten rounds** in which drawing lots alternated with voting, so that no family could buy or rig the result.
+
+        After the fire of 1577 the room was painted with the Republic's naval victories. The flames destroyed Tintoretto's painting of **Lepanto**, and **Andrea Vicentino** painted the new Battle of Lepanto: hundreds of galleys, smoke and wreckage. At the end of the room is Andrea Tirali's triumphal arch honouring Doge **Francesco Morosini**, who won the Peloponnese from the Turks and died in 1694 during that war.
+
+        From here the route goes back through the Great Council Hall — one more look at Paradise.
+
+  - name: { en: "Sala della Quarantia Criminale, Sala dei Cuoi and Sala del Magistrato alle Leggi", ru: "Зал Уголовной Куарантии, зал Кожи и зал Магистрата по законам" }
+    place: "Palazzo Ducale, Venezia"
+    lat: 45.43385
+    lng: 12.34085
+    radius_m: 40
+    walk_min: 3
+    visit_min: [ 3, 5 ]
+    audio: { ru: audio/italy/07-venice-doges-palace/14.mp3 }
+    short:
+      ru: |
+        Три небольших зала судебных ведомств. Из последнего, зала Магистрата по законам, короткая лестница ведёт вниз — на Мост вздохов.
+      en: |
+        Three small rooms of the judicial offices. From the last, the Chamber of the Magistrato alle Leggi, a short staircase leads down onto the Bridge of Sighs.
+    long:
+      ru: |
+        **Уголовная Куарантия** — суд сорока, рассматривавший уголовные дела. Отсюда приговорённых и вели через мост в тюрьму — путь, по которому сейчас пойдёте вы.
+
+        Эти залы небольшие и сегодня служат галереей картин. Не задерживайтесь долго: главное впереди. Из зала **Магистрата по законам** спуститесь по короткой лестнице в узкий коридор — это уже **Мост вздохов**.
+      en: |
+        The **Quarantia Criminale** was the court of forty that heard criminal cases. From here the condemned were led across the bridge to the prison — the way you're about to go.
+
+        These rooms are small and now serve as a picture gallery. Don't linger long; the highlight is ahead. From the **Magistrato alle Leggi** room, take the short staircase down into a narrow corridor — you're already on the **Bridge of Sighs**.
+
+  - name: { en: "Ponte dei Sospiri (Bridge of Sighs)", ru: "Мост вздохов (Ponte dei Sospiri)" }
+    place: "Ponte dei Sospiri, Venezia"
+    lat: 45.43405
+    lng: 12.34093
+    radius_m: 30
+    walk_min: 1
+    visit_min: [ 3, 5 ]
+    audio: { ru: audio/italy/07-venice-doges-palace/15.mp3 }
+    short:
+      ru: |
+        Крытый мост над каналом Рио-ди-Палаццо. Остановитесь у каменных решёток окон: лагуна и остров Сан-Джорджо. Внутри два коридора — обратно вы пойдёте по другому.
+      en: |
+        The covered bridge over the Rio di Palazzo. Stop at the stone grilles of the windows: the lagoon and San Giorgio. Inside are two corridors — you'll come back by the other one.
+    long:
+      ru: |
+        ![Мост вздохов](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bridge_of_Sighs_sea_facade_Venice.jpg/960px-Bridge_of_Sighs_sea_facade_Venice.jpg)
+        *Фото: kallerna, CC BY-SA 4.0*
+
+        Мост построили в начале XVII века, чтобы соединить дворец с Новыми тюрьмами на другом берегу канала. Внутри он разделён на два коридора: один ведёт из залов судов, другой — обратно к кабинетам на уровне лоджий, и оба связаны со служебной лестницей от нижних камер до чердачных.
+
+        Романтичное название придумали только в XIX веке. Байрон написал в «Паломничестве Чайльд-Гарольда»: «Я в Венеции стоял на Мосту вздохов». Считается, что заключённый, которого вели через мост, в последний раз видел сквозь решётку лагуну и вздыхал.
+
+        Совет: знаменитый вид на сам мост снаружи — с моста Палья на набережной. Вы будете проходить там после собора, по дороге на обед.
+      en: |
+        ![The Bridge of Sighs](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bridge_of_Sighs_sea_facade_Venice.jpg/960px-Bridge_of_Sighs_sea_facade_Venice.jpg)
+        *Photo: kallerna, CC BY-SA 4.0*
+
+        The bridge was built at the start of the 17th century to link the palace with the New Prisons across the canal. Inside it's split into two corridors: one comes from the court rooms, the other leads back to the offices on the loggia level, and both connect to a service staircase running from the lowest cells up to the attic ones.
+
+        The romantic name only came in the 19th century. Byron wrote in Childe Harold's Pilgrimage: "I stood in Venice, on the Bridge of Sighs". The idea is that a prisoner led across caught a last glimpse of the lagoon through the grille, and sighed.
+
+        Tip: the famous view of the bridge itself is from outside, from the Ponte della Paglia on the waterfront. You'll pass it after the basilica, on the way to lunch.
+
+  - name: { en: "Prigioni Nuove (New Prisons)", ru: "Новые тюрьмы (Prigioni Nuove)" }
+    place: "Prigioni Nuove, Venezia"
+    lat: 45.43400
+    lng: 12.34135
+    radius_m: 40
+    walk_min: 1
+    visit_min: [ 10, 15 ]
+    audio: { ru: audio/italy/07-venice-doges-palace/16.mp3 }
+    short:
+      ru: |
+        Камеры, обшитые лиственничными досками, надписи заключённых на стенах. Если есть время — спуститесь на нижние этажи и во двор тюрьмы; если нет — сразу обратно на мост.
+      en: |
+        Cells lined with larch planks, prisoners' graffiti on the walls. If there's time, go down to the lower floors and the prison courtyard; if not, go straight back to the bridge.
+    long:
+      ru: |
+        **Новые тюрьмы** начали строить во второй половине XVI века по другую сторону канала. Это одно из первых в Европе зданий, построенных только как тюрьма. Камеры здесь были больше, светлее и лучше проветривались, чем старые — **«колодцы»** в нижнем этаже дворца и **«свинцовые»** камеры под его свинцовой крышей. Стены обшиты досками лиственницы, прибитыми гвоздями. В одной из камер показывают «бульоли» — вёдра с крышками, которые служили заключённым.
+
+        Самый знаменитый узник Венеции сидел не здесь, а в **Пьомби**, под крышей дворца. Это **Джакомо Казанова**. В ночь с 31 октября на 1 ноября **1756 года**, почти ровно двести семьдесят лет назад, он вместе с монахом Бальби выбрался через крышу, снова вошёл во дворец и спокойно вышел наружу через **Порта-делла-Карта** — те самые ворота, через которые сегодня выйдете и вы.
+
+        Дальше — назад по второму коридору моста.
+      en: |
+        Building of the **New Prisons** began in the second half of the 16th century, across the canal. It's one of the first buildings in Europe built purely as a prison. The cells were larger, lighter and better ventilated than the old ones — the **"Wells"** on the palace's ground floor and the **"Leads"** under its lead roof. The walls are lined with larch planks nailed in place. One cell shows the "buglioli", the covered buckets prisoners had to use.
+
+        Venice's most famous prisoner wasn't held here but in the **Piombi**, under the palace roof: **Giacomo Casanova**. On the night of 31 October to 1 November **1756** — almost exactly two hundred and seventy years ago — he and the monk Balbi got out through the roof, re-entered the palace and calmly walked out through the **Porta della Carta**: the very gate you'll leave by today.
+
+        Then back along the bridge's second corridor.
+
+  - name: { en: "Sala dei Censori, Sala dell'Avogaria de Comun, Sala dello Scrigno, Sala della Milizia da Mar and the Porta della Carta", ru: "Залы Цензоров, Авогарии, Скриньо, Морской милиции и выход через Порта-делла-Карта" }
+    place: "Porta della Carta, Venezia"
+    lat: 45.43420
+    lng: 12.34000
+    radius_m: 50
+    walk_min: 3
+    visit_min: [ 5, 8 ]
+    audio: { ru: audio/italy/07-venice-doges-palace/17.mp3 }
+    short:
+      ru: |
+        После моста — кабинеты на уровне лоджий: цензоры, авогадори, зал, где хранилась Золотая книга, и морское ведомство. Потом книжный магазин и выход через проход Фоскари к Порта-делла-Карта, прямо у собора.
+      en: |
+        After the bridge come the offices on the loggia level: the censors, the avogadori, the room that held the Golden Book, and the naval office. Then the bookshop and the way out through the Foscari passage to the Porta della Carta, right by the basilica.
+    long:
+      ru: |
+        **Цензоры** — должность с 1517 года: не судьи, а блюстители нравов, и главным их делом была борьба с подкупом на выборах. На стенах — их портреты кисти Доменико Тинторетто. Три **авогадори** охраняли законность и проверяли браки и рождения знатных семей, записанные в **Золотую книгу**. В **зале Скриньо** — «ларца» — хранились Золотая и Серебряная книги: списки знати и старинных гражданских семей. Шкаф, который стоит там сейчас, — XVIII века. **Морская милиция** с середины XVI века набирала экипажи для боевых галер.
+
+        Выход — через **проход Фоскари** к воротам **Порта-делла-Карта**, построенным в 1438–1442 годах Джованни и Бартоломео Бон. Над воротами — дож Франческо Фоскари на коленях перед крылатым львом; в 1797 году фигуры разбили, и потом их сделали заново. Выйдя, обернитесь и посмотрите на ворота снаружи.
+
+        До встречи у собора в 13:15 — кофе и тост в баре за причалом San Zaccaria.
+      en: |
+        The **Censors** existed from 1517: not judges but moral guardians, whose main task was fighting electoral bribery. Their portraits by Domenico Tintoretto hang on the walls. The three **Avogadori** safeguarded legality and checked the marriages and births of noble families recorded in the **Golden Book**. The **Scrigno** room — "the casket" — held the Golden and Silver Books, the registers of the nobility and the old citizen families; the cupboard there now is 18th-century. The **Milizia da Mar**, from the mid-16th century, recruited the crews for the war galleys.
+
+        The way out is through the **Foscari passage** to the **Porta della Carta**, built in 1438–1442 by Giovanni and Bartolomeo Bon. Above the gate Doge Francesco Foscari kneels before the winged lion; the figures were smashed in 1797 and later remade. Once outside, turn round and look at the gate.
+
+        Before the 13:15 meet-up at the basilica: a coffee and a toastie at a bar behind the San Zaccaria pier.
