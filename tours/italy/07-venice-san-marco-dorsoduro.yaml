@@ -22,7 +22,7 @@ intro:
 
     **Дорога.** Вдвоём — выход около **8:15**: автобус № 6 с Paleocapa около 8:30, на Пьяццале Рома — челнок до Риальто (сесть до 8:59), оттуда 10–15 минут пешком до Сан-Марко и спокойный кофе до 10:30. Третьему участнику — либо ехать вместе в 8:15 и провести утро самостоятельно (по пятницам утром работает рыбный рынок Риальто), либо позже взять такси до Пьяццале Рома (~€25–35, Radio Taxi Venezia: +39 041 5964) и дойти пешком до собора к **13:15** — около 45 минут.
 
-    **Ритм.** Пешком сегодня около 6 км, но кусками по 10–35 минут: кофе после Риальто, кафе во дворе дворца, обед, скамейки на кампо Санто-Стефано, ступени Салюте, кафе на Дзаттере, ужин.
+    **Ритм.** Пешком сегодня около 6 км, но кусками по 10–35 минут: кофе после Риальто, кафе во дворе дворца, обед, скамейки на кампо Санто-Стефано, ступени Салюте, спритц на Дзаттере.
 
     Закат около **17:00** — его встречаем на Дзаттере. Салюте открывается после обеденного перерыва в 15:00.
   en: |
@@ -41,7 +41,7 @@ intro:
 
     **Getting there.** The two of you leave around **08:15**: bus no. 6 from Paleocapa around 08:30, then the shuttle boat from Piazzale Roma to the Rialto (board before 08:59), a 10–15-minute walk to St Mark's and an unhurried coffee before 10:30. The third person either comes along at 08:15 and spends the morning on their own (the Rialto fish market is open on Friday mornings), or later takes a taxi to Piazzale Roma (~€25–35, Radio Taxi Venezia: +39 041 5964) and walks to the basilica for **13:15** — about 45 minutes.
 
-    **Pace.** About 6 km on foot today, but in stretches of 10–35 minutes: coffee after the Rialto, the palace courtyard café, lunch, the benches in Campo Santo Stefano, the Salute steps, a café on the Zattere, dinner.
+    **Pace.** About 6 km on foot today, but in stretches of 10–35 minutes: coffee after the Rialto, the palace courtyard café, lunch, the benches in Campo Santo Stefano, the Salute steps, a spritz on the Zattere.
 
     Sunset is around **17:00**, to be watched from the Zattere. The Salute reopens after its lunch break at 15:00.
 outro:
@@ -281,32 +281,32 @@ points:
 
         Tip: stand at the very tip: St Mark's Square and the Doge's Palace on one side, San Giorgio Maggiore straight ahead, Giudecca island to the right. From here, walk slowly west along the water on the Zattere, 8–10 minutes.
 
-  - name: {en: "The Zattere: sunset and dinner", ru: "Дзаттере: закат и ужин"}
+  - name: {en: "The Zattere: sunset and a spritz", ru: "Дзаттере: закат и спритц"}
     place: "Fondamenta Zattere ai Gesuati, Venezia"
     lat: 45.42908
     lng: 12.32802
     radius_m: 300
     approach: [{name: Fondamenta Zattere ai Saloni, lat: 45.42857, lng: 12.33298}]
     walk_min: [8, 10]
-    visit_min: [120, 150]
+    visit_min: [90, 110]
     short:
       ru: |
-        Длинная солнечная набережная вдоль канала Джудекка. Мороженое в Gelateria Nico, кафе у воды до заката около 17:00 — солнце садится за Джудекку и порт. Потом ужин: у нескольких ресторанов здесь отапливаемые террасы на понтонах над каналом — в пятницу вечером забронируйте. Из-за забастовки решите заранее: аперитив сразу после заката и автобус до 19:29 — или спокойный ужин и такси.
+        Длинная солнечная набережная вдоль канала Джудекка. Мороженое в Gelateria Nico, кафе у воды до заката около 17:00 — солнце садится за Джудекку и порт. После заката — спритц и чиккетти в баре у воды, без брони. В **18:50** уходите к Пьяццале Рома — на гарантированный автобус до 19:29.
       en: |
-        A long sunny quay along the Giudecca Canal. Ice cream at Gelateria Nico and a waterside café until sunset around 17:00, behind Giudecca and the port. Then dinner: several restaurants here have heated terraces on pontoons over the canal — book for Friday evening. Because of the strike, decide in advance: an aperitivo straight after sunset and a bus before 19:29, or a relaxed dinner and a taxi.
+        A long sunny quay along the Giudecca Canal. Ice cream at Gelateria Nico and a waterside café until sunset around 17:00, behind Giudecca and the port. After sunset, a spritz and cicchetti at a bar by the water, no booking needed. Leave at **18:50** for Piazzale Roma and a guaranteed bus before 19:29.
     long:
       ru: |
         «Дзаттере» значит «плоты»: сюда сплавляли лес с материка, и на этих брёвнах, по сути, стоит весь город. Набережная тянется почти на два километра и смотрит на юг, поэтому здесь светлее и теплее, чем в узких улочках, — любимое место венецианцев для вечерней прогулки.
 
         Что посмотреть: напротив, на Джудекке, — церковь **Иль-Реденторе** Палладио, автора Сан-Джорджо-Маджоре; вечером её подсвечивают. Рядом — церковь **Джезуати** с плафонами Тьеполо. По желанию, в 3 минутах дальше, — **скверо Сан-Тровазо**, старинная мастерская гондол в деревянном доме, похожем на альпийское шале.
 
-        Совет: «джандуйотто» в **Gelateria Nico** — брикет шоколадно-орехового мороженого в сливках, местная классика. Венецианцы ужинают с 19:00; до этого — аперитив у воды, спритц или бокал вина. Вечером с канала тянет холодом — пригодится тёплая кофта.
+        Совет: «джандуйотто» в **Gelateria Nico** — брикет шоколадно-орехового мороженого в сливках, местная классика. Венецианцы ужинают с 19:00; до этого — аперитив у воды, спритц или бокал вина, а к нему чиккетти — этого вполне хватит вместо ужина. Вечером с канала тянет холодом — пригодится тёплая кофта.
       en: |
         "Zattere" means "rafts": timber was floated here from the mainland, and the whole city effectively stands on those logs. The quay runs for almost two kilometres and faces south, so it's brighter and warmer than the narrow alleys — a favourite Venetian spot for an evening stroll.
 
         Opposite, on Giudecca, is **Il Redentore**, by Palladio, who also built San Giorgio Maggiore, floodlit in the evening. Nearby is the **Gesuati** church with ceilings by Tiepolo. Optionally, 3 minutes further on, is the **Squero di San Trovaso**, an old gondola yard in a wooden house like an Alpine chalet.
 
-        Tip: a "gianduiotto" at **Gelateria Nico** is a slab of chocolate-hazelnut ice cream drowned in whipped cream, a local classic. Venetians dine from 19:00; until then, an aperitivo by the water, a spritz or a glass of wine. The canal gets chilly in the evening, so a warm layer helps.
+        Tip: a "gianduiotto" at **Gelateria Nico** is a slab of chocolate-hazelnut ice cream drowned in whipped cream, a local classic. Venetians dine from 19:00; until then, an aperitivo by the water, a spritz or a glass of wine, with cicchetti — plenty instead of dinner. The canal gets chilly in the evening, so a warm layer helps.
 
   - name: {en: "Piazzale Roma — bus 6 or a taxi", ru: "Пьяццале Рома — автобус № 6 или такси"}
     place: "Piazzale Roma, Venezia"
@@ -323,10 +323,10 @@ points:
         Finish. No boats, so walk from the Zattere west along the water to San Basilio, then north to Piazzale Roma, 20–25 minutes with hardly any bridges. The guaranteed bus no. 6 runs only until **19:29**; after that take a **taxi** from the Piazzale Roma rank to the campsite (~€25–35, 10–15 minutes).
     long:
       ru: |
-        Два варианта вечера. **Быстрый:** аперитив и чиккетти у воды сразу после заката, в 18:50 выйти с Дзаттере — и успеть на автобус до 19:29. **Спокойный (лучше):** нормальный ужин с 19:00, потом пешком к Пьяццале Рома и такси. В забастовку такси может быть меньше обычного: если очередь, звоните в Radio Taxi Venezia, +39 041 5964 (круглосуточно).
+        Выйдя с Дзаттере в 18:50, вы успеваете на гарантированный автобус до 19:29. Если засиделись — пешком к Пьяццале Рома и такси. В забастовку такси может быть меньше обычного: если очередь, звоните в Radio Taxi Venezia, +39 041 5964 (круглосуточно).
 
         Совет: если забастовку отменят или вечером выйдет часть рейсов, линия № 2 с причала Zattere идёт до Пьяццале Рома за 15 минут — проверьте в приложении AVM Venezia.
       en: |
-        Two ways to do the evening. **Quick:** an aperitivo and cicchetti by the water straight after sunset, leave the Zattere at 18:50 and catch a bus before 19:29. **Relaxed (better):** a proper dinner from 19:00, then walk to Piazzale Roma and take a taxi. Taxis may be scarcer than usual on a strike day: if there's a queue, call Radio Taxi Venezia on +39 041 5964 (24 hours).
+        Leaving the Zattere at 18:50 gets you a guaranteed bus before 19:29. If you linger, walk to Piazzale Roma and take a taxi. Taxis may be scarcer than usual on a strike day: if there's a queue, call Radio Taxi Venezia on +39 041 5964 (24 hours).
 
         Tip: if the strike is called off or some evening boats run, line 2 from the Zattere pier gets to Piazzale Roma in 15 minutes — check the AVM Venezia app.
