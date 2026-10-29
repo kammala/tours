@@ -1,23 +1,23 @@
 country: {en: Italy, ru: Италия}
 city: {en: Venice, ru: Венеция}
-name: {en: "Sat 31 Oct · Murano, lunch on Burano and evening Cannaregio by boat", ru: "Сб, 31 окт · Мурано, обед на Бурано и вечерний Каннареджо на катерах"}
+name: {en: "Sat 31 Oct · San Michele, Murano, lunch on Burano and evening Cannaregio by boat", ru: "Сб, 31 окт · Сан-Микеле, Мурано, обед на Бурано и вечерний Каннареджо на катерах"}
 place_suffix: Venezia
 summary:
-  ru: "≈ 3 км пешком, с 10:15 до вечера; около 2 часов на вапоретто — Мурано, обед на Бурано в 14:30 и тихий Каннареджо"
-  en: "≈ 3 km on foot, from 10:15 into the evening; about 2 hours on vaporetti — Murano, lunch on Burano at 14:30 and quiet Cannaregio"
+  ru: "≈ 3,5 км пешком, с 9:45 до вечера; около 2 часов на вапоретто — кладбище Сан-Микеле, Мурано, обед на Бурано в 14:30 и тихий Каннареджо"
+  en: "≈ 3.5 km on foot, from 09:45 into the evening; about 2 hours on vaporetti — San Michele cemetery, Murano, lunch on Burano at 14:30 and quiet Cannaregio"
 intro:
   ru: |
-    Суббота, 31 октября. День островов, все вместе: подъём в 9:00, выход около **10:15**. С Пьяццале Рома вапоретто **4.2** без пересадки идёт прямо на **Мурано** — смотрим стекло, пока работают печи. Оттуда **№ 12** на **Бурано**: прогулка по цветным улицам и поздний обед в **Gatto Nero**. На закате — катером через лагуну обратно, и вечер в самом тихом районе Венеции, Каннареджо. Пешком сегодня немного: почти все переходы — на воде, сидя.
+    Суббота, 31 октября. День островов, все вместе: подъём около 8:30, выход около **9:45**. С Пьяццале Рома вапоретто **4.2** без пересадки идёт до острова-кладбища **Сан-Микеле**, где похоронены Бродский, Стравинский и Дягилев, а оттуда одна остановка до **Мурано** — смотрим стекло, пока работают печи. Оттуда **№ 12** на **Бурано**: прогулка по цветным улицам и поздний обед в **Gatto Nero**. На закате — катером через лагуну обратно, и вечер в самом тихом районе Венеции, Каннареджо. Пешком сегодня немного: почти все переходы — на воде, сидя.
 
-    **Время на воде.** Катера займут около двух часов (~35 минут до Мурано, ~30 до Бурано, ~40 до Фондаменте-Нове, 5 до Мадонна-дель-Орто, ~10 вечером до Пьяццале Рома), плюс ожидание: осенью № 12 ходит примерно раз в 30 минут. Расписание проверяйте в приложении AVM Venezia или на табло.
+    **Время на воде.** Катера займут около двух часов (~30 минут до Сан-Микеле, 5 до Мурано, ~30 до Бурано, ~40 до Фондаменте-Нове, 5 до Мадонна-дель-Орто, ~10 вечером до Пьяццале Рома), плюс ожидание: осенью № 12 ходит примерно раз в 30 минут. Расписание проверяйте в приложении AVM Venezia или на табло.
 
     **Очереди.** № 12 приходит на Мурано-Фаро уже с пассажирами из Фондаменте-Нове. Около 12:50 обычно садимся спокойно, но если катер полный — следующий через полчаса, и к обеду вы всё равно успеваете. Обратно с Бурано самый наплыв — с 15:30 до 17:00; мы уезжаем после обеда, около 17:00, когда он спадает.
 
     **Обед на Бурано забронирован: 14:30, трое, дегустационное меню.** Бронь строго на троих — изменения только с согласия ресторана заранее. Дегустация займёт 2–2½ часа. Музей кружева открыт примерно до 16:00, так что успеть в него можно только до обеда. Закат около **17:00** — его послесвечение застанете на катере через лагуну. После такого обеда ужин не нужен: вечером в Каннареджо — прогулка, спритц и пара чикетти.
   en: |
-    Saturday 31 October. Island day, all together: up at 9:00, out around **10:15**. From Piazzale Roma vaporetto **4.2** runs straight to **Murano** with no change — see the glass while the furnaces are going. From there **no. 12** to **Burano**: a stroll through the coloured streets and a late lunch at **Gatto Nero**. At sunset, back across the lagoon by boat, and the evening in the quietest district of Venice, Cannaregio. Little walking today: almost every leg is on the water, sitting down.
+    Saturday 31 October. Island day, all together: up around 08:30, out around **09:45**. From Piazzale Roma vaporetto **4.2** runs with no change to the cemetery island of **San Michele**, where Brodsky, Stravinsky and Diaghilev are buried, then one stop on to **Murano** — see the glass while the furnaces are going. From there **no. 12** to **Burano**: a stroll through the coloured streets and a late lunch at **Gatto Nero**. At sunset, back across the lagoon by boat, and the evening in the quietest district of Venice, Cannaregio. Little walking today: almost every leg is on the water, sitting down.
 
-    **Time on the water.** The boats take about two hours (~35 minutes to Murano, ~30 to Burano, ~40 to Fondamente Nove, 5 to Madonna dell'Orto, ~10 to Piazzale Roma in the evening), plus waiting: in autumn no. 12 runs only about every 30 minutes. Check times in the AVM Venezia app or on the boards.
+    **Time on the water.** The boats take about two hours (~30 minutes to San Michele, 5 to Murano, ~30 to Burano, ~40 to Fondamente Nove, 5 to Madonna dell'Orto, ~10 to Piazzale Roma in the evening), plus waiting: in autumn no. 12 runs only about every 30 minutes. Check times in the AVM Venezia app or on the boards.
 
     **Queues.** No. 12 reaches Murano Faro already carrying passengers from Fondamente Nove. Around 12:50 you'll usually get on fine, but if it's full the next one is half an hour later and you still make lunch. Coming back from Burano, the rush is 15:30–17:00; you leave after lunch, around 17:00, as it eases.
 
@@ -39,9 +39,9 @@ points:
     radius_m: 250
     short:
       ru: |
-        Старт около 10:15. До остановки автобуса 12–15 минут пешком через подземный переход.
+        Старт около 9:45. До остановки автобуса 12–15 минут пешком через подземный переход.
       en: |
-        Start around 10:15. The bus stop is 12–15 minutes' walk through the underpass.
+        Start around 09:45. The bus stop is 12–15 minutes' walk through the underpass.
     long:
       ru: |
         Путь до остановки тот же, что в предыдущие дни: велодорожка вдоль Via De Marchi, подземный переход, Via della Fonte, налево по Via Cesare Beccaria до Via Paleocapa.
@@ -72,26 +72,56 @@ points:
       en: |
         On Saturday morning the buses are emptier than on weekdays. Tap your pass on the validator as you board.
 
-  - name: {en: "Piazzale Roma — vaporetto 4.2 to Murano", ru: "Пьяццале Рома — вапоретто 4.2 до Мурано"}
+  - name: {en: "Piazzale Roma — vaporetto 4.2 to San Michele", ru: "Пьяццале Рома — вапоретто 4.2 до Сан-Микеле"}
     place: "Piazzale Roma, Venezia"
     lat: 45.43801
     lng: 12.31885
     radius_m: 250
-    visit_min: [35, 40]
+    visit_min: [30, 35]
     short:
       ru: |
-        С причала Piazzale Roma — линия **4.2** в сторону **Fondamente Nove / Murano**, выйти на **Murano Colonna**, около 35 минут без пересадки (через Ferrovia, Guglie, Orto, Fondamente Nove и Cimitero). На табло проверьте: нужна 4.2 — 5.2 на Мурано не идёт, а 4.1 идёт по кругу в другую сторону.
+        С причала Piazzale Roma — линия **4.2** в сторону **Fondamente Nove / Murano**, выйти на **Cimitero** (остров Сан-Микеле), около 30 минут без пересадки (через Ferrovia, Guglie, Orto и Fondamente Nove). На табло проверьте: нужна 4.2 — 5.2 на Мурано не идёт, а 4.1 идёт по кругу в другую сторону.
       en: |
-        From the Piazzale Roma pier take line **4.2** towards **Fondamente Nove / Murano** and get off at **Murano Colonna**, about 35 minutes with no change (via Ferrovia, Guglie, Orto, Fondamente Nove and Cimitero). Check the board: you want the 4.2 — the 5.2 doesn't go to Murano, and the 4.1 goes round the other way.
+        From the Piazzale Roma pier take line **4.2** towards **Fondamente Nove / Murano** and get off at **Cimitero** (San Michele island), about 30 minutes with no change (via Ferrovia, Guglie, Orto and Fondamente Nove). Check the board: you want the 4.2 — the 5.2 doesn't go to Murano, and the 4.1 goes round the other way.
     long:
       ru: |
-        Катер идёт по каналу Каннареджо под каменным мостом **Гулье** с четырьмя обелисками-шпилями, затем вдоль северного берега, где туристов почти нет: верфи, лодочные гаражи, вид на лагуну. Вечером вы вернётесь в этот же район. После Фондаменте-Нове катер заходит на остров **Сан-Микеле** (причал Cimitero) — кладбище за кирпичной стеной, где похоронены Стравинский, Дягилев и Бродский. Сегодня, накануне Дня всех святых, туда едут семьи с цветами.
+        Катер идёт по каналу Каннареджо под каменным мостом **Гулье** с четырьмя обелисками-шпилями, затем вдоль северного берега, где туристов почти нет: верфи, лодочные гаражи, вид на лагуну. Вечером вы вернётесь в этот же район. От Фондаменте-Нове катер пересекает узкий пролив к острову-кладбищу за кирпичной стеной.
 
         Совет: садитесь, и пусть город проплывает мимо — пешком до Фондаменте-Нове было бы 40 минут и два десятка мостов со ступенями.
       en: |
-        The boat runs down the Cannaregio Canal under the stone **Ponte delle Guglie** with its four obelisk spires, then along the north shore, where there are hardly any tourists: boatyards, boat sheds, views of the lagoon. You'll be back in this district tonight. After Fondamente Nove the boat calls at the island of **San Michele** (the Cimitero pier) — the cemetery behind its brick wall, where Stravinsky, Diaghilev and Brodsky are buried. Today, the eve of All Saints' Day, families head over with flowers.
+        The boat runs down the Cannaregio Canal under the stone **Ponte delle Guglie** with its four obelisk spires, then along the north shore, where there are hardly any tourists: boatyards, boat sheds, views of the lagoon. You'll be back in this district tonight. From Fondamente Nove the boat crosses the narrow strait to the cemetery island behind its brick wall.
 
         Tip: sit back and let the city drift by — on foot even Fondamente Nove would be 40 minutes and a couple of dozen stepped bridges.
+
+  - name: {en: San Michele cemetery, ru: Кладбище Сан-Микеле}
+    place: "Cimitero di San Michele, Venezia"
+    lat: 45.44664
+    lng: 12.34563
+    radius_m: 250
+    walk_min: 2
+    visit_min: [50, 60]
+    short:
+      ru: |
+        Около 10:45, причал Cimitero — у самого входа. Кладбище открыто с 7:30 (закрытие в 16:30 или 18:00 — нам не важно, мы здесь утром); у входа — карта участков, справки в сторожке: 041 729 2841. Сегодня канун Дня всех святых: венецианские семьи везут цветы, людей больше обычного. Говорите тихо, плечи прикрыты. Около 45–50 минут, потом 4.1 или 4.2 — одна остановка до **Murano Colonna**, около 5 минут.
+      en: |
+        Around 10:45; the Cimitero pier is right at the gate. Open from 07:30 (closing at 16:30 or 18:00 — irrelevant, you're here in the morning); there's a map of the sections at the entrance, and the porter's lodge is on 041 729 2841. It's the eve of All Saints' Day: Venetian families come with flowers, so it's busier than usual. Keep your voices down and shoulders covered. About 45–50 minutes, then the 4.1 or 4.2 one stop to **Murano Colonna**, about 5 minutes.
+    long:
+      ru: |
+        До Наполеона венецианцев хоронили при приходских церквях, прямо в городе. Французские власти запретили это как опасное для здоровья, и в 1807 году под общее городское кладбище отвели островок Сан-Кристофоро; позже канал между ним и соседним Сан-Микеле засыпали, и получился один остров за кирпичной стеной с кипарисами. Хоронят здесь до сих пор. У причала — церковь **Сан-Микеле-ин-Изола** Мауро Кодуччи из белого истрийского камня, построенная во второй половине XV века: её считают первой ренессансной церковью Венеции.
+
+        **Иосиф Бродский** похоронен на протестантском участке (*Recinto Evangelico*). Он умер в Нью-Йорке в январе 1996 года, а в 1997-м его перезахоронили здесь: Венецию он любил и много лет приезжал сюда зимой — об этом его эссе «Набережная неисцелимых». На оборотной стороне надгробия — строка Проперция по-латыни: *Letum non omnia finit*, «Не всё кончается со смертью». На могилу оставляют записки, ручки, камешки и стихи. В нескольких шагах от него — американский поэт **Эзра Паунд**.
+
+        На православном участке (*Recinto Greco*) — **Игорь Стравинский** (рядом с ним его жена Вера) и **Сергей Дягилев**, умерший в Венеции в 1929 году; на его могилу балетные танцовщики приносят пуанты.
+
+        Совет: участки обнесены своими оградами, ищите таблички *Recinto Evangelico* и *Recinto Greco* — они рядом друг с другом. Захватите ручку или открытку, если хотите оставить что-то у Бродского.
+      en: |
+        Until Napoleon, Venetians were buried by their parish churches, right in the city. The French authorities banned this as a health hazard, and in 1807 the islet of San Cristoforo was set aside as the city cemetery; later the canal between it and neighbouring San Michele was filled in, making one island behind a brick wall lined with cypresses. Burials still take place here. By the pier stands **San Michele in Isola**, Mauro Codussi's church of white Istrian stone from the second half of the 15th century, considered the first Renaissance church in Venice.
+
+        **Joseph Brodsky** is buried in the Protestant section (*Recinto Evangelico*). He died in New York in January 1996 and was reburied here in 1997: he loved Venice and came back for many winters, which he wrote about in his essay "Watermark". On the back of the gravestone is a line of Propertius in Latin, *Letum non omnia finit*, "Death does not end everything". People leave notes, pens, pebbles and poems on the grave. A few steps away lies the American poet **Ezra Pound**.
+
+        In the Orthodox section (*Recinto Greco*) are **Igor Stravinsky** (with his wife Vera beside him) and **Sergei Diaghilev**, who died in Venice in 1929; dancers leave ballet shoes on his grave.
+
+        Tip: the sections have their own enclosures; look for the *Recinto Evangelico* and *Recinto Greco* signs, which are close together. Bring a pen or a postcard if you'd like to leave something for Brodsky.
 
   - name: {en: "Murano: Fondamenta dei Vetrai", ru: "Мурано: Фондамента деи Ветраи"}
     place: "Fondamenta dei Vetrai, Murano"
@@ -99,12 +129,12 @@ points:
     lng: 12.35065
     radius_m: 300
     walk_min: [2, 3]
-    visit_min: [75, 90]
+    visit_min: [55, 60]
     short:
       ru: |
-        Около 11:30. От причала Colonna — сразу на главную улицу стеклодувов: мастерские, магазины и стекло в витринах. Утром печи работают — ищите открытую мастерскую с показом.
+        Около 11:45. От причала Colonna — сразу на главную улицу стеклодувов: мастерские, магазины и стекло в витринах. Утром печи работают — ищите открытую мастерскую с показом.
       en: |
-        Around 11:30. From the Colonna pier straight onto the glassmakers' main street: workshops, shops and glass in every window. In the morning the furnaces are running — look for an open workshop with a demonstration.
+        Around 11:45. From the Colonna pier straight onto the glassmakers' main street: workshops, shops and glass in every window. In the morning the furnaces are running — look for an open workshop with a demonstration.
     long:
       ru: |
         В 1291 году республика перевела все стеклодувные печи из города на Мурано — из страха пожаров и, заодно, чтобы сохранить секреты ремесла. Мастерам давали привилегии, их дочери могли выходить замуж за патрициев, но уезжать из республики стеклодувам запрещалось под страхом смерти. Здесь изобрели прозрачное стекло «кристалло», зеркала и многоцветную мозаику «миллефиори».
@@ -236,11 +266,11 @@ points:
         The first boat after lunch, around 17:00. Line **12** towards **Fondamente Nove**, about 40 minutes (via Mazzorbo and Murano Faro).
     long:
       ru: |
-        Обратный путь через лагуну ведёт прямо на закат: около 17:00 солнце садится за Каннареджо, и послесвечение над водой, силуэты колоколен на фоне неба — один из лучших видов дня. Перед Фондаменте-Нове катер проходит вдоль стены Сан-Микеле, мимо которого вы плыли утром.
+        Обратный путь через лагуну ведёт прямо на закат: около 17:00 солнце садится за Каннареджо, и послесвечение над водой, силуэты колоколен на фоне неба — один из лучших видов дня. Перед Фондаменте-Нове катер проходит вдоль стены Сан-Микеле, где вы были утром.
 
         Совет: к 17:00 основной поток экскурсионных групп уже уехал, но если первый катер полный — следующий через полчаса, катера ходят до позднего вечера. Катер идёт к городу, и закат — впереди: садитесь у окна по ходу движения.
       en: |
-        The trip back across the lagoon heads straight into the sunset: around 17:00 the sun goes down behind Cannaregio, and the afterglow over the water, with the bell towers silhouetted against the sky, is one of the best views of the day. Just before Fondamente Nove the boat runs along the wall of San Michele, which you passed this morning.
+        The trip back across the lagoon heads straight into the sunset: around 17:00 the sun goes down behind Cannaregio, and the afterglow over the water, with the bell towers silhouetted against the sky, is one of the best views of the day. Just before Fondamente Nove the boat runs along the wall of San Michele, where you were this morning.
 
         Tip: by 17:00 most tour groups have gone, but if the first boat is full the next is half an hour later, and boats run until late evening. The boat heads towards the city with the sunset ahead, so sit facing forward.
 
