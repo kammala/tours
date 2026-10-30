@@ -1,0 +1,255 @@
+country: { en: Italy, ru: Италия }
+city: { en: Venice, ru: Венеция }
+name: { en: "Fri 30 Oct · St Mark's Basilica step by step", ru: "Пт, 30 окт · Собор Святого Марка по шагам" }
+place_suffix: Venezia
+summary:
+  ru: "Около 50 минут снаружи и внутри; вход в 13:30. Аудиогид на русском в каждой точке"
+  en: "About 50 minutes outside and in; entry at 13:30. Russian audio at every stop"
+intro:
+  ru: |
+    Подробная прогулка по собору Святого Марка — дневная часть дня «Дворец дожей, Сан-Марко, Салюте и закат на Дзаттере». Две точки снаружи — пока выходите из дворца и ждёте встречи, — и пять внутри, по пути посетителей: притвор, неф, центральный купол, алтарная преграда и икона Никопеи. У каждой точки есть **аудиорассказ на русском** на 1–3 минуты — откройте точку и нажмите ▶; наушники обязательны, внутри говорят шёпотом.
+
+    **Вход.** Бронь на **13:30**, на троих; войти нужно до **14:00**. **Встреча в 13:15** у камеры хранения в **Атенео Сан-Бассо** — на маленькой площади со львами, слева от собора: рюкзаки и большие сумки сдают туда, бесплатно, на час. С QR-кодом — в очередь для посетителей с бронью у главного фасада.
+
+    **Одежда.** Плечи и колени закрыты, без головных уборов у мужчин; шарф или кофта на плечи решают вопрос.
+
+    **Внутри.** Около **40–50 минут**. Посетители идут по одностороннему маршруту, частью по деревянным мосткам над старинным полом — сходить с них нельзя, вернуться назад тоже. Пол неровный, кое-где ступени — смотрите под ноги. Скамеек почти нет. Фото и видео внутри, как правило, запрещены — смотрите таблички у входа и слушайтесь смотрителей.
+
+    **Не входит в билет.** **Пала д'Оро** за главным алтарём, **Сокровищница** и **Музей** с лоджией и подлинными конями — отдельные билеты, их покупают внутри у входа в каждую часть.
+
+    *Фото: Wikimedia Commons, авторы и лицензии — под каждым снимком.*
+  en: |
+    A detailed walk round St Mark's Basilica — the afternoon part of "Doge's Palace, St Mark's, the Salute and sunset on the Zattere". Two stops outside — as you leave the palace and while you wait for the meet-up — and five inside, along the visitors' route: the narthex, the nave, the central dome, the rood screen and the Nicopeia icon. Every stop has a 1–3 minute **Russian audio narration** — open the stop and press ▶ (English listeners can read the text); bring earphones, and inside people speak in whispers.
+
+    **Entry.** Booked for **13:30**, for three; you must go in by **14:00**. **Meet at 13:15** at the left-luggage office in the **Ateneo San Basso**, on the little square with the lions to the left of the basilica: backpacks and large bags go there, free, for up to an hour. Then join the queue for booked visitors at the main façade with the QR code.
+
+    **Dress.** Shoulders and knees covered, men without hats; a scarf or cardigan over the shoulders does the job.
+
+    **Inside.** About **40–50 minutes**. Visitors follow a one-way route, partly on wooden walkways over the ancient floor — no stepping off, and no going back. The floor is uneven, with a few steps here and there, so watch your feet. There's hardly anywhere to sit. Photos and video are generally not allowed inside — check the signs at the door and follow the attendants.
+
+    **Not in your ticket.** The **Pala d'Oro** behind the high altar, the **Treasury** and the **Museum** with the loggia and the original horses all have their own tickets, sold inside at the entrance to each.
+
+    *Photos: Wikimedia Commons; authors and licences under each picture.*
+outro:
+  ru: |
+    Дальше по плану дня — [обед у Рива-дельи-Скьявони](#/tour/italy/07-venice-san-marco-dorsoduro/6): заберите вещи в Атенео Сан-Бассо и идите на набережную. Садитесь за стол до 14:30 — потом многие кухни перестают принимать заказы.
+  en: |
+    Next in the day plan: [lunch off the Riva degli Schiavoni](#/tour/italy/07-venice-san-marco-dorsoduro/6). Collect your bags at the Ateneo San Basso and head for the waterfront. Be seated by 14:30 — many kitchens stop taking orders after that.
+points:
+  - name: { en: "The Tetrarchs and the Pilastri Acritani", ru: "Тетрархи и Акрские столбы" }
+    place: "Monumento ai Tetrarchi, Basilica di San Marco, Venezia"
+    lat: 45.43423
+    lng: 12.33985
+    radius_m: 40
+    visit_min: [ 3, 5 ]
+    audio: { ru: audio/italy/07-venice-st-marks-basilica/01.mp3 }
+    short:
+      ru: |
+        Выйдя из дворца через Порта-делла-Карта, сразу поверните к углу собора: в стену вмурованы четыре фигуры из тёмно-красного камня, а рядом стоят два высоких резных столба.
+      en: |
+        Coming out of the palace through the Porta della Carta, turn straight to the corner of the basilica: four figures in dark red stone are set into the wall, and two tall carved pillars stand nearby.
+    long:
+      ru: |
+        ![Тетрархи на углу собора Святого Марка](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Portrait_of_the_Four_Tetrarchs_%28Monumento_ai_Tetrarchi%29%2C_San_Marco%2C_Venice_%2823809990288%29.jpg/960px-Portrait_of_the_Four_Tetrarchs_%28Monumento_ai_Tetrarchi%29%2C_San_Marco%2C_Venice_%2823809990288%29.jpg)
+        *Фото: Dimitris Kamaras, CC BY 2.0*
+
+        Четыре обнявшихся воина — **Тетрархи**, четыре соправителя Римской империи около 300 года нашей эры: два старших императора и два младших. Они высечены из **порфира**, пурпурного камня, который в Риме полагался только императорам. Обнимаются они в знак единства власти — а руки при этом держат на мечах. Скульптуру привезли из Константинополя после того, как крестоносцы и венецианцы разграбили город в 1204 году. Посмотрите на ноги: у одной фигуры не хватает части ступни. Этот обломок в 1960-х нашли при раскопках в Стамбуле, и теперь он хранится в Археологическом музее Стамбула.
+
+        Два белых столба с резьбой — **Акрские столбы**. Венецианцы веками считали, что это трофей из крепости Акра, взятой у генуэзцев в 1258 году. На самом деле их привезли тоже из Константинополя: раскопки 1960-х показали, что они из церкви Святого Полиевкта VI века. А у самого угла — обрубок порфировой колонны, **Пьетра-дель-Бандо**: с неё глашатаи зачитывали законы Республики.
+
+        Теперь — кофе, а к 13:15 обойдите собор слева, к Атенео Сан-Бассо.
+      en: |
+        ![The Tetrarchs on the corner of St Mark's](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Portrait_of_the_Four_Tetrarchs_%28Monumento_ai_Tetrarchi%29%2C_San_Marco%2C_Venice_%2823809990288%29.jpg/960px-Portrait_of_the_Four_Tetrarchs_%28Monumento_ai_Tetrarchi%29%2C_San_Marco%2C_Venice_%2823809990288%29.jpg)
+        *Photo: Dimitris Kamaras, CC BY 2.0*
+
+        The four embracing soldiers are the **Tetrarchs**, the four co-rulers of the Roman Empire around AD 300: two senior emperors and two junior ones. They're carved in **porphyry**, the purple stone reserved in Rome for emperors. They embrace as a sign of united power — while keeping their hands on their swords. The group was brought from Constantinople after the crusaders and the Venetians sacked the city in 1204. Look at the feet: one figure is missing part of a foot. That fragment turned up in excavations in Istanbul in the 1960s and is now in the Istanbul Archaeology Museum.
+
+        The two white carved pillars are the **Pilastri Acritani**. For centuries Venetians believed they were a trophy from the fortress of Acre, taken from the Genoese in 1258. In fact they too came from Constantinople: excavations in the 1960s showed they belonged to the 6th-century church of St Polyeuktos. And right at the corner stands a stump of a porphyry column, the **Pietra del Bando**, from which heralds read out the Republic's laws.
+
+        Now a coffee, and by 13:15 walk round the basilica to the left, to the Ateneo San Basso.
+
+  - name: { en: "The façade, the horses and the Porta di Sant'Alipio", ru: "Фасад, кони и портал Сант-Алипио" }
+    place: "Basilica di San Marco, Porta di Sant'Alipio, Venezia"
+    lat: 45.43448
+    lng: 12.33935
+    radius_m: 60
+    walk_min: 3
+    visit_min: [ 5, 10 ]
+    audio: { ru: audio/italy/07-venice-st-marks-basilica/02.mp3 }
+    short:
+      ru: |
+        Пока ждёте встречи у Атенео Сан-Бассо и стоите в очереди, посмотрите на фасад: пять порталов, над центральным — четыре бронзовых коня, а над крайним левым порталом — самая старая мозаика фасада.
+      en: |
+        While you wait for the meet-up at the Ateneo San Basso and stand in the queue, look at the façade: five portals, four bronze horses above the central one, and over the far-left portal the oldest mosaic on the front.
+    long:
+      ru: |
+        ![Мозаика над порталом Сант-Алипио](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Basilica_di_San_Marco_-_Porta_Sant%27Alipio_%28EOS5001403%29.jpg/960px-Basilica_di_San_Marco_-_Porta_Sant%27Alipio_%28EOS5001403%29.jpg)
+        *Фото: Michael Wittwer, CC BY-SA 4.0*
+
+        Встаньте напротив **крайнего левого портала** — это **Порта-ди-Сант-Алипио**. Мозаика над ним сделана около 1260–1270 годов, и это единственная мозаика фасада, сохранившаяся с тех пор; остальные заменили в XVII–XVIII веках. На ней — перенесение тела святого Марка в собор. Приглядитесь к зданию на мозаике: это сам собор, каким он был семьсот пятьдесят лет назад, — с куполами, пятью порталами и уже с четырьмя конями над входом.
+
+        Кони наверху, на лоджии, — **копии**. Подлинники из позолоченной бронзы стоят внутри, в Музее собора, куда нужен отдельный билет. Кони, скорее всего, античные; они украшали ипподром Константинополя, и в 1204 году их привезли сюда как трофей. В 1797 году Наполеон увёз их в Париж и поставил на триумфальную арку Карусель, а в 1815 году их вернули. На место копий их поменяли в 1980-х, чтобы спасти от загрязнённого воздуха.
+
+        Сам собор начали строить в 1063 году по образцу константинопольской церкви Святых Апостолов — поэтому он так непохож на соборы Западной Европы: крестообразный план, пять куполов, мрамор и золото. Колонны фасада — больше пятисот — во многом тоже трофеи, привезённые с Востока.
+      en: |
+        ![The mosaic over the Porta di Sant'Alipio](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Basilica_di_San_Marco_-_Porta_Sant%27Alipio_%28EOS5001403%29.jpg/960px-Basilica_di_San_Marco_-_Porta_Sant%27Alipio_%28EOS5001403%29.jpg)
+        *Photo: Michael Wittwer, CC BY-SA 4.0*
+
+        Stand opposite the **far-left portal**, the **Porta di Sant'Alipio**. The mosaic above it was made around 1260–1270, and it's the only mosaic on the façade to survive from that time; the others were replaced in the 17th and 18th centuries. It shows the body of St Mark being carried into the basilica. Look closely at the building in the mosaic: it's the basilica itself as it was 750 years ago — with its domes, five portals and already the four horses over the entrance.
+
+        The horses up on the loggia are **copies**. The gilded-bronze originals stand inside in the basilica's Museum, which needs a separate ticket. They're most likely ancient; they adorned the Hippodrome of Constantinople and were brought here as loot in 1204. In 1797 Napoleon took them to Paris and put them on the Arc du Carrousel; they came back in 1815. They were swapped for copies in the 1980s to save them from polluted air.
+
+        The basilica itself was begun in 1063, modelled on the Church of the Holy Apostles in Constantinople — which is why it looks so unlike the cathedrals of western Europe: a cross-shaped plan, five domes, marble and gold. Many of the façade's more than five hundred columns are trophies from the East too.
+
+  - name: { en: "The narthex and the Genesis cupola", ru: "Притвор и купол Сотворения мира" }
+    place: "Basilica di San Marco, Venezia"
+    lat: 45.43450
+    lng: 12.33955
+    radius_m: 40
+    walk_min: 2
+    visit_min: [ 5, 8 ]
+    audio: { ru: audio/italy/07-venice-st-marks-basilica/03.mp3 }
+    short:
+      ru: |
+        Сразу за входом — **притвор**, длинная галерея перед самим собором. Поднимите голову: первый маленький купол справа — Сотворение мира.
+      en: |
+        Just inside the door is the **narthex**, a long gallery in front of the church proper. Look up: the first small dome on the right is the Creation of the world.
+    long:
+      ru: |
+        ![Купол Сотворения мира в притворе](https://upload.wikimedia.org/wikipedia/commons/8/81/Fiat_lux_-_Cupola_of_Genesis_-_St._Mark%27s_Basilica_%28Venice%29.jpg)
+        *Фото: автор неизвестен, общественное достояние*
+
+        Мозаики притвора — Ветхий Завет, а сам собор внутри — Новый: чтобы войти к Христу, проходишь сначала через историю мира от его начала. Купол **Сотворения мира** выложили в первой половине XIII века. Сцены идут тремя кругами, как по спирали, от центра наружу: Дух Божий над водами, отделение света от тьмы, небо и земля, звери и птицы, Адам, Ева, змей и изгнание из рая. Каждый день творения отмечен ангелом — их число растёт от дня к дню. Мастера, как считается, копировали иллюстрации из раннехристианской рукописи Книги Бытия V–VI века.
+
+        Дальше по притвору — истории Ноя и потопа, Авраама, Иосифа и Моисея. А на полу перед центральной дверью найдите **ромб из красного мрамора**. По преданию, здесь в 1177 году император Фридрих Барбаросса преклонил колени перед папой Александром III, и Венеция, их примирившая, на сто лет стала посредницей Европы.
+
+        Отсюда маршрут ведёт в сам собор.
+      en: |
+        ![The Genesis cupola in the narthex](https://upload.wikimedia.org/wikipedia/commons/8/81/Fiat_lux_-_Cupola_of_Genesis_-_St._Mark%27s_Basilica_%28Venice%29.jpg)
+        *Photo: unknown author, public domain*
+
+        The narthex mosaics tell the Old Testament, the church inside the New: to reach Christ you first pass through the story of the world from its beginning. The **Creation cupola** was set in the first half of the 13th century. Its scenes run in three rings, spiralling outwards from the centre: the Spirit of God over the waters, light divided from darkness, heaven and earth, beasts and birds, Adam, Eve, the serpent and the expulsion from Paradise. Each day of creation is marked by an angel, and their number grows day by day. The mosaicists are thought to have copied the illustrations of an early Christian Genesis manuscript of the 5th–6th century.
+
+        Further along the narthex come Noah and the Flood, Abraham, Joseph and Moses. On the floor in front of the central door, find a **lozenge of red marble**. Tradition says that here, in 1177, Emperor Frederick Barbarossa knelt before Pope Alexander III — and Venice, having reconciled them, became Europe's peacemaker for a century.
+
+        From here the route leads into the church itself.
+
+  - name: { en: "The nave: the Pentecost dome and the floor", ru: "Неф: купол Пятидесятницы и пол" }
+    place: "Basilica di San Marco, Venezia"
+    lat: 45.43455
+    lng: 12.33972
+    radius_m: 40
+    walk_min: 1
+    visit_min: [ 5, 8 ]
+    audio: { ru: audio/italy/07-venice-st-marks-basilica/04.mp3 }
+    short:
+      ru: |
+        Войдя в неф, остановитесь и дайте глазам привыкнуть к полумраку. Над вами — первый большой купол, Пятидесятница; под ногами — волнистый мозаичный пол.
+      en: |
+        Entering the nave, stop and let your eyes adjust to the gloom. Above you is the first great dome, Pentecost; under your feet, the undulating mosaic floor.
+    long:
+      ru: |
+        Через минуту полумрак начинает светиться: золото покрывает купола, своды и арки — больше восьми тысяч квадратных метров мозаик. Окон мало, и это задумано: мерцающее золото в темноте должно было казаться небом.
+
+        Купол над входом — **Пятидесятница**. В центре — голубь Святого Духа на престоле, от него расходятся лучи к двенадцати апостолам, над каждым — язык пламени. А между окнами внизу стоят пары людей разных народов: каждый, по рассказу Деяний, услышал апостолов на своём языке. Это один из самых старых куполов собора, XII века.
+
+        Теперь посмотрите под ноги. **Пол** XII века — больше двух тысяч квадратных метров мрамора: геометрические узоры из цветных плит и мозаики с павлинами, орлами, грифонами. Он не ровный, а волнами: собор стоит на деревянных сваях в илистом грунте, и за девятьсот лет пол просел неравномерно. Поэтому посетителей ведут по мосткам — не сходите с них и смотрите под ноги на стыках.
+      en: |
+        After a minute the gloom begins to glow: gold covers the domes, vaults and arches — more than eight thousand square metres of mosaic. There are few windows, and that's deliberate: shimmering gold in the dark was meant to look like heaven.
+
+        The dome over the entrance is **Pentecost**. In the centre the dove of the Holy Spirit sits on a throne, and rays run from it to the twelve apostles, each with a tongue of flame above his head. Between the windows below stand pairs of people from different nations: each, as Acts tells it, heard the apostles in his own language. It's one of the basilica's oldest domes, from the 12th century.
+
+        Now look down. The 12th-century **floor** covers more than two thousand square metres of marble: geometric patterns in coloured slabs and mosaics of peacocks, eagles and griffins. It isn't flat but wavy: the basilica stands on wooden piles in muddy ground, and over nine hundred years the floor has sunk unevenly. That's why visitors are kept to the walkways — don't step off, and watch your feet at the joins.
+
+  - name: { en: "The Ascension dome", ru: "Купол Вознесения" }
+    place: "Basilica di San Marco, Venezia"
+    lat: 45.43456
+    lng: 12.33994
+    radius_m: 40
+    walk_min: 1
+    visit_min: [ 4, 6 ]
+    audio: { ru: audio/italy/07-venice-st-marks-basilica/05.mp3 }
+    short:
+      ru: |
+        Центральный, самый большой купол — над пересечением рукавов креста. Встаньте под ним, насколько позволяет маршрут, и поднимите голову.
+      en: |
+        The central and largest dome is over the crossing of the arms of the cross. Stand beneath it as far as the route allows, and look up.
+    long:
+      ru: |
+        Это **Вознесение**, мозаика конца XII века. В самом центре — Христос на радуге, в круге, который несут четыре ангела. Ниже, по кругу, — Богоматерь между двумя ангелами и двенадцать апостолов, а между ними деревья: всё происходит на Масличной горе. Ещё ниже, между окнами, — шестнадцать женских фигур: добродетели и блаженства — Вера, Надежда, Милосердие, Терпение, Смирение и другие.
+
+        В парусах — треугольниках, на которые опирается купол, — четыре евангелиста. Под каждым — фигура, льющая воду из кувшина: это четыре райские реки, Тигр, Евфрат, Фисон и Геон, — образ того, что Евангелие, как реки, растекается по всему миру.
+
+        Совет: купол легче рассмотреть, отойдя чуть назад, — так видно и верхний круг, и нижний ряд. Дальше маршрут ведёт к алтарной преграде.
+      en: |
+        This is the **Ascension**, a late 12th-century mosaic. At the very centre Christ sits on a rainbow inside a circle carried by four angels. Below, all round, are the Virgin between two angels and the twelve apostles, with trees between them: it all happens on the Mount of Olives. Lower still, between the windows, are sixteen female figures, the Virtues and Beatitudes — Faith, Hope, Charity, Patience, Humility and the rest.
+
+        In the pendentives — the triangles the dome rests on — are the four Evangelists. Below each is a figure pouring water from a jug: the four rivers of Paradise, the Tigris, Euphrates, Pishon and Gihon — an image of the Gospel flowing out over the whole world like rivers.
+
+        Tip: the dome is easier to take in from a step or two back — you see both the top circle and the lower row. Next the route leads to the rood screen.
+
+  - name: { en: "The iconostasis and the presbytery", ru: "Алтарная преграда и пресвитерий" }
+    place: "Basilica di San Marco, Venezia"
+    lat: 45.43458
+    lng: 12.34018
+    radius_m: 40
+    walk_min: 1
+    visit_min: [ 4, 6 ]
+    audio: { ru: audio/italy/07-venice-st-marks-basilica/06.mp3 }
+    short:
+      ru: |
+        Мраморная преграда с рядом статуй отделяет неф от алтарной части. За ней, над алтарём, — мощи святого Марка и Пала д'Оро (за отдельный билет).
+      en: |
+        A marble screen topped by a row of statues separates the nave from the altar area. Behind it, at the altar, are the relics of St Mark and the Pala d'Oro (separate ticket).
+    long:
+      ru: |
+        ![Алтарная преграда собора Святого Марка](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ikonostase2.jpg/960px-Ikonostase2.jpg)
+        *Фото: общественное достояние*
+
+        Преграду из цветного мрамора поставили в 1394 году братья **Якобелло и Пьерпаоло далле Мазенье**. По её верху — четырнадцать мраморных статуй: в центре Богоматерь и святой Марк, по сторонам двенадцать апостолов, а над ними большое распятие. Это западный, готический отклик на византийский иконостас: за преградой, в **пресвитерии**, служили дож и духовенство, а народ стоял в нефе.
+
+        Под главным алтарём покоятся **мощи святого Марка**, ради которых и построен собор. Венецианские купцы выкрали их из Александрии в 828 году; по легенде, они спрятали тело под свининой, чтобы мусульманские таможенники побрезговали досматривать груз.
+
+        За алтарём — **Пала д'Оро**, золотой алтарный образ. Его заказали в Константинополе в 976 году, потом не раз расширяли — в том числе эмалями, вывезенными в 1204 году, — и в 1345 году ювелир Джованни Паоло Бонинсенья придал ему нынешний вид: около двух тысяч драгоценных камней и жемчужин. Вход к нему — отдельный, по своему билету; в ваш билет он не входит.
+      en: |
+        ![The rood screen of St Mark's](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ikonostase2.jpg/960px-Ikonostase2.jpg)
+        *Photo: public domain*
+
+        The coloured-marble screen was set up in 1394 by the brothers **Jacobello and Pierpaolo dalle Masegne**. Along its top stand fourteen marble statues: the Virgin and St Mark in the middle, the twelve apostles either side, and above them a great crucifix. It's the western, Gothic answer to a Byzantine iconostasis: behind the screen, in the **presbytery**, the Doge and the clergy took part in the service, while the people stood in the nave.
+
+        Under the high altar lie the **relics of St Mark**, for which the whole basilica was built. Venetian merchants stole them from Alexandria in 828; legend says they hid the body under pork so that the Muslim customs officers wouldn't want to search the load.
+
+        Behind the altar is the **Pala d'Oro**, a golden altarpiece. It was ordered in Constantinople in 976, enlarged several times — including with enamels carried off in 1204 — and in 1345 the goldsmith Giovanni Paolo Boninsegna gave it its present form, with about two thousand gems and pearls. It has its own entrance and ticket, not included in yours.
+
+  - name: { en: "The Madonna Nicopeia", ru: "Икона Богоматери Никопеи" }
+    place: "Basilica di San Marco, Cappella della Madonna Nicopeia, Venezia"
+    lat: 45.43476
+    lng: 12.34005
+    radius_m: 40
+    walk_min: 1
+    visit_min: [ 3, 5 ]
+    audio: { ru: audio/italy/07-venice-st-marks-basilica/07.mp3 }
+    short:
+      ru: |
+        В левом, северном рукаве креста — капелла с горящими свечами и тёмной иконой в драгоценном окладе. Это Никопея, главная святыня Венеции.
+      en: |
+        In the left, northern arm of the cross is a chapel with burning candles and a dark icon in a jewelled frame. This is the Nicopeia, Venice's most venerated image.
+    long:
+      ru: |
+        ![Богоматерь Никопея](https://upload.wikimedia.org/wikipedia/commons/e/ed/Nicopeia.jpg)
+        *Фото: автор неизвестен, общественное достояние*
+
+        **Никопея** значит «Победоносная». Это византийская икона Богоматери с Младенцем, написанная, как считается, в XII веке. В Константинополе её брали с собой в походы: она должна была приносить войску победу. В 1204 году венецианцы привезли её домой, и с тех пор она — покровительница города. К ней обращались во время чумы, войн и наводнений, а Мадонну Никопею выносили в торжественных процессиях. Рама с эмалями и камнями сделана позже, уже в Венеции.
+
+        Это место, где до сих пор молятся: перед иконой горят свечи и стоят люди. Говорите тихо и не задерживайте проход.
+
+        Отсюда маршрут ведёт к выходу. После собора заберите вещи в Атенео Сан-Бассо — и на обед.
+      en: |
+        ![The Madonna Nicopeia](https://upload.wikimedia.org/wikipedia/commons/e/ed/Nicopeia.jpg)
+        *Photo: unknown author, public domain*
+
+        **Nicopeia** means "bringer of victory". It's a Byzantine icon of the Virgin and Child, thought to have been painted in the 12th century. In Constantinople it was carried on campaigns to bring the army victory. In 1204 the Venetians brought it home, and ever since it has been the city's protector. Venetians turned to it in plague, war and flood, and carried it in solemn processions. The frame with its enamels and gems was made later, in Venice.
+
+        People still pray here: candles burn in front of the icon and people stand before it. Keep your voice down and don't block the way.
+
+        From here the route leads to the exit. After the basilica, collect your bags at the Ateneo San Basso and head off to lunch.
