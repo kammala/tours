@@ -58,6 +58,7 @@ points:
     approach: [{ name: Portoni della Bra, lat: 45.43811, lng: 10.99148 }]
     walk_min: 5
     visit_min: [ 10, 15 ]
+    audio: {ru: audio/italy/09-verona-stopover/02.mp3}
     short:
       ru: |
         Через ворота Portoni della Bra выходим на самую большую площадь Вероны. Прогулка по Листону и вид на Арену.
@@ -84,6 +85,7 @@ points:
     radius_m: 120
     walk_min: 2
     visit_min: [ 45, 75 ]
+    audio: {ru: audio/italy/09-verona-stopover/03.mp3}
     short:
       ru: |
         Римский амфитеатр I века. Внутрь — по желанию: с октября по май обычно открыт вт–вс примерно с 9:00 до 19:00 (касса закрывается раньше). 1 ноября — праздник и первое воскресенье месяца (льготный или бесплатный вход), так что часы и очереди проверьте заранее.
@@ -114,6 +116,7 @@ points:
     approach: [{ name: Via Mazzini, lat: 45.44094, lng: 10.99565 }]
     walk_min: [ 8, 10 ]
     visit_min: [ 20, 30 ]
+    audio: {ru: audio/italy/09-verona-stopover/04.mp3}
     short:
       ru: |
         По пешеходной Via Mazzini — главной торговой улице — выходим на бывший римский форум. Рынок, фонтан, фрески на фасадах.
@@ -143,6 +146,7 @@ points:
     radius_m: 100
     walk_min: 2
     visit_min: [ 15, 45 ]
+    audio: {ru: audio/italy/09-verona-stopover/05.mp3}
     short:
       ru: |
         Через арку Арко делла Коста — на тихую парадную площадь со статуей Данте. По желанию — подъём на Торре деи Ламберти (вход со двора Меркато Веккьо).
@@ -173,6 +177,7 @@ points:
     radius_m: 60
     walk_min: 2
     visit_min: 10
+    audio: {ru: audio/italy/09-verona-stopover/06.mp3}
     short:
       ru: |
         Готические надгробия правителей Вероны за кованой решёткой — смотрим снаружи, обходя ограду кругом.
@@ -200,6 +205,7 @@ points:
       - { name: Via Ponte Pietra, lat: 45.44683, lng: 10.99970 }
     walk_min: [ 6, 8 ]
     visit_min: 10
+    audio: {ru: audio/italy/09-verona-stopover/07.mp3}
     short:
       ru: |
         Мимо готической церкви Сант-Анастазия к единственному римскому мосту Вероны. Лучший вид на реку Адидже и холм.
@@ -231,6 +237,7 @@ points:
     approach: [{ name: Funicolare di Castel San Pietro, lat: 45.44875, lng: 11.00089 }]
     walk_min: 5
     visit_min: [ 30, 40 ]
+    audio: {ru: audio/italy/09-verona-stopover/08.mp3}
     short:
       ru: |
         По желанию. Фуникулёр от Via Fontanelle Santo Stefano (зимой примерно 10:00–17:00, около минуты в пути) или пешком по лестнице ~10 минут. Лучшая панорама Вероны.
@@ -266,6 +273,7 @@ points:
       - { name: Corso Cavour, lat: 45.44063, lng: 10.99074 }
     walk_min: [ 20, 25 ]
     visit_min: [ 20, 30 ]
+    audio: {ru: audio/italy/09-verona-stopover/09.mp3}
     short:
       ru: |
         Обратно через Понте Пьетра и площадь делле Эрбе, по Corso Porta Borsari через римские ворота — к замку Скалигеров. Проходим по зубчатому мосту над рекой.
