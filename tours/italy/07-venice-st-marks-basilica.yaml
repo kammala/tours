@@ -3,11 +3,13 @@ city: { en: Venice, ru: Венеция }
 name: { en: "Fri 30 Oct · St Mark's Basilica step by step", ru: "Пт, 30 окт · Собор Святого Марка по шагам" }
 place_suffix: Venezia
 summary:
-  ru: "Около 50 минут снаружи и внутри; вход в 13:30. Аудиогид на русском в каждой точке"
-  en: "About 50 minutes outside and in; entry at 13:30. Russian audio at every stop"
+  ru: "Около 50 минут снаружи и внутри; вход в 13:30. Аудиогид на русском в каждой точке, всего около 20 минут"
+  en: "About 50 minutes outside and in; entry at 13:30. Russian audio at every stop, about 20 minutes in all"
 intro:
   ru: |
-    Подробная прогулка по собору Святого Марка — дневная часть дня «Дворец дожей, Сан-Марко, Салюте и закат на Дзаттере». Две точки снаружи — пока выходите из дворца и ждёте встречи, — и пять внутри, по пути посетителей: притвор, неф, центральный купол, алтарная преграда и икона Никопеи. У каждой точки есть **аудиорассказ на русском** на 1–3 минуты — откройте точку и нажмите ▶; наушники обязательны, внутри говорят шёпотом.
+    Подробная прогулка по собору Святого Марка — дневная часть дня «Дворец дожей, Сан-Марко, Салюте и закат на Дзаттере». Две точки снаружи — пока выходите из дворца и ждёте встречи, — и восемь внутри, по пути посетителей: притвор, неф, центральный купол, южный трансепт, алтарная преграда, восточный купол, северный трансепт и икона Никопеи. Две точки с пометкой «если маршрут проходит мимо» — смотрите по указателям, куда ведут мостки. У каждой точки есть **аудиорассказ на русском** — откройте точку и нажмите ▶.
+
+    **Наушники.** Внутри вслух не говорят, поэтому без наушников не обойтись; можно по одному на двоих. Всего аудио около **20 минут** на 40–50 минут внутри: включайте рассказ и идите дальше, не дожидаясь конца, — он догонит вас у следующей точки.
 
     **Вход.** Бронь на **13:30**, на троих; войти нужно до **14:00**. **Встреча в 13:15** у камеры хранения в **Атенео Сан-Бассо** — на маленькой площади со львами, слева от собора: рюкзаки и большие сумки сдают туда, бесплатно, на час. С QR-кодом — в очередь для посетителей с бронью у главного фасада.
 
@@ -19,7 +21,9 @@ intro:
 
     *Фото: Wikimedia Commons, авторы и лицензии — под каждым снимком.*
   en: |
-    A detailed walk round St Mark's Basilica — the afternoon part of "Doge's Palace, St Mark's, the Salute and sunset on the Zattere". Two stops outside — as you leave the palace and while you wait for the meet-up — and five inside, along the visitors' route: the narthex, the nave, the central dome, the rood screen and the Nicopeia icon. Every stop has a 1–3 minute **Russian audio narration** — open the stop and press ▶ (English listeners can read the text); bring earphones, and inside people speak in whispers.
+    A detailed walk round St Mark's Basilica — the afternoon part of "Doge's Palace, St Mark's, the Salute and sunset on the Zattere". Two stops outside — as you leave the palace and while you wait for the meet-up — and eight inside, along the visitors' route: the narthex, the nave, the central dome, the south transept, the rood screen, the east dome, the north transept and the Nicopeia icon. Two are marked "if it's on your route" — follow the signs for where the walkways go. Every stop has a **Russian audio narration** — open the stop and press ▶ (English listeners can read the text).
+
+    **Headphones.** Talking aloud isn't allowed inside, so bring headphones; one earbud each works for two. There's about **20 minutes** of audio for a 40–50 minute visit: start a clip and keep walking — it'll catch up with you at the next stop.
 
     **Entry.** Booked for **13:30**, for three; you must go in by **14:00**. **Meet at 13:15** at the left-luggage office in the **Ateneo San Basso**, on the little square with the lions to the left of the basilica: backpacks and large bags go there, free, for up to an hour. Then join the queue for booked visitors at the main façade with the QR code.
 
@@ -119,18 +123,24 @@ points:
         ![Купол Сотворения мира в притворе](https://upload.wikimedia.org/wikipedia/commons/8/81/Fiat_lux_-_Cupola_of_Genesis_-_St._Mark%27s_Basilica_%28Venice%29.jpg)
         *Фото: автор неизвестен, общественное достояние*
 
-        Мозаики притвора — Ветхий Завет, а сам собор внутри — Новый: чтобы войти к Христу, проходишь сначала через историю мира от его начала. Купол **Сотворения мира** выложили в первой половине XIII века. Сцены идут тремя кругами, как по спирали, от центра наружу: Дух Божий над водами, отделение света от тьмы, небо и земля, звери и птицы, Адам, Ева, змей и изгнание из рая. Каждый день творения отмечен ангелом — их число растёт от дня к дню. Мастера, как считается, копировали иллюстрации из раннехристианской рукописи Книги Бытия V–VI века.
+        Мозаики притвора — Ветхий Завет, а сам собор внутри — Новый: чтобы войти к Христу, проходишь сначала через историю мира от его начала. Купол **Сотворения мира** выложили в первой половине XIII века.
 
-        Дальше по притвору — истории Ноя и потопа, Авраама, Иосифа и Моисея. А на полу перед центральной дверью найдите **ромб из красного мрамора**. По преданию, здесь в 1177 году император Фридрих Барбаросса преклонил колени перед папой Александром III, и Венеция, их примирившая, на сто лет стала посредницей Европы.
+        Читайте его от центра наружу, как спираль, тремя кругами. В самой середине — Дух Божий в виде птицы над тёмными водами. Дальше — отделение света от тьмы, небо, суша и море, солнце и луна, рыбы и птицы, звери. Создатель здесь всюду один и тот же: молодой, безбородый, с крестом на длинном древке — так византийские мастера показывали Слово, через которое сотворён мир. Каждый день творения отмечен ангелом, и с каждым днём ангелов становится на одного больше. На седьмой день Творец сидит на троне и благословляет седьмого ангела — день отдыха.
 
-        Отсюда маршрут ведёт в сам собор.
+        Во внешнем круге — Адам и Ева. Найдите, как Творец лепит Адама из глины, а потом вдыхает в него жизнь — маленькую крылатую фигурку, душу. Дальше — Ева из ребра, змей у дерева, плоды, стыд, Бог, зовущий их в саду, и изгнание из рая. Мастера, как считается, копировали иллюстрации из раннехристианской рукописи Книги Бытия V–VI века, поэтому фигуры такие небольшие и «книжные».
+
+        Дальше по притвору, если маршрут позволяет оглянуться, — истории Ноя и потопа, Авраама, Иосифа и Моисея. А на полу перед центральной дверью найдите **ромб из красного мрамора**. По преданию, здесь в 1177 году император Фридрих Барбаросса преклонил колени перед папой Александром III — Венеция их примирила и прославилась на всю Европу.
+
+        Отсюда маршрут ведёт в сам собор. Перед порогом остановитесь на секунду: впереди будет темно, а потом — золото.
       en: |
         ![The Genesis cupola in the narthex](https://upload.wikimedia.org/wikipedia/commons/8/81/Fiat_lux_-_Cupola_of_Genesis_-_St._Mark%27s_Basilica_%28Venice%29.jpg)
         *Photo: unknown author, public domain*
 
-        The narthex mosaics tell the Old Testament, the church inside the New: to reach Christ you first pass through the story of the world from its beginning. The **Creation cupola** was set in the first half of the 13th century. Its scenes run in three rings, spiralling outwards from the centre: the Spirit of God over the waters, light divided from darkness, heaven and earth, beasts and birds, Adam, Eve, the serpent and the expulsion from Paradise. Each day of creation is marked by an angel, and their number grows day by day. The mosaicists are thought to have copied the illustrations of an early Christian Genesis manuscript of the 5th–6th century.
+        The narthex mosaics tell the Old Testament, the church inside the New: to reach Christ you first pass through the story of the world from its beginning. The **Creation cupola** was set in the first half of the 13th century.
 
-        Further along the narthex come Noah and the Flood, Abraham, Joseph and Moses. On the floor in front of the central door, find a **lozenge of red marble**. Tradition says that here, in 1177, Emperor Frederick Barbarossa knelt before Pope Alexander III — and Venice, having reconciled them, became Europe's peacemaker for a century.
+        Read it from the centre outwards, in three rings: the Spirit as a bird over the dark waters, light divided from darkness, sky, land and sea, sun and moon, fish, birds and beasts. The Creator is always the same young, beardless figure with a long cross-staff — the Word through which the world was made. Each day is marked by an angel, one more every day; on the seventh the Creator sits enthroned and blesses the seventh angel. In the outer ring are Adam and Eve: Adam shaped from clay and given a tiny winged soul, Eve from the rib, the serpent, the fruit, and the expulsion. The mosaicists are thought to have copied an early Christian Genesis manuscript of the 5th–6th century.
+
+        Further along the narthex come Noah, Abraham, Joseph and Moses. On the floor in front of the central door, find a **lozenge of red marble**: tradition says that here, in 1177, Emperor Frederick Barbarossa knelt before Pope Alexander III, reconciled by Venice.
 
         From here the route leads into the church itself.
 
@@ -149,17 +159,19 @@ points:
         Entering the nave, stop and let your eyes adjust to the gloom. Above you is the first great dome, Pentecost; under your feet, the undulating mosaic floor.
     long:
       ru: |
-        Через минуту полумрак начинает светиться: золото покрывает купола, своды и арки — больше восьми тысяч квадратных метров мозаик. Окон мало, и это задумано: мерцающее золото в темноте должно было казаться небом.
+        Через минуту полумрак начинает светиться: золото покрывает купола, своды и арки — больше восьми тысяч квадратных метров мозаик. Окон мало, и это задумано: мерцающее золото в темноте должно было казаться небом. Каждый золотой кубик — это стекло, а под тонкой стеклянной плёнкой — листок настоящего золота. Мастера вдавливали кубики в штукатурку чуть под разными углами, поэтому золото не блестит ровно, как зеркало, а переливается, когда вы двигаетесь.
 
-        Купол над входом — **Пятидесятница**. В центре — голубь Святого Духа на престоле, от него расходятся лучи к двенадцати апостолам, над каждым — язык пламени. А между окнами внизу стоят пары людей разных народов: каждый, по рассказу Деяний, услышал апостолов на своём языке. Это один из самых старых куполов собора, XII века.
+        Купол над входом — **Пятидесятница**, один из самых старых куполов собора, XII века. В центре — престол с голубем Святого Духа, от него двенадцать лучей идут к двенадцати апостолам, которые сидят по кругу, и над головой у каждого — язычок пламени. Теперь опустите взгляд ниже, между окнами: там стоят пары людей в разных одеждах и шапках. Это народы, о которых рассказывают Деяния апостолов: в день Пятидесятницы каждый из них услышал проповедь на своём языке. Над каждой парой подписано, что это за народ. Так купол объясняет, зачем апостолы разошлись по всему миру.
 
-        Теперь посмотрите под ноги. **Пол** XII века — больше двух тысяч квадратных метров мрамора: геометрические узоры из цветных плит и мозаики с павлинами, орлами, грифонами. Он не ровный, а волнами: собор стоит на деревянных сваях в илистом грунте, и за девятьсот лет пол просел неравномерно. Поэтому посетителей ведут по мосткам — не сходите с них и смотрите под ноги на стыках.
+        Теперь посмотрите под ноги. **Пол** XII века — больше двух тысяч квадратных метров: геометрические узоры из цветного мрамора и мозаичные картинки — павлины, орлы, грифоны, олени. Где-то на полу есть и знаменитая сценка: два петуха несут на шесте связанную лису. Смотрите, не попадётся ли она вам по пути.
+
+        Пол не ровный, а волнами. Собор стоит на деревянных сваях в илистой почве лагуны, и за девятьсот лет пол просел неравномерно. Вода — его главный враг: при высоком приливе море поднималось прямо в притвор. С 2020 года город защищают подвижные барьеры MOSE, а вокруг собора поставили ещё и стеклянную стенку. Поэтому посетителей и ведут по мосткам — не сходите с них и смотрите под ноги на стыках.
       en: |
-        After a minute the gloom begins to glow: gold covers the domes, vaults and arches — more than eight thousand square metres of mosaic. There are few windows, and that's deliberate: shimmering gold in the dark was meant to look like heaven.
+        After a minute the gloom begins to glow: gold covers the domes, vaults and arches — more than eight thousand square metres of mosaic. Each gold tessera is glass with a leaf of real gold under a thin glass film, pressed into the plaster at slightly different angles, so the gold shimmers as you move rather than shining flat like a mirror.
 
-        The dome over the entrance is **Pentecost**. In the centre the dove of the Holy Spirit sits on a throne, and rays run from it to the twelve apostles, each with a tongue of flame above his head. Between the windows below stand pairs of people from different nations: each, as Acts tells it, heard the apostles in his own language. It's one of the basilica's oldest domes, from the 12th century.
+        The dome over the entrance is **Pentecost**, one of the oldest, from the 12th century. In the centre is a throne with the dove of the Holy Spirit; twelve rays run to the twelve seated apostles, each with a tongue of flame above his head. Between the windows below stand pairs of people in different dress, each labelled: the nations who, as Acts tells it, heard the apostles in their own languages.
 
-        Now look down. The 12th-century **floor** covers more than two thousand square metres of marble: geometric patterns in coloured slabs and mosaics of peacocks, eagles and griffins. It isn't flat but wavy: the basilica stands on wooden piles in muddy ground, and over nine hundred years the floor has sunk unevenly. That's why visitors are kept to the walkways — don't step off, and watch your feet at the joins.
+        Now look down. The 12th-century **floor** covers more than two thousand square metres: geometric marble patterns and mosaic peacocks, eagles, griffins and deer — and somewhere a famous little scene of two roosters carrying a trussed fox on a pole. It's wavy because the basilica stands on wooden piles in the lagoon mud and has sunk unevenly over nine centuries. High tides used to flood the narthex; since 2020 the MOSE barriers protect the city, and the basilica also has a glass wall round it. Keep to the walkways and watch the joins.
 
   - name: { en: "The Ascension dome", ru: "Купол Вознесения" }
     place: "Basilica di San Marco, Venezia"
@@ -176,17 +188,56 @@ points:
         The central and largest dome is over the crossing of the arms of the cross. Stand beneath it as far as the route allows, and look up.
     long:
       ru: |
-        Это **Вознесение**, мозаика конца XII века. В самом центре — Христос на радуге, в круге, который несут четыре ангела. Ниже, по кругу, — Богоматерь между двумя ангелами и двенадцать апостолов, а между ними деревья: всё происходит на Масличной горе. Ещё ниже, между окнами, — шестнадцать женских фигур: добродетели и блаженства — Вера, Надежда, Милосердие, Терпение, Смирение и другие.
+        Это **Вознесение**, мозаика конца XII века, и это главный купол собора — около тринадцати метров в поперечнике.
 
-        В парусах — треугольниках, на которые опирается купол, — четыре евангелиста. Под каждым — фигура, льющая воду из кувшина: это четыре райские реки, Тигр, Евфрат, Фисон и Геон, — образ того, что Евангелие, как реки, растекается по всему миру.
+        Начните с самого центра. Христос сидит на радуге, как на троне, в круге-небе, и этот круг уносят вверх четыре ангела — посмотрите, как они изогнулись от усилия. Ниже, по кругу, стоят Богоматерь между двумя ангелами в белом и двенадцать апостолов. Апостолы запрокинули головы, кто-то прикрывает глаза рукой, кто-то разводит руками: они только что увидели, как Учитель поднимается на небо. Между ними — деревья: всё происходит на Масличной горе.
 
-        Совет: купол легче рассмотреть, отойдя чуть назад, — так видно и верхний круг, и нижний ряд. Дальше маршрут ведёт к алтарной преграде.
+        Ещё ниже, между окнами, идёт хоровод из шестнадцати женских фигур. Это добродетели и блаженства: Вера, Надежда, Милосердие, Терпение, Смирение, Целомудрие и другие; над каждой подписано её латинское имя. Милосердие, «мать всех добродетелей», отмечено короной. Здесь мастера позволили себе живость: фигуры словно танцуют, у каждой свой жест и свой предмет в руках.
+
+        В парусах — треугольниках, на которые опирается купол, — четыре евангелиста за письменными столами. Под каждым — фигура, льющая воду из кувшина: четыре райские реки, Тигр, Евфрат, Фисон и Геон. Смысл простой: Евангелие, как реки из рая, растекается по всему миру.
+
+        Совет: купол легче рассмотреть, отойдя на шаг-два назад, — так видно и верхний круг, и хоровод добродетелей. А по сторонам от алтарной преграды, впереди, — две мраморные кафедры. С правой, по традиции, народу впервые показывали только что избранного дожа. Дальше маршрут ведёт вправо, к южному рукаву креста, или прямо к преграде — смотрите по указателям.
       en: |
-        This is the **Ascension**, a late 12th-century mosaic. At the very centre Christ sits on a rainbow inside a circle carried by four angels. Below, all round, are the Virgin between two angels and the twelve apostles, with trees between them: it all happens on the Mount of Olives. Lower still, between the windows, are sixteen female figures, the Virtues and Beatitudes — Faith, Hope, Charity, Patience, Humility and the rest.
+        This is the **Ascension**, a late 12th-century mosaic and the basilica's main dome, about thirteen metres across.
 
-        In the pendentives — the triangles the dome rests on — are the four Evangelists. Below each is a figure pouring water from a jug: the four rivers of Paradise, the Tigris, Euphrates, Pishon and Gihon — an image of the Gospel flowing out over the whole world like rivers.
+        At the centre Christ sits on a rainbow inside a circle of heaven that four angels, straining, carry upwards. Below, all round, are the Virgin between two angels in white and the twelve apostles, heads thrown back, shading their eyes or spreading their hands as they watch; trees between them place the scene on the Mount of Olives. Lower still, between the windows, sixteen female figures dance in a ring — the Virtues and Beatitudes, each labelled in Latin, with Charity, "mother of all virtues", crowned.
 
-        Tip: the dome is easier to take in from a step or two back — you see both the top circle and the lower row. Next the route leads to the rood screen.
+        In the pendentives are the four Evangelists at their desks, and below each a figure pouring water: the four rivers of Paradise, the Gospel flowing out over the world.
+
+        Tip: step back a little to see both the top circle and the ring of Virtues. Ahead, either side of the screen, stand two marble pulpits; from the right-hand one, by tradition, a newly elected Doge was first shown to the people. Then the route leads right to the south transept, or straight to the screen — follow the signs.
+
+  - name: { en: "South transept: finding St Mark's body (if it's on your route)", ru: "Южный трансепт: обретение мощей (если маршрут проходит мимо)" }
+    place: "Basilica di San Marco, Tesoro di San Marco, Venezia"
+    lat: 45.43440
+    lng: 12.34002
+    radius_m: 40
+    walk_min: 1
+    visit_min: [ 3, 5 ]
+    audio: { ru: audio/italy/07-venice-st-marks-basilica/06.mp3 }
+    short:
+      ru: |
+        Если маршрут проходит мимо: правый, южный рукав креста. На его западной стене — мозаика о том, как нашли пропавшее тело святого Марка; рядом — вход в Сокровищницу (отдельный билет).
+      en: |
+        If it's on your route: the right-hand, southern arm of the cross. On its west wall is the mosaic of how St Mark's lost body was found; nearby is the door to the Treasury (separate ticket).
+    long:
+      ru: |
+        Это самая детективная история собора. В 976 году венецианцы восстали против дожа Пьетро Кандиано, подожгли его дворец, и огонь перекинулся на старую церковь Святого Марка. Церковь отстроили, потом начали строить нынешний собор, а мощи святого всё это время держали в тайнике, о котором знали лишь немногие. Тайна умерла вместе с ними: к концу XI века никто уже не знал, где лежит святой Марк.
+
+        Когда в 1094 году новый собор готовили к освящению, дож, духовенство и весь народ, как рассказывает предание, три дня постились и молились, чтобы святой открыл себя. И во время молитвы камни одной из колонн выпали, а за ними показался ларец с мощами. Венецианцы называют это чудо **Apparitio** — «явление».
+
+        Найдите на западной стене трансепта большую мозаику XIII века. Слева — молитва: впереди процессии дож в красной шапке, над ним подписано «DUX», рядом епископ и духовенство, за ними горожане. Справа — колонна открылась, и все благодарят. Присмотритесь к фону: мастера изобразили интерьер этого самого собора, с его арками и куполами, — вы стоите внутри той же картины, которую видите на стене.
+
+        Купол над этим рукавом — купол святых: на кресте в центре — святые Николай, Климент, Власий и Леонард.
+
+        Здесь же — вход в **Сокровищницу** (Tesoro), по отдельному билету. Там хранятся чаши, реликварии и оклады, большей частью византийские, вывезенные из Константинополя в 1204 году. Если на неё нет времени — не страшно: главное золото собора — над головой.
+      en: |
+        This is the basilica's detective story. In 976 Venetians rose against Doge Pietro Candiano and set fire to his palace, and the flames spread to the old St Mark's. While the church was rebuilt and the present one begun, the relics were kept in a hiding place known to very few — and by the late 11th century nobody knew where St Mark lay.
+
+        When the new basilica was being prepared for consecration in 1094, tradition says the Doge, clergy and people fasted and prayed for three days, and during the prayer stones fell from a pillar, revealing the casket. Venetians call the miracle the **Apparitio**.
+
+        On the west wall of the transept, a large 13th-century mosaic tells it: on the left the procession at prayer, led by the Doge in a red cap labelled "DUX"; on the right the open pillar and the thanksgiving. The background shows this very interior, arches and domes — you're standing inside the picture you're looking at. The dome above shows four saints: Nicholas, Clement, Blaise and Leonard.
+
+        Here too is the door to the **Treasury** (separate ticket): chalices, reliquaries and covers, mostly Byzantine, carried off from Constantinople in 1204.
 
   - name: { en: "The iconostasis and the presbytery", ru: "Алтарная преграда и пресвитерий" }
     place: "Basilica di San Marco, Venezia"
@@ -195,7 +246,7 @@ points:
     radius_m: 40
     walk_min: 1
     visit_min: [ 4, 6 ]
-    audio: { ru: audio/italy/07-venice-st-marks-basilica/06.mp3 }
+    audio: { ru: audio/italy/07-venice-st-marks-basilica/07.mp3 }
     short:
       ru: |
         Мраморная преграда с рядом статуй отделяет неф от алтарной части. За ней, над алтарём, — мощи святого Марка и Пала д'Оро (за отдельный билет).
@@ -206,20 +257,82 @@ points:
         ![Алтарная преграда собора Святого Марка](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ikonostase2.jpg/960px-Ikonostase2.jpg)
         *Фото: общественное достояние*
 
-        Преграду из цветного мрамора поставили в 1394 году братья **Якобелло и Пьерпаоло далле Мазенье**. По её верху — четырнадцать мраморных статуй: в центре Богоматерь и святой Марк, по сторонам двенадцать апостолов, а над ними большое распятие. Это западный, готический отклик на византийский иконостас: за преградой, в **пресвитерии**, служили дож и духовенство, а народ стоял в нефе.
+        Преграду из цветного мрамора поставили в 1394 году братья **Якобелло и Пьерпаоло далле Мазенье**. По её верху — четырнадцать мраморных статуй: в центре Богоматерь и святой Марк, по сторонам двенадцать апостолов, а над ними большое распятие. Посмотрите на лица и складки одежд: это уже готика, живые, повёрнутые друг к другу фигуры, совсем не похожие на неподвижных византийских святых в мозаиках над ними. Сама идея преграды — западный отклик на православный иконостас: за ней, в **пресвитерии**, служили духовенство и сидел дож, а народ стоял в нефе. Пресвитерий приподнят: под ним — крипта, самая старая часть собора.
 
-        Под главным алтарём покоятся **мощи святого Марка**, ради которых и построен собор. Венецианские купцы выкрали их из Александрии в 828 году; по легенде, они спрятали тело под свининой, чтобы мусульманские таможенники побрезговали досматривать груз.
+        Под главным алтарём покоятся **мощи святого Марка**, ради которых и построен собор. По преданию, в 828 году два венецианских купца, Буоно из Маламокко и Рустико из Торчелло, выкрали тело евангелиста из Александрии. Чтобы мусульманские таможенники не стали досматривать груз, тело прикрыли свининой, и стражники, увидев её, с отвращением отступили. По дороге корабль попал в бурю, и, как гласит легенда, святой Марк сам разбудил капитана и спас судно. С тех пор лев святого Марка — герб Венеции.
 
-        За алтарём — **Пала д'Оро**, золотой алтарный образ. Его заказали в Константинополе в 976 году, потом не раз расширяли — в том числе эмалями, вывезенными в 1204 году, — и в 1345 году ювелир Джованни Паоло Бонинсенья придал ему нынешний вид: около двух тысяч драгоценных камней и жемчужин. Вход к нему — отдельный, по своему билету; в ваш билет он не входит.
+        За алтарём — **Пала д'Оро**, золотой алтарный образ. Его заказали в Константинополе в 976 году, потом не раз расширяли, в том числе эмалями, вывезенными в 1204 году, а в 1345 году ювелир Джованни Паоло Бонинсенья придал ему нынешний вид: около двух тысяч драгоценных камней и жемчужин. Вход к нему — отдельный, по своему билету; в ваш билет он не входит.
       en: |
         ![The rood screen of St Mark's](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ikonostase2.jpg/960px-Ikonostase2.jpg)
         *Photo: public domain*
 
-        The coloured-marble screen was set up in 1394 by the brothers **Jacobello and Pierpaolo dalle Masegne**. Along its top stand fourteen marble statues: the Virgin and St Mark in the middle, the twelve apostles either side, and above them a great crucifix. It's the western, Gothic answer to a Byzantine iconostasis: behind the screen, in the **presbytery**, the Doge and the clergy took part in the service, while the people stood in the nave.
+        The coloured-marble screen was set up in 1394 by the brothers **Jacobello and Pierpaolo dalle Masegne**. Along its top stand fourteen marble statues: the Virgin and St Mark in the middle, the twelve apostles either side, and above them a great crucifix. Note the faces and drapery — Gothic figures turning to one another, quite unlike the still Byzantine saints in the mosaics above. Behind the screen, in the raised **presbytery** over the crypt, the clergy served and the Doge sat, while the people stood in the nave.
 
-        Under the high altar lie the **relics of St Mark**, for which the whole basilica was built. Venetian merchants stole them from Alexandria in 828; legend says they hid the body under pork so that the Muslim customs officers wouldn't want to search the load.
+        Under the high altar lie the **relics of St Mark**. By tradition, in 828 two Venetian merchants, Buono of Malamocco and Rustico of Torcello, stole the body from Alexandria, hiding it under pork so the Muslim customs officers recoiled; on the way home, legend says, St Mark woke the captain in a storm and saved the ship.
 
-        Behind the altar is the **Pala d'Oro**, a golden altarpiece. It was ordered in Constantinople in 976, enlarged several times — including with enamels carried off in 1204 — and in 1345 the goldsmith Giovanni Paolo Boninsegna gave it its present form, with about two thousand gems and pearls. It has its own entrance and ticket, not included in yours.
+        Behind the altar is the **Pala d'Oro**, a golden altarpiece ordered in Constantinople in 976, enlarged several times — including with enamels carried off in 1204 — and given its present form in 1345 by the goldsmith Giovanni Paolo Boninsegna, with about two thousand gems and pearls. It has its own entrance and ticket, not included in yours.
+
+  - name: { en: "The Emmanuel dome and the apse", ru: "Купол Эммануила и апсида" }
+    place: "Basilica di San Marco, Venezia"
+    lat: 45.43458
+    lng: 12.34035
+    radius_m: 40
+    walk_min: 1
+    visit_min: [ 3, 5 ]
+    audio: { ru: audio/italy/07-venice-st-marks-basilica/08.mp3 }
+    short:
+      ru: |
+        Над пресвитерием, за преградой, — восточный купол с молодым Христом и пророками, а ещё дальше, в полукруглой апсиде, — Христос Вседержитель. Если маршрут не подводит ближе, смотрите поверх преграды.
+      en: |
+        Over the presbytery, beyond the screen, is the east dome with the young Christ and the prophets, and further back, in the curved apse, Christ Pantocrator. If the route doesn't take you closer, look over the screen.
+    long:
+      ru: |
+        Этот купол — начало всей истории, которую рассказывает собор. Здесь ещё никто не родился: пророки только предсказывают приход Спасителя.
+
+        В центре, в круге с радугой — это небосвод, — сидит среди звёзд молодой, безбородый Христос со свитком закона. Это **Эммануил**, что значит «С нами Бог»: так называл будущего Спасителя пророк Исайя. Ниже, по кругу, — Богоматерь с поднятыми в молитве руками, а вокруг неё тринадцать пророков, у каждого — развёрнутый свиток с его пророчеством. Найдите Исайю: он указывает на Христа, и на его свитке — «Се, Дева во чреве примет». А царь Давид одет как византийский император, в короне и пурпуре: Спаситель должен был родиться из его царского рода. Мозаики этого купола — одни из самых ранних в соборе, XII века.
+
+        Теперь посмотрите дальше, в полукруглую апсиду за алтарём. Там — огромный **Христос Вседержитель** на троне, благословляющий правой рукой. Эту фигуру переложили заново в начале XVI века, а ниже, между окнами, сохранились старые, XII века, четыре святых — покровителя Венеции: Николай, Пётр, Марк и Гермагор, ученик Марка и первый епископ Аквилеи.
+
+        Обратите внимание, как выстроен весь собор: от Ветхого Завета в притворе — через Пятидесятницу и Вознесение — к пророкам и Христу здесь, на востоке. Вы прошли его как книгу, от первой главы к главной.
+      en: |
+        This dome is where the basilica's story begins: no one is born yet, and the prophets are only foretelling the Saviour.
+
+        In the centre, in a rainbow circle — the firmament — the young, beardless Christ sits among stars holding the scroll of the law: **Emmanuel**, "God with us", as Isaiah called the coming Saviour. Below, the Virgin raises her hands in prayer among thirteen prophets with their scrolls. Isaiah points to Christ, his scroll reading "Behold, a virgin shall conceive"; King David is dressed as a Byzantine emperor, since the Saviour was to come from his royal line. These are among the basilica's earliest mosaics, 12th century.
+
+        Beyond, in the apse, sits a great **Christ Pantocrator**, remade in the early 16th century; below him, between the windows, survive four older 12th-century saints, the patrons of Venice: Nicholas, Peter, Mark and Hermagoras. The whole building reads like a book, from Genesis in the narthex to the prophets and Christ here in the east.
+
+  - name: { en: "North transept: the dome of St John (if it's on your route)", ru: "Северный трансепт: купол святого Иоанна (если маршрут проходит мимо)" }
+    place: "Basilica di San Marco, Venezia"
+    lat: 45.43472
+    lng: 12.33995
+    radius_m: 40
+    walk_min: 1
+    visit_min: [ 3, 5 ]
+    audio: { ru: audio/italy/07-venice-st-marks-basilica/09.mp3 }
+    short:
+      ru: |
+        Если маршрут проходит мимо: левый, северный рукав креста. Над ним — купол святого Иоанна Богослова, а в восточной стене — капелла с иконой Никопеи.
+      en: |
+        If it's on your route: the left-hand, northern arm of the cross. Above it is the dome of St John the Evangelist, and in its east wall the chapel of the Nicopeia icon.
+    long:
+      ru: |
+        Пять куполов собора стоят крестом: Пятидесятница на западе, Вознесение в центре, Эммануил на востоке, купол святых на юге — и этот, северный, посвящённый **святому Иоанну Богослову**, любимому ученику Христа.
+
+        Купол поменьше центрального, и рассматривать его удобнее: сцены жизни и чудес Иоанна идут по кругу. Это не евангельские сюжеты, а поздние предания об апостоле: как он проповедовал в Эфесе, творил чудеса и спорил с язычниками. Ищите его по облику: в мозаиках Иоанна узнают по высокому лбу и седой бороде. А его символ — **орёл**: тот самый, что вы видели среди евангелистов в парусах центрального купола.
+
+        Почему Иоанн? Он был одним из главных святых для Византии, а собор строили по образцу константинопольской церкви Святых Апостолов. Венецианцы взяли у Константинополя не только мрамор и золото, но и сам план — крест с пятью куполами.
+
+        Посмотрите и вниз, на северную стену: если открыта соседняя **капелла Масколи**, в ней — мозаики XV века о жизни Богоматери, уже совсем ренессансные, с перспективой и архитектурой, как на картинах. Сравните их с византийским золотом над головой — между ними три века.
+
+        А теперь — главная святыня Венеции: капелла с горящими свечами в восточной стене этого же рукава.
+      en: |
+        The basilica's five domes form a cross: Pentecost to the west, the Ascension in the centre, Emmanuel to the east, the saints to the south, and this northern one dedicated to **St John the Evangelist**, the beloved disciple.
+
+        It's smaller than the central dome and easier to read: scenes of John's life and miracles run round it — not Gospel stories but later traditions of his preaching in Ephesus and his wonders. His symbol is the **eagle**, as among the Evangelists in the central dome's pendentives. The plan itself — a cross with five domes — was borrowed from the Church of the Holy Apostles in Constantinople.
+
+        If the neighbouring **Mascoli Chapel** is open, its 15th-century mosaics of the Life of the Virgin are already Renaissance, with perspective and architecture — three centuries after the gold above.
+
+        Next, the chapel with candles in the east wall of this arm.
 
   - name: { en: "The Madonna Nicopeia", ru: "Икона Богоматери Никопеи" }
     place: "Basilica di San Marco, Cappella della Madonna Nicopeia, Venezia"
@@ -228,7 +341,7 @@ points:
     radius_m: 40
     walk_min: 1
     visit_min: [ 3, 5 ]
-    audio: { ru: audio/italy/07-venice-st-marks-basilica/07.mp3 }
+    audio: { ru: audio/italy/07-venice-st-marks-basilica/10.mp3 }
     short:
       ru: |
         В левом, северном рукаве креста — капелла с горящими свечами и тёмной иконой в драгоценном окладе. Это Никопея, главная святыня Венеции.
@@ -239,17 +352,21 @@ points:
         ![Богоматерь Никопея](https://upload.wikimedia.org/wikipedia/commons/e/ed/Nicopeia.jpg)
         *Фото: автор неизвестен, общественное достояние*
 
-        **Никопея** значит «Победоносная». Это византийская икона Богоматери с Младенцем, написанная, как считается, в XII веке. В Константинополе её брали с собой в походы: она должна была приносить войску победу. В 1204 году венецианцы привезли её домой, и с тех пор она — покровительница города. К ней обращались во время чумы, войн и наводнений, а Мадонну Никопею выносили в торжественных процессиях. Рама с эмалями и камнями сделана позже, уже в Венеции.
+        **Никопея** значит «Победоносная», «Несущая победу». Это византийская икона Богоматери с Младенцем, написанная, как считается, в XII веке. Посмотрите, как она устроена: Богоматерь стоит прямо, фронтально, и держит Младенца перед собой, у груди, обеими руками, как держат знамя или святыню. Младенец благословляет. Лики потемнели от веков и свечного дыма, а золото и эмали вокруг сияют — так и задумано: тёмный лик в светящейся раме.
 
-        Это место, где до сих пор молятся: перед иконой горят свечи и стоят люди. Говорите тихо и не задерживайте проход.
+        В Константинополе с этой иконой ходили в военные походы: её несли перед войском, чтобы она принесла победу, — отсюда и имя. В 1204 году, когда крестоносцы и венецианцы взяли Константинополь, икону привезли в Венецию, и с тех пор она — покровительница города. К ней обращались во время чумы, войн и наводнений, и в самые тяжёлые дни её выносили в торжественных процессиях. Драгоценная рама с эмалями и камнями сделана позже, уже в Венеции.
 
-        Отсюда маршрут ведёт к выходу. После собора заберите вещи в Атенео Сан-Бассо — и на обед.
+        Это место, где до сих пор молятся: перед иконой горят свечи, и люди стоят на коленях. Если хотите, можно поставить свечу. Говорите тихо и не задерживайте проход.
+
+        Отсюда маршрут ведёт к выходу. Оглянитесь напоследок на центральный купол — с этой стороны золото видно в другом свете. После собора заберите вещи в Атенео Сан-Бассо и идите обедать: садитесь за стол до 14:30.
       en: |
         ![The Madonna Nicopeia](https://upload.wikimedia.org/wikipedia/commons/e/ed/Nicopeia.jpg)
         *Photo: unknown author, public domain*
 
-        **Nicopeia** means "bringer of victory". It's a Byzantine icon of the Virgin and Child, thought to have been painted in the 12th century. In Constantinople it was carried on campaigns to bring the army victory. In 1204 the Venetians brought it home, and ever since it has been the city's protector. Venetians turned to it in plague, war and flood, and carried it in solemn processions. The frame with its enamels and gems was made later, in Venice.
+        **Nicopeia** means "bringer of victory". It's a Byzantine icon of the Virgin and Child, thought to date from the 12th century. The Virgin stands frontally, holding the Child before her chest with both hands, like a standard; the Child blesses. The faces have darkened with age and candle smoke, while the gold and enamels around them glow.
 
-        People still pray here: candles burn in front of the icon and people stand before it. Keep your voice down and don't block the way.
+        In Constantinople it was carried before the army on campaign — hence the name. In 1204 the Venetians brought it home, and ever since it has been the city's protector, carried in procession in times of plague, war and flood. The jewelled, enamelled frame was made later, in Venice.
 
-        From here the route leads to the exit. After the basilica, collect your bags at the Ateneo San Basso and head off to lunch.
+        People still pray here: candles burn and people kneel. Keep your voice down and don't block the way.
+
+        From here the route leads to the exit. Look back at the central dome on the way — the gold looks different from this side. Then collect your bags at the Ateneo San Basso and go to lunch: be seated by 14:30.
