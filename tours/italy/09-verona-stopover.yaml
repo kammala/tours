@@ -3,34 +3,38 @@ city: { en: Verona, ru: Верона }
 name: { en: "Sun 1 Nov · Verona stopover on the way to Lake Garda", ru: "Вс, 1 ноя · Верона по дороге на Гарду" }
 place_suffix: Verona
 summary:
-  ru: "≈ 4,5–5 км, 3–4 часа с остановками; от гаража и обратно к нему"
-  en: "≈ 4.5–5 km, 3–4 hours with stops; a loop from the car park and back"
+  ru: "≈ 5 км, неспешно до заката и ужина; от гаража и обратно к нему"
+  en: "≈ 5 km, at an easy pace until sunset and dinner; a loop from the car park and back"
 intro:
   ru: |
-    **Воскресенье, 1 ноября — День всех святых, государственный праздник.** Выезд из отеля в Маргере около 08:30–09:00, дальше по трассе A4 до Вероны — около 120 км, 1,5 часа (съезд **Verona Sud**). В праздник утром трасса обычно свободнее, чем в будни, но заложите запас.
+    **Воскресенье, 1 ноября — День всех святых, государственный праздник.** Выезд из отеля в Маргере около 10:00, дальше по трассе A4 до Вероны — около 120 км, 1,5 часа (съезд **Verona Sud**), в гараже около 11:30. Сегодня без спешки: в Сирмионе приезжаем вечером, когда приедем.
 
     Исторический центр Вероны — **ZTL**, зона ограниченного движения с камерами: въезжать в неё нельзя, штраф придёт через прокатную компанию. Едем прямо в гараж **SABA Parcheggio Arena** (Via Bentegodi 8) — он стоит у самой границы центра, подъезд с Corso Porta Nuova без въезда в ZTL; навигатор ведите именно на адрес гаража. Гараж крытый, работает круглосуточно, место можно заранее забронировать на сайте SABA.
 
-    Маршрут — петля от гаража и обратно: площадь Бра и Арена → Via Mazzini → площади делле Эрбе и деи Синьори → гробницы Скалигеров → Понте Пьетра и, по желанию, смотровая Кастель Сан-Пьетро → Кастельвеккьо → назад к машине. Всё ровное, кроме подъёма к Кастель Сан-Пьетро.
+    Маршрут — петля от гаража и обратно: площадь Бра и Арена → Кастельвеккьо → через Порта Борсари на площадь делле Эрбе (обед) → площадь деи Синьори → гробницы Скалигеров → Понте Пьетра → закат на смотровой Кастель Сан-Пьетро (около 17:00) → ужин → мимо Арены в огнях назад к машине. Всё ровное, кроме подъёма к Кастель Сан-Пьетро — наверх на фуникулёре.
+
+    Примерно по времени: 11:40 Бра и Арена, 12:50 Кастельвеккьо, 13:45–15:00 обед у делле Эрбе, 15:00 Синьори и гробницы, 16:00 Понте Пьетра, 16:20 Кастель Сан-Пьетро, 17:30 ужин, около 19:30 — в машину. На праздник обед и ужин лучше забронировать.
 
     1 ноября — первое воскресенье месяца: во многие музеи и памятники в этот день вход бесплатный или за символическую цену, поэтому очередей будет больше обычного. Часы работы в праздник могут отличаться — проверьте перед выездом.
   en: |
-    **Sunday 1 November — All Saints' Day, a public holiday.** Check out in Marghera around 08:30–09:00 and take the A4 to Verona — about 120 km, 1.5 hours (exit **Verona Sud**). Holiday mornings are usually lighter than weekdays, but leave some slack.
+    **Sunday 1 November — All Saints' Day, a public holiday.** Check out in Marghera around 10:00 and take the A4 to Verona — about 120 km, 1.5 hours (exit **Verona Sud**), at the garage around 11:30. No rush today: we reach Sirmione in the evening, whenever we get there.
 
     Verona's historic centre is a **ZTL**, a camera-controlled limited-traffic zone: don't drive in, or the fine will reach you through the rental company. Head straight for the **SABA Parcheggio Arena** garage (Via Bentegodi 8) — it sits right at the edge of the centre and is reached from Corso Porta Nuova without entering the ZTL; set the satnav to the garage address itself. It is covered, open 24 hours, and you can reserve a space in advance on the SABA website.
 
-    The walk is a loop from the garage and back: Piazza Bra and the Arena → Via Mazzini → Piazza delle Erbe and Piazza dei Signori → the Scaliger Tombs → Ponte Pietra and, optionally, the Castel San Pietro viewpoint → Castelvecchio → back to the car. It's all flat apart from the climb to Castel San Pietro.
+    The walk is a loop from the garage and back: Piazza Bra and the Arena → Castelvecchio → through Porta Borsari to Piazza delle Erbe (lunch) → Piazza dei Signori → the Scaliger Tombs → Ponte Pietra → sunset at the Castel San Pietro viewpoint (around 17:00) → dinner → past the floodlit Arena back to the car. It's all flat apart from Castel San Pietro, and the funicular takes you up.
+
+    Rough timings: 11:40 Bra and the Arena, 12:50 Castelvecchio, 13:45–15:00 lunch by Piazza delle Erbe, 15:00 Signori and the tombs, 16:00 Ponte Pietra, 16:20 Castel San Pietro, 17:30 dinner, back in the car around 19:30. On a holiday, book lunch and dinner.
 
     1 November is also the first Sunday of the month, when many museums and monuments are free or almost free, so expect longer queues than usual. Holiday opening hours can differ — check before you set off.
 outro:
   ru: |
     От гаража до **Hotel Marolda** (Via Colombare 6, Colombare di Sirmione) — около 40 км, 30–40 минут по A4 до съезда **Sirmione**, дальше 5 минут по местной дороге. Заселение с 14:00 до 23:00.
 
-    Если выехать из Вероны около 14:00–14:30, до заката (около 17:00) остаётся время на вечернюю прогулку по Сирмионе — см. маршрут «Сирмионе».
+    Выезжаем после ужина, около 19:30, и к 20:00 — в отеле. Прогулка по Сирмионе переносится на утро понедельника (короткая, минут 45) — или в другой раз.
   en: |
     From the garage to **Hotel Marolda** (Via Colombare 6, Colombare di Sirmione) is about 40 km, 30–40 minutes on the A4 to the **Sirmione** exit, then 5 minutes on local roads. Check-in is 14:00–23:00.
 
-    Leave Verona around 14:00–14:30 and there's still time before sunset (around 17:00) for an evening walk in Sirmione — see the "Sirmione" tour.
+    Leave after dinner, around 19:30, and you're at the hotel by 20:00. The Sirmione walk moves to Monday morning (a short 45-minute version) — or to another trip.
 points:
   - name: { en: Parcheggio Arena (SABA), ru: Гараж Parcheggio Arena (SABA) }
     place: "Parcheggio Arena, Via Marcantonio Bentegodi 8, 37122 Verona"
@@ -45,11 +49,11 @@ points:
       ru: |
         Гараж стоит в квартале Читтаделла, сразу за старыми городскими стенами у площади Бра. Это одна из самых удобных стоянок для короткого визита: до Арены идти минут пять, а подъезд к нему не заходит в зону ZTL.
 
-        Совет: сфотографируйте номер уровня и места — к машине вы вернётесь только через 3–4 часа. Оплата — в автомате на выходе картой или наличными; парковочный талон держите при себе.
+        Совет: сфотографируйте номер уровня и места — к машине вы вернётесь только вечером. Оплата — в автомате на выходе картой или наличными; парковочный талон держите при себе.
       en: |
         The garage is in the Cittadella quarter, just outside the old city walls by Piazza Bra. It's one of the handiest car parks for a short visit: the Arena is five minutes' walk away and the approach road stays outside the ZTL.
 
-        Tip: take a photo of your level and bay number — you won't be back for 3–4 hours. Pay at the machine on the way out, by card or cash; keep the ticket with you.
+        Tip: take a photo of your level and bay number — you won't be back until the evening. Pay at the machine on the way out, by card or cash; keep the ticket with you.
 
   - name: { en: Piazza Bra, ru: Площадь Бра }
     lat: 45.43879
@@ -109,36 +113,67 @@ points:
 
         Tip: if the queue is long, just walk around the outside — it's free and just as impressive. The stone steps are high and smooth, so take care.
 
-  - name: { en: Piazza delle Erbe, ru: Площадь делле Эрбе }
-    lat: 45.44306
-    lng: 10.99717
-    radius_m: 150
-    approach: [{ name: Via Mazzini, lat: 45.44094, lng: 10.99565 }]
-    walk_min: [ 8, 10 ]
+  - name: { en: Castelvecchio & Ponte Scaligero, ru: Кастельвеккьо и мост Скалигеров }
+    place: "Castelvecchio, Corso Castelvecchio 2, Verona"
+    lat: 45.43995
+    lng: 10.98786
+    radius_m: 200
+    approach: [{ name: Via Roma, lat: 45.43886, lng: 10.98990 }]
+    walk_min: [ 10, 12 ]
     visit_min: [ 20, 30 ]
     audio: {ru: audio/italy/09-verona-stopover/04.mp3}
     short:
       ru: |
-        По пешеходной Via Mazzini — главной торговой улице — выходим на бывший римский форум. Рынок, фонтан, фрески на фасадах.
+        От Арены по прямой Via Roma — к замку Скалигеров. Проходим по зубчатому мосту над рекой.
       en: |
-        Walk up the pedestrian Via Mazzini, the main shopping street, to the former Roman forum. Market stalls, a fountain and frescoed façades.
+        From the Arena straight along Via Roma to the Scaligeri castle. Walk across the battlemented bridge over the river.
     long:
       ru: |
-        **Via Mazzini** вымощена тем же розовым мрамором, что и Листон; по ней веронцы ходят от Бра к старому центру уже два века. В праздник большинство магазинов, скорее всего, будет открыто, но не все.
+        **Кастельвеккьо** («Старый замок») построил в 1354–1356 годах Кангранде II делла Скала — не столько против внешних врагов, сколько на случай бунта горожан. Поэтому к замку примыкает **мост Скалигеров**, по которому правитель мог уйти из города на север, к союзникам. Его, как и все мосты Вероны, взорвали в 1945 году и восстановили из тех же кирпичей и камня, поднятых из реки.
+
+        Что посмотреть: пройдите мост до середины — зубцы-«ласточкины хвосты», знакомые по московскому Кремлю, и вид на реку в обе стороны. Во дворе замка — **музей Кастельвеккьо** в интерьерах Карло Скарпы, с оригинальной конной статуей Кангранде; в воскресенье обычно открыт, часы проверьте.
+
+        Совет: Via Roma — прямая улица от Бра к замку, с ювелирными и антикварными лавками. Отсюда Corso Cavour ведёт прямо к Порта Борсари и площади делле Эрбе.
+      en: |
+        **Castelvecchio** ("Old Castle") was built in 1354–1356 by Cangrande II della Scala — less against outside enemies than in case the citizens rose up. That's why the castle has its own **Ponte Scaligero**, a bridge the ruler could use to escape north to his allies. Like every bridge in Verona it was blown up in 1945 and rebuilt from the same bricks and stone raised from the river.
+
+        Walk out to the middle of the bridge for the swallowtail battlements — the same shape as on the Moscow Kremlin — and views up and down the river. Inside the castle is the **Castelvecchio Museum**, in interiors redesigned by Carlo Scarpa, with the original equestrian statue of Cangrande; it is usually open on Sundays, but check the hours.
+
+        Tip: Via Roma, the straight street from Bra to the castle, is lined with jewellers and antique shops. From here Corso Cavour leads straight to Porta Borsari and Piazza delle Erbe.
+
+  - name: { en: Piazza delle Erbe, ru: Площадь делле Эрбе }
+    lat: 45.44306
+    lng: 10.99717
+    radius_m: 150
+    approach:
+      - { name: Corso Cavour, lat: 45.44063, lng: 10.99074 }
+      - { name: Porta Borsari, lat: 45.44194, lng: 10.99339 }
+      - { name: Corso Porta Borsari, lat: 45.44285, lng: 10.99525 }
+    walk_min: [ 10, 12 ]
+    visit_min: [ 75, 90 ]
+    audio: {ru: audio/italy/09-verona-stopover/05.mp3}
+    short:
+      ru: |
+        По Corso Cavour, через римские ворота Порта Борсари и по Corso Porta Borsari — на бывший римский форум. Рынок, фонтан, фрески на фасадах. Обед — здесь.
+      en: |
+        Along Corso Cavour, through the Roman gate of Porta Borsari and down Corso Porta Borsari to the former Roman forum. Market stalls, a fountain and frescoed façades. Lunch here.
+    long:
+      ru: |
+        **Порта Борсари** — главные ворота римской Вероны, двойная арка I века н. э. из белого камня; через них шла Постумиева дорога. Название — от средневековых сборщиков пошлин («борсари», от borsa — «кошелёк»), сидевших здесь.
 
         Площадь делле Эрбе («Травяная») стоит на месте римского форума, и до сих пор здесь каждый день торгуют — теперь скорее сувенирами и фруктами, чем травами. В центре — фонтан **Мадонна Верона** 1368 года: статуя на нём — римская, IV века, ей просто приделали новую голову. В северной части — колонна со **львом святого Марка**, знак власти Венеции над городом с 1405 года.
 
         Что посмотреть: фрески на фасадах **Домов Мадзанти** в углу площади, барочный **Палаццо Маффеи** со статуями на балюстраде, башню **Торре деи Ламберти** над крышами.
 
-        Совет: дом Джульетты — в двух минутах в сторону, на Via Cappello 23. Внутренний дворик с балконом и бронзовой статуей обычно битком набит; в пиковые дни вход во двор могут ограничивать. Если не жалко 15 минут — сходите, но площади интереснее.
+        Совет: дом Джульетты — в двух минутах в сторону, на Via Cappello 23. Внутренний дворик с балконом и бронзовой статуей обычно битком набит; в пиковые дни вход во двор могут ограничивать. Если не жалко 15 минут — сходите, но площади интереснее. Обед: в переулках вокруг площади спокойнее и дешевле, чем на самой площади; на праздник лучше бронировать.
       en: |
-        **Via Mazzini** is paved in the same pink marble as the Liston; Veronese have walked it from Bra to the old centre for two centuries. On the holiday most shops are likely to be open, but not all.
+        **Porta Borsari** was the main gate of Roman Verona, a white-stone double arch from the 1st century AD on the Via Postumia. The name comes from the medieval toll collectors ("borsari", from borsa, "purse") who sat here.
 
         Piazza delle Erbe ("of the herbs") stands on the Roman forum and there is still a market here every day — these days more souvenirs and fruit than herbs. In the middle is the **Madonna Verona** fountain of 1368: the statue on it is Roman, 4th century, simply given a new head. At the north end a column carries the **Lion of St Mark**, the sign of Venetian rule over the city from 1405.
 
         Look at the frescoed façades of the **Case Mazzanti** in the corner, the baroque **Palazzo Maffei** with statues along its balustrade, and the **Torre dei Lamberti** rising above the rooftops.
 
-        Tip: Juliet's House is two minutes off to the side, at Via Cappello 23. The courtyard with the balcony and the bronze statue is usually packed, and on peak days access may be restricted. Worth 15 minutes if you're curious, but the squares are the better sight.
+        Tip: Juliet's House is two minutes off to the side, at Via Cappello 23. The courtyard with the balcony and the bronze statue is usually packed, and on peak days access may be restricted. Worth 15 minutes if you're curious, but the squares are the better sight. Lunch: the side streets around the square are calmer and cheaper than the square itself; on a holiday, book.
 
   - name: { en: Piazza dei Signori, ru: Площадь деи Синьори }
     lat: 45.44347
@@ -146,7 +181,7 @@ points:
     radius_m: 100
     walk_min: 2
     visit_min: [ 15, 45 ]
-    audio: {ru: audio/italy/09-verona-stopover/05.mp3}
+    audio: {ru: audio/italy/09-verona-stopover/06.mp3}
     short:
       ru: |
         Через арку Арко делла Коста — на тихую парадную площадь со статуей Данте. По желанию — подъём на Торре деи Ламберти (вход со двора Меркато Веккьо).
@@ -160,7 +195,7 @@ points:
 
         **Торре деи Ламберти** — 84 метра, есть лифт до части пути, дальше ступени. Зимой открыта обычно с 10:00 до 18:00, в выходные и праздники до 19:00; в первое воскресенье месяца с ноября по март вход по льготной цене. Часы проверьте перед визитом.
 
-        Совет: если поднимаетесь на одну смотровую, выбирайте между башней и Кастель Сан-Пьетро — на обе за одну короткую остановку времени не хватит. С башни видно площади сверху, с холма — весь изгиб реки.
+        Совет: главная смотровая сегодня — Кастель Сан-Пьетро на закате, башня — по желанию. С башни видно площади сверху, с холма — весь изгиб реки.
       en: |
         If Piazza delle Erbe was the market, Piazza dei Signori was the seat of power: around it stand the palaces of the Scaligeri, who ruled Verona in the 13th and 14th centuries, plus the courts and the city council. As you pass under the **Arco della Costa**, look up: a whale rib hangs there. Legend says it will fall on the first truly righteous person to walk underneath — it hasn't yet.
 
@@ -168,7 +203,7 @@ points:
 
         The **Torre dei Lamberti** is 84 metres tall, with a lift for part of the way and stairs after that. In winter it is usually open 10:00–18:00, until 19:00 at weekends and on holidays; on the first Sunday of the month from November to March the ticket is reduced. Check hours before you go.
 
-        Tip: pick one viewpoint — the tower or Castel San Pietro; a short stopover doesn't have time for both. The tower looks down on the squares, the hill takes in the whole bend of the river.
+        Tip: today's main viewpoint is Castel San Pietro at sunset; the tower is optional. The tower looks down on the squares, the hill takes in the whole bend of the river.
 
   - name: { en: Scaliger Tombs, ru: Гробницы Скалигеров }
     place: "Arche Scaligere, Via Arche Scaligere, Verona"
@@ -177,7 +212,7 @@ points:
     radius_m: 60
     walk_min: 2
     visit_min: 10
-    audio: {ru: audio/italy/09-verona-stopover/06.mp3}
+    audio: {ru: audio/italy/09-verona-stopover/07.mp3}
     short:
       ru: |
         Готические надгробия правителей Вероны за кованой решёткой — смотрим снаружи, обходя ограду кругом.
@@ -205,7 +240,7 @@ points:
       - { name: Via Ponte Pietra, lat: 45.44683, lng: 10.99970 }
     walk_min: [ 6, 8 ]
     visit_min: 10
-    audio: {ru: audio/italy/09-verona-stopover/07.mp3}
+    audio: {ru: audio/italy/09-verona-stopover/08.mp3}
     short:
       ru: |
         Мимо готической церкви Сант-Анастазия к единственному римскому мосту Вероны. Лучший вид на реку Адидже и холм.
@@ -236,13 +271,13 @@ points:
     radius_m: 120
     approach: [{ name: Funicolare di Castel San Pietro, lat: 45.44875, lng: 11.00089 }]
     walk_min: 5
-    visit_min: [ 30, 40 ]
-    audio: {ru: audio/italy/09-verona-stopover/08.mp3}
+    visit_min: [ 40, 55 ]
+    audio: {ru: audio/italy/09-verona-stopover/09.mp3}
     short:
       ru: |
-        По желанию. Фуникулёр от Via Fontanelle Santo Stefano (зимой примерно 10:00–17:00, около минуты в пути) или пешком по лестнице ~10 минут. Лучшая панорама Вероны.
+        Закат около 17:00. Фуникулёр от Via Fontanelle Santo Stefano (зимой примерно 10:00–17:00, около минуты в пути) — последний рейс проверьте на нижней станции; если уже не ходит — такси или ~10 минут по лестнице. Лучшая панорама Вероны. Вниз — по лестнице, в сумерках осторожно.
       en: |
-        Optional. Funicular from Via Fontanelle Santo Stefano (in winter roughly 10:00–17:00, about a minute's ride) or ~10 minutes up the steps. The best panorama of Verona.
+        Sunset around 17:00. Funicular from Via Fontanelle Santo Stefano (in winter roughly 10:00–17:00, about a minute's ride) — check the last ride at the bottom station; if it has stopped, take a taxi or ~10 minutes up the steps. The best panorama of Verona. Down by the steps, carefully in the dusk.
     long:
       ru: |
         На холме Сан-Пьетро стояла ещё доримская крепость, потом римский храм, дворец остготского короля Теодориха и замок Висконти. Нынешнее здание — австрийская казарма 1850-х годов, когда Верона была одной из главных крепостей империи Габсбургов. Внутрь не пускают — сюда поднимаются ради вида.
@@ -261,61 +296,26 @@ points:
 
         Tip: on foot, the Scalone Castel San Pietro steps start right by the bridge. There's a café with a terrace at the top — a good place for a break.
 
-  - name: { en: Castelvecchio & Ponte Scaligero, ru: Кастельвеккьо и мост Скалигеров }
-    place: "Castelvecchio, Corso Castelvecchio 2, Verona"
-    lat: 45.43995
-    lng: 10.98786
-    radius_m: 200
-    approach:
-      - { name: Ponte Pietra, lat: 45.44785, lng: 11.00010 }
-      - { name: Corso Porta Borsari, lat: 45.44285, lng: 10.99525 }
-      - { name: Porta Borsari, lat: 45.44194, lng: 10.99339 }
-      - { name: Corso Cavour, lat: 45.44063, lng: 10.99074 }
-    walk_min: [ 20, 25 ]
-    visit_min: [ 20, 30 ]
-    audio: {ru: audio/italy/09-verona-stopover/09.mp3}
-    short:
-      ru: |
-        Обратно через Понте Пьетра и площадь делле Эрбе, по Corso Porta Borsari через римские ворота — к замку Скалигеров. Проходим по зубчатому мосту над рекой.
-      en: |
-        Back across Ponte Pietra and through Piazza delle Erbe, along Corso Porta Borsari and through the Roman gate to the Scaligeri castle. Walk across the battlemented bridge over the river.
-    long:
-      ru: |
-        **Порта Борсари** — главные ворота римской Вероны, двойная арка I века н. э. из белого камня; через них шла Постумиева дорога. Название — от средневековых сборщиков пошлин («борсари», от borsa — «кошелёк»), сидевших здесь.
-
-        **Кастельвеккьо** («Старый замок») построил в 1354–1356 годах Кангранде II делла Скала — не столько против внешних врагов, сколько на случай бунта горожан. Поэтому к замку примыкает **мост Скалигеров**, по которому правитель мог уйти из города на север, к союзникам. Мост тоже взорвали в 1945 году и восстановили из тех же кирпичей и камня, поднятых из реки.
-
-        Что посмотреть: пройдите мост до середины — зубцы-«ласточкины хвосты», знакомые по московскому Кремлю, и вид на реку в обе стороны. Во дворе замка — **музей Кастельвеккьо** в интерьерах Карло Скарпы, с оригинальной конной статуей Кангранде; в воскресенье обычно открыт, часы проверьте.
-
-        Совет: если хочется посидеть перед дорогой — на Corso Cavour и вокруг Порта Борсари много кафе и тратторий.
-      en: |
-        **Porta Borsari** was the main gate of Roman Verona, a white-stone double arch from the 1st century AD on the Via Postumia. The name comes from the medieval toll collectors ("borsari", from borsa, "purse") who sat here.
-
-        **Castelvecchio** ("Old Castle") was built in 1354–1356 by Cangrande II della Scala — less against outside enemies than in case the citizens rose up. That's why the castle has its own **Ponte Scaligero**, a bridge the ruler could use to escape north to his allies. It too was blown up in 1945 and rebuilt from the same bricks and stone raised from the river.
-
-        Walk out to the middle of the bridge for the swallowtail battlements — the same shape as on the Moscow Kremlin — and views up and down the river. Inside the castle is the **Castelvecchio Museum**, in interiors redesigned by Carlo Scarpa, with the original equestrian statue of Cangrande; it is usually open on Sundays, but check the hours.
-
-        Tip: for a sit-down before the drive, Corso Cavour and the streets around Porta Borsari are full of cafés and trattorias.
-
   - name: { en: Back to Parcheggio Arena, ru: Назад к гаражу Parcheggio Arena }
     place: "Parcheggio Arena, Via Marcantonio Bentegodi 8, 37122 Verona"
     lat: 45.43519
     lng: 10.99198
     approach:
-      - { name: Via Roma, lat: 45.43886, lng: 10.98990 }
+      - { name: Ponte Pietra, lat: 45.44785, lng: 11.00010 }
+      - { name: Via Mazzini, lat: 45.44094, lng: 10.99565 }
       - { name: Portoni della Bra, lat: 45.43811, lng: 10.99148 }
-    walk_min: [ 12, 15 ]
+    walk_min: [ 25, 30 ]
     short:
       ru: |
-        Финиш. По Via Roma к площади Бра, через ворота Portoni della Bra — к машине. Дальше 30–40 минут до Сирмионе.
+        Финиш. Вниз с холма, через Понте Пьетра — ужин по дороге — дальше через площадь делле Эрбе и по Via Mazzini к Арене в огнях, через ворота Portoni della Bra — к машине. Дальше 30–40 минут до Сирмионе.
       en: |
-        Finish. Along Via Roma to Piazza Bra, through the Portoni della Bra and back to the car. Then 30–40 minutes on to Sirmione.
+        Finish. Down from the hill and across Ponte Pietra — dinner on the way — then through Piazza delle Erbe and along Via Mazzini to the floodlit Arena, through the Portoni della Bra and back to the car. Then 30–40 minutes on to Sirmione.
     long:
       ru: |
-        Via Roma — прямая улица от Кастельвеккьо к площади Бра, с ювелирными и антикварными лавками. Последний взгляд на Арену — и к машине.
+        **Via Mazzini** вымощена тем же розовым мрамором, что и Листон; по ней веронцы ходят от старого центра к Бра уже два века, а вечером здесь самая оживлённая пасседжата. Последний взгляд на Арену в подсветке — и к машине.
 
         Совет: оплатите парковку в автомате до того, как спуститесь к машине. Выезжая, следуйте указателям на A4 / Brescia–Milano и съезд **Sirmione**, а не на центр: улицы в сторону старого города входят в ZTL.
       en: |
-        Via Roma runs straight from Castelvecchio to Piazza Bra, past jewellers and antique shops. One last look at the Arena and back to the car.
+        **Via Mazzini** is paved in the same pink marble as the Liston; the Veronese have walked it between the old centre and Bra for two centuries, and in the evening it carries the liveliest passeggiata. One last look at the floodlit Arena and back to the car.
 
         Tip: pay at the machine before going down to the car. On the way out follow signs for the A4 / Brescia–Milano and the **Sirmione** exit, not the centre: streets towards the old town are inside the ZTL.
